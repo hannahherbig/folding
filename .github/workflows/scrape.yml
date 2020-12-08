@@ -12,20 +12,20 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-    - name: Check out this repo
-      uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    - name: Fetch latest data
-      run: |-
-        mkdir -p donor team
-        curl https://stats.foldingathome.org/api/donor/andrew12 | jq . > donor/andrew12.json
-        curl https://stats.foldingathome.org/api/team/45032 | jq . > team/45032.json
-    - name: Commit and push if it changed
-      run: |-
-        git config --local user.name "github-actions[bot]"
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
+      - name: Check out this repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Fetch latest data
+        run: |-
+          mkdir -p donor team
+          curl https://stats.foldingathome.org/api/donor/andrew12 | jq . > donor/andrew12.json
+          curl https://stats.foldingathome.org/api/team/45032 | jq . > team/45032.json
+      - name: Commit and push if it changed
+        run: |-
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
