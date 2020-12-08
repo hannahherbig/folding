@@ -1,0 +1,71 @@
+{
+  "wus": 584,
+  "rank": 75904,
+  "total_users": 2775476,
+  "active_50": 2,
+  "path": "donor/andrew12",
+  "wus_cert": "https://apps.foldingathome.org/awards?user=129494&type=wus",
+  "id": 129494,
+  "credit_cert": "https://apps.foldingathome.org/awards?user=129494&type=score",
+  "last": "2020-12-08 19:45:13",
+  "name": "andrew12",
+  "teams": [
+    {
+      "wus": 9,
+      "uid": 129494,
+      "active_50": 0,
+      "active_7": 0,
+      "credit": 772880,
+      "team": 0,
+      "name": "Default (No team specified)"
+    },
+    {
+      "wus": 59,
+      "uid": 129494,
+      "active_50": 0,
+      "active_7": 0,
+      "credit": 159574,
+      "team": 211073,
+      "name": "BaconBits"
+    },
+    {
+      "wus": 262,
+      "uid": 129494,
+      "active_50": 0,
+      "active_7": 0,
+      "credit": 1859521,
+      "team": 212997,
+      "name": "Brony@Home"
+    },
+    {
+      "wus": 252,
+      "last": "2020-12-08 19:45:13",
+      "uid": 129494,
+      "active_50": 2,
+      "active_7": 2,
+      "credit": 8760100,
+      "team": 45032,
+      "name": "Arch Linux"
+    },
+    {
+      "wus": 1,
+      "uid": 129494,
+      "active_50": 0,
+      "active_7": 0,
+      "credit": 106,
+      "team": 184463,
+      "name": "DeltaBox"
+    },
+    {
+      "wus": 1,
+      "uid": 129494,
+      "active_50": 0,
+      "active_7": 0,
+      "credit": 1,
+      "team": 150,
+      "name": "SAGoons"
+    }
+  ],
+  "active_7": 2,
+  "credit": 11552182
+}
