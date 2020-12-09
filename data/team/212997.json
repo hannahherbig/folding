@@ -1,5 +1,5 @@
 {
-  "wus": 1702163,
+  "wus": 1702169,
   "donors": [
     {
       "wus": 85678,
@@ -74,10 +74,10 @@
       "id": 79012
     },
     {
-      "wus": 13776,
+      "wus": 13778,
       "name": "stevepoppers",
       "rank": 2481,
-      "credit": 536351845,
+      "credit": 536544713,
       "team": 212997,
       "id": 250480
     },
@@ -106,10 +106,10 @@
       "id": 110967
     },
     {
-      "wus": 4041,
+      "wus": 4042,
       "name": "Lord_Nobady",
       "rank": 4459,
-      "credit": 317354838,
+      "credit": 317591591,
       "team": 212997,
       "id": 262578
     },
@@ -674,10 +674,10 @@
       "id": 104588
     },
     {
-      "wus": 1366,
+      "wus": 1367,
       "name": "DavidSilver",
       "rank": 33200,
-      "credit": 37776364,
+      "credit": 37780045,
       "team": 212997,
       "id": 186466
     },
@@ -930,10 +930,10 @@
       "id": 41704081
     },
     {
-      "wus": 3253,
+      "wus": 3254,
       "name": "handyj443",
       "rank": 45860,
-      "credit": 24477525,
+      "credit": 24478255,
       "team": 212997,
       "id": 231192
     },
@@ -4738,6 +4738,14 @@
       "id": 330409
     },
     {
+      "wus": 82,
+      "name": "AsianMonkeyz",
+      "rank": 220824,
+      "credit": 670217,
+      "team": 212997,
+      "id": 1825
+    },
+    {
       "wus": 34,
       "name": "zt107",
       "rank": 263429,
@@ -4752,14 +4760,6 @@
       "credit": 669580,
       "team": 212997,
       "id": 166549
-    },
-    {
-      "wus": 81,
-      "name": "AsianMonkeyz",
-      "rank": 220824,
-      "credit": 668967,
-      "team": 212997,
-      "id": 1825
     },
     {
       "wus": 226,
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-09 19:15:35",
+  "last": "2020-12-09 19:45:18",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27539253794,
+  "credit": 27539689076,
   "team": 212997,
   "path": "team/212997"
 }
