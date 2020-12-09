@@ -1,5 +1,7 @@
 import subprocess
 from datetime import datetime, timedelta
+from glob import iglob
+from itertools import chain
 from pathlib import Path
 from typing import Optional
 
@@ -18,20 +20,18 @@ def git_commits_for(path):
     )
 
 
-repo = git.Repo(".", odbt=git.db.GitCmdObjectDB)
+class Item(BaseModel):
+    last: datetime
+    credit: int
+    wus: int
+    last_change: Optional[timedelta] = None
+    credit_change: Optional[int] = None
+    wus_change: Optional[int] = None
+    ppd: Optional[int] = None
 
 
-def write_table(name):
+def write_table(repo, name):
     commits = git_commits_for(name)
-
-    class Item(BaseModel):
-        last: datetime
-        credit: int
-        wus: int
-        last_change: Optional[timedelta] = None
-        credit_change: Optional[int] = None
-        wus_change: Optional[int] = None
-        ppd: Optional[int] = None
 
     rows = {}
     for ref in commits:
@@ -50,5 +50,7 @@ def write_table(name):
     Path(name).with_suffix(".txt").write_text(tabulate(table, headers="keys") + "\n")
 
 
-write_table("data/donor/andrew12.json")
-write_table("data/team/45032.json")
+repo = git.Repo(".", odbt=git.db.GitCmdObjectDB)
+
+for name in chain(iglob("data/donor/*.json"), iglob("data/team/*.json")):
+    write_table(repo, name)
