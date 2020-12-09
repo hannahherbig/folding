@@ -1,5 +1,5 @@
 {
-  "wus": 1314928,
+  "wus": 1314939,
   "donors": [
     {
       "wus": 33255,
@@ -90,10 +90,10 @@
       "id": 772799
     },
     {
-      "wus": 3490,
+      "wus": 3491,
       "name": "nutzernamevergeben",
       "rank": 8886,
-      "credit": 169905052,
+      "credit": 169913419,
       "team": 45032,
       "id": 72785058
     },
@@ -130,10 +130,10 @@
       "id": 111890
     },
     {
-      "wus": 57211,
+      "wus": 57212,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 149528894,
+      "credit": 149530144,
       "team": 45032,
       "id": 1437
     },
@@ -178,10 +178,10 @@
       "id": 263445
     },
     {
-      "wus": 2423,
+      "wus": 2424,
       "name": "zuckeenee",
       "rank": 12337,
-      "credit": 119774627,
+      "credit": 119776827,
       "team": 45032,
       "id": 67298257
     },
@@ -210,10 +210,10 @@
       "id": 85810117
     },
     {
-      "wus": 9705,
+      "wus": 9706,
       "name": "GuyMartin",
       "rank": 13471,
-      "credit": 98625031,
+      "credit": 98630678,
       "team": 45032,
       "id": 1279891
     },
@@ -386,10 +386,10 @@
       "id": 250140
     },
     {
-      "wus": 4124,
+      "wus": 4125,
       "name": "Tullo_x86",
       "rank": 23278,
-      "credit": 58518552,
+      "credit": 58521121,
       "team": 45032,
       "id": 68966340
     },
@@ -682,10 +682,10 @@
       "id": 195667
     },
     {
-      "wus": 4070,
+      "wus": 4071,
       "name": "Siguenos",
       "rank": 19308,
-      "credit": 33500812,
+      "credit": 33504633,
       "team": 45032,
       "id": 89421608
     },
@@ -1210,10 +1210,10 @@
       "id": 67146684
     },
     {
-      "wus": 327,
+      "wus": 328,
       "name": "RasmusSteen",
       "rank": 60141,
-      "credit": 16490543,
+      "credit": 16597655,
       "team": 45032,
       "id": 400503878
     },
@@ -1490,10 +1490,10 @@
       "id": 68845496
     },
     {
-      "wus": 2475,
+      "wus": 2476,
       "name": "naxinz",
       "rank": 70949,
-      "credit": 11829275,
+      "credit": 11830005,
       "team": 45032,
       "id": 17691
     },
@@ -2042,10 +2042,10 @@
       "id": 71627976
     },
     {
-      "wus": 696,
+      "wus": 697,
       "name": "Segin",
       "rank": 92822,
-      "credit": 7932814,
+      "credit": 7936178,
       "team": 45032,
       "id": 64463
     },
@@ -3282,10 +3282,10 @@
       "id": 66850542
     },
     {
-      "wus": 370,
+      "wus": 371,
       "name": "steiny",
       "rank": 37242,
-      "credit": 3264338,
+      "credit": 3269235,
       "team": 45032,
       "id": 283893
     },
@@ -5690,6 +5690,14 @@
       "id": 1514186
     },
     {
+      "wus": 103,
+      "name": "zawz",
+      "rank": 236945,
+      "credit": 1099623,
+      "team": 45032,
+      "id": 405538564
+    },
+    {
       "wus": 319,
       "name": "Shad_Amethyst",
       "rank": 233876,
@@ -5760,14 +5768,6 @@
       "credit": 1067947,
       "team": 45032,
       "id": 73369123
-    },
-    {
-      "wus": 102,
-      "name": "zawz",
-      "rank": 236945,
-      "credit": 1062823,
-      "team": 45032,
-      "id": 405538564
     },
     {
       "wus": 45,
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2020-12-09 18:25:25",
+  "last": "2020-12-09 18:35:29",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 15515284167,
+  "credit": 15515460924,
   "team": 45032,
   "path": "team/45032"
 }
