@@ -5,7 +5,7 @@ on:
   pull_request:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "30 * * * *"
 
 jobs:
   scheduled:
@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v1
       - uses: actions/setup-python@v2
-      - name: setup git
+      - name: Setup git
         run: |-
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
