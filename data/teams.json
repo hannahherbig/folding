@@ -1,0 +1,910 @@
+{
+  "description": "Top 100",
+  "monthly": false,
+  "results": [
+    {
+      "wus": 283687200,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=0&type=score",
+      "name": "Default (No team specified)",
+      "rank": 1,
+      "credit": 2652929845480,
+      "team": 0,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=0&type=wus"
+    },
+    {
+      "wus": 30728893,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=224497&type=score",
+      "name": "Curecoin",
+      "rank": 2,
+      "credit": 1383944908760,
+      "team": 224497,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=224497&type=wus"
+    },
+    {
+      "wus": 32646707,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=223518&type=score",
+      "name": "LinusTechTips_Team",
+      "rank": 3,
+      "credit": 920567527574,
+      "team": 223518,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=223518&type=wus"
+    },
+    {
+      "wus": 30678149,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=111065&type=score",
+      "name": "folding@evga",
+      "rank": 4,
+      "credit": 503476855674,
+      "team": 111065,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=111065&type=wus"
+    },
+    {
+      "wus": 2203706,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=259918&type=score",
+      "name": "NVIDIA Corp",
+      "rank": 5,
+      "credit": 309044457568,
+      "team": 259918,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=259918&type=wus"
+    },
+    {
+      "wus": 10649885,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=37651&type=score",
+      "name": "Hardware.no",
+      "rank": 6,
+      "credit": 198459841352,
+      "team": 37651,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=37651&type=wus"
+    },
+    {
+      "wus": 8425393,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=225605&type=score",
+      "name": "PC Master Race - PCMR",
+      "rank": 7,
+      "credit": 184364834237,
+      "team": 225605,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=225605&type=wus"
+    },
+    {
+      "wus": 15516620,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=32&type=score",
+      "name": "www.overclockers.com",
+      "rank": 8,
+      "credit": 166142516149,
+      "team": 32,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=32&type=wus"
+    },
+    {
+      "wus": 6924776,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=70335&type=score",
+      "name": "PC Games Hardware",
+      "rank": 9,
+      "credit": 150539555193,
+      "team": 70335,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=70335&type=wus"
+    },
+    {
+      "wus": 14084569,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=47191&type=score",
+      "name": "TSC! Russia",
+      "rank": 10,
+      "credit": 133489673379,
+      "team": 47191,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=47191&type=wus"
+    },
+    {
+      "wus": 12838850,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=37726&type=score",
+      "name": "Overclock.net",
+      "rank": 11,
+      "credit": 129428933443,
+      "team": 37726,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=37726&type=wus"
+    },
+    {
+      "wus": 22472181,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=33&type=score",
+      "name": "[H]ardOCP",
+      "rank": 12,
+      "credit": 128323286052,
+      "team": 33,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=33&type=wus"
+    },
+    {
+      "wus": 4109426,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=234980&type=score",
+      "name": "www.banano.cc",
+      "rank": 13,
+      "credit": 119824684211,
+      "team": 234980,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=234980&type=wus"
+    },
+    {
+      "wus": 9657466,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=31403&type=score",
+      "name": "Taiwan Team",
+      "rank": 14,
+      "credit": 117376765274,
+      "team": 31403,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=31403&type=wus"
+    },
+    {
+      "wus": 3923742,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=3213&type=score",
+      "name": "China Folding@Home Power",
+      "rank": 15,
+      "credit": 102675099735,
+      "team": 3213,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=3213&type=wus"
+    },
+    {
+      "wus": 11816538,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=35947&type=score",
+      "name": "Custom PC & bit-tech",
+      "rank": 16,
+      "credit": 96487404808,
+      "team": 35947,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=35947&type=wus"
+    },
+    {
+      "wus": 4504240,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=198&type=score",
+      "name": "Team AnandTech",
+      "rank": 17,
+      "credit": 91867162817,
+      "team": 198,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=198&type=wus"
+    },
+    {
+      "wus": 16232979,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=38188&type=score",
+      "name": "CERN & LHC Computing",
+      "rank": 18,
+      "credit": 85554758823,
+      "team": 38188,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=38188&type=wus"
+    },
+    {
+      "wus": 4436996,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=40051&type=score",
+      "name": "Tom's Hardware",
+      "rank": 19,
+      "credit": 82668672744,
+      "team": 40051,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=40051&type=wus"
+    },
+    {
+      "wus": 15022065,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=11108&type=score",
+      "name": "Maximum PC Magazine",
+      "rank": 20,
+      "credit": 79016533551,
+      "team": 11108,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=11108&type=wus"
+    },
+    {
+      "wus": 1137271,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=238068&type=score",
+      "name": "AWSFolds",
+      "rank": 21,
+      "credit": 73541391946,
+      "team": 238068,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=238068&type=wus"
+    },
+    {
+      "wus": 11015742,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=51&type=score",
+      "name": "Alliance Francophone",
+      "rank": 22,
+      "credit": 68542737820,
+      "team": 51,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=51&type=wus"
+    },
+    {
+      "wus": 862848,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=243328&type=score",
+      "name": "SLAC",
+      "rank": 23,
+      "credit": 67366223806,
+      "team": 243328,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=243328&type=wus"
+    },
+    {
+      "wus": 2931666,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=251999&type=score",
+      "name": "Heise Falter",
+      "rank": 24,
+      "credit": 66883154024,
+      "team": 251999,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=251999&type=wus"
+    },
+    {
+      "wus": 6553289,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=711&type=score",
+      "name": "Intel",
+      "rank": 25,
+      "credit": 63999959577,
+      "team": 711,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=711&type=wus"
+    },
+    {
+      "wus": 2198617,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=250396&type=score",
+      "name": "Compute Canada",
+      "rank": 26,
+      "credit": 61815473255,
+      "team": 250396,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=250396&type=wus"
+    },
+    {
+      "wus": 4252559,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=52737&type=score",
+      "name": "VMware",
+      "rank": 27,
+      "credit": 60425049382,
+      "team": 52737,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=52737&type=wus"
+    },
+    {
+      "wus": 1427129,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=234771&type=score",
+      "name": "GamersNexus",
+      "rank": 28,
+      "credit": 54894453550,
+      "team": 234771,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=234771&type=wus"
+    },
+    {
+      "wus": 5119443,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=86565&type=score",
+      "name": "Pleasuredome Community",
+      "rank": 29,
+      "credit": 53872103892,
+      "team": 86565,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=86565&type=wus"
+    },
+    {
+      "wus": 563822,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=258351&type=score",
+      "name": "Helmholtz",
+      "rank": 30,
+      "credit": 48379305258,
+      "team": 258351,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=258351&type=wus"
+    },
+    {
+      "wus": 2545462,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=231300&type=score",
+      "name": "Barnacules Nerdgasm",
+      "rank": 31,
+      "credit": 46689910546,
+      "team": 231300,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=231300&type=wus"
+    },
+    {
+      "wus": 5291378,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=37451&type=score",
+      "name": "Folding@SweClockers.com",
+      "rank": 32,
+      "credit": 46395623174,
+      "team": 37451,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=37451&type=wus"
+    },
+    {
+      "wus": 3926299,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=162&type=score",
+      "name": "Team 2ch",
+      "rank": 33,
+      "credit": 43424134918,
+      "team": 162,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=162&type=wus"
+    },
+    {
+      "wus": 6380191,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=229957&type=score",
+      "name": "Team SAP",
+      "rank": 34,
+      "credit": 41652861795,
+      "team": 229957,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=229957&type=wus"
+    },
+    {
+      "wus": 13928382,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=24&type=score",
+      "name": "Overclockers Australia",
+      "rank": 35,
+      "credit": 40858487715,
+      "team": 24,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=24&type=wus"
+    },
+    {
+      "wus": 586252,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=240216&type=score",
+      "name": "iomart",
+      "rank": 36,
+      "credit": 40372411394,
+      "team": 240216,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=240216&type=wus"
+    },
+    {
+      "wus": 1755065,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=239945&type=score",
+      "name": "Arizona Research Computing",
+      "rank": 37,
+      "credit": 33364323382,
+      "team": 239945,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=239945&type=wus"
+    },
+    {
+      "wus": 1692385,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=182116&type=score",
+      "name": "Atheists, Skeptics, & Humanists  -  ASH Folding",
+      "rank": 38,
+      "credit": 32668974803,
+      "team": 182116,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=182116&type=wus"
+    },
+    {
+      "wus": 176898,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=253515&type=score",
+      "name": "NV-CRF",
+      "rank": 39,
+      "credit": 32555051780,
+      "team": 253515,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=253515&type=wus"
+    },
+    {
+      "wus": 3189873,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=1&type=score",
+      "name": "Pande Lab",
+      "rank": 40,
+      "credit": 32266901678,
+      "team": 1,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=1&type=wus"
+    },
+    {
+      "wus": 1216775,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=257944&type=score",
+      "name": "MicroCenterOfficial",
+      "rank": 41,
+      "credit": 32215675521,
+      "team": 257944,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=257944&type=wus"
+    },
+    {
+      "wus": 244692,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=255460&type=score",
+      "name": "UC_Berkeley_EECS_Research",
+      "rank": 42,
+      "credit": 31853131104,
+      "team": 255460,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=255460&type=wus"
+    },
+    {
+      "wus": 721828,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=258829&type=score",
+      "name": "r00t f0lds",
+      "rank": 43,
+      "credit": 31355044962,
+      "team": 258829,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=258829&type=wus"
+    },
+    {
+      "wus": 5486399,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=261481&type=score",
+      "name": "Aniplex",
+      "rank": 44,
+      "credit": 30466229975,
+      "team": 261481,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=261481&type=wus"
+    },
+    {
+      "wus": 1948849,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=50711&type=score",
+      "name": "TechPowerup!",
+      "rank": 45,
+      "credit": 28577407813,
+      "team": 50711,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=50711&type=wus"
+    },
+    {
+      "wus": 6893548,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=57391&type=score",
+      "name": "Tekzilla",
+      "rank": 46,
+      "credit": 28515973993,
+      "team": 57391,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=57391&type=wus"
+    },
+    {
+      "wus": 4766208,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=92&type=score",
+      "name": "Dutch Power Cows",
+      "rank": 47,
+      "credit": 28372762820,
+      "team": 92,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=92&type=wus"
+    },
+    {
+      "wus": 1734005,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
+      "name": "Brony@Home",
+      "rank": 48,
+      "credit": 27539368962,
+      "team": 212997,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus"
+    },
+    {
+      "wus": 2161598,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=44851&type=score",
+      "name": "Team Hack-a-Day",
+      "rank": 49,
+      "credit": 27414817390,
+      "team": 44851,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=44851&type=wus"
+    },
+    {
+      "wus": 193493,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=245993&type=score",
+      "name": "Element AI Inc",
+      "rank": 50,
+      "credit": 26914027424,
+      "team": 245993,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=245993&type=wus"
+    },
+    {
+      "wus": 4541382,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=4&type=score",
+      "name": "DSL Reports Team Helix",
+      "rank": 51,
+      "credit": 26809410044,
+      "team": 4,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=4&type=wus"
+    },
+    {
+      "wus": 2324036,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=50959&type=score",
+      "name": "Reddit",
+      "rank": 52,
+      "credit": 26600482319,
+      "team": 50959,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=50959&type=wus"
+    },
+    {
+      "wus": 1370523,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=247463&type=score",
+      "name": "Petrobras",
+      "rank": 53,
+      "credit": 25563384287,
+      "team": 247463,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=247463&type=wus"
+    },
+    {
+      "wus": 206858,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=262097&type=score",
+      "name": "SDCC at BNL",
+      "rank": 54,
+      "credit": 23713470703,
+      "team": 262097,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=262097&type=wus"
+    },
+    {
+      "wus": 5622876,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=14&type=score",
+      "name": "Ars Technica Team Egg Roll",
+      "rank": 55,
+      "credit": 22576413835,
+      "team": 14,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=14&type=wus"
+    },
+    {
+      "wus": 478524,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=234020&type=score",
+      "name": "Medic Coin",
+      "rank": 56,
+      "credit": 21929354403,
+      "team": 234020,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=234020&type=wus"
+    },
+    {
+      "wus": 993965,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=252872&type=score",
+      "name": "ASRockMania",
+      "rank": 57,
+      "credit": 21731293439,
+      "team": 252872,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=252872&type=wus"
+    },
+    {
+      "wus": 171865,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=263148&type=score",
+      "name": "EVL",
+      "rank": 58,
+      "credit": 20564049770,
+      "team": 263148,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=263148&type=wus"
+    },
+    {
+      "wus": 1076176,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=236269&type=score",
+      "name": "COVID19@REDDIT",
+      "rank": 59,
+      "credit": 20416466474,
+      "team": 236269,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=236269&type=wus"
+    },
+    {
+      "wus": 1409345,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=3&type=score",
+      "name": "Rechenkraft.net - Germany",
+      "rank": 60,
+      "credit": 20282063813,
+      "team": 3,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=3&type=wus"
+    },
+    {
+      "wus": 6455139,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=1971&type=score",
+      "name": "Team MacOS X",
+      "rank": 61,
+      "credit": 20012027009,
+      "team": 1971,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=1971&type=wus"
+    },
+    {
+      "wus": 2370327,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=254402&type=score",
+      "name": "Yoshida Manufacturing",
+      "rank": 62,
+      "credit": 19915636431,
+      "team": 254402,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=254402&type=wus"
+    },
+    {
+      "wus": 165449,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=242705&type=score",
+      "name": "OracleHPC",
+      "rank": 63,
+      "credit": 19686766187,
+      "team": 242705,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=242705&type=wus"
+    },
+    {
+      "wus": 418607,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=257728&type=score",
+      "name": "Ingress_Enlightened_Jp",
+      "rank": 64,
+      "credit": 19254963546,
+      "team": 257728,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=257728&type=wus"
+    },
+    {
+      "wus": 126630,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=127907&type=score",
+      "name": "Leibniz-Uni-Hannover",
+      "rank": 65,
+      "credit": 19102331892,
+      "team": 127907,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=127907&type=wus"
+    },
+    {
+      "wus": 1817258,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=10&type=score",
+      "name": "OcUK",
+      "rank": 66,
+      "credit": 18758729817,
+      "team": 10,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=10&type=wus"
+    },
+    {
+      "wus": 4709134,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=150&type=score",
+      "name": "SAGoons",
+      "rank": 67,
+      "credit": 18511271342,
+      "team": 150,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=150&type=wus"
+    },
+    {
+      "wus": 2603455,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=11314&type=score",
+      "name": "EOC Folding@Home Team",
+      "rank": 68,
+      "credit": 18376439092,
+      "team": 11314,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=11314&type=wus"
+    },
+    {
+      "wus": 4690144,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=64&type=score",
+      "name": "Team Rage3D",
+      "rank": 69,
+      "credit": 18134975088,
+      "team": 64,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=64&type=wus"
+    },
+    {
+      "wus": 1300137,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=41608&type=score",
+      "name": "Bjorn3D.Com",
+      "rank": 70,
+      "credit": 18028063310,
+      "team": 41608,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=41608&type=wus"
+    },
+    {
+      "wus": 133935,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=237712&type=score",
+      "name": "gpus4good",
+      "rank": 71,
+      "credit": 17790525989,
+      "team": 237712,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=237712&type=wus"
+    },
+    {
+      "wus": 1815079,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=54196&type=score",
+      "name": "Hardware Canucks Forum",
+      "rank": 72,
+      "credit": 17713161980,
+      "team": 54196,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=54196&type=wus"
+    },
+    {
+      "wus": 2101043,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=69411&type=score",
+      "name": "guru3d",
+      "rank": 73,
+      "credit": 17653297311,
+      "team": 69411,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=69411&type=wus"
+    },
+    {
+      "wus": 1023549,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=256378&type=score",
+      "name": "ServerCentral Turing Group",
+      "rank": 74,
+      "credit": 17505343672,
+      "team": 256378,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=256378&type=wus"
+    },
+    {
+      "wus": 4913460,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=169927&type=score",
+      "name": "Team BoardGameGeek",
+      "rank": 75,
+      "credit": 16767493502,
+      "team": 169927,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=169927&type=wus"
+    },
+    {
+      "wus": 4657128,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=2630&type=score",
+      "name": "The Tech Report",
+      "rank": 76,
+      "credit": 16719754706,
+      "team": 2630,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=2630&type=wus"
+    },
+    {
+      "wus": 799595,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=266168&type=score",
+      "name": "MST-RSS",
+      "rank": 77,
+      "credit": 16260384551,
+      "team": 266168,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=266168&type=wus"
+    },
+    {
+      "wus": 846794,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=229500&type=score",
+      "name": "homelab",
+      "rank": 78,
+      "credit": 16074928774,
+      "team": 229500,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=229500&type=wus"
+    },
+    {
+      "wus": 881381,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=98860&type=score",
+      "name": "Redline @ OC3D.net",
+      "rank": 79,
+      "credit": 15801087946,
+      "team": 98860,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=98860&type=wus"
+    },
+    {
+      "wus": 1490776,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
+      "name": "Arch Linux",
+      "rank": 80,
+      "credit": 15653763411,
+      "team": 45032,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus"
+    },
+    {
+      "wus": 380748,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=1739&type=score",
+      "name": "Dell Computer Corporation",
+      "rank": 81,
+      "credit": 15384798489,
+      "team": 1739,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=1739&type=wus"
+    },
+    {
+      "wus": 418923,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=243287&type=score",
+      "name": "City of Heroes: Homecoming",
+      "rank": 82,
+      "credit": 15304928551,
+      "team": 243287,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=243287&type=wus"
+    },
+    {
+      "wus": 461159,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=227286&type=score",
+      "name": "folding@mntc",
+      "rank": 83,
+      "credit": 14620154046,
+      "team": 227286,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=227286&type=wus"
+    },
+    {
+      "wus": 452698,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=999&type=score",
+      "name": "Microsoft",
+      "rank": 84,
+      "credit": 14591124971,
+      "team": 999,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=999&type=wus"
+    },
+    {
+      "wus": 1110391,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=70911&type=score",
+      "name": "ComputerBase-HardwareLuxx Folding Team",
+      "rank": 85,
+      "credit": 14356000088,
+      "team": 70911,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=70911&type=wus"
+    },
+    {
+      "wus": 925407,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=36837&type=score",
+      "name": "AMD Zone",
+      "rank": 86,
+      "credit": 13914265723,
+      "team": 36837,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=36837&type=wus"
+    },
+    {
+      "wus": 437676,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=172800&type=score",
+      "name": "Team EFG - Epic Folding Group",
+      "rank": 87,
+      "credit": 13549124059,
+      "team": 172800,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=172800&type=wus"
+    },
+    {
+      "wus": 941120,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=55236&type=score",
+      "name": "SatelliteGuys.US",
+      "rank": 88,
+      "credit": 13271165247,
+      "team": 55236,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=55236&type=wus"
+    },
+    {
+      "wus": 1382286,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=39340&type=score",
+      "name": "MozillaZine",
+      "rank": 89,
+      "credit": 13207847624,
+      "team": 39340,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=39340&type=wus"
+    },
+    {
+      "wus": 666276,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=254500&type=score",
+      "name": "AMD COVID-19 Folding Team",
+      "rank": 90,
+      "credit": 13125693480,
+      "team": 254500,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=254500&type=wus"
+    },
+    {
+      "wus": 2590774,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=93&type=score",
+      "name": "Team Icrontic.com",
+      "rank": 91,
+      "credit": 13031254176,
+      "team": 93,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=93&type=wus"
+    },
+    {
+      "wus": 662972,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=242460&type=score",
+      "name": "Z EVENT",
+      "rank": 92,
+      "credit": 12801620603,
+      "team": 242460,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=242460&type=wus"
+    },
+    {
+      "wus": 2393501,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=35819&type=score",
+      "name": "p2p-community",
+      "rank": 93,
+      "credit": 12545782120,
+      "team": 35819,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=35819&type=wus"
+    },
+    {
+      "wus": 372709,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=245628&type=score",
+      "name": "Simmers Without Borders",
+      "rank": 94,
+      "credit": 11552728667,
+      "team": 245628,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=245628&type=wus"
+    },
+    {
+      "wus": 83951,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=251259&type=score",
+      "name": "Flexential_Folding@Home",
+      "rank": 95,
+      "credit": 11501052787,
+      "team": 251259,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=251259&type=wus"
+    },
+    {
+      "wus": 504384,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=40965&type=score",
+      "name": "ar15.com",
+      "rank": 96,
+      "credit": 11469518323,
+      "team": 40965,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=40965&type=wus"
+    },
+    {
+      "wus": 134999,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=36152&type=score",
+      "name": "NetApp",
+      "rank": 97,
+      "credit": 11250281328,
+      "team": 36152,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=36152&type=wus"
+    },
+    {
+      "wus": 320010,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=142900&type=score",
+      "name": "NVIDIA USER 2 USER FORUMS",
+      "rank": 98,
+      "credit": 11160931069,
+      "team": 142900,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=142900&type=wus"
+    },
+    {
+      "wus": 238790,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=231988&type=score",
+      "name": "TechBBS",
+      "rank": 99,
+      "credit": 11048967030,
+      "team": 231988,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=231988&type=wus"
+    },
+    {
+      "wus": 1828867,
+      "credit_cert": "https://apps.foldingathome.org/awards?team=12772&type=score",
+      "name": "Overclockers Club",
+      "rank": 100,
+      "credit": 11008311259,
+      "team": 12772,
+      "wus_cert": "https://apps.foldingathome.org/awards?team=12772&type=wus"
+    }
+  ],
+  "month": 12,
+  "year": 2020,
+  "query": "team",
+  "path": "teams"
+}
