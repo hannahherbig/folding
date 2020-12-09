@@ -32,7 +32,7 @@ jobs:
           (git add -A && pre-commit run) || (git add -A && pre-commit run)
           git commit -m "run scrape.sh" || exit 0
           git push
-      - run: python gen.py
+      - run: poetry run python gen.py
       - name: Commit and push if it changed
         if: github.ref == 'refs/heads/main'
         run: |-
