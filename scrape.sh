@@ -1,4 +1,4 @@
-#!/bin/bash -ex
+#!/usr/bin/env bash
 
 paths=(
     donors
@@ -7,7 +7,7 @@ paths=(
     team/45032
 )
 
-find . -name '*.json' -delete
+rm -rf data
 
 for path in ${paths[@]}
 do
@@ -17,8 +17,3 @@ do
 done
 
 npx prettier -w .
-git add -A
-git config --local user.name "github-actions[bot]"
-git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-git commit -m update || exit 0
-git push
