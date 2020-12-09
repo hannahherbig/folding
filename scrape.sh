@@ -7,11 +7,6 @@ paths=(
     team/45032
 )
 
-add_run() {
-    git add -A
-    pre-commit run
-}
-
 find . -name '*.json' -delete
 
 for path in ${paths[@]}
