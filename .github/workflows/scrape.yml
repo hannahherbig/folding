@@ -4,16 +4,17 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "30 * * * *"
+    - cron: "*/10 * * * *"
 
 jobs:
   scheduled:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
       - uses: actions/setup-python@v2
+      - uses: actions/setup-node@v1
       - name: Setup git
         run: |-
           git config --local user.name "github-actions[bot]"
