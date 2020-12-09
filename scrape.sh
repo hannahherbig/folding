@@ -15,5 +15,3 @@ do
     mkdir -p $(dirname $out)
     curl https://stats.foldingathome.org/api/$path > $out.json
 done
-
-npx prettier -w .
