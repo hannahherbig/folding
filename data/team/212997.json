@@ -1,5 +1,5 @@
 {
-  "wus": 1702514,
+  "wus": 1702517,
   "donors": [
     {
       "wus": 85678,
@@ -242,10 +242,10 @@
       "id": 98688
     },
     {
-      "wus": 1785,
+      "wus": 1786,
       "name": "DayBat",
       "rank": 11692,
-      "credit": 127635690,
+      "credit": 127818694,
       "team": 212997,
       "id": 68769379
     },
@@ -3010,6 +3010,14 @@
       "id": 166081
     },
     {
+      "wus": 162,
+      "name": "GondolaLikesToWalk",
+      "rank": 185675,
+      "credit": 2054694,
+      "team": 212997,
+      "id": 73380256
+    },
+    {
       "wus": 958,
       "name": "McKye_Carter",
       "rank": 182338,
@@ -3096,14 +3104,6 @@
       "credit": 1968727,
       "team": 212997,
       "id": 98380
-    },
-    {
-      "wus": 161,
-      "name": "GondolaLikesToWalk",
-      "rank": 185675,
-      "credit": 1953782,
-      "team": 212997,
-      "id": 73380256
     },
     {
       "wus": 535,
@@ -6186,10 +6186,10 @@
       "id": 332472
     },
     {
-      "wus": 610,
+      "wus": 611,
       "name": "Violet Rose",
       "rank": 374118,
-      "credit": 282673,
+      "credit": 283123,
       "team": 212997,
       "id": 67219794
     },
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-10 15:35:24",
+  "last": "2020-12-10 15:45:23",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27552778166,
+  "credit": 27553062532,
   "team": 212997,
   "path": "team/212997"
 }
