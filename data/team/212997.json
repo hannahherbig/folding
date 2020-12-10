@@ -1,5 +1,5 @@
 {
-  "wus": 1702451,
+  "wus": 1702455,
   "donors": [
     {
       "wus": 85678,
@@ -378,10 +378,10 @@
       "id": 265973
     },
     {
-      "wus": 2895,
+      "wus": 2896,
       "name": "seatsea",
       "rank": 19700,
-      "credit": 71484983,
+      "credit": 71491360,
       "team": 212997,
       "id": 167961
     },
@@ -554,10 +554,10 @@
       "id": 110703
     },
     {
-      "wus": 2372,
+      "wus": 2373,
       "name": "WindShear",
       "rank": 24496,
-      "credit": 44983667,
+      "credit": 44987163,
       "team": 212997,
       "id": 1736648
     },
@@ -610,10 +610,10 @@
       "id": 1677725
     },
     {
-      "wus": 1539,
+      "wus": 1540,
       "name": "engiefox",
       "rank": 29407,
-      "credit": 42958940,
+      "credit": 42972930,
       "team": 212997,
       "id": 285744
     },
@@ -2362,10 +2362,10 @@
       "id": 177349
     },
     {
-      "wus": 479,
+      "wus": 480,
       "name": "GrayPegasus",
       "rank": 136202,
-      "credit": 3879628,
+      "credit": 3880628,
       "team": 212997,
       "id": 181310253
     },
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-10 12:25:21",
+  "last": "2020-12-10 12:45:27",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27550938987,
+  "credit": 27550963850,
   "team": 212997,
   "path": "team/212997"
 }
