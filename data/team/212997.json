@@ -1,5 +1,5 @@
 {
-  "wus": 1702542,
+  "wus": 1702547,
   "donors": [
     {
       "wus": 85678,
@@ -106,10 +106,10 @@
       "id": 110967
     },
     {
-      "wus": 4059,
+      "wus": 4060,
       "name": "Lord_Nobady",
       "rank": 4452,
-      "credit": 319134944,
+      "credit": 319139488,
       "team": 212997,
       "id": 262578
     },
@@ -242,10 +242,10 @@
       "id": 98688
     },
     {
-      "wus": 1788,
+      "wus": 1789,
       "name": "DayBat",
       "rank": 11654,
-      "credit": 128002553,
+      "credit": 128008197,
       "team": 212997,
       "id": 68769379
     },
@@ -402,10 +402,10 @@
       "id": 111662
     },
     {
-      "wus": 5270,
+      "wus": 5271,
       "name": "Krebs830",
       "rank": 16273,
-      "credit": 65097344,
+      "credit": 65101699,
       "team": 212997,
       "id": 179892
     },
@@ -506,20 +506,20 @@
       "id": 182155
     },
     {
+      "wus": 1115,
+      "name": "Naga",
+      "rank": 26293,
+      "credit": 50431922,
+      "team": 212997,
+      "id": 84291
+    },
+    {
       "wus": 769,
       "name": "Starfflame",
       "rank": 26375,
       "credit": 50381447,
       "team": 212997,
       "id": 68886363
-    },
-    {
-      "wus": 1114,
-      "name": "Naga",
-      "rank": 26293,
-      "credit": 50327215,
-      "team": 212997,
-      "id": 84291
     },
     {
       "wus": 1686,
@@ -554,10 +554,10 @@
       "id": 110703
     },
     {
-      "wus": 2374,
+      "wus": 2375,
       "name": "WindShear",
       "rank": 24478,
-      "credit": 44990593,
+      "credit": 44992870,
       "team": 212997,
       "id": 1736648
     },
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-10 17:05:13",
+  "last": "2020-12-10 17:25:25",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27554163152,
+  "credit": 27554284679,
   "team": 212997,
   "path": "team/212997"
 }
