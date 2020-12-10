@@ -14,5 +14,5 @@ for path in ${paths[@]}
 do
     out=data/$path
     mkdir -p $(dirname $out)
-    curl -s https://stats.foldingathome.org/api/$path -o $out.json
+    curl -s https://stats.foldingathome.org/api/$path | jq 'del(.total_users)' > $out.json
 done
