@@ -40,3 +40,4 @@ jobs:
           (git add -A && pre-commit run) || (git add -A && pre-commit run)
           git commit -m "run gen.py" || exit 0
           git push
+      - run: git diff
