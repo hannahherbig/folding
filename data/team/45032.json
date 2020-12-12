@@ -1,5 +1,5 @@
 {
-  "wus": 1318987,
+  "wus": 1318993,
   "donors": [
     {
       "wus": 33290,
@@ -130,10 +130,10 @@
       "id": 111890
     },
     {
-      "wus": 57451,
+      "wus": 57452,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 150426268,
+      "credit": 150426812,
       "team": 45032,
       "id": 1437
     },
@@ -922,10 +922,10 @@
       "id": 33969
     },
     {
-      "wus": 628,
+      "wus": 629,
       "name": "psilokos",
       "rank": 47068,
-      "credit": 23701812,
+      "credit": 23705783,
       "team": 45032,
       "id": 79726684
     },
@@ -1274,10 +1274,10 @@
       "id": 72710025
     },
     {
-      "wus": 1327,
+      "wus": 1328,
       "name": "Thomas_Schmitt",
       "rank": 62860,
-      "credit": 15492605,
+      "credit": 15505948,
       "team": 45032,
       "id": 67437248
     },
@@ -1650,10 +1650,10 @@
       "id": 360547545
     },
     {
-      "wus": 3285,
+      "wus": 3286,
       "name": "fuha",
       "rank": 79343,
-      "credit": 10645783,
+      "credit": 10648793,
       "team": 45032,
       "id": 68880952
     },
@@ -1746,10 +1746,10 @@
       "id": 60690
     },
     {
-      "wus": 561,
+      "wus": 562,
       "name": "toasthorse",
       "rank": 82606,
-      "credit": 10002373,
+      "credit": 10019908,
       "team": 45032,
       "id": 337544344
     },
@@ -4290,20 +4290,20 @@
       "id": 373057
     },
     {
+      "wus": 342,
+      "name": "mental32",
+      "rank": 186148,
+      "credit": 1949863,
+      "team": 45032,
+      "id": 381853742
+    },
+    {
       "wus": 40,
       "name": "blakface",
       "rank": 186181,
       "credit": 1943164,
       "team": 45032,
       "id": 72999245
-    },
-    {
-      "wus": 341,
-      "name": "mental32",
-      "rank": 186148,
-      "credit": 1940218,
-      "team": 45032,
-      "id": 381853742
     },
     {
       "wus": 242,
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2020-12-12 17:55:33",
+  "last": "2020-12-12 18:05:28",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 15623038536,
+  "credit": 15623086584,
   "team": 45032,
   "path": "team/45032"
 }
