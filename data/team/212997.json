@@ -1,5 +1,5 @@
 {
-  "wus": 1703666,
+  "wus": 1703671,
   "donors": [
     {
       "wus": 85678,
@@ -58,10 +58,10 @@
       "id": 226653
     },
     {
-      "wus": 19494,
+      "wus": 19495,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 1846,
-      "credit": 696773661,
+      "credit": 696787233,
       "team": 212997,
       "id": 259906
     },
@@ -402,10 +402,10 @@
       "id": 111662
     },
     {
-      "wus": 5304,
+      "wus": 5305,
       "name": "Krebs830",
       "rank": 16159,
-      "credit": 66299046,
+      "credit": 66302944,
       "team": 212997,
       "id": 179892
     },
@@ -570,10 +570,10 @@
       "id": 9034933
     },
     {
-      "wus": 9111,
+      "wus": 9112,
       "name": "richfiles",
       "rank": 29378,
-      "credit": 44317538,
+      "credit": 44321298,
       "team": 212997,
       "id": 276171
     },
@@ -1378,10 +1378,10 @@
       "id": 73914440
     },
     {
-      "wus": 3456,
+      "wus": 3457,
       "name": "Zoomguy",
       "rank": 74034,
-      "credit": 11933856,
+      "credit": 11934656,
       "team": 212997,
       "id": 113839
     },
@@ -1858,6 +1858,14 @@
       "id": 349810
     },
     {
+      "wus": 638,
+      "name": "Silly_Warlock",
+      "rank": 99236,
+      "credit": 7306734,
+      "team": 212997,
+      "id": 198244
+    },
+    {
       "wus": 317,
       "name": "FoxWithGun",
       "rank": 98544,
@@ -1872,14 +1880,6 @@
       "credit": 7250570,
       "team": 212997,
       "id": 221820
-    },
-    {
-      "wus": 637,
-      "name": "Silly_Warlock",
-      "rank": 99236,
-      "credit": 7199076,
-      "team": 212997,
-      "id": 198244
     },
     {
       "wus": 184,
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-13 11:45:33",
+  "last": "2020-12-13 12:15:31",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27608240179,
+  "credit": 27608369867,
   "team": 212997,
   "path": "team/212997"
 }
