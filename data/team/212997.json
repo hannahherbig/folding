@@ -1,5 +1,5 @@
 {
-  "wus": 1704513,
+  "wus": 1704514,
   "donors": [
     {
       "wus": 85678,
@@ -3354,6 +3354,14 @@
       "id": 264471
     },
     {
+      "wus": 143,
+      "name": "AsianMonkeyz",
+      "rank": 177012,
+      "credit": 1591087,
+      "team": 212997,
+      "id": 1825
+    },
+    {
       "wus": 34,
       "name": "Twiman",
       "rank": 203369,
@@ -3400,14 +3408,6 @@
       "credit": 1539311,
       "team": 212997,
       "id": 161396
-    },
-    {
-      "wus": 142,
-      "name": "AsianMonkeyz",
-      "rank": 177012,
-      "credit": 1536687,
-      "team": 212997,
-      "id": 1825
     },
     {
       "wus": 968,
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-15 17:55:29",
+  "last": "2020-12-15 18:05:22",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27648527067,
+  "credit": 27648581467,
   "team": 212997,
   "path": "team/212997"
 }
