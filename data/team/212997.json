@@ -1,5 +1,5 @@
 {
-  "wus": 1704760,
+  "wus": 1704770,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 25581,
+      "wus": 25582,
       "name": "UltraTech_Command",
       "rank": 1128,
-      "credit": 1054610833,
+      "credit": 1054706197,
       "team": 212997,
       "id": 112559
     },
@@ -106,10 +106,10 @@
       "id": 110967
     },
     {
-      "wus": 1954,
+      "wus": 1956,
       "name": "Rosefinch",
       "rank": 4003,
-      "credit": 341291133,
+      "credit": 341870418,
       "team": 212997,
       "id": 353337
     },
@@ -154,10 +154,10 @@
       "id": 188984
     },
     {
-      "wus": 1554,
+      "wus": 1555,
       "name": "Tsukaji",
       "rank": 7668,
-      "credit": 199813604,
+      "credit": 200022337,
       "team": 212997,
       "id": 220733
     },
@@ -578,6 +578,14 @@
       "id": 9034933
     },
     {
+      "wus": 1424,
+      "name": "thecoldeath",
+      "rank": 29441,
+      "credit": 44433828,
+      "team": 212997,
+      "id": 1677725
+    },
+    {
       "wus": 9132,
       "name": "richfiles",
       "rank": 29499,
@@ -592,14 +600,6 @@
       "credit": 44279175,
       "team": 212997,
       "id": 337451
-    },
-    {
-      "wus": 1422,
-      "name": "thecoldeath",
-      "rank": 29441,
-      "credit": 44243156,
-      "team": 212997,
-      "id": 1677725
     },
     {
       "wus": 1854,
@@ -1370,10 +1370,10 @@
       "id": 196398
     },
     {
-      "wus": 3503,
+      "wus": 3505,
       "name": "Zoomguy",
       "rank": 73902,
-      "credit": 12027216,
+      "credit": 12029946,
       "team": 212997,
       "id": 113839
     },
@@ -1954,6 +1954,14 @@
       "id": 210444
     },
     {
+      "wus": 164,
+      "name": "Lawl",
+      "rank": 104079,
+      "credit": 6591903,
+      "team": 212997,
+      "id": 582320
+    },
+    {
       "wus": 644,
       "name": "Darfk",
       "rank": 105034,
@@ -1968,14 +1976,6 @@
       "credit": 6522668,
       "team": 212997,
       "id": 110175
-    },
-    {
-      "wus": 163,
-      "name": "Lawl",
-      "rank": 104079,
-      "credit": 6513099,
-      "team": 212997,
-      "id": 582320
     },
     {
       "wus": 324,
@@ -3242,10 +3242,10 @@
       "id": 348885
     },
     {
-      "wus": 1210,
+      "wus": 1211,
       "name": "Flyboy-z",
       "rank": 195130,
-      "credit": 1743074,
+      "credit": 1745734,
       "team": 212997,
       "id": 356795
     },
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-16 12:15:29",
+  "last": "2020-12-16 13:15:41",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27662102905,
+  "credit": 27663261153,
   "team": 212997,
   "path": "team/212997"
 }
