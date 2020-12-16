@@ -1,5 +1,5 @@
 {
-  "wus": 1704709,
+  "wus": 1704716,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 25576,
+      "wus": 25577,
       "name": "UltraTech_Command",
       "rank": 1128,
-      "credit": 1054208011,
+      "credit": 1054327936,
       "team": 212997,
       "id": 112559
     },
@@ -74,10 +74,10 @@
       "id": 79012
     },
     {
-      "wus": 13873,
+      "wus": 13874,
       "name": "stevepoppers",
       "rank": 2507,
-      "credit": 542497496,
+      "credit": 542615760,
       "team": 212997,
       "id": 250480
     },
@@ -114,10 +114,10 @@
       "id": 353337
     },
     {
-      "wus": 4181,
+      "wus": 4182,
       "name": "Lord_Nobady",
       "rank": 4369,
-      "credit": 329698801,
+      "credit": 329702313,
       "team": 212997,
       "id": 262578
     },
@@ -402,10 +402,10 @@
       "id": 111662
     },
     {
-      "wus": 5335,
+      "wus": 5336,
       "name": "Krebs830",
       "rank": 16059,
-      "credit": 67630879,
+      "credit": 67635232,
       "team": 212997,
       "id": 179892
     },
@@ -1970,20 +1970,20 @@
       "id": 110175
     },
     {
+      "wus": 162,
+      "name": "Lawl",
+      "rank": 104917,
+      "credit": 6510126,
+      "team": 212997,
+      "id": 582320
+    },
+    {
       "wus": 324,
       "name": "mark_taiwan",
       "rank": 105317,
       "credit": 6489343,
       "team": 212997,
       "id": 337800
-    },
-    {
-      "wus": 160,
-      "name": "Lawl",
-      "rank": 104917,
-      "credit": 6413999,
-      "team": 212997,
-      "id": 582320
     },
     {
       "wus": 3538,
@@ -7290,6 +7290,14 @@
       "id": 362239
     },
     {
+      "wus": 59,
+      "name": "Ankorite",
+      "rank": 459042,
+      "credit": 139571,
+      "team": 212997,
+      "id": 917521
+    },
+    {
       "wus": 41,
       "name": "sindu",
       "rank": 348790,
@@ -7304,14 +7312,6 @@
       "credit": 138896,
       "team": 212997,
       "id": 7293
-    },
-    {
-      "wus": 58,
-      "name": "Ankorite",
-      "rank": 459042,
-      "credit": 138321,
-      "team": 212997,
-      "id": 917521
     },
     {
       "wus": 111,
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-16 07:55:32",
+  "last": "2020-12-16 08:16:57",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27658433544,
+  "credit": 27658776975,
   "team": 212997,
   "path": "team/212997"
 }
