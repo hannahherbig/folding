@@ -1,5 +1,5 @@
 {
-  "wus": 1704688,
+  "wus": 1704693,
   "donors": [
     {
       "wus": 85678,
@@ -114,10 +114,10 @@
       "id": 353337
     },
     {
-      "wus": 4179,
+      "wus": 4180,
       "name": "Lord_Nobady",
       "rank": 4377,
-      "credit": 329545814,
+      "credit": 329550104,
       "team": 212997,
       "id": 262578
     },
@@ -194,10 +194,10 @@
       "id": 72800445
     },
     {
-      "wus": 6844,
+      "wus": 6845,
       "name": "benjamindjb",
       "rank": 9446,
-      "credit": 159895175,
+      "credit": 159897336,
       "team": 212997,
       "id": 163671
     },
@@ -594,20 +594,20 @@
       "id": 337451
     },
     {
+      "wus": 1422,
+      "name": "thecoldeath",
+      "rank": 29477,
+      "credit": 44243156,
+      "team": 212997,
+      "id": 1677725
+    },
+    {
       "wus": 1854,
       "name": "BlueOrbit",
       "rank": 29631,
       "credit": 44143404,
       "team": 212997,
       "id": 249368
-    },
-    {
-      "wus": 1421,
-      "name": "thecoldeath",
-      "rank": 29477,
-      "credit": 44134493,
-      "team": 212997,
-      "id": 1677725
     },
     {
       "wus": 3797,
@@ -1618,10 +1618,10 @@
       "id": 172457
     },
     {
-      "wus": 1130,
+      "wus": 1132,
       "name": "MR_FAT_GOAT",
       "rank": 86809,
-      "credit": 9148770,
+      "credit": 9195680,
       "team": 212997,
       "id": 69944510
     },
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-16 06:05:30",
+  "last": "2020-12-16 06:35:31",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27656933610,
+  "credit": 27657095634,
   "team": 212997,
   "path": "team/212997"
 }
