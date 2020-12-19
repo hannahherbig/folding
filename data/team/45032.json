@@ -1,5 +1,5 @@
 {
-  "wus": 1326521,
+  "wus": 1326535,
   "donors": [
     {
       "wus": 33393,
@@ -18,10 +18,10 @@
       "id": 11268
     },
     {
-      "wus": 13844,
+      "wus": 13845,
       "name": "DingoStarr",
       "rank": 2483,
-      "credit": 483117647,
+      "credit": 483136695,
       "team": 45032,
       "id": 259961
     },
@@ -130,10 +130,10 @@
       "id": 111890
     },
     {
-      "wus": 58073,
+      "wus": 58074,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 153302674,
+      "credit": 153303218,
       "team": 45032,
       "id": 1437
     },
@@ -194,10 +194,10 @@
       "id": 66160380
     },
     {
-      "wus": 10250,
+      "wus": 10251,
       "name": "GuyMartin",
       "rank": 13287,
-      "credit": 103207974,
+      "credit": 103213320,
       "team": 45032,
       "id": 1279891
     },
@@ -394,10 +394,10 @@
       "id": 250140
     },
     {
-      "wus": 3964,
+      "wus": 3965,
       "name": "Merlock",
       "rank": 23782,
-      "credit": 58345756,
+      "credit": 58349902,
       "team": 45032,
       "id": 1448013
     },
@@ -418,20 +418,20 @@
       "id": 609603
     },
     {
+      "wus": 2745,
+      "name": "tms7",
+      "rank": 24470,
+      "credit": 56435581,
+      "team": 45032,
+      "id": 338269
+    },
+    {
       "wus": 1554,
       "name": "DaN_I",
       "rank": 805,
       "credit": 56373275,
       "team": 45032,
       "id": 5709
-    },
-    {
-      "wus": 2744,
-      "name": "tms7",
-      "rank": 24470,
-      "credit": 56368388,
-      "team": 45032,
-      "id": 338269
     },
     {
       "wus": 898,
@@ -602,10 +602,10 @@
       "id": 21307
     },
     {
-      "wus": 1213,
+      "wus": 1214,
       "name": "JPRules",
       "rank": 32693,
-      "credit": 39410212,
+      "credit": 39417312,
       "team": 45032,
       "id": 186836590
     },
@@ -650,10 +650,10 @@
       "id": 61458
     },
     {
-      "wus": 10220,
+      "wus": 10221,
       "name": "thermi",
       "rank": 33874,
-      "credit": 34787732,
+      "credit": 34790537,
       "team": 45032,
       "id": 111878
     },
@@ -938,10 +938,10 @@
       "id": 69095718
     },
     {
-      "wus": 1588,
+      "wus": 1589,
       "name": "DMC",
       "rank": 41255,
-      "credit": 24026907,
+      "credit": 24032118,
       "team": 45032,
       "id": 396535
     },
@@ -1306,6 +1306,14 @@
       "id": 110216
     },
     {
+      "wus": 183,
+      "name": "jose.angel.soler.ortiz",
+      "rank": 33422,
+      "credit": 15303231,
+      "team": 45032,
+      "id": 132010172
+    },
+    {
       "wus": 232,
       "name": "Jaravine",
       "rank": 64071,
@@ -1320,14 +1328,6 @@
       "credit": 15124802,
       "team": 45032,
       "id": 75696548
-    },
-    {
-      "wus": 182,
-      "name": "jose.angel.soler.ortiz",
-      "rank": 33422,
-      "credit": 15005391,
-      "team": 45032,
-      "id": 132010172
     },
     {
       "wus": 6343,
@@ -1690,10 +1690,10 @@
       "id": 68880952
     },
     {
-      "wus": 1012,
+      "wus": 1013,
       "name": "DirkSalewski",
       "rank": 80562,
-      "credit": 10520261,
+      "credit": 10523229,
       "team": 45032,
       "id": 122728674
     },
@@ -2202,10 +2202,10 @@
       "id": 767560
     },
     {
-      "wus": 260,
+      "wus": 261,
       "name": "ElectronPunt",
       "rank": 102879,
-      "credit": 6812501,
+      "credit": 6829474,
       "team": 45032,
       "id": 77021666
     },
@@ -2954,10 +2954,10 @@
       "id": 375994
     },
     {
-      "wus": 502,
+      "wus": 503,
       "name": "Sir_Willy",
       "rank": 138150,
-      "credit": 3816093,
+      "credit": 3821116,
       "team": 45032,
       "id": 362539347
     },
@@ -3650,10 +3650,10 @@
       "id": 392304524
     },
     {
-      "wus": 2396,
+      "wus": 2397,
       "name": "lordheavy",
       "rank": 138312,
-      "credit": 2793983,
+      "credit": 2795233,
       "team": 45032,
       "id": 1410846
     },
@@ -4066,10 +4066,10 @@
       "id": 250037
     },
     {
-      "wus": 412,
+      "wus": 413,
       "name": "mental32",
       "rank": 176114,
-      "credit": 2232074,
+      "credit": 2234818,
       "team": 45032,
       "id": 381853742
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2020-12-19 20:15:43",
+  "last": "2020-12-19 20:35:41",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 15882052623,
+  "credit": 15882490814,
   "team": 45032,
   "path": "team/45032"
 }
