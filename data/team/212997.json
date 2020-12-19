@@ -1,5 +1,5 @@
 {
-  "wus": 1705896,
+  "wus": 1705911,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 25669,
+      "wus": 25670,
       "name": "UltraTech_Command",
       "rank": 1129,
-      "credit": 1059527322,
+      "credit": 1059531541,
       "team": 212997,
       "id": 112559
     },
@@ -74,10 +74,10 @@
       "id": 79012
     },
     {
-      "wus": 13928,
+      "wus": 13929,
       "name": "stevepoppers",
       "rank": 2504,
-      "credit": 546036812,
+      "credit": 546144707,
       "team": 212997,
       "id": 250480
     },
@@ -114,10 +114,10 @@
       "id": 353337
     },
     {
-      "wus": 4229,
+      "wus": 4230,
       "name": "Lord_Nobady",
       "rank": 4313,
-      "credit": 335712910,
+      "credit": 335718032,
       "team": 212997,
       "id": 262578
     },
@@ -386,10 +386,10 @@
       "id": 167961
     },
     {
-      "wus": 5375,
+      "wus": 5376,
       "name": "Krebs830",
       "rank": 15944,
-      "credit": 69139032,
+      "credit": 69221940,
       "team": 212997,
       "id": 179892
     },
@@ -538,10 +538,10 @@
       "id": 638027
     },
     {
-      "wus": 2474,
+      "wus": 2476,
       "name": "WindShear",
       "rank": 23902,
-      "credit": 47718881,
+      "credit": 47769634,
       "team": 212997,
       "id": 1736648
     },
@@ -562,18 +562,18 @@
       "id": 110703
     },
     {
-      "wus": 1430,
+      "wus": 1431,
       "name": "thecoldeath",
       "rank": 29320,
-      "credit": 44914790,
+      "credit": 45136173,
       "team": 212997,
       "id": 1677725
     },
     {
-      "wus": 2226,
+      "wus": 2227,
       "name": "CycloneDusk",
       "rank": 29463,
-      "credit": 44853118,
+      "credit": 44874318,
       "team": 212997,
       "id": 69005220
     },
@@ -1570,20 +1570,20 @@
       "id": 101869
     },
     {
+      "wus": 1158,
+      "name": "MR_FAT_GOAT",
+      "rank": 85029,
+      "credit": 9630566,
+      "team": 212997,
+      "id": 69944510
+    },
+    {
       "wus": 275,
       "name": "coincounter",
       "rank": 85208,
       "credit": 9561998,
       "team": 212997,
       "id": 2866206
-    },
-    {
-      "wus": 1157,
-      "name": "MR_FAT_GOAT",
-      "rank": 85029,
-      "credit": 9542646,
-      "team": 212997,
-      "id": 69944510
     },
     {
       "wus": 662,
@@ -2490,10 +2490,10 @@
       "id": 103975
     },
     {
-      "wus": 257,
+      "wus": 258,
       "name": "GondolaLikesToWalk",
       "rank": 148734,
-      "credit": 3252700,
+      "credit": 3257384,
       "team": 212997,
       "id": 73380256
     },
@@ -2658,6 +2658,14 @@
       "id": 67247248
     },
     {
+      "wus": 182,
+      "name": "AsianMonkeyz",
+      "rank": 147069,
+      "credit": 2815141,
+      "team": 212997,
+      "id": 1825
+    },
+    {
       "wus": 1334,
       "name": "mrmo123",
       "rank": 159421,
@@ -2712,14 +2720,6 @@
       "credit": 2736505,
       "team": 212997,
       "id": 71845473
-    },
-    {
-      "wus": 179,
-      "name": "AsianMonkeyz",
-      "rank": 147069,
-      "credit": 2674910,
-      "team": 212997,
-      "id": 1825
     },
     {
       "wus": 657,
@@ -2914,10 +2914,10 @@
       "id": 337961
     },
     {
-      "wus": 2026,
+      "wus": 2027,
       "name": "Astatine210",
       "rank": 175037,
-      "credit": 2265056,
+      "credit": 2265475,
       "team": 212997,
       "id": 118970683
     },
@@ -3242,10 +3242,10 @@
       "id": 208838
     },
     {
-      "wus": 1247,
+      "wus": 1248,
       "name": "Flyboy-z",
       "rank": 193860,
-      "credit": 1777094,
+      "credit": 1777894,
       "team": 212997,
       "id": 356795
     },
@@ -7977,15 +7977,15 @@
   ],
   "rank": 50,
   "total_teams": 255621,
-  "active_50": 227,
+  "active_50": 228,
   "logo": "http://www.brony.team/images/BAHlarge.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-19 10:45:40",
+  "last": "2020-12-19 11:55:39",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27722909158,
+  "credit": 27723636692,
   "team": 212997,
   "path": "team/212997"
 }
