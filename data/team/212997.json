@@ -1,5 +1,5 @@
 {
-  "wus": 1706808,
+  "wus": 1706812,
   "donors": [
     {
       "wus": 85678,
@@ -186,10 +186,10 @@
       "id": 336175
     },
     {
-      "wus": 2272,
+      "wus": 2273,
       "name": "Blazingcurent",
       "rank": 9003,
-      "credit": 173012732,
+      "credit": 173029962,
       "team": 212997,
       "id": 72800445
     },
@@ -626,10 +626,10 @@
       "id": 168694
     },
     {
-      "wus": 1495,
+      "wus": 1496,
       "name": "DavidSilver",
       "rank": 30378,
-      "credit": 43335899,
+      "credit": 43337156,
       "team": 212997,
       "id": 186466
     },
@@ -2218,20 +2218,20 @@
       "id": 283491
     },
     {
+      "wus": 224,
+      "name": "AsianMonkeyz",
+      "rank": 120709,
+      "credit": 4638782,
+      "team": 212997,
+      "id": 1825
+    },
+    {
       "wus": 558,
       "name": "Plain123",
       "rank": 128562,
       "credit": 4441094,
       "team": 212997,
       "id": 325635
-    },
-    {
-      "wus": 223,
-      "name": "AsianMonkeyz",
-      "rank": 120709,
-      "credit": 4389283,
-      "team": 212997,
-      "id": 1825
     },
     {
       "wus": 614,
@@ -2610,20 +2610,20 @@
       "id": 335400
     },
     {
+      "wus": 732,
+      "name": "GombaWarrior",
+      "rank": 154641,
+      "credit": 2991820,
+      "team": 212997,
+      "id": 67576005
+    },
+    {
       "wus": 437,
       "name": "indi50special",
       "rank": 154874,
       "credit": 2987262,
       "team": 212997,
       "id": 137297300
-    },
-    {
-      "wus": 731,
-      "name": "GombaWarrior",
-      "rank": 154641,
-      "credit": 2985713,
-      "team": 212997,
-      "id": 67576005
     },
     {
       "wus": 138,
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-21 15:05:31",
+  "last": "2020-12-21 15:25:31",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27769456420,
+  "credit": 27769730513,
   "team": 212997,
   "path": "team/212997"
 }
