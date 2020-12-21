@@ -1,5 +1,5 @@
 {
-  "wus": 1706848,
+  "wus": 1706857,
   "donors": [
     {
       "wus": 85678,
@@ -170,10 +170,10 @@
       "id": 76215814
     },
     {
-      "wus": 6587,
+      "wus": 6588,
       "name": "GTX",
       "rank": 8161,
-      "credit": 187797120,
+      "credit": 187862346,
       "team": 212997,
       "id": 49911
     },
@@ -578,10 +578,10 @@
       "id": 1677725
     },
     {
-      "wus": 1729,
+      "wus": 1730,
       "name": "engiefox",
       "rank": 28915,
-      "credit": 45136741,
+      "credit": 45144813,
       "team": 212997,
       "id": 285744
     },
@@ -626,10 +626,10 @@
       "id": 168694
     },
     {
-      "wus": 1496,
+      "wus": 1497,
       "name": "DavidSilver",
       "rank": 30386,
-      "credit": 43337156,
+      "credit": 43400680,
       "team": 212997,
       "id": 186466
     },
@@ -730,10 +730,10 @@
       "id": 73049723
     },
     {
-      "wus": 2653,
+      "wus": 2654,
       "name": "Fusl",
       "rank": 34969,
-      "credit": 36303768,
+      "credit": 36308686,
       "team": 212997,
       "id": 102092
     },
@@ -1362,10 +1362,10 @@
       "id": 179671
     },
     {
-      "wus": 3564,
+      "wus": 3565,
       "name": "Zoomguy",
       "rank": 73683,
-      "credit": 12203883,
+      "credit": 12205983,
       "team": 212997,
       "id": 113839
     },
@@ -1506,20 +1506,20 @@
       "id": 141311
     },
     {
+      "wus": 1183,
+      "name": "MR_FAT_GOAT",
+      "rank": 83194,
+      "credit": 10015603,
+      "team": 212997,
+      "id": 69944510
+    },
+    {
       "wus": 447,
       "name": "CAustin",
       "rank": 83396,
       "credit": 9971488,
       "team": 212997,
       "id": 182493
-    },
-    {
-      "wus": 1181,
-      "name": "MR_FAT_GOAT",
-      "rank": 83194,
-      "credit": 9958628,
-      "team": 212997,
-      "id": 69944510
     },
     {
       "wus": 810,
@@ -2426,10 +2426,10 @@
       "id": 179362
     },
     {
-      "wus": 280,
+      "wus": 281,
       "name": "GondolaLikesToWalk",
       "rank": 141402,
-      "credit": 3642054,
+      "credit": 3645273,
       "team": 212997,
       "id": 73380256
     },
@@ -5114,6 +5114,14 @@
       "id": 371892
     },
     {
+      "wus": 87,
+      "name": "bros",
+      "rank": 156201,
+      "credit": 540520,
+      "team": 212997,
+      "id": 3452
+    },
+    {
       "wus": 927,
       "name": "HectorSmash",
       "rank": 303037,
@@ -5192,14 +5200,6 @@
       "credit": 523351,
       "team": 212997,
       "id": 49918
-    },
-    {
-      "wus": 86,
-      "name": "bros",
-      "rank": 156201,
-      "credit": 521020,
-      "team": 212997,
-      "id": 3452
     },
     {
       "wus": 160,
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-21 17:35:44",
+  "last": "2020-12-21 18:15:44",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27771858186,
+  "credit": 27772081720,
   "team": 212997,
   "path": "team/212997"
 }
