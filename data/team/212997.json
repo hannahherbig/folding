@@ -1,5 +1,5 @@
 {
-  "wus": 1707274,
+  "wus": 1707281,
   "donors": [
     {
       "wus": 85678,
@@ -50,10 +50,10 @@
       "id": 109627
     },
     {
-      "wus": 19607,
+      "wus": 19608,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 1878,
-      "credit": 703016587,
+      "credit": 703030120,
       "team": 212997,
       "id": 259906
     },
@@ -194,10 +194,10 @@
       "id": 72800445
     },
     {
-      "wus": 6856,
+      "wus": 6857,
       "name": "benjamindjb",
       "rank": 9617,
-      "credit": 159929862,
+      "credit": 159931746,
       "team": 212997,
       "id": 163671
     },
@@ -626,10 +626,10 @@
       "id": 168694
     },
     {
-      "wus": 1508,
+      "wus": 1509,
       "name": "DavidSilver",
       "rank": 30206,
-      "credit": 43784016,
+      "credit": 43887912,
       "team": 212997,
       "id": 186466
     },
@@ -1018,10 +1018,10 @@
       "id": 97527
     },
     {
-      "wus": 784,
+      "wus": 785,
       "name": "Rosiepon",
       "rank": 49334,
-      "credit": 20749050,
+      "credit": 20749680,
       "team": 212997,
       "id": 66695747
     },
@@ -1362,10 +1362,10 @@
       "id": 179671
     },
     {
-      "wus": 3571,
+      "wus": 3572,
       "name": "Zoomguy",
       "rank": 73668,
-      "credit": 12224380,
+      "credit": 12232035,
       "team": 212997,
       "id": 113839
     },
@@ -1938,20 +1938,20 @@
       "id": 334883
     },
     {
+      "wus": 332,
+      "name": "mark_taiwan",
+      "rank": 101989,
+      "credit": 6988960,
+      "team": 212997,
+      "id": 337800
+    },
+    {
       "wus": 1743,
       "name": "Flaxative",
       "rank": 96800,
       "credit": 6983881,
       "team": 212997,
       "id": 101831
-    },
-    {
-      "wus": 331,
-      "name": "mark_taiwan",
-      "rank": 101989,
-      "credit": 6949223,
-      "team": 212997,
-      "id": 337800
     },
     {
       "wus": 2518,
@@ -3034,10 +3034,10 @@
       "id": 106441
     },
     {
-      "wus": 652,
+      "wus": 653,
       "name": "DJDavid98",
       "rank": 184012,
-      "credit": 2026771,
+      "credit": 2028010,
       "team": 212997,
       "id": 186491
     },
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-22 17:55:44",
+  "last": "2020-12-22 18:15:52",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27786836981,
+  "credit": 27787005555,
   "team": 212997,
   "path": "team/212997"
 }
