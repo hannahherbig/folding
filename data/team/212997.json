@@ -1,5 +1,5 @@
 {
-  "wus": 1707012,
+  "wus": 1707019,
   "donors": [
     {
       "wus": 85678,
@@ -58,10 +58,10 @@
       "id": 226653
     },
     {
-      "wus": 19597,
+      "wus": 19598,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 1879,
-      "credit": 702385703,
+      "credit": 702471917,
       "team": 212997,
       "id": 259906
     },
@@ -74,10 +74,10 @@
       "id": 79012
     },
     {
-      "wus": 13964,
+      "wus": 13965,
       "name": "stevepoppers",
       "rank": 2508,
-      "credit": 548283393,
+      "credit": 548287477,
       "team": 212997,
       "id": 250480
     },
@@ -186,10 +186,10 @@
       "id": 336175
     },
     {
-      "wus": 2288,
+      "wus": 2289,
       "name": "Blazingcurent",
       "rank": 8954,
-      "credit": 174024585,
+      "credit": 174038768,
       "team": 212997,
       "id": 72800445
     },
@@ -626,10 +626,10 @@
       "id": 168694
     },
     {
-      "wus": 1504,
+      "wus": 1505,
       "name": "DavidSilver",
       "rank": 30356,
-      "credit": 43714537,
+      "credit": 43717807,
       "team": 212997,
       "id": 186466
     },
@@ -1186,10 +1186,10 @@
       "id": 98901
     },
     {
-      "wus": 1230,
+      "wus": 1231,
       "name": "Aisteru",
       "rank": 63577,
-      "credit": 15494966,
+      "credit": 15496531,
       "team": 212997,
       "id": 278446
     },
@@ -2170,6 +2170,14 @@
       "id": 790263
     },
     {
+      "wus": 230,
+      "name": "AsianMonkeyz",
+      "rank": 115968,
+      "credit": 4878552,
+      "team": 212997,
+      "id": 1825
+    },
+    {
       "wus": 1055,
       "name": "Nukospony",
       "rank": 122909,
@@ -2184,14 +2192,6 @@
       "credit": 4803394,
       "team": 212997,
       "id": 113759
-    },
-    {
-      "wus": 229,
-      "name": "AsianMonkeyz",
-      "rank": 115968,
-      "credit": 4801683,
-      "team": 212997,
-      "id": 1825
     },
     {
       "wus": 1653,
@@ -3114,20 +3114,20 @@
       "id": 98380
     },
     {
+      "wus": 5543,
+      "name": "Jay_Pereira",
+      "rank": 166396,
+      "credit": 1942379,
+      "team": 212997,
+      "id": 375101
+    },
+    {
       "wus": 535,
       "name": "KeyLimePie",
       "rank": 187290,
       "credit": 1940139,
       "team": 212997,
       "id": 132232
-    },
-    {
-      "wus": 5542,
-      "name": "Jay_Pereira",
-      "rank": 166396,
-      "credit": 1938507,
-      "team": 212997,
-      "id": 375101
     },
     {
       "wus": 99,
@@ -7982,10 +7982,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-22 02:15:45",
+  "last": "2020-12-22 02:35:46",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27777318215,
+  "credit": 27777508272,
   "team": 212997,
   "path": "team/212997"
 }
