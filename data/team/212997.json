@@ -1,5 +1,5 @@
 {
-  "wus": 1707555,
+  "wus": 1707561,
   "donors": [
     {
       "wus": 85678,
@@ -98,18 +98,18 @@
       "id": 25596
     },
     {
-      "wus": 11220,
+      "wus": 11221,
       "name": "Spazturtle",
       "rank": 3094,
-      "credit": 455962395,
+      "credit": 455979648,
       "team": 212997,
       "id": 110967
     },
     {
-      "wus": 2061,
+      "wus": 2062,
       "name": "Rosefinch",
       "rank": 3756,
-      "credit": 370756989,
+      "credit": 371275266,
       "team": 212997,
       "id": 353337
     },
@@ -570,18 +570,18 @@
       "id": 110703
     },
     {
-      "wus": 1438,
+      "wus": 1439,
       "name": "thecoldeath",
       "rank": 29074,
-      "credit": 45901697,
+      "credit": 45946088,
       "team": 212997,
       "id": 1677725
     },
     {
-      "wus": 1764,
+      "wus": 1766,
       "name": "engiefox",
       "rank": 28774,
-      "credit": 45555067,
+      "credit": 45574922,
       "team": 212997,
       "id": 285744
     },
@@ -2106,10 +2106,10 @@
       "id": 240037
     },
     {
-      "wus": 245,
+      "wus": 246,
       "name": "AsianMonkeyz",
       "rank": 110174,
-      "credit": 5448288,
+      "credit": 5448775,
       "team": 212997,
       "id": 1825
     },
@@ -7976,16 +7976,16 @@
     }
   ],
   "rank": 50,
-  "total_teams": 255648,
+  "total_teams": 255650,
   "active_50": 227,
   "logo": "http://www.brony.team/images/BAHlarge.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-23 06:05:41",
+  "last": "2020-12-23 06:35:45",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27797493922,
+  "credit": 27798094185,
   "team": 212997,
   "path": "team/212997"
 }
