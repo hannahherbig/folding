@@ -1,5 +1,5 @@
 {
-  "wus": 1330772,
+  "wus": 1330786,
   "donors": [
     {
       "wus": 33394,
@@ -18,10 +18,10 @@
       "id": 11268
     },
     {
-      "wus": 14019,
+      "wus": 14020,
       "name": "DingoStarr",
       "rank": 2451,
-      "credit": 494877381,
+      "credit": 495019473,
       "team": 45032,
       "id": 259961
     },
@@ -74,10 +74,10 @@
       "id": 437426
     },
     {
-      "wus": 1634,
+      "wus": 1635,
       "name": "dave923875",
       "rank": 6782,
-      "credit": 228314701,
+      "credit": 228512601,
       "team": 45032,
       "id": 76217855
     },
@@ -130,10 +130,10 @@
       "id": 111890
     },
     {
-      "wus": 58387,
+      "wus": 58389,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 154286021,
+      "credit": 154289575,
       "team": 45032,
       "id": 1437
     },
@@ -186,18 +186,18 @@
       "id": 263445
     },
     {
-      "wus": 3794,
+      "wus": 3795,
       "name": "vanvoljg",
       "rank": 14232,
-      "credit": 106590945,
+      "credit": 106604885,
       "team": 45032,
       "id": 66160380
     },
     {
-      "wus": 10472,
+      "wus": 10473,
       "name": "GuyMartin",
       "rank": 13168,
-      "credit": 105513045,
+      "credit": 105518923,
       "team": 45032,
       "id": 1279891
     },
@@ -642,10 +642,10 @@
       "id": 18098
     },
     {
-      "wus": 4535,
+      "wus": 4536,
       "name": "Siguenos",
       "rank": 19292,
-      "credit": 35966660,
+      "credit": 35970670,
       "team": 45032,
       "id": 89421608
     },
@@ -1034,10 +1034,10 @@
       "id": 57396945
     },
     {
-      "wus": 2528,
+      "wus": 2529,
       "name": "AnonymousOne",
       "rank": 50873,
-      "credit": 21425948,
+      "credit": 21428048,
       "team": 45032,
       "id": 609860
     },
@@ -1082,10 +1082,10 @@
       "id": 68433695
     },
     {
-      "wus": 2751,
+      "wus": 2752,
       "name": "ineedwahwah",
       "rank": 54353,
-      "credit": 19755725,
+      "credit": 19759945,
       "team": 45032,
       "id": 69629814
     },
@@ -1442,10 +1442,10 @@
       "id": 67402812
     },
     {
-      "wus": 2021,
+      "wus": 2022,
       "name": "matt-3",
       "rank": 70922,
-      "credit": 13032840,
+      "credit": 13037379,
       "team": 45032,
       "id": 274916304
     },
@@ -1730,10 +1730,10 @@
       "id": 62231970
     },
     {
-      "wus": 1057,
+      "wus": 1058,
       "name": "Bierbraukessel",
       "rank": 81789,
-      "credit": 10332646,
+      "credit": 10336373,
       "team": 45032,
       "id": 68889139
     },
@@ -2026,10 +2026,10 @@
       "id": 75389804
     },
     {
-      "wus": 773,
+      "wus": 774,
       "name": "Segin",
       "rank": 92236,
-      "credit": 8213117,
+      "credit": 8217530,
       "team": 45032,
       "id": 64463
     },
@@ -3506,6 +3506,14 @@
       "id": 85498977
     },
     {
+      "wus": 856,
+      "name": "Nico_Greve",
+      "rank": 154313,
+      "credit": 3025021,
+      "team": 45032,
+      "id": 73450833
+    },
+    {
       "wus": 546,
       "name": "Forger7",
       "rank": 154253,
@@ -3520,14 +3528,6 @@
       "credit": 3020452,
       "team": 45032,
       "id": 1479581
-    },
-    {
-      "wus": 855,
-      "name": "Nico_Greve",
-      "rank": 154313,
-      "credit": 3018653,
-      "team": 45032,
-      "id": 73450833
     },
     {
       "wus": 49,
@@ -4938,10 +4938,10 @@
       "id": 9244849
     },
     {
-      "wus": 1440,
+      "wus": 1441,
       "name": "darose",
       "rank": 208137,
-      "credit": 1500769,
+      "credit": 1501188,
       "team": 45032,
       "id": 70149855
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2020-12-23 18:05:54",
+  "last": "2020-12-23 18:25:44",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 16030081672,
+  "credit": 16030474832,
   "team": 45032,
   "path": "team/45032"
 }
