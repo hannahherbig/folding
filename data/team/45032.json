@@ -1,5 +1,5 @@
 {
-  "wus": 1332420,
+  "wus": 1332431,
   "donors": [
     {
       "wus": 33394,
@@ -18,10 +18,10 @@
       "id": 11268
     },
     {
-      "wus": 14107,
+      "wus": 14108,
       "name": "DingoStarr",
       "rank": 2427,
-      "credit": 500985750,
+      "credit": 501005097,
       "team": 45032,
       "id": 259961
     },
@@ -82,10 +82,10 @@
       "id": 76217855
     },
     {
-      "wus": 3950,
+      "wus": 3951,
       "name": "nutzernamevergeben",
       "rank": 7221,
-      "credit": 217118149,
+      "credit": 217137405,
       "team": 45032,
       "id": 72785058
     },
@@ -130,10 +130,10 @@
       "id": 111890
     },
     {
-      "wus": 58521,
+      "wus": 58522,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 154771039,
+      "credit": 154774049,
       "team": 45032,
       "id": 1437
     },
@@ -202,10 +202,10 @@
       "id": 1279891
     },
     {
-      "wus": 4366,
+      "wus": 4367,
       "name": "Marcus_Mietz",
       "rank": 14498,
-      "credit": 104974156,
+      "credit": 105031692,
       "team": 45032,
       "id": 69174608
     },
@@ -498,10 +498,10 @@
       "id": 24471
     },
     {
-      "wus": 1835,
+      "wus": 1836,
       "name": "JPRules",
       "rank": 27031,
-      "credit": 49001041,
+      "credit": 49007139,
       "team": 45032,
       "id": 104686529
     },
@@ -642,18 +642,18 @@
       "id": 70419663
     },
     {
-      "wus": 385,
+      "wus": 386,
       "name": "jose.angel.soler.ortiz",
       "rank": 23557,
-      "credit": 36864904,
+      "credit": 36871974,
       "team": 45032,
       "id": 132010172
     },
     {
-      "wus": 4561,
+      "wus": 4562,
       "name": "Siguenos",
       "rank": 19319,
-      "credit": 36169164,
+      "credit": 36173350,
       "team": 45032,
       "id": 89421608
     },
@@ -842,10 +842,10 @@
       "id": 83215726
     },
     {
-      "wus": 2163,
+      "wus": 2164,
       "name": "curtispf",
       "rank": 43235,
-      "credit": 27333718,
+      "credit": 27345207,
       "team": 45032,
       "id": 69868369
     },
@@ -1666,10 +1666,10 @@
       "id": 62984520
     },
     {
-      "wus": 3472,
+      "wus": 3473,
       "name": "fuha",
       "rank": 78757,
-      "credit": 11010500,
+      "credit": 11010987,
       "team": 45032,
       "id": 68880952
     },
@@ -2938,10 +2938,10 @@
       "id": 69709059
     },
     {
-      "wus": 971,
+      "wus": 972,
       "name": "Southstream",
       "rank": 137362,
-      "credit": 3893588,
+      "credit": 3896102,
       "team": 45032,
       "id": 72704650
     },
@@ -3850,20 +3850,20 @@
       "id": 17643
     },
     {
+      "wus": 712,
+      "name": "amuro.ID",
+      "rank": 90136,
+      "credit": 2513163,
+      "team": 45032,
+      "id": 1217
+    },
+    {
       "wus": 73,
       "name": "Russ_Demarest",
       "rank": 167882,
       "credit": 2512258,
       "team": 45032,
       "id": 62451781
-    },
-    {
-      "wus": 711,
-      "name": "amuro.ID",
-      "rank": 90136,
-      "credit": 2511036,
-      "team": 45032,
-      "id": 1217
     },
     {
       "wus": 205,
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2020-12-25 06:55:44",
+  "last": "2020-12-25 07:15:44",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 16090563146,
+  "credit": 16090696266,
   "team": 45032,
   "path": "team/45032"
 }
