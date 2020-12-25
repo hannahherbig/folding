@@ -1,5 +1,5 @@
 {
-  "wus": 1708569,
+  "wus": 1708571,
   "donors": [
     {
       "wus": 85678,
@@ -458,10 +458,10 @@
       "id": 4317
     },
     {
-      "wus": 1250,
+      "wus": 1251,
       "name": "Naga",
       "rank": 23844,
-      "credit": 58710190,
+      "credit": 58812394,
       "team": 212997,
       "id": 84291
     },
@@ -2586,6 +2586,14 @@
       "id": 55671
     },
     {
+      "wus": 743,
+      "name": "GombaWarrior",
+      "rank": 154343,
+      "credit": 3018427,
+      "team": 212997,
+      "id": 67576005
+    },
+    {
       "wus": 1111,
       "name": "Sugargrape",
       "rank": 154596,
@@ -2600,14 +2608,6 @@
       "credit": 3015775,
       "team": 212997,
       "id": 132333
-    },
-    {
-      "wus": 742,
-      "name": "GombaWarrior",
-      "rank": 154343,
-      "credit": 3015539,
-      "team": 212997,
-      "id": 67576005
     },
     {
       "wus": 400,
@@ -7983,10 +7983,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-25 19:55:47",
+  "last": "2020-12-25 20:05:48",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27854049037,
+  "credit": 27854154129,
   "team": 212997,
   "path": "team/212997"
 }
