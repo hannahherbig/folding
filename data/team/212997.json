@@ -1,5 +1,5 @@
 {
-  "wus": 1708601,
+  "wus": 1708609,
   "donors": [
     {
       "wus": 85678,
@@ -114,10 +114,10 @@
       "id": 353337
     },
     {
-      "wus": 4343,
+      "wus": 4344,
       "name": "Lord_Nobady",
       "rank": 4232,
-      "credit": 348989963,
+      "credit": 349227654,
       "team": 212997,
       "id": 262578
     },
@@ -178,10 +178,10 @@
       "id": 49911
     },
     {
-      "wus": 2451,
+      "wus": 2452,
       "name": "Blazingcurent",
       "rank": 8589,
-      "credit": 184177630,
+      "credit": 184185396,
       "team": 212997,
       "id": 72800445
     },
@@ -218,10 +218,10 @@
       "id": 192739
     },
     {
-      "wus": 2324,
+      "wus": 2325,
       "name": "Mooseyfate",
       "rank": 9759,
-      "credit": 152434666,
+      "credit": 152438596,
       "team": 212997,
       "id": 1805628
     },
@@ -370,10 +370,10 @@
       "id": 105640
     },
     {
-      "wus": 5458,
+      "wus": 5459,
       "name": "Krebs830",
       "rank": 15692,
-      "credit": 72419034,
+      "credit": 72482900,
       "team": 212997,
       "id": 179892
     },
@@ -586,10 +586,10 @@
       "id": 110703
     },
     {
-      "wus": 1273,
+      "wus": 1274,
       "name": "H67MA",
       "rank": 29442,
-      "credit": 45569065,
+      "credit": 45910184,
       "team": 212997,
       "id": 337451
     },
@@ -1362,10 +1362,10 @@
       "id": 179671
     },
     {
-      "wus": 3612,
+      "wus": 3613,
       "name": "Zoomguy",
       "rank": 73333,
-      "credit": 12381755,
+      "credit": 12385780,
       "team": 212997,
       "id": 113839
     },
@@ -1866,10 +1866,10 @@
       "id": 336423
     },
     {
-      "wus": 340,
+      "wus": 341,
       "name": "mark_taiwan",
       "rank": 99118,
-      "credit": 7424799,
+      "credit": 7438709,
       "team": 212997,
       "id": 337800
     },
@@ -1954,6 +1954,14 @@
       "id": 101831
     },
     {
+      "wus": 295,
+      "name": "AsianMonkeyz",
+      "rank": 100045,
+      "credit": 6885473,
+      "team": 212997,
+      "id": 1825
+    },
+    {
       "wus": 2518,
       "name": "Persona",
       "rank": 102352,
@@ -1968,14 +1976,6 @@
       "credit": 6835962,
       "team": 212997,
       "id": 210444
-    },
-    {
-      "wus": 294,
-      "name": "AsianMonkeyz",
-      "rank": 100045,
-      "credit": 6746804,
-      "team": 212997,
-      "id": 1825
     },
     {
       "wus": 644,
@@ -7983,10 +7983,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-25 22:15:46",
+  "last": "2020-12-25 22:35:46",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27855837847,
+  "credit": 27856648823,
   "team": 212997,
   "path": "team/212997"
 }
