@@ -1,5 +1,5 @@
 {
-  "wus": 1709022,
+  "wus": 1709029,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 25833,
+      "wus": 25834,
       "name": "UltraTech_Command",
       "rank": 1141,
-      "credit": 1068941555,
+      "credit": 1069255576,
       "team": 212997,
       "id": 112559
     },
@@ -50,10 +50,10 @@
       "id": 109627
     },
     {
-      "wus": 19660,
+      "wus": 19662,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 1890,
-      "credit": 706658745,
+      "credit": 706728213,
       "team": 212997,
       "id": 259906
     },
@@ -514,10 +514,10 @@
       "id": 182155
     },
     {
-      "wus": 2581,
+      "wus": 2582,
       "name": "WindShear",
       "rank": 23296,
-      "credit": 50652640,
+      "credit": 50660713,
       "team": 212997,
       "id": 1736648
     },
@@ -578,6 +578,14 @@
       "id": 1677725
     },
     {
+      "wus": 1563,
+      "name": "DavidSilver",
+      "rank": 29231,
+      "credit": 46281217,
+      "team": 212997,
+      "id": 186466
+    },
+    {
       "wus": 1277,
       "name": "H67MA",
       "rank": 29198,
@@ -592,14 +600,6 @@
       "credit": 46097391,
       "team": 212997,
       "id": 110703
-    },
-    {
-      "wus": 1562,
-      "name": "DavidSilver",
-      "rank": 29231,
-      "credit": 46097285,
-      "team": 212997,
-      "id": 186466
     },
     {
       "wus": 9193,
@@ -730,10 +730,10 @@
       "id": 73049723
     },
     {
-      "wus": 2732,
+      "wus": 2733,
       "name": "Fusl",
       "rank": 34928,
-      "credit": 36765965,
+      "credit": 36769414,
       "team": 212997,
       "id": 102092
     },
@@ -1458,6 +1458,14 @@
       "id": 336702
     },
     {
+      "wus": 1201,
+      "name": "MR_FAT_GOAT",
+      "rank": 81926,
+      "credit": 10413737,
+      "team": 212997,
+      "id": 69944510
+    },
+    {
       "wus": 1431,
       "name": "kwerpi",
       "rank": 20699,
@@ -1472,14 +1480,6 @@
       "credit": 10385511,
       "team": 212997,
       "id": 176473
-    },
-    {
-      "wus": 1200,
-      "name": "MR_FAT_GOAT",
-      "rank": 81926,
-      "credit": 10291133,
-      "team": 212997,
-      "id": 69944510
     },
     {
       "wus": 6381,
@@ -7983,10 +7983,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-27 00:45:41",
+  "last": "2020-12-27 01:25:44",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27875087087,
+  "credit": 27875788634,
   "team": 212997,
   "path": "team/212997"
 }
