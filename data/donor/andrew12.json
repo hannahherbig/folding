@@ -1,6 +1,6 @@
 {
   "wus": 650,
-  "rank": 48843,
+  "rank": 48854,
   "active_50": 3,
   "path": "donor/andrew12",
   "wus_cert": "https://apps.foldingathome.org/awards?user=129494&type=wus",
@@ -41,7 +41,7 @@
       "last": "2020-12-20 19:55:24",
       "uid": 129494,
       "active_50": 3,
-      "active_7": 1,
+      "active_7": 0,
       "credit": 20436289,
       "team": 45032,
       "name": "Arch Linux"
@@ -65,6 +65,6 @@
       "name": "SAGoons"
     }
   ],
-  "active_7": 1,
+  "active_7": 0,
   "credit": 23228371
 }
