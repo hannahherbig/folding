@@ -1,5 +1,5 @@
 {
-  "wus": 1709490,
+  "wus": 1709494,
   "donors": [
     {
       "wus": 85678,
@@ -786,10 +786,10 @@
       "id": 335689
     },
     {
-      "wus": 288,
+      "wus": 289,
       "name": "divelia",
       "rank": 38780,
-      "credit": 31940352,
+      "credit": 32021349,
       "team": 212997,
       "id": 370026695
     },
@@ -818,10 +818,10 @@
       "id": 236863
     },
     {
-      "wus": 3963,
+      "wus": 3964,
       "name": "Bikerbob1016",
       "rank": 40862,
-      "credit": 29533162,
+      "credit": 29586615,
       "team": 212997,
       "id": 57894
     },
@@ -3626,6 +3626,14 @@
       "id": 107275
     },
     {
+      "wus": 41,
+      "name": "Wunderbolts",
+      "rank": 171148,
+      "credit": 1310567,
+      "team": 212997,
+      "id": 190078569
+    },
+    {
       "wus": 369,
       "name": "SciTwi",
       "rank": 220313,
@@ -3664,14 +3672,6 @@
       "credit": 1293339,
       "team": 212997,
       "id": 167935
-    },
-    {
-      "wus": 40,
-      "name": "Wunderbolts",
-      "rank": 171148,
-      "credit": 1291067,
-      "team": 212997,
-      "id": 190078569
     },
     {
       "wus": 121,
@@ -7066,6 +7066,14 @@
       "id": 179619
     },
     {
+      "wus": 70,
+      "name": "Ankorite",
+      "rank": 438307,
+      "credit": 166726,
+      "team": 212997,
+      "id": 917521
+    },
+    {
       "wus": 59,
       "name": "Dracia",
       "rank": 185407,
@@ -7088,14 +7096,6 @@
       "credit": 164901,
       "team": 212997,
       "id": 141164
-    },
-    {
-      "wus": 69,
-      "name": "Ankorite",
-      "rank": 438307,
-      "credit": 164399,
-      "team": 212997,
-      "id": 917521
     },
     {
       "wus": 647,
@@ -7983,10 +7983,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-28 03:55:51",
+  "last": "2020-12-28 04:15:54",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27899850675,
+  "credit": 27900006952,
   "team": 212997,
   "path": "team/212997"
 }
