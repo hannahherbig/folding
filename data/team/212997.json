@@ -1,5 +1,5 @@
 {
-  "wus": 1709877,
+  "wus": 1709882,
   "donors": [
     {
       "wus": 85678,
@@ -810,10 +810,10 @@
       "id": 28905
     },
     {
-      "wus": 3969,
+      "wus": 3970,
       "name": "Bikerbob1016",
       "rank": 40811,
-      "credit": 29665679,
+      "credit": 29666309,
       "team": 212997,
       "id": 57894
     },
@@ -1602,20 +1602,20 @@
       "id": 74314
     },
     {
+      "wus": 357,
+      "name": "AsianMonkeyz",
+      "rank": 84402,
+      "credit": 9376683,
+      "team": 212997,
+      "id": 1825
+    },
+    {
       "wus": 350,
       "name": "sockpuppetcow",
       "rank": 87192,
       "credit": 9323515,
       "team": 212997,
       "id": 336420
-    },
-    {
-      "wus": 355,
-      "name": "AsianMonkeyz",
-      "rank": 84402,
-      "credit": 9317434,
-      "team": 212997,
-      "id": 1825
     },
     {
       "wus": 490,
@@ -3146,20 +3146,20 @@
       "id": 241157
     },
     {
+      "wus": 1346,
+      "name": "Flyboy-z",
+      "rank": 190514,
+      "credit": 1879868,
+      "team": 212997,
+      "id": 356795
+    },
+    {
       "wus": 1836,
       "name": "TwilightCircuits",
       "rank": 190483,
       "credit": 1879393,
       "team": 212997,
       "id": 180574
-    },
-    {
-      "wus": 1345,
-      "name": "Flyboy-z",
-      "rank": 190514,
-      "credit": 1879238,
-      "team": 212997,
-      "id": 356795
     },
     {
       "wus": 1029,
@@ -7010,6 +7010,14 @@
       "id": 85640
     },
     {
+      "wus": 72,
+      "name": "Ankorite",
+      "rank": 435841,
+      "credit": 169538,
+      "team": 212997,
+      "id": 917521
+    },
+    {
       "wus": 91,
       "name": "makospince",
       "rank": 437878,
@@ -7048,14 +7056,6 @@
       "credit": 168080,
       "team": 212997,
       "id": 375139
-    },
-    {
-      "wus": 71,
-      "name": "Ankorite",
-      "rank": 435841,
-      "credit": 167928,
-      "team": 212997,
-      "id": 917521
     },
     {
       "wus": 14,
@@ -7983,10 +7983,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-29 03:25:55",
+  "last": "2020-12-29 03:45:53",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27919478425,
+  "credit": 27919540544,
   "team": 212997,
   "path": "team/212997"
 }
