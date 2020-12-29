@@ -1,5 +1,5 @@
 {
-  "wus": 1709968,
+  "wus": 1709980,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 25873,
+      "wus": 25874,
       "name": "UltraTech_Command",
       "rank": 1145,
-      "credit": 1071743536,
+      "credit": 1071746522,
       "team": 212997,
       "id": 112559
     },
@@ -106,10 +106,10 @@
       "id": 110967
     },
     {
-      "wus": 2150,
+      "wus": 2151,
       "name": "Rosefinch",
       "rank": 3483,
-      "credit": 403056036,
+      "credit": 403387819,
       "team": 212997,
       "id": 353337
     },
@@ -170,10 +170,10 @@
       "id": 76215814
     },
     {
-      "wus": 2566,
+      "wus": 2567,
       "name": "Blazingcurent",
       "rank": 8217,
-      "credit": 193922596,
+      "credit": 193934432,
       "team": 212997,
       "id": 72800445
     },
@@ -354,10 +354,10 @@
       "id": 189378
     },
     {
-      "wus": 5502,
+      "wus": 5503,
       "name": "Krebs830",
       "rank": 15566,
-      "credit": 74389445,
+      "credit": 74451256,
       "team": 212997,
       "id": 179892
     },
@@ -442,10 +442,10 @@
       "id": 166428
     },
     {
-      "wus": 11941,
+      "wus": 11942,
       "name": "MkThundrwd",
       "rank": 20968,
-      "credit": 61324474,
+      "credit": 61328625,
       "team": 212997,
       "id": 106865
     },
@@ -562,20 +562,20 @@
       "id": 69005220
     },
     {
+      "wus": 1893,
+      "name": "engiefox",
+      "rank": 28345,
+      "credit": 47177998,
+      "team": 212997,
+      "id": 285744
+    },
+    {
       "wus": 2742,
       "name": "beartwigs",
       "rank": 27630,
       "credit": 47169750,
       "team": 212997,
       "id": 98069
-    },
-    {
-      "wus": 1891,
-      "name": "engiefox",
-      "rank": 28345,
-      "credit": 47148426,
-      "team": 212997,
-      "id": 285744
     },
     {
       "wus": 1449,
@@ -602,10 +602,10 @@
       "id": 110703
     },
     {
-      "wus": 9208,
+      "wus": 9209,
       "name": "richfiles",
       "rank": 30040,
-      "credit": 44750823,
+      "credit": 44753229,
       "team": 212997,
       "id": 276171
     },
@@ -1578,10 +1578,10 @@
       "id": 101869
     },
     {
-      "wus": 363,
+      "wus": 364,
       "name": "AsianMonkeyz",
       "rank": 82601,
-      "credit": 9589346,
+      "credit": 9590346,
       "team": 212997,
       "id": 1825
     },
@@ -3026,20 +3026,20 @@
       "id": 166081
     },
     {
+      "wus": 662,
+      "name": "DJDavid98",
+      "rank": 184308,
+      "credit": 2038313,
+      "team": 212997,
+      "id": 186491
+    },
+    {
       "wus": 958,
       "name": "McKye_Carter",
       "rank": 184268,
       "credit": 2037078,
       "team": 212997,
       "id": 106441
-    },
-    {
-      "wus": 661,
-      "name": "DJDavid98",
-      "rank": 184308,
-      "credit": 2036049,
-      "team": 212997,
-      "id": 186491
     },
     {
       "wus": 34,
@@ -3146,10 +3146,10 @@
       "id": 241157
     },
     {
-      "wus": 1347,
+      "wus": 1348,
       "name": "Flyboy-z",
       "rank": 190483,
-      "credit": 1881228,
+      "credit": 1881715,
       "team": 212997,
       "id": 356795
     },
@@ -3962,6 +3962,14 @@
       "id": 232434
     },
     {
+      "wus": 48,
+      "name": "CZ_Brony",
+      "rank": 208369,
+      "credit": 1061176,
+      "team": 212997,
+      "id": 426853387
+    },
+    {
       "wus": 332,
       "name": "Zyrian",
       "rank": 239520,
@@ -4216,14 +4224,6 @@
       "credit": 941628,
       "team": 212997,
       "id": 106018
-    },
-    {
-      "wus": 47,
-      "name": "CZ_Brony",
-      "rank": 208369,
-      "credit": 935626,
-      "team": 212997,
-      "id": 426853387
     },
     {
       "wus": 261,
@@ -7983,10 +7983,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2020-12-29 09:15:57",
+  "last": "2020-12-29 10:15:40",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 27924392574,
+  "credit": 27924966420,
   "team": 212997,
   "path": "team/212997"
 }
