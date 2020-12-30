@@ -1,5 +1,5 @@
 {
-  "wus": 1337415,
+  "wus": 1337429,
   "donors": [
     {
       "wus": 33394,
@@ -18,18 +18,18 @@
       "id": 11268
     },
     {
-      "wus": 14396,
+      "wus": 14397,
       "name": "DingoStarr",
       "rank": 2360,
-      "credit": 523054500,
+      "credit": 523064595,
       "team": 45032,
       "id": 259961
     },
     {
-      "wus": 3669,
+      "wus": 3670,
       "name": "icantthinkofaname",
       "rank": 3000,
-      "credit": 479358576,
+      "credit": 479364652,
       "team": 45032,
       "id": 76200050
     },
@@ -82,10 +82,10 @@
       "id": 76217855
     },
     {
-      "wus": 4116,
+      "wus": 4117,
       "name": "nutzernamevergeben",
       "rank": 6679,
-      "credit": 235846389,
+      "credit": 235854683,
       "team": 45032,
       "id": 72785058
     },
@@ -122,10 +122,10 @@
       "id": 182459
     },
     {
-      "wus": 58843,
+      "wus": 58844,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 155760025,
+      "credit": 155760569,
       "team": 45032,
       "id": 1437
     },
@@ -146,10 +146,10 @@
       "id": 258295
     },
     {
-      "wus": 2825,
+      "wus": 2826,
       "name": "zuckeenee",
       "rank": 10623,
-      "credit": 148216502,
+      "credit": 148231687,
       "team": 45032,
       "id": 67298257
     },
@@ -194,18 +194,18 @@
       "id": 66160380
     },
     {
-      "wus": 10755,
+      "wus": 10756,
       "name": "GuyMartin",
       "rank": 13027,
-      "credit": 108750784,
+      "credit": 108756634,
       "team": 45032,
       "id": 1279891
     },
     {
-      "wus": 4427,
+      "wus": 4428,
       "name": "Marcus_Mietz",
       "rank": 14362,
-      "credit": 107333233,
+      "credit": 107350811,
       "team": 45032,
       "id": 69174608
     },
@@ -346,10 +346,10 @@
       "id": 16178826
     },
     {
-      "wus": 25132,
+      "wus": 25133,
       "name": "paul2lv",
       "rank": 22366,
-      "credit": 64329406,
+      "credit": 64332274,
       "team": 45032,
       "id": 19165
     },
@@ -370,10 +370,10 @@
       "id": 350229
     },
     {
-      "wus": 4136,
+      "wus": 4137,
       "name": "Merlock",
       "rank": 23214,
-      "credit": 61414915,
+      "credit": 61422119,
       "team": 45032,
       "id": 1448013
     },
@@ -866,10 +866,10 @@
       "id": 986403
     },
     {
-      "wus": 1704,
+      "wus": 1705,
       "name": "DMC",
       "rank": 38501,
-      "credit": 27534257,
+      "credit": 27537595,
       "team": 45032,
       "id": 396535
     },
@@ -1402,10 +1402,10 @@
       "id": 20497
     },
     {
-      "wus": 2671,
+      "wus": 2672,
       "name": "naxinz",
       "rank": 65997,
-      "credit": 13933585,
+      "credit": 13946935,
       "team": 45032,
       "id": 17691
     },
@@ -1450,20 +1450,20 @@
       "id": 274916304
     },
     {
+      "wus": 476,
+      "name": "sdelang",
+      "rank": 71244,
+      "credit": 13220415,
+      "team": 45032,
+      "id": 52673385
+    },
+    {
       "wus": 652,
       "name": "columbarius",
       "rank": 70877,
       "credit": 13177102,
       "team": 45032,
       "id": 67402812
-    },
-    {
-      "wus": 475,
-      "name": "sdelang",
-      "rank": 71244,
-      "credit": 13061892,
-      "team": 45032,
-      "id": 52673385
     },
     {
       "wus": 1131,
@@ -4986,10 +4986,10 @@
       "id": 66594151
     },
     {
-      "wus": 1157,
+      "wus": 1158,
       "name": "squiddo",
       "rank": 73162,
-      "credit": 1495015,
+      "credit": 1495502,
       "team": 45032,
       "id": 82595692
     },
@@ -5762,10 +5762,10 @@
       "id": 1514186
     },
     {
-      "wus": 872,
+      "wus": 873,
       "name": "KaibutsuX",
       "rank": 235988,
-      "credit": 1099583,
+      "credit": 1100070,
       "team": 45032,
       "id": 78727955
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2020-12-29 23:25:54",
+  "last": "2020-12-29 23:55:47",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 16284032549,
+  "credit": 16284282428,
   "team": 45032,
   "path": "team/45032"
 }
