@@ -1,5 +1,5 @@
 {
-  "wus": 1339310,
+  "wus": 1339321,
   "donors": [
     {
       "wus": 33394,
@@ -26,10 +26,10 @@
       "id": 259961
     },
     {
-      "wus": 3757,
+      "wus": 3758,
       "name": "icantthinkofaname",
       "rank": 3016,
-      "credit": 480290702,
+      "credit": 480309939,
       "team": 45032,
       "id": 76200050
     },
@@ -58,10 +58,10 @@
       "id": 67567267
     },
     {
-      "wus": 1163,
+      "wus": 1164,
       "name": "Berdes",
       "rank": 4717,
-      "credit": 315414043,
+      "credit": 315994837,
       "team": 45032,
       "id": 2542
     },
@@ -122,10 +122,10 @@
       "id": 182459
     },
     {
-      "wus": 59021,
+      "wus": 59022,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 156242717,
+      "credit": 156243583,
       "team": 45032,
       "id": 1437
     },
@@ -186,10 +186,10 @@
       "id": 263445
     },
     {
-      "wus": 3873,
+      "wus": 3874,
       "name": "vanvoljg",
       "rank": 14051,
-      "credit": 110261597,
+      "credit": 110326986,
       "team": 45032,
       "id": 66160380
     },
@@ -386,10 +386,10 @@
       "id": 38609
     },
     {
-      "wus": 596,
+      "wus": 597,
       "name": "jose.angel.soler.ortiz",
       "rank": 17989,
-      "credit": 60647402,
+      "credit": 60658975,
       "team": 45032,
       "id": 132010172
     },
@@ -650,10 +650,10 @@
       "id": 70419663
     },
     {
-      "wus": 4711,
+      "wus": 4712,
       "name": "Siguenos",
       "rank": 19384,
-      "credit": 36990252,
+      "credit": 36993695,
       "team": 45032,
       "id": 89421608
     },
@@ -746,10 +746,10 @@
       "id": 68637453
     },
     {
-      "wus": 2232,
+      "wus": 2233,
       "name": "curtispf",
       "rank": 38782,
-      "credit": 32153116,
+      "credit": 32155997,
       "team": 45032,
       "id": 69868369
     },
@@ -1458,10 +1458,10 @@
       "id": 73073798
     },
     {
-      "wus": 1147,
+      "wus": 1148,
       "name": "lambda512",
       "rank": 70580,
-      "credit": 13313773,
+      "credit": 13322134,
       "team": 45032,
       "id": 68345978
     },
@@ -1674,10 +1674,10 @@
       "id": 129715862
     },
     {
-      "wus": 3588,
+      "wus": 3589,
       "name": "fuha",
       "rank": 78708,
-      "credit": 11129454,
+      "credit": 11129873,
       "team": 45032,
       "id": 68880952
     },
@@ -1762,6 +1762,14 @@
       "id": 45028680
     },
     {
+      "wus": 353,
+      "name": "ElectronPunt",
+      "rank": 83510,
+      "credit": 10244912,
+      "team": 45032,
+      "id": 77021666
+    },
+    {
       "wus": 1283,
       "name": "16CowvxvLSR4BPEP9KJZiR622UU7hGEce5",
       "rank": 69694,
@@ -1792,14 +1800,6 @@
       "credit": 10149076,
       "team": 45032,
       "id": 72396937
-    },
-    {
-      "wus": 352,
-      "name": "ElectronPunt",
-      "rank": 83510,
-      "credit": 10106430,
-      "team": 45032,
-      "id": 77021666
     },
     {
       "wus": 611,
@@ -3546,10 +3546,10 @@
       "id": 72520177
     },
     {
-      "wus": 2607,
+      "wus": 2608,
       "name": "lordheavy",
       "rank": 135421,
-      "credit": 3035803,
+      "credit": 3036669,
       "team": 45032,
       "id": 1410846
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2020-12-31 22:15:51",
+  "last": "2020-12-31 22:35:57",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 16347668528,
+  "credit": 16348500839,
   "team": 45032,
   "path": "team/45032"
 }
