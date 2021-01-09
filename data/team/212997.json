@@ -1,5 +1,5 @@
 {
-  "wus": 1714250,
+  "wus": 1714287,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26104,
+      "wus": 26105,
       "name": "UltraTech_Command",
       "rank": 1159,
-      "credit": 1084569742,
+      "credit": 1084572536,
       "team": 212997,
       "id": 112559
     },
@@ -50,17 +50,17 @@
       "id": 109627
     },
     {
-      "wus": 19854,
+      "wus": 19855,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
-      "rank": 1939,
-      "credit": 716173850,
+      "rank": 1940,
+      "credit": 716176702,
       "team": 212997,
       "id": 259906
     },
     {
       "wus": 15890,
       "name": "lonoxmont",
-      "rank": 1984,
+      "rank": 1985,
       "credit": 702516272,
       "team": 212997,
       "id": 226653
@@ -68,16 +68,16 @@
     {
       "wus": 13410,
       "name": "sandwich",
-      "rank": 1334,
+      "rank": 1335,
       "credit": 584876315,
       "team": 212997,
       "id": 79012
     },
     {
-      "wus": 14213,
+      "wus": 14214,
       "name": "stevepoppers",
       "rank": 2572,
-      "credit": 564154700,
+      "credit": 564247416,
       "team": 212997,
       "id": 250480
     },
@@ -90,6 +90,14 @@
       "id": 98167
     },
     {
+      "wus": 2315,
+      "name": "Rosefinch",
+      "rank": 3054,
+      "credit": 472762235,
+      "team": 212997,
+      "id": 353337
+    },
+    {
       "wus": 13736,
       "name": "tiwake",
       "rank": 3145,
@@ -98,18 +106,10 @@
       "id": 25596
     },
     {
-      "wus": 2312,
-      "name": "Rosefinch",
-      "rank": 3061,
-      "credit": 471414998,
-      "team": 212997,
-      "id": 353337
-    },
-    {
-      "wus": 11264,
+      "wus": 11265,
       "name": "Spazturtle",
-      "rank": 3217,
-      "credit": 461607339,
+      "rank": 3218,
+      "credit": 461702593,
       "team": 212997,
       "id": 110967
     },
@@ -124,23 +124,23 @@
     {
       "wus": 8657,
       "name": "KTOdius",
-      "rank": 5182,
+      "rank": 5183,
       "credit": 304421494,
       "team": 212997,
       "id": 105137
     },
     {
-      "wus": 17563,
+      "wus": 17566,
       "name": "CowgirlKaboom",
-      "rank": 6517,
-      "credit": 247643175,
+      "rank": 6518,
+      "credit": 247655214,
       "team": 212997,
       "id": 259489
     },
     {
       "wus": 3395,
       "name": "BreakPoint",
-      "rank": 6047,
+      "rank": 6051,
       "credit": 243056442,
       "team": 212997,
       "id": 255406
@@ -148,23 +148,23 @@
     {
       "wus": 8435,
       "name": "Justino",
-      "rank": 7507,
+      "rank": 7510,
       "credit": 216797660,
       "team": 212997,
       "id": 188984
     },
     {
-      "wus": 2821,
+      "wus": 2823,
       "name": "Blazingcurent",
-      "rank": 7705,
-      "credit": 213074884,
+      "rank": 7697,
+      "credit": 213228115,
       "team": 212997,
       "id": 72800445
     },
     {
       "wus": 1583,
       "name": "Tsukaji",
-      "rank": 8018,
+      "rank": 8022,
       "credit": 204711853,
       "team": 212997,
       "id": 220733
@@ -172,23 +172,23 @@
     {
       "wus": 2165,
       "name": "Scourgemancer",
-      "rank": 8288,
+      "rank": 8295,
       "credit": 198394937,
       "team": 212997,
       "id": 76215814
     },
     {
-      "wus": 6670,
+      "wus": 6671,
       "name": "GTX",
-      "rank": 8221,
-      "credit": 197065934,
+      "rank": 8217,
+      "credit": 197150773,
       "team": 212997,
       "id": 49911
     },
     {
       "wus": 4832,
       "name": "Peach_Hack",
-      "rank": 9281,
+      "rank": 9285,
       "credit": 176542744,
       "team": 212997,
       "id": 336175
@@ -196,7 +196,7 @@
     {
       "wus": 6972,
       "name": "benjamindjb",
-      "rank": 10056,
+      "rank": 10060,
       "credit": 160318604,
       "team": 212997,
       "id": 163671
@@ -204,7 +204,7 @@
     {
       "wus": 2410,
       "name": "Mooseyfate",
-      "rank": 9829,
+      "rank": 9832,
       "credit": 157544474,
       "team": 212997,
       "id": 1805628
@@ -212,7 +212,7 @@
     {
       "wus": 1352,
       "name": "rsNeutrino",
-      "rank": 10453,
+      "rank": 10454,
       "credit": 155007578,
       "team": 212997,
       "id": 336302
@@ -220,7 +220,7 @@
     {
       "wus": 3712,
       "name": "Rainboom_Dash",
-      "rank": 10592,
+      "rank": 10594,
       "credit": 153069711,
       "team": 212997,
       "id": 192739
@@ -228,7 +228,7 @@
     {
       "wus": 4999,
       "name": "Pinormous",
-      "rank": 11177,
+      "rank": 11181,
       "credit": 144362944,
       "team": 212997,
       "id": 63557
@@ -236,7 +236,7 @@
     {
       "wus": 1888,
       "name": "DayBat",
-      "rank": 11716,
+      "rank": 11719,
       "credit": 137266902,
       "team": 212997,
       "id": 68769379
@@ -244,7 +244,7 @@
     {
       "wus": 10446,
       "name": "bronyracer",
-      "rank": 10155,
+      "rank": 10156,
       "credit": 131515567,
       "team": 212997,
       "id": 98688
@@ -252,7 +252,7 @@
     {
       "wus": 3307,
       "name": "MelodyChaser",
-      "rank": 12776,
+      "rank": 12778,
       "credit": 125028123,
       "team": 212997,
       "id": 263013
@@ -260,23 +260,23 @@
     {
       "wus": 11085,
       "name": "ps17473",
-      "rank": 13562,
+      "rank": 13566,
       "credit": 116866211,
       "team": 212997,
       "id": 177405
     },
     {
-      "wus": 3931,
+      "wus": 3933,
       "name": "Chronophaser",
-      "rank": 13837,
-      "credit": 114912414,
+      "rank": 13797,
+      "credit": 115194399,
       "team": 212997,
       "id": 69517169
     },
     {
       "wus": 2958,
       "name": "Indeedicus",
-      "rank": 14230,
+      "rank": 14235,
       "credit": 110968206,
       "team": 212997,
       "id": 103411
@@ -284,7 +284,7 @@
     {
       "wus": 4589,
       "name": "greenmeanies",
-      "rank": 14484,
+      "rank": 14488,
       "credit": 108753945,
       "team": 212997,
       "id": 194636
@@ -292,7 +292,7 @@
     {
       "wus": 7842,
       "name": "Ruthalas",
-      "rank": 14378,
+      "rank": 14382,
       "credit": 106343679,
       "team": 212997,
       "id": 109842
@@ -300,7 +300,7 @@
     {
       "wus": 3180,
       "name": "CyberPon3",
-      "rank": 14831,
+      "rank": 14837,
       "credit": 106029860,
       "team": 212997,
       "id": 188554
@@ -308,7 +308,7 @@
     {
       "wus": 4682,
       "name": "EZM",
-      "rank": 16856,
+      "rank": 16860,
       "credit": 92307290,
       "team": 212997,
       "id": 190569
@@ -316,23 +316,23 @@
     {
       "wus": 3473,
       "name": "IronyDragon",
-      "rank": 17132,
+      "rank": 17136,
       "credit": 86027972,
       "team": 212997,
       "id": 279471
     },
     {
-      "wus": 6228,
+      "wus": 6229,
       "name": "MichaelXX2",
-      "rank": 18137,
-      "credit": 82237478,
+      "rank": 18124,
+      "credit": 82363028,
       "team": 212997,
       "id": 189161
     },
     {
       "wus": 3241,
       "name": "Sturds",
-      "rank": 18958,
+      "rank": 18960,
       "credit": 80231217,
       "team": 212997,
       "id": 180468
@@ -340,7 +340,7 @@
     {
       "wus": 5537,
       "name": "Krebs830",
-      "rank": 15761,
+      "rank": 15764,
       "credit": 75792052,
       "team": 212997,
       "id": 179892
@@ -348,7 +348,7 @@
     {
       "wus": 3455,
       "name": "Blackfell",
-      "rank": 19555,
+      "rank": 19561,
       "credit": 75668217,
       "team": 212997,
       "id": 335059
@@ -356,7 +356,7 @@
     {
       "wus": 6198,
       "name": "RichPint",
-      "rank": 20150,
+      "rank": 20155,
       "credit": 74458568,
       "team": 212997,
       "id": 189378
@@ -364,7 +364,7 @@
     {
       "wus": 4380,
       "name": "Minuette",
-      "rank": 20218,
+      "rank": 20220,
       "credit": 74174489,
       "team": 212997,
       "id": 106796
@@ -372,7 +372,7 @@
     {
       "wus": 1988,
       "name": "lolz_97_BAU",
-      "rank": 20446,
+      "rank": 20451,
       "credit": 73348295,
       "team": 212997,
       "id": 105640
@@ -380,7 +380,7 @@
     {
       "wus": 1907,
       "name": "Tsa6",
-      "rank": 20571,
+      "rank": 20577,
       "credit": 71684734,
       "team": 212997,
       "id": 265973
@@ -388,7 +388,7 @@
     {
       "wus": 2905,
       "name": "seatsea",
-      "rank": 20884,
+      "rank": 20886,
       "credit": 71549943,
       "team": 212997,
       "id": 167961
@@ -396,7 +396,7 @@
     {
       "wus": 9869,
       "name": "Larscis",
-      "rank": 20868,
+      "rank": 20871,
       "credit": 68579544,
       "team": 212997,
       "id": 14371
@@ -404,23 +404,23 @@
     {
       "wus": 1084,
       "name": "Tehlizard",
-      "rank": 10204,
+      "rank": 10206,
       "credit": 68521921,
       "team": 212997,
       "id": 111662
     },
     {
-      "wus": 1403,
+      "wus": 1404,
       "name": "Naga",
-      "rank": 21969,
-      "credit": 66949065,
+      "rank": 21978,
+      "credit": 67046860,
       "team": 212997,
       "id": 84291
     },
     {
       "wus": 1514,
       "name": "Deltalizer",
-      "rank": 22665,
+      "rank": 22667,
       "credit": 64831215,
       "team": 212997,
       "id": 259861
@@ -428,7 +428,7 @@
     {
       "wus": 5734,
       "name": "Pinkie_Swirl",
-      "rank": 23256,
+      "rank": 23259,
       "credit": 62755318,
       "team": 212997,
       "id": 108642
@@ -436,7 +436,7 @@
     {
       "wus": 12063,
       "name": "MkThundrwd",
-      "rank": 21078,
+      "rank": 21083,
       "credit": 62668039,
       "team": 212997,
       "id": 106865
@@ -444,7 +444,7 @@
     {
       "wus": 6340,
       "name": "Ozzatron",
-      "rank": 23402,
+      "rank": 23405,
       "credit": 62223053,
       "team": 212997,
       "id": 108167
@@ -452,7 +452,7 @@
     {
       "wus": 5419,
       "name": "FiZ",
-      "rank": 15523,
+      "rank": 15527,
       "credit": 61491350,
       "team": 212997,
       "id": 166428
@@ -460,7 +460,7 @@
     {
       "wus": 2465,
       "name": "Chief_Tyrol",
-      "rank": 23862,
+      "rank": 23869,
       "credit": 60831396,
       "team": 212997,
       "id": 4317
@@ -468,7 +468,7 @@
     {
       "wus": 2002,
       "name": "AppleDash",
-      "rank": 25078,
+      "rank": 25082,
       "credit": 57279987,
       "team": 212997,
       "id": 237207
@@ -476,7 +476,7 @@
     {
       "wus": 3982,
       "name": "Schwabanator",
-      "rank": 25272,
+      "rank": 25282,
       "credit": 56802930,
       "team": 212997,
       "id": 110122
@@ -484,23 +484,23 @@
     {
       "wus": 2229,
       "name": "MOONLiGHT",
-      "rank": 5730,
+      "rank": 5734,
       "credit": 56012239,
       "team": 212997,
       "id": 62728
     },
     {
-      "wus": 2764,
+      "wus": 2767,
       "name": "WindShear",
-      "rank": 22435,
-      "credit": 55512113,
+      "rank": 22409,
+      "credit": 55538354,
       "team": 212997,
       "id": 1736648
     },
     {
       "wus": 2543,
       "name": "enginemaniac",
-      "rank": 25999,
+      "rank": 26007,
       "credit": 54886418,
       "team": 212997,
       "id": 138619
@@ -508,7 +508,7 @@
     {
       "wus": 1722,
       "name": "DavidSilver",
-      "rank": 26565,
+      "rank": 26573,
       "credit": 53423039,
       "team": 212997,
       "id": 186466
@@ -516,7 +516,7 @@
     {
       "wus": 1499,
       "name": "aethe",
-      "rank": 26736,
+      "rank": 26739,
       "credit": 53058026,
       "team": 212997,
       "id": 334903
@@ -524,23 +524,23 @@
     {
       "wus": 4456,
       "name": "9x18",
-      "rank": 27203,
+      "rank": 27210,
       "credit": 51916231,
       "team": 212997,
       "id": 182155
     },
     {
-      "wus": 2458,
+      "wus": 2460,
       "name": "CycloneDusk",
-      "rank": 27602,
-      "credit": 50986841,
+      "rank": 27606,
+      "credit": 51112841,
       "team": 212997,
       "id": 69005220
     },
     {
       "wus": 2204,
       "name": "engiefox",
-      "rank": 27157,
+      "rank": 27159,
       "credit": 50983634,
       "team": 212997,
       "id": 285744
@@ -548,7 +548,7 @@
     {
       "wus": 769,
       "name": "Starfflame",
-      "rank": 27876,
+      "rank": 27882,
       "credit": 50381447,
       "team": 212997,
       "id": 68886363
@@ -556,23 +556,23 @@
     {
       "wus": 1686,
       "name": "DeadMansReach",
-      "rank": 28199,
+      "rank": 28205,
       "credit": 49580878,
       "team": 212997,
       "id": 172844
     },
     {
-      "wus": 1466,
+      "wus": 1467,
       "name": "thecoldeath",
-      "rank": 28314,
-      "credit": 49151288,
+      "rank": 28316,
+      "credit": 49290171,
       "team": 212997,
       "id": 1677725
     },
     {
       "wus": 384,
       "name": "Bpendragon",
-      "rank": 28910,
+      "rank": 28915,
       "credit": 48055212,
       "team": 212997,
       "id": 638027
@@ -580,7 +580,7 @@
     {
       "wus": 1297,
       "name": "H67MA",
-      "rank": 28911,
+      "rank": 28917,
       "credit": 48052135,
       "team": 212997,
       "id": 337451
@@ -588,7 +588,7 @@
     {
       "wus": 2742,
       "name": "beartwigs",
-      "rank": 28162,
+      "rank": 28169,
       "credit": 47169750,
       "team": 212997,
       "id": 98069
@@ -596,7 +596,7 @@
     {
       "wus": 2623,
       "name": "Slaigh",
-      "rank": 29892,
+      "rank": 29897,
       "credit": 46097391,
       "team": 212997,
       "id": 110703
@@ -604,7 +604,7 @@
     {
       "wus": 9259,
       "name": "richfiles",
-      "rank": 30417,
+      "rank": 30425,
       "credit": 45098970,
       "team": 212997,
       "id": 276171
@@ -612,7 +612,7 @@
     {
       "wus": 357,
       "name": "zbaco",
-      "rank": 28741,
+      "rank": 28745,
       "credit": 44609253,
       "team": 212997,
       "id": 9034933
@@ -620,7 +620,7 @@
     {
       "wus": 1854,
       "name": "BlueOrbit",
-      "rank": 30906,
+      "rank": 30909,
       "credit": 44143404,
       "team": 212997,
       "id": 249368
@@ -628,7 +628,7 @@
     {
       "wus": 3797,
       "name": "obsidian_monkey",
-      "rank": 30922,
+      "rank": 30928,
       "credit": 44026777,
       "team": 212997,
       "id": 168694
@@ -636,7 +636,7 @@
     {
       "wus": 3122,
       "name": "CyberFoxx",
-      "rank": 27082,
+      "rank": 27087,
       "credit": 42900862,
       "team": 212997,
       "id": 34478
@@ -644,7 +644,7 @@
     {
       "wus": 1085,
       "name": "DankSquad",
-      "rank": 33281,
+      "rank": 33287,
       "credit": 40138839,
       "team": 212997,
       "id": 188567
@@ -652,23 +652,23 @@
     {
       "wus": 635,
       "name": "LordofDorkness",
-      "rank": 33363,
+      "rank": 33375,
       "credit": 39807026,
       "team": 212997,
       "id": 73548575
     },
     {
-      "wus": 6892,
+      "wus": 6893,
       "name": "D13RPY",
-      "rank": 33534,
-      "credit": 39755619,
+      "rank": 33540,
+      "credit": 39757759,
       "team": 212997,
       "id": 99869
     },
     {
       "wus": 1198,
       "name": "NightSkyPGSI",
-      "rank": 33603,
+      "rank": 33608,
       "credit": 39651128,
       "team": 212997,
       "id": 336103
@@ -676,7 +676,7 @@
     {
       "wus": 566,
       "name": "greyfade",
-      "rank": 30240,
+      "rank": 30249,
       "credit": 38839348,
       "team": 212997,
       "id": 9948
@@ -684,7 +684,7 @@
     {
       "wus": 10369,
       "name": "Athgaar",
-      "rank": 34303,
+      "rank": 34309,
       "credit": 38571125,
       "team": 212997,
       "id": 97641
@@ -692,7 +692,7 @@
     {
       "wus": 7758,
       "name": "Kage_No_Shi",
-      "rank": 34524,
+      "rank": 34530,
       "credit": 38222377,
       "team": 212997,
       "id": 104588
@@ -700,7 +700,7 @@
     {
       "wus": 774,
       "name": "Elon_Musk",
-      "rank": 34914,
+      "rank": 34921,
       "credit": 37699746,
       "team": 212997,
       "id": 335392
@@ -708,7 +708,7 @@
     {
       "wus": 6024,
       "name": "StaCT13",
-      "rank": 32476,
+      "rank": 32479,
       "credit": 37440429,
       "team": 212997,
       "id": 23876
@@ -716,7 +716,7 @@
     {
       "wus": 3160,
       "name": "tylerspyler",
-      "rank": 26517,
+      "rank": 26520,
       "credit": 37216184,
       "team": 212997,
       "id": 336594
@@ -724,7 +724,7 @@
     {
       "wus": 745,
       "name": "SteffyOZK",
-      "rank": 35304,
+      "rank": 35305,
       "credit": 37162964,
       "team": 212997,
       "id": 73049723
@@ -732,23 +732,23 @@
     {
       "wus": 2754,
       "name": "Fusl",
-      "rank": 35510,
+      "rank": 35519,
       "credit": 36873361,
       "team": 212997,
       "id": 102092
     },
     {
-      "wus": 6364,
+      "wus": 6366,
       "name": "TwistedKestrel",
-      "rank": 36386,
-      "credit": 35535007,
+      "rank": 36383,
+      "credit": 35548171,
       "team": 212997,
       "id": 112469
     },
     {
       "wus": 7608,
       "name": "Lee_DiPaolo",
-      "rank": 35769,
+      "rank": 35772,
       "credit": 35161438,
       "team": 212997,
       "id": 14532
@@ -756,7 +756,7 @@
     {
       "wus": 306,
       "name": "divelia",
-      "rank": 37576,
+      "rank": 37588,
       "credit": 34115441,
       "team": 212997,
       "id": 370026695
@@ -764,7 +764,7 @@
     {
       "wus": 1963,
       "name": "Alca7raz",
-      "rank": 38092,
+      "rank": 38101,
       "credit": 33439092,
       "team": 212997,
       "id": 174419
@@ -772,7 +772,7 @@
     {
       "wus": 9245,
       "name": "Colgate",
-      "rank": 39098,
+      "rank": 39105,
       "credit": 32305341,
       "team": 212997,
       "id": 4795
@@ -780,7 +780,7 @@
     {
       "wus": 454,
       "name": "Speedox12",
-      "rank": 39128,
+      "rank": 39132,
       "credit": 32280309,
       "team": 212997,
       "id": 280567
@@ -788,7 +788,7 @@
     {
       "wus": 935,
       "name": "jimova",
-      "rank": 29865,
+      "rank": 29868,
       "credit": 32053124,
       "team": 212997,
       "id": 335689
@@ -796,7 +796,7 @@
     {
       "wus": 1079,
       "name": "nateious",
-      "rank": 40206,
+      "rank": 40208,
       "credit": 31106265,
       "team": 212997,
       "id": 336071
@@ -804,7 +804,7 @@
     {
       "wus": 4049,
       "name": "Bikerbob1016",
-      "rank": 40142,
+      "rank": 40130,
       "credit": 31031232,
       "team": 212997,
       "id": 57894
@@ -812,7 +812,7 @@
     {
       "wus": 6590,
       "name": "\\TG/_Demose",
-      "rank": 39887,
+      "rank": 39898,
       "credit": 30995976,
       "team": 212997,
       "id": 28905
@@ -820,7 +820,7 @@
     {
       "wus": 1085,
       "name": "Talifan9",
-      "rank": 22403,
+      "rank": 22407,
       "credit": 29637595,
       "team": 212997,
       "id": 236863
@@ -828,7 +828,7 @@
     {
       "wus": 788,
       "name": "Jetbird08",
-      "rank": 41832,
+      "rank": 41836,
       "credit": 29438487,
       "team": 212997,
       "id": 332909
@@ -836,7 +836,7 @@
     {
       "wus": 3839,
       "name": "tyyppix",
-      "rank": 42024,
+      "rank": 42026,
       "credit": 29261392,
       "team": 212997,
       "id": 189630
@@ -844,7 +844,7 @@
     {
       "wus": 15424,
       "name": "SweetSkies",
-      "rank": 42137,
+      "rank": 42141,
       "credit": 29147158,
       "team": 212997,
       "id": 184277
@@ -852,7 +852,7 @@
     {
       "wus": 7355,
       "name": "vman315",
-      "rank": 42193,
+      "rank": 42195,
       "credit": 28825731,
       "team": 212997,
       "id": 112925
@@ -860,7 +860,7 @@
     {
       "wus": 782,
       "name": "FeldwebelBrony",
-      "rank": 42550,
+      "rank": 42556,
       "credit": 28725110,
       "team": 212997,
       "id": 194452
@@ -868,7 +868,7 @@
     {
       "wus": 2334,
       "name": "Zosimos",
-      "rank": 43353,
+      "rank": 43156,
       "credit": 28170569,
       "team": 212997,
       "id": 347284
@@ -876,7 +876,7 @@
     {
       "wus": 10489,
       "name": "mocan",
-      "rank": 39921,
+      "rank": 39931,
       "credit": 28153650,
       "team": 212997,
       "id": 62687
@@ -884,7 +884,7 @@
     {
       "wus": 10250,
       "name": "OtakuMegane",
-      "rank": 42511,
+      "rank": 42517,
       "credit": 27720379,
       "team": 212997,
       "id": 18847
@@ -892,7 +892,7 @@
     {
       "wus": 1608,
       "name": "IdhrenLives",
-      "rank": 45018,
+      "rank": 45025,
       "credit": 26608793,
       "team": 212997,
       "id": 335601
@@ -900,7 +900,7 @@
     {
       "wus": 649,
       "name": "IG-64",
-      "rank": 45533,
+      "rank": 45540,
       "credit": 26196149,
       "team": 212997,
       "id": 335608
@@ -916,7 +916,7 @@
     {
       "wus": 1133,
       "name": "Snowblind",
-      "rank": 46187,
+      "rank": 46196,
       "credit": 25683204,
       "team": 212997,
       "id": 336419
@@ -924,7 +924,7 @@
     {
       "wus": 332,
       "name": "OmniDusk",
-      "rank": 46897,
+      "rank": 46900,
       "credit": 25144565,
       "team": 212997,
       "id": 72817480
@@ -932,7 +932,7 @@
     {
       "wus": 438,
       "name": "JABenson",
-      "rank": 47541,
+      "rank": 47546,
       "credit": 24676756,
       "team": 212997,
       "id": 41704081
@@ -940,7 +940,7 @@
     {
       "wus": 3267,
       "name": "handyj443",
-      "rank": 47656,
+      "rank": 47664,
       "credit": 24597730,
       "team": 212997,
       "id": 231192
@@ -948,7 +948,7 @@
     {
       "wus": 3415,
       "name": "Luis_GT",
-      "rank": 22807,
+      "rank": 22816,
       "credit": 24227269,
       "team": 212997,
       "id": 105779
@@ -956,7 +956,7 @@
     {
       "wus": 547,
       "name": "VigWatch",
-      "rank": 48608,
+      "rank": 48616,
       "credit": 23922420,
       "team": 212997,
       "id": 67704955
@@ -964,23 +964,23 @@
     {
       "wus": 1529,
       "name": "Onerius",
-      "rank": 48667,
+      "rank": 48675,
       "credit": 23881278,
       "team": 212997,
       "id": 233234
     },
     {
-      "wus": 854,
+      "wus": 855,
       "name": "Rosiepon",
-      "rank": 46503,
-      "credit": 23545815,
+      "rank": 46510,
+      "credit": 23600215,
       "team": 212997,
       "id": 66695747
     },
     {
       "wus": 2184,
       "name": "Pillenius",
-      "rank": 29119,
+      "rank": 29124,
       "credit": 23339024,
       "team": 212997,
       "id": 353212
@@ -988,7 +988,7 @@
     {
       "wus": 680,
       "name": "CopperGear",
-      "rank": 49844,
+      "rank": 49850,
       "credit": 23058246,
       "team": 212997,
       "id": 335181
@@ -996,7 +996,7 @@
     {
       "wus": 12072,
       "name": "Nightsun33",
-      "rank": 50340,
+      "rank": 50349,
       "credit": 22734204,
       "team": 212997,
       "id": 195655
@@ -1004,7 +1004,7 @@
     {
       "wus": 658,
       "name": "noonespecific",
-      "rank": 31593,
+      "rank": 31597,
       "credit": 22265896,
       "team": 212997,
       "id": 336124
@@ -1012,7 +1012,7 @@
     {
       "wus": 2433,
       "name": "BackgroundPony",
-      "rank": 53076,
+      "rank": 53081,
       "credit": 21070167,
       "team": 212997,
       "id": 129704
@@ -1020,7 +1020,7 @@
     {
       "wus": 13759,
       "name": "arisklapachi",
-      "rank": 53354,
+      "rank": 53361,
       "credit": 20911944,
       "team": 212997,
       "id": 97527
@@ -1028,7 +1028,7 @@
     {
       "wus": 197,
       "name": "majorponk",
-      "rank": 53796,
+      "rank": 53802,
       "credit": 20672998,
       "team": 212997,
       "id": 37727132
@@ -1036,7 +1036,7 @@
     {
       "wus": 912,
       "name": "LunixVandal",
-      "rank": 51016,
+      "rank": 51020,
       "credit": 20641289,
       "team": 212997,
       "id": 105813
@@ -1044,7 +1044,7 @@
     {
       "wus": 449,
       "name": "FinalplayerRyu",
-      "rank": 50460,
+      "rank": 50469,
       "credit": 20409125,
       "team": 212997,
       "id": 335455
@@ -1052,7 +1052,7 @@
     {
       "wus": 1157,
       "name": "DJ-Otakon",
-      "rank": 54761,
+      "rank": 54769,
       "credit": 20120597,
       "team": 212997,
       "id": 100584
@@ -1060,7 +1060,7 @@
     {
       "wus": 3818,
       "name": "Beatfox",
-      "rank": 55572,
+      "rank": 55576,
       "credit": 19651213,
       "team": 212997,
       "id": 98076
@@ -1068,7 +1068,7 @@
     {
       "wus": 398,
       "name": "Phoenix",
-      "rank": 7313,
+      "rank": 7316,
       "credit": 19209020,
       "team": 212997,
       "id": 82560
@@ -1076,7 +1076,7 @@
     {
       "wus": 1770,
       "name": "Krystal_Flores",
-      "rank": 56833,
+      "rank": 56840,
       "credit": 18986632,
       "team": 212997,
       "id": 181567
@@ -1084,7 +1084,7 @@
     {
       "wus": 312,
       "name": "RB",
-      "rank": 14680,
+      "rank": 14684,
       "credit": 18392143,
       "team": 212997,
       "id": 63909
@@ -1092,7 +1092,7 @@
     {
       "wus": 8986,
       "name": "Whatsapokemon",
-      "rank": 58169,
+      "rank": 58181,
       "credit": 18274395,
       "team": 212997,
       "id": 113119
@@ -1100,7 +1100,7 @@
     {
       "wus": 8050,
       "name": "Judas",
-      "rank": 54149,
+      "rank": 54158,
       "credit": 17887584,
       "team": 212997,
       "id": 104465
@@ -1108,7 +1108,7 @@
     {
       "wus": 2694,
       "name": "EKlipz",
-      "rank": 56820,
+      "rank": 56825,
       "credit": 17829225,
       "team": 212997,
       "id": 7597
@@ -1116,7 +1116,7 @@
     {
       "wus": 389,
       "name": "ShortCircuit",
-      "rank": 59058,
+      "rank": 59065,
       "credit": 17713990,
       "team": 212997,
       "id": 1621706
@@ -1124,7 +1124,7 @@
     {
       "wus": 4581,
       "name": "Meat_PoPsiclez",
-      "rank": 61480,
+      "rank": 61486,
       "credit": 16844548,
       "team": 212997,
       "id": 176535
@@ -1132,7 +1132,7 @@
     {
       "wus": 621,
       "name": "Bronish",
-      "rank": 15436,
+      "rank": 15447,
       "credit": 16719902,
       "team": 212997,
       "id": 278730
@@ -1140,7 +1140,7 @@
     {
       "wus": 1818,
       "name": "koopz",
-      "rank": 60853,
+      "rank": 60860,
       "credit": 16632803,
       "team": 212997,
       "id": 52430
@@ -1148,7 +1148,7 @@
     {
       "wus": 1445,
       "name": "WindowCrash",
-      "rank": 63103,
+      "rank": 63112,
       "credit": 16081476,
       "team": 212997,
       "id": 40429698
@@ -1156,7 +1156,7 @@
     {
       "wus": 978,
       "name": "PSFMer",
-      "rank": 64082,
+      "rank": 64090,
       "credit": 15772642,
       "team": 212997,
       "id": 264164
@@ -1164,7 +1164,7 @@
     {
       "wus": 1895,
       "name": "SightUnseenToS",
-      "rank": 46073,
+      "rank": 46082,
       "credit": 15751842,
       "team": 212997,
       "id": 22887
@@ -1172,7 +1172,7 @@
     {
       "wus": 1265,
       "name": "Aisteru",
-      "rank": 64518,
+      "rank": 64526,
       "credit": 15606951,
       "team": 212997,
       "id": 278446
@@ -1180,7 +1180,7 @@
     {
       "wus": 257,
       "name": "Tapsie",
-      "rank": 64580,
+      "rank": 64589,
       "credit": 15586291,
       "team": 212997,
       "id": 21532707
@@ -1188,7 +1188,7 @@
     {
       "wus": 2188,
       "name": "Cameron_D",
-      "rank": 64668,
+      "rank": 64678,
       "credit": 15532659,
       "team": 212997,
       "id": 98901
@@ -1196,7 +1196,7 @@
     {
       "wus": 5918,
       "name": "SCRIGGLES",
-      "rank": 64820,
+      "rank": 64828,
       "credit": 15486227,
       "team": 212997,
       "id": 22318
@@ -1204,7 +1204,7 @@
     {
       "wus": 5948,
       "name": "Jamis",
-      "rank": 64801,
+      "rank": 64807,
       "credit": 15442336,
       "team": 212997,
       "id": 103728
@@ -1212,7 +1212,7 @@
     {
       "wus": 5469,
       "name": "bronyhub",
-      "rank": 65139,
+      "rank": 65150,
       "credit": 15372319,
       "team": 212997,
       "id": 3445
@@ -1220,23 +1220,23 @@
     {
       "wus": 489,
       "name": "Squirrel623",
-      "rank": 65173,
+      "rank": 65185,
       "credit": 15361996,
       "team": 212997,
       "id": 251839
     },
     {
-      "wus": 606,
+      "wus": 611,
       "name": "AsianMonkeyz",
-      "rank": 63875,
-      "credit": 15213842,
+      "rank": 63858,
+      "credit": 15251292,
       "team": 212997,
       "id": 1825
     },
     {
       "wus": 1360,
       "name": "SillyFilly",
-      "rank": 65727,
+      "rank": 65733,
       "credit": 15159203,
       "team": 212997,
       "id": 146308
@@ -1244,7 +1244,7 @@
     {
       "wus": 42515,
       "name": "Shiawacchan",
-      "rank": 65729,
+      "rank": 65736,
       "credit": 15099492,
       "team": 212997,
       "id": 22748
@@ -1252,7 +1252,7 @@
     {
       "wus": 7201,
       "name": "Holy_Devil",
-      "rank": 60380,
+      "rank": 60389,
       "credit": 15094002,
       "team": 212997,
       "id": 10789
@@ -1260,7 +1260,7 @@
     {
       "wus": 706,
       "name": "Bytewave",
-      "rank": 66652,
+      "rank": 66659,
       "credit": 14822546,
       "team": 212997,
       "id": 278755
@@ -1268,7 +1268,7 @@
     {
       "wus": 1029,
       "name": "Trambelus",
-      "rank": 67496,
+      "rank": 67502,
       "credit": 14509034,
       "team": 212997,
       "id": 250595
@@ -1276,7 +1276,7 @@
     {
       "wus": 4168,
       "name": "Woodstick",
-      "rank": 67741,
+      "rank": 67750,
       "credit": 14419994,
       "team": 212997,
       "id": 184551
@@ -1284,7 +1284,7 @@
     {
       "wus": 855,
       "name": "BnanaStand",
-      "rank": 68703,
+      "rank": 68717,
       "credit": 14096701,
       "team": 212997,
       "id": 335067
@@ -1292,7 +1292,7 @@
     {
       "wus": 443,
       "name": "Catbirby",
-      "rank": 52334,
+      "rank": 52338,
       "credit": 13843108,
       "team": 212997,
       "id": 363430
@@ -1300,7 +1300,7 @@
     {
       "wus": 846,
       "name": "Sairalinde",
-      "rank": 30778,
+      "rank": 30630,
       "credit": 13739976,
       "team": 212997,
       "id": 184050
@@ -1308,7 +1308,7 @@
     {
       "wus": 373,
       "name": "RapidRescue",
-      "rank": 70693,
+      "rank": 70699,
       "credit": 13439944,
       "team": 212997,
       "id": 66864836
@@ -1316,7 +1316,7 @@
     {
       "wus": 4747,
       "name": "Awenyota",
-      "rank": 70924,
+      "rank": 70936,
       "credit": 13374030,
       "team": 212997,
       "id": 97785
@@ -1324,7 +1324,7 @@
     {
       "wus": 406,
       "name": "FlyingSixtySix",
-      "rank": 59402,
+      "rank": 59408,
       "credit": 13335175,
       "team": 212997,
       "id": 349733
@@ -1332,7 +1332,7 @@
     {
       "wus": 230,
       "name": "pinkiedash417",
-      "rank": 71791,
+      "rank": 71798,
       "credit": 13129633,
       "team": 212997,
       "id": 336201
@@ -1340,7 +1340,7 @@
     {
       "wus": 4090,
       "name": "Chrooke",
-      "rank": 61903,
+      "rank": 61864,
       "credit": 13021145,
       "team": 212997,
       "id": 99311
@@ -1348,7 +1348,7 @@
     {
       "wus": 1308,
       "name": "Framwinkle",
-      "rank": 72269,
+      "rank": 72277,
       "credit": 12982089,
       "team": 212997,
       "id": 307367
@@ -1356,23 +1356,23 @@
     {
       "wus": 479,
       "name": "Micim987",
-      "rank": 61506,
+      "rank": 61512,
       "credit": 12890589,
       "team": 212997,
       "id": 181657
     },
     {
-      "wus": 3748,
+      "wus": 3749,
       "name": "Zoomguy",
-      "rank": 72685,
-      "credit": 12871811,
+      "rank": 72657,
+      "credit": 12875836,
       "team": 212997,
       "id": 113839
     },
     {
       "wus": 32613,
       "name": "WUBBSY",
-      "rank": 73338,
+      "rank": 73347,
       "credit": 12673336,
       "team": 212997,
       "id": 333935
@@ -1380,7 +1380,7 @@
     {
       "wus": 1660,
       "name": "Haiku_Knives",
-      "rank": 67268,
+      "rank": 67273,
       "credit": 12532610,
       "team": 212997,
       "id": 179671
@@ -1388,7 +1388,7 @@
     {
       "wus": 879,
       "name": "TallonRain",
-      "rank": 60482,
+      "rank": 60489,
       "credit": 12074552,
       "team": 212997,
       "id": 196398
@@ -1396,7 +1396,7 @@
     {
       "wus": 587,
       "name": "Centauri",
-      "rank": 65552,
+      "rank": 65560,
       "credit": 11946553,
       "team": 212997,
       "id": 335134
@@ -1404,7 +1404,7 @@
     {
       "wus": 263,
       "name": "TuneFisch",
-      "rank": 76079,
+      "rank": 76088,
       "credit": 11937967,
       "team": 212997,
       "id": 73914440
@@ -1412,7 +1412,7 @@
     {
       "wus": 2336,
       "name": "HalfDemon",
-      "rank": 76162,
+      "rank": 76170,
       "credit": 11915276,
       "team": 212997,
       "id": 102785
@@ -1420,31 +1420,31 @@
     {
       "wus": 1794,
       "name": "evilash2010",
-      "rank": 76344,
+      "rank": 76352,
       "credit": 11869573,
       "team": 212997,
       "id": 335424
     },
     {
+      "wus": 1256,
+      "name": "MR_FAT_GOAT",
+      "rank": 77033,
+      "credit": 11689829,
+      "team": 212997,
+      "id": 69944510
+    },
+    {
       "wus": 1960,
       "name": "Kelchan",
-      "rank": 77124,
+      "rank": 77131,
       "credit": 11669855,
       "team": 212997,
       "id": 352688
     },
     {
-      "wus": 1254,
-      "name": "MR_FAT_GOAT",
-      "rank": 77253,
-      "credit": 11640443,
-      "team": 212997,
-      "id": 69944510
-    },
-    {
       "wus": 849,
       "name": "JustTheBast",
-      "rank": 78064,
+      "rank": 78070,
       "credit": 11393368,
       "team": 212997,
       "id": 157664
@@ -1452,7 +1452,7 @@
     {
       "wus": 475,
       "name": "MerkaST",
-      "rank": 78849,
+      "rank": 78858,
       "credit": 11246202,
       "team": 212997,
       "id": 335973
@@ -1460,7 +1460,7 @@
     {
       "wus": 1017,
       "name": "Shadowforce",
-      "rank": 79804,
+      "rank": 79816,
       "credit": 11017936,
       "team": 212997,
       "id": 22620
@@ -1468,7 +1468,7 @@
     {
       "wus": 3104,
       "name": "omghax",
-      "rank": 81529,
+      "rank": 81538,
       "credit": 10638096,
       "team": 212997,
       "id": 108016
@@ -1476,7 +1476,7 @@
     {
       "wus": 891,
       "name": "ZebraNorth",
-      "rank": 81621,
+      "rank": 81630,
       "credit": 10619494,
       "team": 212997,
       "id": 336702
@@ -1484,7 +1484,7 @@
     {
       "wus": 162,
       "name": "FlutterShy",
-      "rank": 82583,
+      "rank": 82591,
       "credit": 10399391,
       "team": 212997,
       "id": 279221
@@ -1492,7 +1492,7 @@
     {
       "wus": 1431,
       "name": "kwerpi",
-      "rank": 21251,
+      "rank": 21259,
       "credit": 10389216,
       "team": 212997,
       "id": 105186
@@ -1500,7 +1500,7 @@
     {
       "wus": 994,
       "name": "locodash11",
-      "rank": 82721,
+      "rank": 82728,
       "credit": 10385511,
       "team": 212997,
       "id": 176473
@@ -1508,7 +1508,7 @@
     {
       "wus": 200,
       "name": "Lawl",
-      "rank": 82201,
+      "rank": 82210,
       "credit": 10370635,
       "team": 212997,
       "id": 582320
@@ -1516,7 +1516,7 @@
     {
       "wus": 6381,
       "name": "chaoszero64",
-      "rank": 83305,
+      "rank": 83314,
       "credit": 10255762,
       "team": 212997,
       "id": 4170
@@ -1524,7 +1524,7 @@
     {
       "wus": 357,
       "name": "samus217",
-      "rank": 83625,
+      "rank": 83631,
       "credit": 10199856,
       "team": 212997,
       "id": 218736
@@ -1532,7 +1532,7 @@
     {
       "wus": 161,
       "name": "WAFFLETRON",
-      "rank": 84536,
+      "rank": 84541,
       "credit": 10019802,
       "team": 212997,
       "id": 141311
@@ -1540,7 +1540,7 @@
     {
       "wus": 447,
       "name": "CAustin",
-      "rank": 84783,
+      "rank": 84787,
       "credit": 9971488,
       "team": 212997,
       "id": 182493
@@ -1548,7 +1548,7 @@
     {
       "wus": 810,
       "name": "Labrat",
-      "rank": 79912,
+      "rank": 79924,
       "credit": 9882935,
       "team": 212997,
       "id": 333064
@@ -1556,7 +1556,7 @@
     {
       "wus": 657,
       "name": "flanigomik",
-      "rank": 85344,
+      "rank": 85354,
       "credit": 9848526,
       "team": 212997,
       "id": 179582
@@ -1564,7 +1564,7 @@
     {
       "wus": 1189,
       "name": "Sellyme",
-      "rank": 85386,
+      "rank": 85396,
       "credit": 9839984,
       "team": 212997,
       "id": 110255
@@ -1572,7 +1572,7 @@
     {
       "wus": 393,
       "name": "mark_taiwan",
-      "rank": 85514,
+      "rank": 85525,
       "credit": 9810287,
       "team": 212997,
       "id": 337800
@@ -1580,7 +1580,7 @@
     {
       "wus": 619,
       "name": "Zacc",
-      "rank": 69457,
+      "rank": 69463,
       "credit": 9804143,
       "team": 212997,
       "id": 166921
@@ -1588,7 +1588,7 @@
     {
       "wus": 1008,
       "name": "DarthSatoris",
-      "rank": 85718,
+      "rank": 85728,
       "credit": 9772581,
       "team": 212997,
       "id": 335249
@@ -1596,7 +1596,7 @@
     {
       "wus": 555,
       "name": "Xinef",
-      "rank": 85698,
+      "rank": 85711,
       "credit": 9766227,
       "team": 212997,
       "id": 338358
@@ -1604,7 +1604,7 @@
     {
       "wus": 3006,
       "name": "fluttershame",
-      "rank": 86357,
+      "rank": 86363,
       "credit": 9649198,
       "team": 212997,
       "id": 101869
@@ -1612,7 +1612,7 @@
     {
       "wus": 275,
       "name": "coincounter",
-      "rank": 86814,
+      "rank": 86819,
       "credit": 9561998,
       "team": 212997,
       "id": 2866206
@@ -1620,7 +1620,7 @@
     {
       "wus": 662,
       "name": "koscum",
-      "rank": 87254,
+      "rank": 87260,
       "credit": 9476139,
       "team": 212997,
       "id": 214587
@@ -1628,7 +1628,7 @@
     {
       "wus": 510,
       "name": "c",
-      "rank": 7250,
+      "rank": 7253,
       "credit": 9466203,
       "team": 212997,
       "id": 160896
@@ -1636,7 +1636,7 @@
     {
       "wus": 4438,
       "name": "Fang",
-      "rank": 11174,
+      "rank": 11180,
       "credit": 9458477,
       "team": 212997,
       "id": 74314
@@ -1644,7 +1644,7 @@
     {
       "wus": 350,
       "name": "sockpuppetcow",
-      "rank": 88028,
+      "rank": 88035,
       "credit": 9323515,
       "team": 212997,
       "id": 336420
@@ -1652,7 +1652,7 @@
     {
       "wus": 490,
       "name": "Jupiter88",
-      "rank": 88588,
+      "rank": 88594,
       "credit": 9220867,
       "team": 212997,
       "id": 335732
@@ -1660,7 +1660,7 @@
     {
       "wus": 710,
       "name": "Miguellos",
-      "rank": 88720,
+      "rank": 88729,
       "credit": 9197965,
       "team": 212997,
       "id": 172457
@@ -1668,7 +1668,7 @@
     {
       "wus": 622,
       "name": "anoa",
-      "rank": 89001,
+      "rank": 89010,
       "credit": 9148354,
       "team": 212997,
       "id": 181176
@@ -1676,7 +1676,7 @@
     {
       "wus": 12705,
       "name": "Marcsello",
-      "rank": 89128,
+      "rank": 89136,
       "credit": 9124272,
       "team": 212997,
       "id": 382448
@@ -1684,7 +1684,7 @@
     {
       "wus": 201,
       "name": "Nate700",
-      "rank": 86108,
+      "rank": 86116,
       "credit": 8983362,
       "team": 212997,
       "id": 19868006
@@ -1692,7 +1692,7 @@
     {
       "wus": 80,
       "name": "Engi",
-      "rank": 77387,
+      "rank": 77393,
       "credit": 8974908,
       "team": 212997,
       "id": 72900341
@@ -1700,7 +1700,7 @@
     {
       "wus": 453,
       "name": "SvicidalBug",
-      "rank": 82593,
+      "rank": 82601,
       "credit": 8958654,
       "team": 212997,
       "id": 22904734
@@ -1708,7 +1708,7 @@
     {
       "wus": 3611,
       "name": "OncaLupe",
-      "rank": 79472,
+      "rank": 79478,
       "credit": 8901675,
       "team": 212997,
       "id": 18677
@@ -1716,7 +1716,7 @@
     {
       "wus": 3060,
       "name": "James_Cole",
-      "rank": 90384,
+      "rank": 90394,
       "credit": 8886821,
       "team": 212997,
       "id": 238808
@@ -1724,7 +1724,7 @@
     {
       "wus": 260,
       "name": "PianoCube",
-      "rank": 90539,
+      "rank": 90549,
       "credit": 8860401,
       "team": 212997,
       "id": 73182016
@@ -1732,7 +1732,7 @@
     {
       "wus": 87,
       "name": "mutronics",
-      "rank": 92089,
+      "rank": 92095,
       "credit": 8590613,
       "team": 212997,
       "id": 94528245
@@ -1740,7 +1740,7 @@
     {
       "wus": 280,
       "name": "TheWattsMan",
-      "rank": 91109,
+      "rank": 91119,
       "credit": 8567869,
       "team": 212997,
       "id": 336528
@@ -1748,7 +1748,7 @@
     {
       "wus": 579,
       "name": "FluttershySucks",
-      "rank": 92619,
+      "rank": 92625,
       "credit": 8497364,
       "team": 212997,
       "id": 179588
@@ -1756,7 +1756,7 @@
     {
       "wus": 312,
       "name": "NathanDwyer",
-      "rank": 92982,
+      "rank": 92992,
       "credit": 8436418,
       "team": 212997,
       "id": 239686
@@ -1764,7 +1764,7 @@
     {
       "wus": 391,
       "name": "WestJ",
-      "rank": 93935,
+      "rank": 93942,
       "credit": 8282941,
       "team": 212997,
       "id": 612559
@@ -1772,7 +1772,7 @@
     {
       "wus": 501,
       "name": "JasonBluefire",
-      "rank": 83093,
+      "rank": 83106,
       "credit": 8280940,
       "team": 212997,
       "id": 11850
@@ -1780,7 +1780,7 @@
     {
       "wus": 1377,
       "name": "Otto_the_Boat",
-      "rank": 94276,
+      "rank": 94288,
       "credit": 8229029,
       "team": 212997,
       "id": 133410
@@ -1788,7 +1788,7 @@
     {
       "wus": 500,
       "name": "Katisha",
-      "rank": 95010,
+      "rank": 95023,
       "credit": 8118629,
       "team": 212997,
       "id": 335747
@@ -1796,7 +1796,7 @@
     {
       "wus": 266,
       "name": "ShoopHoerse",
-      "rank": 96565,
+      "rank": 96578,
       "credit": 7880721,
       "team": 212997,
       "id": 69166367
@@ -1804,7 +1804,7 @@
     {
       "wus": 655,
       "name": "Silly_Warlock",
-      "rank": 96612,
+      "rank": 96622,
       "credit": 7873959,
       "team": 212997,
       "id": 198244
@@ -1812,7 +1812,7 @@
     {
       "wus": 1224,
       "name": "CheeseDeluxe",
-      "rank": 97295,
+      "rank": 97305,
       "credit": 7774984,
       "team": 212997,
       "id": 99175
@@ -1820,7 +1820,7 @@
     {
       "wus": 796,
       "name": "Coterminus",
-      "rank": 97502,
+      "rank": 97510,
       "credit": 7747403,
       "team": 212997,
       "id": 335186
@@ -1828,7 +1828,7 @@
     {
       "wus": 296,
       "name": "RarityisBP",
-      "rank": 97670,
+      "rank": 97680,
       "credit": 7723506,
       "team": 212997,
       "id": 264324
@@ -1836,7 +1836,7 @@
     {
       "wus": 478,
       "name": "Llisandur",
-      "rank": 98059,
+      "rank": 98065,
       "credit": 7668285,
       "team": 212997,
       "id": 335857
@@ -1844,7 +1844,7 @@
     {
       "wus": 1066,
       "name": "mniip",
-      "rank": 95977,
+      "rank": 95988,
       "credit": 7542795,
       "team": 212997,
       "id": 106902
@@ -1852,7 +1852,7 @@
     {
       "wus": 819,
       "name": "DocMikjaw",
-      "rank": 99009,
+      "rank": 99016,
       "credit": 7531503,
       "team": 212997,
       "id": 171886
@@ -1860,7 +1860,7 @@
     {
       "wus": 1876,
       "name": "robberbutton",
-      "rank": 99445,
+      "rank": 99450,
       "credit": 7475634,
       "team": 212997,
       "id": 109586
@@ -1868,7 +1868,7 @@
     {
       "wus": 211,
       "name": "Forzane",
-      "rank": 99420,
+      "rank": 99425,
       "credit": 7461875,
       "team": 212997,
       "id": 65719237
@@ -1876,7 +1876,7 @@
     {
       "wus": 381,
       "name": "SoleGen",
-      "rank": 81302,
+      "rank": 81310,
       "credit": 7447527,
       "team": 212997,
       "id": 336423
@@ -1884,7 +1884,7 @@
     {
       "wus": 190,
       "name": "HoppyTiller",
-      "rank": 100058,
+      "rank": 100063,
       "credit": 7394151,
       "team": 212997,
       "id": 349810
@@ -1892,7 +1892,7 @@
     {
       "wus": 317,
       "name": "FoxWithGun",
-      "rank": 100820,
+      "rank": 100827,
       "credit": 7290290,
       "team": 212997,
       "id": 337381
@@ -1900,7 +1900,7 @@
     {
       "wus": 475,
       "name": "zekesonxx",
-      "rank": 101136,
+      "rank": 101140,
       "credit": 7250570,
       "team": 212997,
       "id": 221820
@@ -1908,7 +1908,7 @@
     {
       "wus": 184,
       "name": "Tenebrae",
-      "rank": 101508,
+      "rank": 101516,
       "credit": 7197580,
       "team": 212997,
       "id": 338236
@@ -1916,7 +1916,7 @@
     {
       "wus": 2247,
       "name": "PrincessKyli",
-      "rank": 101900,
+      "rank": 101902,
       "credit": 7148740,
       "team": 212997,
       "id": 108845
@@ -1924,7 +1924,7 @@
     {
       "wus": 2409,
       "name": "sonic51294",
-      "rank": 102076,
+      "rank": 102081,
       "credit": 7121193,
       "team": 212997,
       "id": 110895
@@ -1932,7 +1932,7 @@
     {
       "wus": 261,
       "name": "flutterkind",
-      "rank": 102433,
+      "rank": 102441,
       "credit": 7078313,
       "team": 212997,
       "id": 337371
@@ -1940,7 +1940,7 @@
     {
       "wus": 247,
       "name": "Lunar_Aurora",
-      "rank": 102676,
+      "rank": 102685,
       "credit": 7050341,
       "team": 212997,
       "id": 72709762
@@ -1948,7 +1948,7 @@
     {
       "wus": 336,
       "name": "7-11WasAnInsideJob",
-      "rank": 103092,
+      "rank": 103098,
       "credit": 6994794,
       "team": 212997,
       "id": 334883
@@ -1956,7 +1956,7 @@
     {
       "wus": 1743,
       "name": "Flaxative",
-      "rank": 98256,
+      "rank": 98265,
       "credit": 6983881,
       "team": 212997,
       "id": 101831
@@ -1964,7 +1964,7 @@
     {
       "wus": 2518,
       "name": "Persona",
-      "rank": 103559,
+      "rank": 103565,
       "credit": 6870093,
       "team": 212997,
       "id": 108463
@@ -1972,7 +1972,7 @@
     {
       "wus": 568,
       "name": "DanBackslide",
-      "rank": 104420,
+      "rank": 104425,
       "credit": 6835962,
       "team": 212997,
       "id": 210444
@@ -1980,7 +1980,7 @@
     {
       "wus": 644,
       "name": "Darfk",
-      "rank": 107074,
+      "rank": 107086,
       "credit": 6525708,
       "team": 212997,
       "id": 130471
@@ -1988,7 +1988,7 @@
     {
       "wus": 2559,
       "name": "ScreaminD",
-      "rank": 107104,
+      "rank": 107114,
       "credit": 6522668,
       "team": 212997,
       "id": 110175
@@ -1996,7 +1996,7 @@
     {
       "wus": 3538,
       "name": "Vivix",
-      "rank": 108286,
+      "rank": 108298,
       "credit": 6392045,
       "team": 212997,
       "id": 112909
@@ -2004,7 +2004,7 @@
     {
       "wus": 2497,
       "name": "Flutterguy27",
-      "rank": 108755,
+      "rank": 108766,
       "credit": 6340186,
       "team": 212997,
       "id": 8654
@@ -2012,7 +2012,7 @@
     {
       "wus": 1042,
       "name": "diatorker",
-      "rank": 81090,
+      "rank": 81095,
       "credit": 6137726,
       "team": 212997,
       "id": 100491
@@ -2020,7 +2020,7 @@
     {
       "wus": 298,
       "name": "EpriTeX",
-      "rank": 111464,
+      "rank": 111472,
       "credit": 6046073,
       "team": 212997,
       "id": 249642
@@ -2028,7 +2028,7 @@
     {
       "wus": 3327,
       "name": "FreelancerLlectar",
-      "rank": 111663,
+      "rank": 111672,
       "credit": 6024188,
       "team": 212997,
       "id": 238354
@@ -2036,7 +2036,7 @@
     {
       "wus": 1703,
       "name": "Jjcftc3",
-      "rank": 107855,
+      "rank": 107864,
       "credit": 6014834,
       "team": 212997,
       "id": 104091
@@ -2044,7 +2044,7 @@
     {
       "wus": 2134,
       "name": "Joelf",
-      "rank": 81146,
+      "rank": 81152,
       "credit": 5965139,
       "team": 212997,
       "id": 12483
@@ -2052,7 +2052,7 @@
     {
       "wus": 591,
       "name": "Ragunos",
-      "rank": 112903,
+      "rank": 112916,
       "credit": 5890354,
       "team": 212997,
       "id": 264281
@@ -2060,7 +2060,7 @@
     {
       "wus": 115,
       "name": "winternacht",
-      "rank": 113009,
+      "rank": 113022,
       "credit": 5877559,
       "team": 212997,
       "id": 304555
@@ -2068,7 +2068,7 @@
     {
       "wus": 1191,
       "name": "Uncreative719",
-      "rank": 113380,
+      "rank": 113394,
       "credit": 5843375,
       "team": 212997,
       "id": 187230
@@ -2076,7 +2076,7 @@
     {
       "wus": 183,
       "name": "mieszkot",
-      "rank": 113861,
+      "rank": 113873,
       "credit": 5793829,
       "team": 212997,
       "id": 255600
@@ -2084,7 +2084,7 @@
     {
       "wus": 335,
       "name": "SugarCaneJunction",
-      "rank": 115153,
+      "rank": 115166,
       "credit": 5668373,
       "team": 212997,
       "id": 349710067
@@ -2092,7 +2092,7 @@
     {
       "wus": 370,
       "name": "ziyan",
-      "rank": 115346,
+      "rank": 115358,
       "credit": 5655361,
       "team": 212997,
       "id": 336711
@@ -2100,7 +2100,7 @@
     {
       "wus": 1213,
       "name": "StableCoder",
-      "rank": 115614,
+      "rank": 115625,
       "credit": 5630153,
       "team": 212997,
       "id": 81027305
@@ -2108,7 +2108,7 @@
     {
       "wus": 765,
       "name": "AudioAddict",
-      "rank": 116158,
+      "rank": 116166,
       "credit": 5581610,
       "team": 212997,
       "id": 73655716
@@ -2116,7 +2116,7 @@
     {
       "wus": 572,
       "name": "presentfactory",
-      "rank": 117192,
+      "rank": 117199,
       "credit": 5490043,
       "team": 212997,
       "id": 240037
@@ -2124,7 +2124,7 @@
     {
       "wus": 1667,
       "name": "everfree",
-      "rank": 118001,
+      "rank": 118010,
       "credit": 5417503,
       "team": 212997,
       "id": 1088433
@@ -2132,7 +2132,7 @@
     {
       "wus": 237,
       "name": "NightSky_ALL_17WSgMRvhJWH5ktcHP3Qf7k77kaS5G8B88",
-      "rank": 118738,
+      "rank": 118747,
       "credit": 5354229,
       "team": 212997,
       "id": 350122
@@ -2140,7 +2140,7 @@
     {
       "wus": 1021,
       "name": "ApexProxy",
-      "rank": 118900,
+      "rank": 118910,
       "credit": 5341982,
       "team": 212997,
       "id": 72918447
@@ -2148,7 +2148,7 @@
     {
       "wus": 1789,
       "name": "dutchscout",
-      "rank": 118799,
+      "rank": 118809,
       "credit": 5340594,
       "team": 212997,
       "id": 7306
@@ -2156,7 +2156,7 @@
     {
       "wus": 429,
       "name": "GondolaLikesToWalk",
-      "rank": 120240,
+      "rank": 120230,
       "credit": 5222121,
       "team": 212997,
       "id": 73380256
@@ -2164,7 +2164,7 @@
     {
       "wus": 3775,
       "name": "Chronowerx",
-      "rank": 113732,
+      "rank": 113744,
       "credit": 5172656,
       "team": 212997,
       "id": 99310
@@ -2172,7 +2172,7 @@
     {
       "wus": 852,
       "name": "Kataclysm",
-      "rank": 122113,
+      "rank": 122124,
       "credit": 5064283,
       "team": 212997,
       "id": 337615
@@ -2180,7 +2180,7 @@
     {
       "wus": 127,
       "name": "Micheo",
-      "rank": 72319,
+      "rank": 72327,
       "credit": 4960082,
       "team": 212997,
       "id": 790263
@@ -2188,7 +2188,7 @@
     {
       "wus": 1055,
       "name": "Nukospony",
-      "rank": 124533,
+      "rank": 124541,
       "credit": 4857618,
       "team": 212997,
       "id": 133307
@@ -2196,7 +2196,7 @@
     {
       "wus": 1454,
       "name": "ZephyrSprint",
-      "rank": 125429,
+      "rank": 125437,
       "credit": 4803394,
       "team": 212997,
       "id": 113759
@@ -2204,7 +2204,7 @@
     {
       "wus": 1655,
       "name": "Flutternight",
-      "rank": 125701,
+      "rank": 125710,
       "credit": 4780727,
       "team": 212997,
       "id": 337372
@@ -2212,7 +2212,7 @@
     {
       "wus": 1154,
       "name": "Devonx25",
-      "rank": 126366,
+      "rank": 126379,
       "credit": 4729823,
       "team": 212997,
       "id": 145706
@@ -2220,7 +2220,7 @@
     {
       "wus": 804,
       "name": "Lapsus",
-      "rank": 125328,
+      "rank": 125338,
       "credit": 4647058,
       "team": 212997,
       "id": 152351
@@ -2228,7 +2228,7 @@
     {
       "wus": 556,
       "name": "molendus1001",
-      "rank": 127267,
+      "rank": 127273,
       "credit": 4641691,
       "team": 212997,
       "id": 283491
@@ -2236,7 +2236,7 @@
     {
       "wus": 97,
       "name": "pixelscoot",
-      "rank": 127997,
+      "rank": 128003,
       "credit": 4609375,
       "team": 212997,
       "id": 75202168
@@ -2244,7 +2244,7 @@
     {
       "wus": 558,
       "name": "Plain123",
-      "rank": 130254,
+      "rank": 130260,
       "credit": 4441094,
       "team": 212997,
       "id": 325635
@@ -2252,7 +2252,7 @@
     {
       "wus": 614,
       "name": "Smiba",
-      "rank": 45913,
+      "rank": 45915,
       "credit": 4385919,
       "team": 212997,
       "id": 240499
@@ -2260,7 +2260,7 @@
     {
       "wus": 550,
       "name": "Lauri_P",
-      "rank": 131615,
+      "rank": 131624,
       "credit": 4351078,
       "team": 212997,
       "id": 172442
@@ -2268,7 +2268,7 @@
     {
       "wus": 1140,
       "name": "Headphone_Jack",
-      "rank": 132213,
+      "rank": 132222,
       "credit": 4311183,
       "team": 212997,
       "id": 102924
@@ -2276,7 +2276,7 @@
     {
       "wus": 854,
       "name": "CloudTreasure",
-      "rank": 132268,
+      "rank": 132276,
       "credit": 4307398,
       "team": 212997,
       "id": 188522
@@ -2284,7 +2284,7 @@
     {
       "wus": 2800,
       "name": "Zbee",
-      "rank": 132384,
+      "rank": 132391,
       "credit": 4299209,
       "team": 212997,
       "id": 191926
@@ -2292,7 +2292,7 @@
     {
       "wus": 1449,
       "name": "Paingod556_BAU",
-      "rank": 132584,
+      "rank": 132595,
       "credit": 4282805,
       "team": 212997,
       "id": 133435
@@ -2300,7 +2300,7 @@
     {
       "wus": 47,
       "name": "Applechip",
-      "rank": 85506,
+      "rank": 85517,
       "credit": 4164169,
       "team": 212997,
       "id": 76244410
@@ -2308,7 +2308,7 @@
     {
       "wus": 140,
       "name": "Krashlandon",
-      "rank": 134598,
+      "rank": 134604,
       "credit": 4149215,
       "team": 212997,
       "id": 335801
@@ -2316,7 +2316,7 @@
     {
       "wus": 948,
       "name": "flaks314",
-      "rank": 135105,
+      "rank": 135111,
       "credit": 4115302,
       "team": 212997,
       "id": 131119
@@ -2324,7 +2324,7 @@
     {
       "wus": 511,
       "name": "GrayPegasus",
-      "rank": 135413,
+      "rank": 135408,
       "credit": 4096694,
       "team": 212997,
       "id": 181310253
@@ -2332,7 +2332,7 @@
     {
       "wus": 1116,
       "name": "Avian_Influenza",
-      "rank": 133922,
+      "rank": 133923,
       "credit": 4074562,
       "team": 212997,
       "id": 190368
@@ -2340,7 +2340,7 @@
     {
       "wus": 116,
       "name": "Todtaure",
-      "rank": 135806,
+      "rank": 135811,
       "credit": 4072374,
       "team": 212997,
       "id": 338273
@@ -2348,7 +2348,7 @@
     {
       "wus": 1389,
       "name": "MagicWuff",
-      "rank": 43249,
+      "rank": 43257,
       "credit": 4021738,
       "team": 212997,
       "id": 139722
@@ -2356,7 +2356,7 @@
     {
       "wus": 366,
       "name": "dumbrock",
-      "rank": 137317,
+      "rank": 137325,
       "credit": 3981938,
       "team": 212997,
       "id": 179506
@@ -2364,7 +2364,7 @@
     {
       "wus": 1311,
       "name": "Soanos_Barcoded",
-      "rank": 137593,
+      "rank": 137602,
       "credit": 3964767,
       "team": 212997,
       "id": 234270
@@ -2372,7 +2372,7 @@
     {
       "wus": 244,
       "name": "galactose",
-      "rank": 137804,
+      "rank": 137816,
       "credit": 3950310,
       "team": 212997,
       "id": 335498
@@ -2380,7 +2380,7 @@
     {
       "wus": 1639,
       "name": "Ought-Six|DizzyTwister",
-      "rank": 138585,
+      "rank": 138598,
       "credit": 3904635,
       "team": 212997,
       "id": 108129
@@ -2388,7 +2388,7 @@
     {
       "wus": 223,
       "name": "molly_in_the_closet",
-      "rank": 138812,
+      "rank": 138827,
       "credit": 3885707,
       "team": 212997,
       "id": 177349
@@ -2396,7 +2396,7 @@
     {
       "wus": 1430,
       "name": "spypengen",
-      "rank": 141360,
+      "rank": 141369,
       "credit": 3738853,
       "team": 212997,
       "id": 111037
@@ -2404,7 +2404,7 @@
     {
       "wus": 4538,
       "name": "Unfoundedfall",
-      "rank": 141711,
+      "rank": 141722,
       "credit": 3718464,
       "team": 212997,
       "id": 112581
@@ -2412,7 +2412,7 @@
     {
       "wus": 46,
       "name": "Gamoray",
-      "rank": 139735,
+      "rank": 139741,
       "credit": 3717311,
       "team": 212997,
       "id": 72974543
@@ -2420,7 +2420,7 @@
     {
       "wus": 2440,
       "name": "BrevityBrony",
-      "rank": 142373,
+      "rank": 142383,
       "credit": 3682638,
       "team": 212997,
       "id": 98651
@@ -2428,7 +2428,7 @@
     {
       "wus": 316,
       "name": "Hopscotch",
-      "rank": 132723,
+      "rank": 132734,
       "credit": 3657459,
       "team": 212997,
       "id": 103127
@@ -2436,7 +2436,7 @@
     {
       "wus": 547,
       "name": "Christopher_kirby",
-      "rank": 143002,
+      "rank": 143014,
       "credit": 3649567,
       "team": 212997,
       "id": 179362
@@ -2444,23 +2444,23 @@
     {
       "wus": 391,
       "name": "Steffy",
-      "rank": 144197,
+      "rank": 144211,
       "credit": 3581963,
       "team": 212997,
       "id": 611049
     },
     {
-      "wus": 738,
+      "wus": 739,
       "name": "shado_jaguar",
       "rank": 143615,
-      "credit": 3568556,
+      "credit": 3569456,
       "team": 212997,
       "id": 184112
     },
     {
       "wus": 1965,
       "name": "EvilStalker",
-      "rank": 144474,
+      "rank": 144486,
       "credit": 3568418,
       "team": 212997,
       "id": 101494
@@ -2468,7 +2468,7 @@
     {
       "wus": 57,
       "name": "Elessar445",
-      "rank": 136312,
+      "rank": 136318,
       "credit": 3534369,
       "team": 212997,
       "id": 68246087
@@ -2476,7 +2476,7 @@
     {
       "wus": 325,
       "name": "DaemonLee",
-      "rank": 146486,
+      "rank": 146499,
       "credit": 3461153,
       "team": 212997,
       "id": 34516
@@ -2484,7 +2484,7 @@
     {
       "wus": 273,
       "name": "SplitShockVirus",
-      "rank": 146627,
+      "rank": 146637,
       "credit": 3454750,
       "team": 212997,
       "id": 191068
@@ -2492,7 +2492,7 @@
     {
       "wus": 165,
       "name": "chaosmarine92",
-      "rank": 147172,
+      "rank": 147184,
       "credit": 3425342,
       "team": 212997,
       "id": 337136
@@ -2500,7 +2500,7 @@
     {
       "wus": 480,
       "name": "phat_guy",
-      "rank": 149157,
+      "rank": 149165,
       "credit": 3328181,
       "team": 212997,
       "id": 263992
@@ -2508,7 +2508,7 @@
     {
       "wus": 1420,
       "name": "Shane_Blair1",
-      "rank": 149765,
+      "rank": 149772,
       "credit": 3296792,
       "team": 212997,
       "id": 110385
@@ -2516,7 +2516,7 @@
     {
       "wus": 419,
       "name": "vick_forcella",
-      "rank": 149798,
+      "rank": 149807,
       "credit": 3296697,
       "team": 212997,
       "id": 76039922
@@ -2524,7 +2524,7 @@
     {
       "wus": 155,
       "name": "CZ_Brony",
-      "rank": 139513,
+      "rank": 139523,
       "credit": 3279526,
       "team": 212997,
       "id": 426853387
@@ -2532,7 +2532,7 @@
     {
       "wus": 1430,
       "name": "jessewq",
-      "rank": 150485,
+      "rank": 150499,
       "credit": 3262141,
       "team": 212997,
       "id": 103975
@@ -2540,7 +2540,7 @@
     {
       "wus": 175,
       "name": "Ingwaz",
-      "rank": 151166,
+      "rank": 151180,
       "credit": 3225811,
       "team": 212997,
       "id": 581391
@@ -2548,7 +2548,7 @@
     {
       "wus": 88,
       "name": "wackydude1234",
-      "rank": 151479,
+      "rank": 151491,
       "credit": 3214750,
       "team": 212997,
       "id": 198388
@@ -2556,7 +2556,7 @@
     {
       "wus": 831,
       "name": "Stormdancer",
-      "rank": 151843,
+      "rank": 151851,
       "credit": 3198009,
       "team": 212997,
       "id": 219754
@@ -2564,7 +2564,7 @@
     {
       "wus": 215,
       "name": "jorgetg",
-      "rank": 152183,
+      "rank": 152194,
       "credit": 3183458,
       "team": 212997,
       "id": 213932
@@ -2572,7 +2572,7 @@
     {
       "wus": 779,
       "name": "GombaWarrior",
-      "rank": 153265,
+      "rank": 153277,
       "credit": 3120852,
       "team": 212997,
       "id": 67576005
@@ -2580,7 +2580,7 @@
     {
       "wus": 1722,
       "name": "ShutterQuick",
-      "rank": 153813,
+      "rank": 153825,
       "credit": 3107843,
       "team": 212997,
       "id": 110493
@@ -2588,7 +2588,7 @@
     {
       "wus": 304,
       "name": "Cr0wnless",
-      "rank": 154029,
+      "rank": 154042,
       "credit": 3078164,
       "team": 212997,
       "id": 335190
@@ -2596,7 +2596,7 @@
     {
       "wus": 4097,
       "name": "Michael_Springer",
-      "rank": 145665,
+      "rank": 145675,
       "credit": 3066020,
       "team": 212997,
       "id": 55671
@@ -2604,7 +2604,7 @@
     {
       "wus": 1111,
       "name": "Sugargrape",
-      "rank": 155917,
+      "rank": 155928,
       "credit": 3016641,
       "team": 212997,
       "id": 172055
@@ -2612,7 +2612,7 @@
     {
       "wus": 735,
       "name": "Krogoth",
-      "rank": 154484,
+      "rank": 154495,
       "credit": 3015775,
       "team": 212997,
       "id": 132333
@@ -2620,7 +2620,7 @@
     {
       "wus": 400,
       "name": "EpicestGamer",
-      "rank": 156444,
+      "rank": 156453,
       "credit": 2995204,
       "team": 212997,
       "id": 335400
@@ -2628,7 +2628,7 @@
     {
       "wus": 437,
       "name": "indi50special",
-      "rank": 156612,
+      "rank": 156621,
       "credit": 2987262,
       "team": 212997,
       "id": 137297300
@@ -2636,7 +2636,7 @@
     {
       "wus": 138,
       "name": "khaos14",
-      "rank": 156782,
+      "rank": 156795,
       "credit": 2980490,
       "team": 212997,
       "id": 335771
@@ -2644,7 +2644,7 @@
     {
       "wus": 1100,
       "name": "cultpony",
-      "rank": 158890,
+      "rank": 158907,
       "credit": 2889315,
       "team": 212997,
       "id": 285361
@@ -2652,7 +2652,7 @@
     {
       "wus": 536,
       "name": "SilverComet",
-      "rank": 159894,
+      "rank": 159910,
       "credit": 2848898,
       "team": 212997,
       "id": 146310
@@ -2660,7 +2660,7 @@
     {
       "wus": 994,
       "name": "Kurt_P",
-      "rank": 160571,
+      "rank": 160586,
       "credit": 2821790,
       "team": 212997,
       "id": 166578
@@ -2668,7 +2668,7 @@
     {
       "wus": 367,
       "name": "Sakura_Kinomoto",
-      "rank": 160663,
+      "rank": 160675,
       "credit": 2819932,
       "team": 212997,
       "id": 109939
@@ -2676,7 +2676,7 @@
     {
       "wus": 936,
       "name": "Skittle-Dash",
-      "rank": 160720,
+      "rank": 160732,
       "credit": 2818233,
       "team": 212997,
       "id": 67247248
@@ -2684,7 +2684,7 @@
     {
       "wus": 1334,
       "name": "mrmo123",
-      "rank": 161381,
+      "rank": 161392,
       "credit": 2792314,
       "team": 212997,
       "id": 183667
@@ -2692,7 +2692,7 @@
     {
       "wus": 1518,
       "name": "nnnn20430",
-      "rank": 161527,
+      "rank": 161536,
       "credit": 2786333,
       "team": 212997,
       "id": 183748
@@ -2700,7 +2700,7 @@
     {
       "wus": 1889,
       "name": "Magus",
-      "rank": 92051,
+      "rank": 92056,
       "credit": 2772687,
       "team": 212997,
       "id": 62164
@@ -2708,7 +2708,7 @@
     {
       "wus": 149,
       "name": "Dakuel1",
-      "rank": 162210,
+      "rank": 162221,
       "credit": 2759295,
       "team": 212997,
       "id": 247258
@@ -2716,7 +2716,7 @@
     {
       "wus": 180,
       "name": "Adder1",
-      "rank": 162228,
+      "rank": 162238,
       "credit": 2758785,
       "team": 212997,
       "id": 69887473
@@ -2724,7 +2724,7 @@
     {
       "wus": 512,
       "name": "Keradon",
-      "rank": 162448,
+      "rank": 162457,
       "credit": 2750374,
       "team": 212997,
       "id": 183332
@@ -2732,7 +2732,7 @@
     {
       "wus": 415,
       "name": "FunkMonk",
-      "rank": 162815,
+      "rank": 162826,
       "credit": 2736505,
       "team": 212997,
       "id": 71845473
@@ -2740,7 +2740,7 @@
     {
       "wus": 657,
       "name": "ProfessorPat",
-      "rank": 165180,
+      "rank": 165195,
       "credit": 2651520,
       "team": 212997,
       "id": 108869
@@ -2748,7 +2748,7 @@
     {
       "wus": 554,
       "name": "gildedkitten",
-      "rank": 165691,
+      "rank": 165706,
       "credit": 2633559,
       "team": 212997,
       "id": 131316
@@ -2756,7 +2756,7 @@
     {
       "wus": 269,
       "name": "Skehmatics",
-      "rank": 165709,
+      "rank": 165724,
       "credit": 2633066,
       "team": 212997,
       "id": 336402
@@ -2764,7 +2764,7 @@
     {
       "wus": 662,
       "name": "Biglulu",
-      "rank": 166483,
+      "rank": 166495,
       "credit": 2605330,
       "team": 212997,
       "id": 129829
@@ -2772,7 +2772,7 @@
     {
       "wus": 523,
       "name": "HUNT2013",
-      "rank": 167477,
+      "rank": 167486,
       "credit": 2572756,
       "team": 212997,
       "id": 249795
@@ -2780,7 +2780,7 @@
     {
       "wus": 72,
       "name": "Edelysrth",
-      "rank": 167607,
+      "rank": 167618,
       "credit": 2568230,
       "team": 212997,
       "id": 95412070
@@ -2788,7 +2788,7 @@
     {
       "wus": 404,
       "name": "Tryp",
-      "rank": 167714,
+      "rank": 167725,
       "credit": 2564729,
       "team": 212997,
       "id": 336582
@@ -2796,7 +2796,7 @@
     {
       "wus": 1058,
       "name": "TopQuark",
-      "rank": 168221,
+      "rank": 168232,
       "credit": 2548230,
       "team": 212997,
       "id": 196546
@@ -2804,7 +2804,7 @@
     {
       "wus": 1018,
       "name": "Jhazrun",
-      "rank": 168289,
+      "rank": 168300,
       "credit": 2546025,
       "team": 212997,
       "id": 12231
@@ -2812,7 +2812,7 @@
     {
       "wus": 2074,
       "name": "Athesto",
-      "rank": 170102,
+      "rank": 170110,
       "credit": 2485804,
       "team": 212997,
       "id": 97640
@@ -2820,7 +2820,7 @@
     {
       "wus": 216,
       "name": "Mirality",
-      "rank": 112242,
+      "rank": 112254,
       "credit": 2468640,
       "team": 212997,
       "id": 106799
@@ -2828,7 +2828,7 @@
     {
       "wus": 2216,
       "name": "Astatine210",
-      "rank": 171010,
+      "rank": 171019,
       "credit": 2456992,
       "team": 212997,
       "id": 118970683
@@ -2836,7 +2836,7 @@
     {
       "wus": 334,
       "name": "quilzel",
-      "rank": 171444,
+      "rank": 171452,
       "credit": 2444180,
       "team": 212997,
       "id": 166729
@@ -2844,7 +2844,7 @@
     {
       "wus": 709,
       "name": "JamesNinelives",
-      "rank": 171547,
+      "rank": 171555,
       "credit": 2440319,
       "team": 212997,
       "id": 371595
@@ -2852,7 +2852,7 @@
     {
       "wus": 496,
       "name": "Rainyotter",
-      "rank": 171588,
+      "rank": 171597,
       "credit": 2438900,
       "team": 212997,
       "id": 338037
@@ -2860,7 +2860,7 @@
     {
       "wus": 1565,
       "name": "Damaged",
-      "rank": 170001,
+      "rank": 170008,
       "credit": 2432055,
       "team": 212997,
       "id": 88778
@@ -2868,7 +2868,7 @@
     {
       "wus": 481,
       "name": "Enytion",
-      "rank": 171942,
+      "rank": 171954,
       "credit": 2427753,
       "team": 212997,
       "id": 130950
@@ -2876,7 +2876,7 @@
     {
       "wus": 169,
       "name": "TempusCasumque",
-      "rank": 172423,
+      "rank": 172431,
       "credit": 2411934,
       "team": 212997,
       "id": 338234
@@ -2884,7 +2884,7 @@
     {
       "wus": 269,
       "name": "luxliquidus",
-      "rank": 172458,
+      "rank": 172464,
       "credit": 2410876,
       "team": 212997,
       "id": 68494654
@@ -2892,7 +2892,7 @@
     {
       "wus": 825,
       "name": "TakeruDavis",
-      "rank": 175452,
+      "rank": 175463,
       "credit": 2315419,
       "team": 212997,
       "id": 111503
@@ -2900,7 +2900,7 @@
     {
       "wus": 734,
       "name": "sunshinedash",
-      "rank": 175515,
+      "rank": 175528,
       "credit": 2313689,
       "team": 212997,
       "id": 371899
@@ -2908,7 +2908,7 @@
     {
       "wus": 441,
       "name": "EnragedN3wb",
-      "rank": 176314,
+      "rank": 176324,
       "credit": 2285178,
       "team": 212997,
       "id": 101327
@@ -2916,7 +2916,7 @@
     {
       "wus": 1786,
       "name": "Kylma",
-      "rank": 176532,
+      "rank": 176546,
       "credit": 2282962,
       "team": 212997,
       "id": 14214
@@ -2924,7 +2924,7 @@
     {
       "wus": 146,
       "name": "Oples",
-      "rank": 176955,
+      "rank": 176965,
       "credit": 2269873,
       "team": 212997,
       "id": 337961
@@ -2932,7 +2932,7 @@
     {
       "wus": 85,
       "name": "Halusm",
-      "rank": 178086,
+      "rank": 178098,
       "credit": 2235421,
       "team": 212997,
       "id": 279366
@@ -2940,7 +2940,7 @@
     {
       "wus": 103,
       "name": "eponabestpony",
-      "rank": 178714,
+      "rank": 178728,
       "credit": 2216848,
       "team": 212997,
       "id": 249641
@@ -2948,7 +2948,7 @@
     {
       "wus": 1172,
       "name": "Questrion",
-      "rank": 178760,
+      "rank": 178776,
       "credit": 2215785,
       "team": 212997,
       "id": 109045
@@ -2956,7 +2956,7 @@
     {
       "wus": 337,
       "name": "PsychicWalnut",
-      "rank": 178905,
+      "rank": 178920,
       "credit": 2211778,
       "team": 212997,
       "id": 180236
@@ -2964,7 +2964,7 @@
     {
       "wus": 17650,
       "name": "monkeyhanger67",
-      "rank": 111422,
+      "rank": 111430,
       "credit": 2206302,
       "team": 212997,
       "id": 339391
@@ -2972,7 +2972,7 @@
     {
       "wus": 154,
       "name": "35",
-      "rank": 135285,
+      "rank": 135291,
       "credit": 2192693,
       "team": 212997,
       "id": 145511
@@ -2980,7 +2980,7 @@
     {
       "wus": 881,
       "name": "ASCIIcat",
-      "rank": 169061,
+      "rank": 169072,
       "credit": 2182928,
       "team": 212997,
       "id": 137673
@@ -2988,7 +2988,7 @@
     {
       "wus": 1706,
       "name": "Sgtwaflez",
-      "rank": 179884,
+      "rank": 179894,
       "credit": 2171776,
       "team": 212997,
       "id": 180363
@@ -2996,7 +2996,7 @@
     {
       "wus": 449,
       "name": "Thorium220",
-      "rank": 181205,
+      "rank": 181217,
       "credit": 2145535,
       "team": 212997,
       "id": 111984
@@ -3004,7 +3004,7 @@
     {
       "wus": 111,
       "name": "BluEyedDragon",
-      "rank": 181489,
+      "rank": 181499,
       "credit": 2137409,
       "team": 212997,
       "id": 258833
@@ -3012,7 +3012,7 @@
     {
       "wus": 428,
       "name": "PonyGrove",
-      "rank": 181968,
+      "rank": 181976,
       "credit": 2125467,
       "team": 212997,
       "id": 108765
@@ -3020,7 +3020,7 @@
     {
       "wus": 393,
       "name": "snake8head",
-      "rank": 181461,
+      "rank": 181471,
       "credit": 2125373,
       "team": 212997,
       "id": 196274
@@ -3028,7 +3028,7 @@
     {
       "wus": 315,
       "name": "StarlightIronhoof",
-      "rank": 184156,
+      "rank": 184163,
       "credit": 2067857,
       "team": 212997,
       "id": 166081
@@ -3036,7 +3036,7 @@
     {
       "wus": 669,
       "name": "DJDavid98",
-      "rank": 184868,
+      "rank": 184879,
       "credit": 2050170,
       "team": 212997,
       "id": 186491
@@ -3044,7 +3044,7 @@
     {
       "wus": 958,
       "name": "McKye_Carter",
-      "rank": 185357,
+      "rank": 185371,
       "credit": 2037078,
       "team": 212997,
       "id": 106441
@@ -3052,7 +3052,7 @@
     {
       "wus": 34,
       "name": "EggsWithCheese",
-      "rank": 182885,
+      "rank": 182895,
       "credit": 2022686,
       "team": 212997,
       "id": 175525
@@ -3060,7 +3060,7 @@
     {
       "wus": 848,
       "name": "Octavia_BAU",
-      "rank": 186567,
+      "rank": 186582,
       "credit": 2006821,
       "team": 212997,
       "id": 133333
@@ -3068,7 +3068,7 @@
     {
       "wus": 84,
       "name": "EasyNameToSay",
-      "rank": 187008,
+      "rank": 187020,
       "credit": 1995631,
       "team": 212997,
       "id": 335375
@@ -3076,7 +3076,7 @@
     {
       "wus": 50,
       "name": "YFNAnon",
-      "rank": 187390,
+      "rank": 187399,
       "credit": 1984940,
       "team": 212997,
       "id": 353777
@@ -3084,7 +3084,7 @@
     {
       "wus": 426,
       "name": "LightningRocker",
-      "rank": 187505,
+      "rank": 187513,
       "credit": 1982120,
       "team": 212997,
       "id": 145994
@@ -3092,7 +3092,7 @@
     {
       "wus": 129,
       "name": "Sanveefor",
-      "rank": 187548,
+      "rank": 187557,
       "credit": 1980819,
       "team": 212997,
       "id": 218763
@@ -3100,7 +3100,7 @@
     {
       "wus": 5558,
       "name": "Jay_Pereira",
-      "rank": 167026,
+      "rank": 167035,
       "credit": 1976164,
       "team": 212997,
       "id": 375101
@@ -3108,7 +3108,7 @@
     {
       "wus": 748,
       "name": "UsedRipStik",
-      "rank": 187776,
+      "rank": 187787,
       "credit": 1974646,
       "team": 212997,
       "id": 112618
@@ -3116,7 +3116,7 @@
     {
       "wus": 352,
       "name": "Logician",
-      "rank": 187802,
+      "rank": 187813,
       "credit": 1973973,
       "team": 212997,
       "id": 139642
@@ -3124,23 +3124,23 @@
     {
       "wus": 766,
       "name": "BlayzeKohime",
-      "rank": 46821,
+      "rank": 46828,
       "credit": 1968727,
       "team": 212997,
       "id": 98380
     },
     {
-      "wus": 1399,
+      "wus": 1400,
       "name": "Flyboy-z",
-      "rank": 188668,
-      "credit": 1952774,
+      "rank": 188681,
+      "credit": 1954024,
       "team": 212997,
       "id": 356795
     },
     {
       "wus": 535,
       "name": "KeyLimePie",
-      "rank": 189117,
+      "rank": 189129,
       "credit": 1940139,
       "team": 212997,
       "id": 132232
@@ -3148,7 +3148,7 @@
     {
       "wus": 99,
       "name": "RDC",
-      "rank": 185308,
+      "rank": 185319,
       "credit": 1910197,
       "team": 212997,
       "id": 799259
@@ -3156,7 +3156,7 @@
     {
       "wus": 269,
       "name": "Wire_Wolf",
-      "rank": 187774,
+      "rank": 187785,
       "credit": 1888588,
       "team": 212997,
       "id": 241157
@@ -3164,7 +3164,7 @@
     {
       "wus": 1836,
       "name": "TwilightCircuits",
-      "rank": 191673,
+      "rank": 191682,
       "credit": 1879393,
       "team": 212997,
       "id": 180574
@@ -3172,7 +3172,7 @@
     {
       "wus": 1029,
       "name": "LCut",
-      "rank": 191754,
+      "rank": 191765,
       "credit": 1877448,
       "team": 212997,
       "id": 192632
@@ -3180,7 +3180,7 @@
     {
       "wus": 54,
       "name": "Adincar",
-      "rank": 191760,
+      "rank": 191771,
       "credit": 1877350,
       "team": 212997,
       "id": 95350973
@@ -3188,7 +3188,7 @@
     {
       "wus": 660,
       "name": "VMiyuki",
-      "rank": 172042,
+      "rank": 172049,
       "credit": 1876336,
       "team": 212997,
       "id": 26924
@@ -3196,7 +3196,7 @@
     {
       "wus": 390,
       "name": "Raisin",
-      "rank": 189366,
+      "rank": 189377,
       "credit": 1871248,
       "team": 212997,
       "id": 287665
@@ -3204,7 +3204,7 @@
     {
       "wus": 262,
       "name": "andrew12",
-      "rank": 49167,
+      "rank": 49174,
       "credit": 1859521,
       "team": 212997,
       "id": 129494
@@ -3212,7 +3212,7 @@
     {
       "wus": 45,
       "name": "TrixieLulamoon",
-      "rank": 192980,
+      "rank": 192991,
       "credit": 1848747,
       "team": 212997,
       "id": 265953
@@ -3220,7 +3220,7 @@
     {
       "wus": 881,
       "name": "Forderz",
-      "rank": 193164,
+      "rank": 193175,
       "credit": 1844328,
       "team": 212997,
       "id": 313055
@@ -3228,7 +3228,7 @@
     {
       "wus": 3965,
       "name": "Pagdzin",
-      "rank": 194296,
+      "rank": 194305,
       "credit": 1817190,
       "team": 212997,
       "id": 108198
@@ -3236,7 +3236,7 @@
     {
       "wus": 807,
       "name": "arsembostica",
-      "rank": 194634,
+      "rank": 194640,
       "credit": 1808734,
       "team": 212997,
       "id": 182298
@@ -3244,7 +3244,7 @@
     {
       "wus": 2263,
       "name": "ScarletCrystalPrism",
-      "rank": 194918,
+      "rank": 194923,
       "credit": 1802477,
       "team": 212997,
       "id": 180339
@@ -3252,7 +3252,7 @@
     {
       "wus": 577,
       "name": "LiBa",
-      "rank": 194636,
+      "rank": 194642,
       "credit": 1791549,
       "team": 212997,
       "id": 75405116
@@ -3260,7 +3260,7 @@
     {
       "wus": 222,
       "name": "Bandaidpatchy",
-      "rank": 195948,
+      "rank": 195959,
       "credit": 1779921,
       "team": 212997,
       "id": 208838
@@ -3268,7 +3268,7 @@
     {
       "wus": 588,
       "name": "Fuzzy_died",
-      "rank": 197320,
+      "rank": 197328,
       "credit": 1749979,
       "team": 212997,
       "id": 348885
@@ -3276,7 +3276,7 @@
     {
       "wus": 225,
       "name": "trebortaergeht",
-      "rank": 197741,
+      "rank": 197753,
       "credit": 1740467,
       "team": 212997,
       "id": 326219
@@ -3284,7 +3284,7 @@
     {
       "wus": 228,
       "name": "DirtSmoke",
-      "rank": 198475,
+      "rank": 198491,
       "credit": 1724823,
       "team": 212997,
       "id": 237987
@@ -3292,7 +3292,7 @@
     {
       "wus": 426,
       "name": "SunnyMuffin",
-      "rank": 199117,
+      "rank": 199128,
       "credit": 1711200,
       "team": 212997,
       "id": 140919
@@ -3300,7 +3300,7 @@
     {
       "wus": 33,
       "name": "stillinbeta",
-      "rank": 190914,
+      "rank": 190925,
       "credit": 1684849,
       "team": 212997,
       "id": 68587245
@@ -3308,7 +3308,7 @@
     {
       "wus": 233,
       "name": "Calpain",
-      "rank": 166874,
+      "rank": 166883,
       "credit": 1680941,
       "team": 212997,
       "id": 622871
@@ -3316,7 +3316,7 @@
     {
       "wus": 40,
       "name": "ginsederp_ALL_19EniC3eDuZtxiQ3xcPjZLiCahPtUPaCkC",
-      "rank": 200702,
+      "rank": 200717,
       "credit": 1679512,
       "team": 212997,
       "id": 745176
@@ -3324,7 +3324,7 @@
     {
       "wus": 309,
       "name": "Cassinova",
-      "rank": 201115,
+      "rank": 201129,
       "credit": 1671150,
       "team": 212997,
       "id": 229706
@@ -3332,7 +3332,7 @@
     {
       "wus": 324,
       "name": "Ashfire",
-      "rank": 201131,
+      "rank": 201142,
       "credit": 1670774,
       "team": 212997,
       "id": 173907
@@ -3340,7 +3340,7 @@
     {
       "wus": 291,
       "name": "ForDymphna",
-      "rank": 198170,
+      "rank": 198179,
       "credit": 1669567,
       "team": 212997,
       "id": 12759725
@@ -3348,7 +3348,7 @@
     {
       "wus": 119,
       "name": "TorqueEffect",
-      "rank": 195348,
+      "rank": 195357,
       "credit": 1646990,
       "team": 212997,
       "id": 180556
@@ -3356,7 +3356,7 @@
     {
       "wus": 1290,
       "name": "Jesin00",
-      "rank": 180419,
+      "rank": 180434,
       "credit": 1635292,
       "team": 212997,
       "id": 12171
@@ -3364,7 +3364,7 @@
     {
       "wus": 41,
       "name": "Rika",
-      "rank": 172243,
+      "rank": 172252,
       "credit": 1601037,
       "team": 212997,
       "id": 264471
@@ -3372,7 +3372,7 @@
     {
       "wus": 34,
       "name": "Twiman",
-      "rank": 205902,
+      "rank": 205911,
       "credit": 1575409,
       "team": 212997,
       "id": 72937451
@@ -3380,7 +3380,7 @@
     {
       "wus": 191,
       "name": "NetworkMonkey",
-      "rank": 205919,
+      "rank": 205929,
       "credit": 1574923,
       "team": 212997,
       "id": 263528
@@ -3388,7 +3388,7 @@
     {
       "wus": 335,
       "name": "Litterpaws",
-      "rank": 206376,
+      "rank": 206387,
       "credit": 1566214,
       "team": 212997,
       "id": 78329434
@@ -3396,7 +3396,7 @@
     {
       "wus": 81,
       "name": "ZhilTP911",
-      "rank": 206719,
+      "rank": 206732,
       "credit": 1559688,
       "team": 212997,
       "id": 338388
@@ -3404,7 +3404,7 @@
     {
       "wus": 86,
       "name": "VolgarTheMighty",
-      "rank": 206991,
+      "rank": 207003,
       "credit": 1554948,
       "team": 212997,
       "id": 196683
@@ -3412,7 +3412,7 @@
     {
       "wus": 78,
       "name": "cynical",
-      "rank": 167655,
+      "rank": 167666,
       "credit": 1539311,
       "team": 212997,
       "id": 161396
@@ -3420,7 +3420,7 @@
     {
       "wus": 968,
       "name": "Shane_Blair2",
-      "rank": 208171,
+      "rank": 208185,
       "credit": 1532168,
       "team": 212997,
       "id": 134204
@@ -3428,7 +3428,7 @@
     {
       "wus": 276,
       "name": "PonyVampire",
-      "rank": 208514,
+      "rank": 208525,
       "credit": 1525736,
       "team": 212997,
       "id": 108766
@@ -3436,7 +3436,7 @@
     {
       "wus": 1094,
       "name": "AFatSheep",
-      "rank": 208772,
+      "rank": 208785,
       "credit": 1520608,
       "team": 212997,
       "id": 193457
@@ -3444,7 +3444,7 @@
     {
       "wus": 1286,
       "name": "Homage+Littlepup!",
-      "rank": 209494,
+      "rank": 209503,
       "credit": 1508076,
       "team": 212997,
       "id": 139049
@@ -3452,7 +3452,7 @@
     {
       "wus": 464,
       "name": "cool110",
-      "rank": 209947,
+      "rank": 209958,
       "credit": 1499282,
       "team": 212997,
       "id": 69121680
@@ -3460,7 +3460,7 @@
     {
       "wus": 294,
       "name": "Allbetenth",
-      "rank": 210701,
+      "rank": 210708,
       "credit": 1485597,
       "team": 212997,
       "id": 167242
@@ -3468,7 +3468,7 @@
     {
       "wus": 1435,
       "name": "dr-spangle",
-      "rank": 210358,
+      "rank": 210368,
       "credit": 1483832,
       "team": 212997,
       "id": 130741
@@ -3476,7 +3476,7 @@
     {
       "wus": 511,
       "name": "Draconaes",
-      "rank": 191858,
+      "rank": 191868,
       "credit": 1470296,
       "team": 212997,
       "id": 100822
@@ -3484,7 +3484,7 @@
     {
       "wus": 173,
       "name": "EldenAndel",
-      "rank": 34376,
+      "rank": 34383,
       "credit": 1461363,
       "team": 212997,
       "id": 138587
@@ -3492,7 +3492,7 @@
     {
       "wus": 287,
       "name": "DaveKenroy",
-      "rank": 213349,
+      "rank": 213359,
       "credit": 1439638,
       "team": 212997,
       "id": 100137
@@ -3500,7 +3500,7 @@
     {
       "wus": 382,
       "name": "firefox11",
-      "rank": 93643,
+      "rank": 93654,
       "credit": 1439637,
       "team": 212997,
       "id": 8518
@@ -3508,7 +3508,7 @@
     {
       "wus": 157,
       "name": "Technous285",
-      "rank": 213698,
+      "rank": 213707,
       "credit": 1433552,
       "team": 212997,
       "id": 180495
@@ -3516,7 +3516,7 @@
     {
       "wus": 704,
       "name": "14flash",
-      "rank": 213980,
+      "rank": 213989,
       "credit": 1429137,
       "team": 212997,
       "id": 336913
@@ -3524,7 +3524,7 @@
     {
       "wus": 793,
       "name": "Cezzlo",
-      "rank": 214458,
+      "rank": 214466,
       "credit": 1421160,
       "team": 212997,
       "id": 309458
@@ -3532,7 +3532,7 @@
     {
       "wus": 1071,
       "name": "Pinkamena_Diane_Pie",
-      "rank": 214481,
+      "rank": 214488,
       "credit": 1420834,
       "team": 212997,
       "id": 133572
@@ -3540,7 +3540,7 @@
     {
       "wus": 1331,
       "name": "Bash4",
-      "rank": 206756,
+      "rank": 206767,
       "credit": 1412501,
       "team": 212997,
       "id": 182349
@@ -3548,7 +3548,7 @@
     {
       "wus": 215,
       "name": "Moby",
-      "rank": 53014,
+      "rank": 53022,
       "credit": 1405459,
       "team": 212997,
       "id": 166648
@@ -3556,7 +3556,7 @@
     {
       "wus": 44,
       "name": "Wunderbolts",
-      "rank": 168867,
+      "rank": 168875,
       "credit": 1404017,
       "team": 212997,
       "id": 190078569
@@ -3564,7 +3564,7 @@
     {
       "wus": 142,
       "name": "Virulis",
-      "rank": 162163,
+      "rank": 162178,
       "credit": 1388366,
       "team": 212997,
       "id": 76613
@@ -3572,7 +3572,7 @@
     {
       "wus": 288,
       "name": "daniwxp11",
-      "rank": 216258,
+      "rank": 216267,
       "credit": 1382392,
       "team": 212997,
       "id": 259686
@@ -3580,7 +3580,7 @@
     {
       "wus": 308,
       "name": "Quinnnniuq",
-      "rank": 217180,
+      "rank": 217190,
       "credit": 1376882,
       "team": 212997,
       "id": 133724
@@ -3588,7 +3588,7 @@
     {
       "wus": 85,
       "name": "Velvet_Remedy",
-      "rank": 217215,
+      "rank": 217224,
       "credit": 1376388,
       "team": 212997,
       "id": 180592
@@ -3596,7 +3596,7 @@
     {
       "wus": 184,
       "name": "ShadySound",
-      "rank": 218272,
+      "rank": 218282,
       "credit": 1359959,
       "team": 212997,
       "id": 184113
@@ -3604,7 +3604,7 @@
     {
       "wus": 314,
       "name": "MercurySkies",
-      "rank": 218286,
+      "rank": 218295,
       "credit": 1359694,
       "team": 212997,
       "id": 350048
@@ -3612,7 +3612,7 @@
     {
       "wus": 296,
       "name": "RockeyDA",
-      "rank": 219466,
+      "rank": 219474,
       "credit": 1341518,
       "team": 212997,
       "id": 184006
@@ -3620,7 +3620,7 @@
     {
       "wus": 365,
       "name": "GhostWolf",
-      "rank": 213928,
+      "rank": 213938,
       "credit": 1339576,
       "team": 212997,
       "id": 163773
@@ -3628,7 +3628,7 @@
     {
       "wus": 258,
       "name": "Gnathonic",
-      "rank": 211167,
+      "rank": 211176,
       "credit": 1320124,
       "team": 212997,
       "id": 102445
@@ -3636,7 +3636,7 @@
     {
       "wus": 286,
       "name": "mylittlenpc",
-      "rank": 221289,
+      "rank": 221297,
       "credit": 1313680,
       "team": 212997,
       "id": 107275
@@ -3644,7 +3644,7 @@
     {
       "wus": 369,
       "name": "SciTwi",
-      "rank": 221572,
+      "rank": 221583,
       "credit": 1309007,
       "team": 212997,
       "id": 181830
@@ -3652,7 +3652,7 @@
     {
       "wus": 382,
       "name": "ShalMusicFX",
-      "rank": 221623,
+      "rank": 221636,
       "credit": 1308261,
       "team": 212997,
       "id": 120445274
@@ -3660,7 +3660,7 @@
     {
       "wus": 979,
       "name": "Badly_Drawn_Turtle",
-      "rank": 222062,
+      "rank": 222074,
       "credit": 1301866,
       "team": 212997,
       "id": 181203
@@ -3668,7 +3668,7 @@
     {
       "wus": 74,
       "name": "coolrainbow",
-      "rank": 222265,
+      "rank": 222275,
       "credit": 1298894,
       "team": 212997,
       "id": 629579
@@ -3676,7 +3676,7 @@
     {
       "wus": 860,
       "name": "RainbowsAreMagic",
-      "rank": 222645,
+      "rank": 222656,
       "credit": 1293339,
       "team": 212997,
       "id": 167935
@@ -3684,7 +3684,7 @@
     {
       "wus": 121,
       "name": "Razmic",
-      "rank": 223651,
+      "rank": 223664,
       "credit": 1278542,
       "team": 212997,
       "id": 621883
@@ -3692,7 +3692,7 @@
     {
       "wus": 413,
       "name": "bb010g",
-      "rank": 224258,
+      "rank": 224270,
       "credit": 1270352,
       "team": 212997,
       "id": 258622
@@ -3700,7 +3700,7 @@
     {
       "wus": 460,
       "name": "Augui",
-      "rank": 224521,
+      "rank": 224530,
       "credit": 1266700,
       "team": 212997,
       "id": 137705
@@ -3708,7 +3708,7 @@
     {
       "wus": 917,
       "name": "SamP20",
-      "rank": 224767,
+      "rank": 224776,
       "credit": 1263155,
       "team": 212997,
       "id": 187055
@@ -3716,7 +3716,7 @@
     {
       "wus": 362,
       "name": "kekerino",
-      "rank": 225243,
+      "rank": 225253,
       "credit": 1256232,
       "team": 212997,
       "id": 181546
@@ -3724,7 +3724,7 @@
     {
       "wus": 1041,
       "name": "Cluefinder",
-      "rank": 225321,
+      "rank": 225333,
       "credit": 1255153,
       "team": 212997,
       "id": 99453
@@ -3732,7 +3732,7 @@
     {
       "wus": 74,
       "name": "Syra",
-      "rank": 221818,
+      "rank": 221829,
       "credit": 1254063,
       "team": 212997,
       "id": 336490
@@ -3740,7 +3740,7 @@
     {
       "wus": 154,
       "name": "nallar",
-      "rank": 226809,
+      "rank": 226825,
       "credit": 1232850,
       "team": 212997,
       "id": 337902
@@ -3748,7 +3748,7 @@
     {
       "wus": 63,
       "name": "LulamoonLove",
-      "rank": 226937,
+      "rank": 226951,
       "credit": 1231578,
       "team": 212997,
       "id": 373483
@@ -3756,7 +3756,7 @@
     {
       "wus": 846,
       "name": "Flutterdave",
-      "rank": 226985,
+      "rank": 226997,
       "credit": 1230878,
       "team": 212997,
       "id": 178641
@@ -3764,7 +3764,7 @@
     {
       "wus": 100,
       "name": "BucketHelm",
-      "rank": 227315,
+      "rank": 227328,
       "credit": 1226103,
       "team": 212997,
       "id": 337097
@@ -3772,7 +3772,7 @@
     {
       "wus": 310,
       "name": "Aryanne",
-      "rank": 227555,
+      "rank": 227569,
       "credit": 1222953,
       "team": 212997,
       "id": 284824
@@ -3780,7 +3780,7 @@
     {
       "wus": 266,
       "name": "Krillik",
-      "rank": 227795,
+      "rank": 227809,
       "credit": 1219751,
       "team": 212997,
       "id": 275537
@@ -3788,7 +3788,7 @@
     {
       "wus": 252,
       "name": "Lirleni",
-      "rank": 226915,
+      "rank": 226929,
       "credit": 1219419,
       "team": 212997,
       "id": 228496540
@@ -3796,7 +3796,7 @@
     {
       "wus": 105,
       "name": "sangv",
-      "rank": 140268,
+      "rank": 140276,
       "credit": 1217552,
       "team": 212997,
       "id": 54079767
@@ -3804,7 +3804,7 @@
     {
       "wus": 175,
       "name": "Quinch",
-      "rank": 228349,
+      "rank": 228363,
       "credit": 1210365,
       "team": 212997,
       "id": 375266
@@ -3812,7 +3812,7 @@
     {
       "wus": 51,
       "name": "Kuha",
-      "rank": 220935,
+      "rank": 220942,
       "credit": 1209723,
       "team": 212997,
       "id": 298142
@@ -3820,7 +3820,7 @@
     {
       "wus": 521,
       "name": "GumballCrash",
-      "rank": 228762,
+      "rank": 228777,
       "credit": 1206763,
       "team": 212997,
       "id": 138956
@@ -3828,7 +3828,7 @@
     {
       "wus": 595,
       "name": "yadyn",
-      "rank": 228759,
+      "rank": 228774,
       "credit": 1206760,
       "team": 212997,
       "id": 180658
@@ -3836,7 +3836,7 @@
     {
       "wus": 461,
       "name": "Krellion",
-      "rank": 167156,
+      "rank": 167161,
       "credit": 1202812,
       "team": 212997,
       "id": 36947
@@ -3844,7 +3844,7 @@
     {
       "wus": 105,
       "name": "simplyphat",
-      "rank": 229801,
+      "rank": 229813,
       "credit": 1191817,
       "team": 212997,
       "id": 325563654
@@ -3852,7 +3852,7 @@
     {
       "wus": 305,
       "name": "Feld0",
-      "rank": 228224,
+      "rank": 228239,
       "credit": 1188375,
       "team": 212997,
       "id": 101684
@@ -3860,7 +3860,7 @@
     {
       "wus": 418,
       "name": "Hupf",
-      "rank": 169572,
+      "rank": 169578,
       "credit": 1184775,
       "team": 212997,
       "id": 10970
@@ -3868,7 +3868,7 @@
     {
       "wus": 513,
       "name": "ArtemisPlum",
-      "rank": 230781,
+      "rank": 230792,
       "credit": 1179071,
       "team": 212997,
       "id": 372447
@@ -3876,7 +3876,7 @@
     {
       "wus": 807,
       "name": "ShadeThePony",
-      "rank": 230919,
+      "rank": 230931,
       "credit": 1177439,
       "team": 212997,
       "id": 134194
@@ -3884,7 +3884,7 @@
     {
       "wus": 231,
       "name": "Jamaic",
-      "rank": 231739,
+      "rank": 231747,
       "credit": 1166659,
       "team": 212997,
       "id": 166014
@@ -3892,7 +3892,7 @@
     {
       "wus": 34,
       "name": "nitepone",
-      "rank": 102738,
+      "rank": 102746,
       "credit": 1166012,
       "team": 212997,
       "id": 336112
@@ -3900,7 +3900,7 @@
     {
       "wus": 778,
       "name": "Netkev",
-      "rank": 231802,
+      "rank": 231811,
       "credit": 1165852,
       "team": 212997,
       "id": 180122
@@ -3908,7 +3908,7 @@
     {
       "wus": 59,
       "name": "Tetragrammapony",
-      "rank": 232147,
+      "rank": 232156,
       "credit": 1161218,
       "team": 212997,
       "id": 288280
@@ -3916,7 +3916,7 @@
     {
       "wus": 453,
       "name": "Thoroar",
-      "rank": 126804,
+      "rank": 126816,
       "credit": 1141064,
       "team": 212997,
       "id": 25412
@@ -3924,7 +3924,7 @@
     {
       "wus": 506,
       "name": "ElectricErger",
-      "rank": 234176,
+      "rank": 234184,
       "credit": 1135209,
       "team": 212997,
       "id": 167820
@@ -3932,7 +3932,7 @@
     {
       "wus": 429,
       "name": "ArchiveAlicorn",
-      "rank": 234239,
+      "rank": 234247,
       "credit": 1134352,
       "team": 212997,
       "id": 137653
@@ -3940,7 +3940,7 @@
     {
       "wus": 233,
       "name": "Jonathan924",
-      "rank": 83593,
+      "rank": 83600,
       "credit": 1133148,
       "team": 212997,
       "id": 310976
@@ -3948,7 +3948,7 @@
     {
       "wus": 46,
       "name": "the_game_123",
-      "rank": 238505,
+      "rank": 238514,
       "credit": 1082117,
       "team": 212997,
       "id": 73453902
@@ -3956,7 +3956,7 @@
     {
       "wus": 343,
       "name": "Zyrian",
-      "rank": 238730,
+      "rank": 238619,
       "credit": 1080341,
       "team": 212997,
       "id": 373998
@@ -3964,7 +3964,7 @@
     {
       "wus": 633,
       "name": "Quakerdash",
-      "rank": 239156,
+      "rank": 239164,
       "credit": 1074417,
       "team": 212997,
       "id": 109027
@@ -3972,7 +3972,7 @@
     {
       "wus": 131,
       "name": "M3ales",
-      "rank": 239912,
+      "rank": 239920,
       "credit": 1065612,
       "team": 212997,
       "id": 232434
@@ -3980,7 +3980,7 @@
     {
       "wus": 89,
       "name": "Foxmcccloud",
-      "rank": 239001,
+      "rank": 239009,
       "credit": 1055646,
       "team": 212997,
       "id": 408493
@@ -3988,7 +3988,7 @@
     {
       "wus": 601,
       "name": "Soggy_Doggy",
-      "rank": 240825,
+      "rank": 240836,
       "credit": 1054750,
       "team": 212997,
       "id": 140815
@@ -3996,7 +3996,7 @@
     {
       "wus": 198,
       "name": "SailorFuzz",
-      "rank": 241122,
+      "rank": 241132,
       "credit": 1051239,
       "team": 212997,
       "id": 338113
@@ -4004,7 +4004,7 @@
     {
       "wus": 676,
       "name": "pageturner1988",
-      "rank": 214494,
+      "rank": 214502,
       "credit": 1046736,
       "team": 212997,
       "id": 140172
@@ -4012,7 +4012,7 @@
     {
       "wus": 605,
       "name": "DarkStatic",
-      "rank": 241748,
+      "rank": 241762,
       "credit": 1044204,
       "team": 212997,
       "id": 100096
@@ -4020,7 +4020,7 @@
     {
       "wus": 978,
       "name": "PonyTest",
-      "rank": 241808,
+      "rank": 241820,
       "credit": 1043827,
       "team": 212997,
       "id": 8054075
@@ -4028,7 +4028,7 @@
     {
       "wus": 1932,
       "name": "Horcrux",
-      "rank": 187953,
+      "rank": 187963,
       "credit": 1042133,
       "team": 212997,
       "id": 60539
@@ -4036,7 +4036,7 @@
     {
       "wus": 239,
       "name": "WaveFunction",
-      "rank": 243430,
+      "rank": 243443,
       "credit": 1024584,
       "team": 212997,
       "id": 180616
@@ -4044,7 +4044,7 @@
     {
       "wus": 264,
       "name": "Filia_Filippa",
-      "rank": 243616,
+      "rank": 243628,
       "credit": 1023904,
       "team": 212997,
       "id": 10291577
@@ -4052,7 +4052,7 @@
     {
       "wus": 1156,
       "name": "foxox",
-      "rank": 243763,
+      "rank": 243774,
       "credit": 1022355,
       "team": 212997,
       "id": 163759
@@ -4060,7 +4060,7 @@
     {
       "wus": 61,
       "name": "Speshkitty",
-      "rank": 244261,
+      "rank": 244273,
       "credit": 1016947,
       "team": 212997,
       "id": 234324
@@ -4068,7 +4068,7 @@
     {
       "wus": 24,
       "name": "LazyOhmu",
-      "rank": 244291,
+      "rank": 244304,
       "credit": 1016637,
       "team": 212997,
       "id": 5758954
@@ -4076,7 +4076,7 @@
     {
       "wus": 525,
       "name": "latitat",
-      "rank": 244434,
+      "rank": 244450,
       "credit": 1014967,
       "team": 212997,
       "id": 132404
@@ -4084,7 +4084,7 @@
     {
       "wus": 555,
       "name": "DracoDynasty",
-      "rank": 244467,
+      "rank": 244482,
       "credit": 1014505,
       "team": 212997,
       "id": 100821
@@ -4092,7 +4092,7 @@
     {
       "wus": 57,
       "name": "DJ_Otakon",
-      "rank": 244720,
+      "rank": 244733,
       "credit": 1012041,
       "team": 212997,
       "id": 237998
@@ -4100,7 +4100,7 @@
     {
       "wus": 279,
       "name": "Angel_Bunny",
-      "rank": 245214,
+      "rank": 245227,
       "credit": 1007252,
       "team": 212997,
       "id": 179188
@@ -4108,7 +4108,7 @@
     {
       "wus": 26,
       "name": "Nidvex",
-      "rank": 194332,
+      "rank": 194341,
       "credit": 1007075,
       "team": 212997,
       "id": 287292
@@ -4116,7 +4116,7 @@
     {
       "wus": 1284,
       "name": "Danktrain",
-      "rank": 245287,
+      "rank": 245302,
       "credit": 1006458,
       "team": 212997,
       "id": 371434
@@ -4124,7 +4124,7 @@
     {
       "wus": 441,
       "name": "Loss|",
-      "rank": 245362,
+      "rank": 245376,
       "credit": 1005613,
       "team": 212997,
       "id": 105696
@@ -4132,7 +4132,7 @@
     {
       "wus": 2101,
       "name": "Flagondeep",
-      "rank": 245487,
+      "rank": 245498,
       "credit": 1004436,
       "team": 212997,
       "id": 165470
@@ -4140,7 +4140,7 @@
     {
       "wus": 562,
       "name": "wildwill2002",
-      "rank": 242643,
+      "rank": 242651,
       "credit": 1001730,
       "team": 212997,
       "id": 141360
@@ -4148,7 +4148,7 @@
     {
       "wus": 171,
       "name": "Mr_Pretzel",
-      "rank": 246381,
+      "rank": 246392,
       "credit": 994934,
       "team": 212997,
       "id": 320884
@@ -4156,7 +4156,7 @@
     {
       "wus": 191,
       "name": "J.C._\"Littlepip\"_Bengtson",
-      "rank": 246815,
+      "rank": 246822,
       "credit": 989797,
       "team": 212997,
       "id": 231516
@@ -4164,7 +4164,7 @@
     {
       "wus": 521,
       "name": "Tux2",
-      "rank": 92484,
+      "rank": 92490,
       "credit": 977771,
       "team": 212997,
       "id": 26188
@@ -4172,7 +4172,7 @@
     {
       "wus": 66,
       "name": "Apeinui",
-      "rank": 248502,
+      "rank": 248513,
       "credit": 971247,
       "team": 212997,
       "id": 88031559
@@ -4180,7 +4180,7 @@
     {
       "wus": 352,
       "name": "MallyDeBlack",
-      "rank": 223559,
+      "rank": 223572,
       "credit": 969704,
       "team": 212997,
       "id": 106046
@@ -4188,7 +4188,7 @@
     {
       "wus": 242,
       "name": "gabe2252",
-      "rank": 248983,
+      "rank": 248994,
       "credit": 965735,
       "team": 212997,
       "id": 337392
@@ -4196,7 +4196,7 @@
     {
       "wus": 529,
       "name": "Opine",
-      "rank": 249062,
+      "rank": 249075,
       "credit": 964917,
       "team": 212997,
       "id": 171994
@@ -4204,7 +4204,7 @@
     {
       "wus": 702,
       "name": "Headphone_Jackass",
-      "rank": 249852,
+      "rank": 249863,
       "credit": 956500,
       "team": 212997,
       "id": 139011
@@ -4212,7 +4212,7 @@
     {
       "wus": 163,
       "name": "DrDoctor",
-      "rank": 247795,
+      "rank": 247809,
       "credit": 954312,
       "team": 212997,
       "id": 176240
@@ -4220,7 +4220,7 @@
     {
       "wus": 362,
       "name": "Fozzy",
-      "rank": 162099,
+      "rank": 162112,
       "credit": 943623,
       "team": 212997,
       "id": 212040
@@ -4228,7 +4228,7 @@
     {
       "wus": 567,
       "name": "MainHead",
-      "rank": 251289,
+      "rank": 251299,
       "credit": 941628,
       "team": 212997,
       "id": 106018
@@ -4236,7 +4236,7 @@
     {
       "wus": 261,
       "name": "iarp",
-      "rank": 251963,
+      "rank": 251973,
       "credit": 933495,
       "team": 212997,
       "id": 131653
@@ -4244,7 +4244,7 @@
     {
       "wus": 190,
       "name": "flutterholly",
-      "rank": 146867,
+      "rank": 146877,
       "credit": 931782,
       "team": 212997,
       "id": 76012992
@@ -4252,7 +4252,7 @@
     {
       "wus": 207,
       "name": "Noisycat05",
-      "rank": 76157,
+      "rank": 76166,
       "credit": 930533,
       "team": 212997,
       "id": 366687
@@ -4260,7 +4260,7 @@
     {
       "wus": 130,
       "name": "WizardOfToasters",
-      "rank": 21320,
+      "rank": 21323,
       "credit": 922628,
       "team": 212997,
       "id": 250669
@@ -4268,7 +4268,7 @@
     {
       "wus": 143,
       "name": "Oatz",
-      "rank": 251871,
+      "rank": 251879,
       "credit": 920481,
       "team": 212997,
       "id": 168693
@@ -4276,7 +4276,7 @@
     {
       "wus": 1847,
       "name": "Slide_Potentiometer",
-      "rank": 253284,
+      "rank": 253295,
       "credit": 920046,
       "team": 212997,
       "id": 110733
@@ -4284,7 +4284,7 @@
     {
       "wus": 641,
       "name": "Deeplove",
-      "rank": 111274,
+      "rank": 111287,
       "credit": 915798,
       "team": 212997,
       "id": 100322
@@ -4292,7 +4292,7 @@
     {
       "wus": 516,
       "name": "RainyRag",
-      "rank": 254036,
+      "rank": 254050,
       "credit": 912060,
       "team": 212997,
       "id": 109142
@@ -4300,7 +4300,7 @@
     {
       "wus": 56,
       "name": "Celestia",
-      "rank": 179602,
+      "rank": 179613,
       "credit": 911481,
       "team": 212997,
       "id": 119571004
@@ -4308,7 +4308,7 @@
     {
       "wus": 43,
       "name": "BronyLyrics",
-      "rank": 254452,
+      "rank": 254465,
       "credit": 908297,
       "team": 212997,
       "id": 274598
@@ -4316,7 +4316,7 @@
     {
       "wus": 504,
       "name": "BeTa77",
-      "rank": 255185,
+      "rank": 255196,
       "credit": 901299,
       "team": 212997,
       "id": 229383
@@ -4324,7 +4324,7 @@
     {
       "wus": 56,
       "name": "GreenProtagonist",
-      "rank": 255120,
+      "rank": 255130,
       "credit": 900558,
       "team": 212997,
       "id": 337439
@@ -4332,7 +4332,7 @@
     {
       "wus": 156,
       "name": "kajong0007",
-      "rank": 255793,
+      "rank": 255808,
       "credit": 894871,
       "team": 212997,
       "id": 104602
@@ -4340,7 +4340,7 @@
     {
       "wus": 1331,
       "name": "Void",
-      "rank": 23816,
+      "rank": 23821,
       "credit": 893664,
       "team": 212997,
       "id": 146433
@@ -4348,7 +4348,7 @@
     {
       "wus": 265,
       "name": "SalientBlue",
-      "rank": 256486,
+      "rank": 256501,
       "credit": 888264,
       "team": 212997,
       "id": 379213
@@ -4356,7 +4356,7 @@
     {
       "wus": 321,
       "name": "CaelestisInteritum",
-      "rank": 242019,
+      "rank": 242028,
       "credit": 885388,
       "team": 212997,
       "id": 229638
@@ -4364,7 +4364,7 @@
     {
       "wus": 339,
       "name": "Cyan_Phoenix",
-      "rank": 257101,
+      "rank": 257117,
       "credit": 882006,
       "team": 212997,
       "id": 259599
@@ -4372,7 +4372,7 @@
     {
       "wus": 37,
       "name": "CryseTech",
-      "rank": 257380,
+      "rank": 257396,
       "credit": 879556,
       "team": 212997,
       "id": 74646694
@@ -4380,7 +4380,7 @@
     {
       "wus": 136,
       "name": "StrayT3chman",
-      "rank": 257681,
+      "rank": 257694,
       "credit": 877093,
       "team": 212997,
       "id": 265325
@@ -4388,7 +4388,7 @@
     {
       "wus": 27,
       "name": "Phoenix_Flare",
-      "rank": 257682,
+      "rank": 257695,
       "credit": 877086,
       "team": 212997,
       "id": 287524
@@ -4396,7 +4396,7 @@
     {
       "wus": 35,
       "name": "TerminalHunter",
-      "rank": 257684,
+      "rank": 257697,
       "credit": 877075,
       "team": 212997,
       "id": 196434
@@ -4404,7 +4404,7 @@
     {
       "wus": 26,
       "name": "TwinkleBoom",
-      "rank": 257960,
+      "rank": 257977,
       "credit": 874612,
       "team": 212997,
       "id": 353672
@@ -4412,7 +4412,7 @@
     {
       "wus": 239,
       "name": "mollusk",
-      "rank": 258102,
+      "rank": 258121,
       "credit": 873226,
       "team": 212997,
       "id": 245709
@@ -4420,7 +4420,7 @@
     {
       "wus": 132,
       "name": "JzA",
-      "rank": 257937,
+      "rank": 257954,
       "credit": 872572,
       "team": 212997,
       "id": 337603
@@ -4428,7 +4428,7 @@
     {
       "wus": 579,
       "name": "Short_Circuit",
-      "rank": 126024,
+      "rank": 126030,
       "credit": 866674,
       "team": 212997,
       "id": 176748
@@ -4436,7 +4436,7 @@
     {
       "wus": 498,
       "name": "FR_Cra2yPony/Griffon",
-      "rank": 258849,
+      "rank": 258865,
       "credit": 866364,
       "team": 212997,
       "id": 102053
@@ -4444,7 +4444,7 @@
     {
       "wus": 88,
       "name": "TheMajorTechie",
-      "rank": 259442,
+      "rank": 259456,
       "credit": 860926,
       "team": 212997,
       "id": 336520
@@ -4452,7 +4452,7 @@
     {
       "wus": 213,
       "name": "Gixome",
-      "rank": 259494,
+      "rank": 259508,
       "credit": 860451,
       "team": 212997,
       "id": 102402
@@ -4460,7 +4460,7 @@
     {
       "wus": 289,
       "name": "lovestruckluna",
-      "rank": 260194,
+      "rank": 260209,
       "credit": 854277,
       "team": 212997,
       "id": 105721
@@ -4468,7 +4468,7 @@
     {
       "wus": 74,
       "name": "RigidChaser",
-      "rank": 261128,
+      "rank": 261141,
       "credit": 845518,
       "team": 212997,
       "id": 681101
@@ -4476,7 +4476,7 @@
     {
       "wus": 522,
       "name": "eflyjason",
-      "rank": 261429,
+      "rank": 261442,
       "credit": 842866,
       "team": 212997,
       "id": 346945
@@ -4484,7 +4484,7 @@
     {
       "wus": 244,
       "name": "codl",
-      "rank": 262659,
+      "rank": 262673,
       "credit": 817710,
       "team": 212997,
       "id": 99495
@@ -4492,7 +4492,7 @@
     {
       "wus": 41,
       "name": "Lumex",
-      "rank": 238160,
+      "rank": 238167,
       "credit": 815094,
       "team": 212997,
       "id": 1416245
@@ -4500,7 +4500,7 @@
     {
       "wus": 565,
       "name": "Berry_Punch",
-      "rank": 266024,
+      "rank": 266038,
       "credit": 801907,
       "team": 212997,
       "id": 226001
@@ -4508,7 +4508,7 @@
     {
       "wus": 89,
       "name": "TSparkle3395",
-      "rank": 266409,
+      "rank": 266421,
       "credit": 798676,
       "team": 212997,
       "id": 220731
@@ -4516,7 +4516,7 @@
     {
       "wus": 517,
       "name": "FluttershyNetwork.com",
-      "rank": 266501,
+      "rank": 266513,
       "credit": 797883,
       "team": 212997,
       "id": 342869
@@ -4524,7 +4524,7 @@
     {
       "wus": 62,
       "name": "paoiue",
-      "rank": 266611,
+      "rank": 266623,
       "credit": 796937,
       "team": 212997,
       "id": 337983
@@ -4532,7 +4532,7 @@
     {
       "wus": 444,
       "name": "Spinmeister",
-      "rank": 264955,
+      "rank": 264969,
       "credit": 794230,
       "team": 212997,
       "id": 111002
@@ -4540,7 +4540,7 @@
     {
       "wus": 402,
       "name": "Bocazon",
-      "rank": 259596,
+      "rank": 259610,
       "credit": 788699,
       "team": 212997,
       "id": 337064
@@ -4548,7 +4548,7 @@
     {
       "wus": 210,
       "name": "ILikePizza555",
-      "rank": 267784,
+      "rank": 267797,
       "credit": 787475,
       "team": 212997,
       "id": 373319
@@ -4556,7 +4556,7 @@
     {
       "wus": 63,
       "name": "LakesGeek",
-      "rank": 262342,
+      "rank": 262362,
       "credit": 785115,
       "team": 212997,
       "id": 69279323
@@ -4564,7 +4564,7 @@
     {
       "wus": 292,
       "name": "IanBahas",
-      "rank": 243298,
+      "rank": 243310,
       "credit": 782391,
       "team": 212997,
       "id": 186638
@@ -4572,7 +4572,7 @@
     {
       "wus": 735,
       "name": "Suukorak",
-      "rank": 268551,
+      "rank": 268562,
       "credit": 781512,
       "team": 212997,
       "id": 340795
@@ -4580,7 +4580,7 @@
     {
       "wus": 819,
       "name": "Nightmaremoon",
-      "rank": 268566,
+      "rank": 268578,
       "credit": 781416,
       "team": 212997,
       "id": 107619
@@ -4588,7 +4588,7 @@
     {
       "wus": 21,
       "name": "Vizler_P�ter",
-      "rank": 268659,
+      "rank": 268668,
       "credit": 780755,
       "team": 212997,
       "id": 386606761
@@ -4596,7 +4596,7 @@
     {
       "wus": 124,
       "name": "joshypop11",
-      "rank": 250923,
+      "rank": 250933,
       "credit": 772735,
       "team": 212997,
       "id": 69813768
@@ -4604,7 +4604,7 @@
     {
       "wus": 1415,
       "name": "Sieversii",
-      "rank": 269832,
+      "rank": 269847,
       "credit": 770917,
       "team": 212997,
       "id": 196219
@@ -4612,7 +4612,7 @@
     {
       "wus": 398,
       "name": "MkThunderwd",
-      "rank": 270748,
+      "rank": 270757,
       "credit": 763610,
       "team": 212997,
       "id": 365006
@@ -4620,7 +4620,7 @@
     {
       "wus": 56,
       "name": "SlipRain",
-      "rank": 271040,
+      "rank": 271049,
       "credit": 761224,
       "team": 212997,
       "id": 373814
@@ -4628,7 +4628,7 @@
     {
       "wus": 201,
       "name": "Eagle_-_Paladin_of_Shadows",
-      "rank": 257723,
+      "rank": 257736,
       "credit": 759360,
       "team": 212997,
       "id": 768099
@@ -4636,7 +4636,7 @@
     {
       "wus": 181,
       "name": "mudkip1123",
-      "rank": 271485,
+      "rank": 271493,
       "credit": 757818,
       "team": 212997,
       "id": 139961
@@ -4644,7 +4644,7 @@
     {
       "wus": 46,
       "name": "Nicelus",
-      "rank": 271142,
+      "rank": 271151,
       "credit": 757032,
       "team": 212997,
       "id": 362680
@@ -4652,7 +4652,7 @@
     {
       "wus": 2128,
       "name": "baconpork",
-      "rank": 272903,
+      "rank": 272914,
       "credit": 746577,
       "team": 212997,
       "id": 292950
@@ -4660,7 +4660,7 @@
     {
       "wus": 63,
       "name": "Phyntar",
-      "rank": 272969,
+      "rank": 272981,
       "credit": 745989,
       "team": 212997,
       "id": 353205
@@ -4668,7 +4668,7 @@
     {
       "wus": 1841,
       "name": "CosmiaNebula",
-      "rank": 273178,
+      "rank": 273189,
       "credit": 744245,
       "team": 212997,
       "id": 366210
@@ -4676,7 +4676,7 @@
     {
       "wus": 523,
       "name": "Naquadah",
-      "rank": 273420,
+      "rank": 273433,
       "credit": 742459,
       "team": 212997,
       "id": 325437
@@ -4684,7 +4684,7 @@
     {
       "wus": 102,
       "name": "Flameon985",
-      "rank": 273816,
+      "rank": 273827,
       "credit": 739254,
       "team": 212997,
       "id": 371522
@@ -4692,7 +4692,7 @@
     {
       "wus": 382,
       "name": "Brolf_pog",
-      "rank": 274686,
+      "rank": 274700,
       "credit": 732337,
       "team": 212997,
       "id": 179304
@@ -4700,7 +4700,7 @@
     {
       "wus": 963,
       "name": "TundraHat",
-      "rank": 275932,
+      "rank": 275943,
       "credit": 723040,
       "team": 212997,
       "id": 112419
@@ -4708,7 +4708,7 @@
     {
       "wus": 66,
       "name": "Shadow-Blitz",
-      "rank": 276556,
+      "rank": 276568,
       "credit": 718207,
       "team": 212997,
       "id": 373796
@@ -4716,7 +4716,7 @@
     {
       "wus": 462,
       "name": "mrtrogdor",
-      "rank": 277709,
+      "rank": 277718,
       "credit": 709239,
       "team": 212997,
       "id": 311019
@@ -4724,7 +4724,7 @@
     {
       "wus": 1160,
       "name": "Keyreaper",
-      "rank": 278384,
+      "rank": 278392,
       "credit": 704048,
       "team": 212997,
       "id": 132233
@@ -4732,7 +4732,7 @@
     {
       "wus": 130,
       "name": "LuckyLeaf",
-      "rank": 278581,
+      "rank": 278589,
       "credit": 702509,
       "team": 212997,
       "id": 146009
@@ -4740,7 +4740,7 @@
     {
       "wus": 174,
       "name": "impossibility",
-      "rank": 279098,
+      "rank": 279106,
       "credit": 699047,
       "team": 212997,
       "id": 139121
@@ -4748,7 +4748,7 @@
     {
       "wus": 111,
       "name": "bros",
-      "rank": 154222,
+      "rank": 154230,
       "credit": 680002,
       "team": 212997,
       "id": 3452
@@ -4756,7 +4756,7 @@
     {
       "wus": 982,
       "name": "Birdybird",
-      "rank": 274132,
+      "rank": 274144,
       "credit": 679801,
       "team": 212997,
       "id": 69351508
@@ -4764,7 +4764,7 @@
     {
       "wus": 17,
       "name": "Trixie_Lulamoon",
-      "rank": 282868,
+      "rank": 282878,
       "credit": 673234,
       "team": 212997,
       "id": 330409
@@ -4772,7 +4772,7 @@
     {
       "wus": 34,
       "name": "zt107",
-      "rank": 266806,
+      "rank": 266815,
       "credit": 670136,
       "team": 212997,
       "id": 198427
@@ -4780,7 +4780,7 @@
     {
       "wus": 138,
       "name": "Juegoman",
-      "rank": 283392,
+      "rank": 283400,
       "credit": 669580,
       "team": 212997,
       "id": 166549
@@ -4788,7 +4788,7 @@
     {
       "wus": 226,
       "name": "oni",
-      "rank": 22760,
+      "rank": 22763,
       "credit": 667183,
       "team": 212997,
       "id": 38229
@@ -4796,7 +4796,7 @@
     {
       "wus": 3947,
       "name": "JayzPoni",
-      "rank": 284857,
+      "rank": 284866,
       "credit": 659821,
       "team": 212997,
       "id": 373361
@@ -4804,7 +4804,7 @@
     {
       "wus": 451,
       "name": "slycurgus",
-      "rank": 284901,
+      "rank": 284911,
       "credit": 659605,
       "team": 212997,
       "id": 353441
@@ -4812,7 +4812,7 @@
     {
       "wus": 1025,
       "name": "RapidChange",
-      "rank": 285187,
+      "rank": 285198,
       "credit": 657774,
       "team": 212997,
       "id": 167488
@@ -4820,7 +4820,7 @@
     {
       "wus": 74,
       "name": "Sibusten",
-      "rank": 285963,
+      "rank": 285975,
       "credit": 652754,
       "team": 212997,
       "id": 264943
@@ -4828,7 +4828,7 @@
     {
       "wus": 109,
       "name": "Phred",
-      "rank": 85451,
+      "rank": 85460,
       "credit": 647252,
       "team": 212997,
       "id": 108590
@@ -4836,7 +4836,7 @@
     {
       "wus": 151,
       "name": "JacksonSparkle",
-      "rank": 242093,
+      "rank": 242103,
       "credit": 641872,
       "team": 212997,
       "id": 69338706
@@ -4844,7 +4844,7 @@
     {
       "wus": 168,
       "name": "CamehDude",
-      "rank": 288795,
+      "rank": 288807,
       "credit": 634531,
       "team": 212997,
       "id": 98897
@@ -4852,7 +4852,7 @@
     {
       "wus": 490,
       "name": "derpyponie",
-      "rank": 289292,
+      "rank": 289304,
       "credit": 631262,
       "team": 212997,
       "id": 6315
@@ -4860,7 +4860,7 @@
     {
       "wus": 270,
       "name": "Roseluck",
-      "rank": 289427,
+      "rank": 289440,
       "credit": 630219,
       "team": 212997,
       "id": 109724
@@ -4868,7 +4868,7 @@
     {
       "wus": 453,
       "name": "ama",
-      "rank": 123619,
+      "rank": 123627,
       "credit": 624055,
       "team": 212997,
       "id": 1143
@@ -4876,7 +4876,7 @@
     {
       "wus": 47,
       "name": "Codingale",
-      "rank": 269644,
+      "rank": 269657,
       "credit": 620176,
       "team": 212997,
       "id": 255428
@@ -4884,7 +4884,7 @@
     {
       "wus": 375,
       "name": "Fir3Chi3f",
-      "rank": 19455,
+      "rank": 19460,
       "credit": 616338,
       "team": 212997,
       "id": 101773
@@ -4892,7 +4892,7 @@
     {
       "wus": 150,
       "name": "Tich",
-      "rank": 291511,
+      "rank": 291520,
       "credit": 616219,
       "team": 212997,
       "id": 166092
@@ -4900,7 +4900,7 @@
     {
       "wus": 76,
       "name": "General_Steve",
-      "rank": 291698,
+      "rank": 291708,
       "credit": 615773,
       "team": 212997,
       "id": 186582
@@ -4908,7 +4908,7 @@
     {
       "wus": 29,
       "name": "waitingforpizza",
-      "rank": 292990,
+      "rank": 292999,
       "credit": 608082,
       "team": 212997,
       "id": 707472
@@ -4916,7 +4916,7 @@
     {
       "wus": 773,
       "name": "Rainbow_Skywalker",
-      "rank": 293562,
+      "rank": 293570,
       "credit": 604708,
       "team": 212997,
       "id": 375270
@@ -4924,7 +4924,7 @@
     {
       "wus": 185,
       "name": "whytefyre",
-      "rank": 293298,
+      "rank": 293307,
       "credit": 604585,
       "team": 212997,
       "id": 254888
@@ -4932,7 +4932,7 @@
     {
       "wus": 159,
       "name": "NeonPony",
-      "rank": 294577,
+      "rank": 294585,
       "credit": 598779,
       "team": 212997,
       "id": 310603
@@ -4940,7 +4940,7 @@
     {
       "wus": 184,
       "name": "Imp0s5ible",
-      "rank": 49228,
+      "rank": 49232,
       "credit": 594113,
       "team": 212997,
       "id": 167377
@@ -4948,7 +4948,7 @@
     {
       "wus": 76,
       "name": "ChocoScoots",
-      "rank": 296006,
+      "rank": 296013,
       "credit": 590330,
       "team": 212997,
       "id": 181264
@@ -4956,7 +4956,7 @@
     {
       "wus": 174,
       "name": "ScootalooUE",
-      "rank": 296055,
+      "rank": 296067,
       "credit": 590093,
       "team": 212997,
       "id": 167958
@@ -4964,7 +4964,7 @@
     {
       "wus": 121,
       "name": "CaptainVinyl",
-      "rank": 296073,
+      "rank": 296086,
       "credit": 589974,
       "team": 212997,
       "id": 130081
@@ -4972,7 +4972,7 @@
     {
       "wus": 117,
       "name": "RainbowjackMusic",
-      "rank": 296465,
+      "rank": 296474,
       "credit": 587618,
       "team": 212997,
       "id": 140392
@@ -4980,7 +4980,7 @@
     {
       "wus": 25,
       "name": "SimpleSample",
-      "rank": 10730,
+      "rank": 10731,
       "credit": 578147,
       "team": 212997,
       "id": 14071064
@@ -4988,7 +4988,7 @@
     {
       "wus": 1754,
       "name": "P0N135",
-      "rank": 299308,
+      "rank": 299316,
       "credit": 571586,
       "team": 212997,
       "id": 245779
@@ -4996,7 +4996,7 @@
     {
       "wus": 172,
       "name": "Argent-Flame",
-      "rank": 299564,
+      "rank": 299573,
       "credit": 570062,
       "team": 212997,
       "id": 170307
@@ -5004,7 +5004,7 @@
     {
       "wus": 113,
       "name": "Starwolfff",
-      "rank": 299569,
+      "rank": 299577,
       "credit": 570030,
       "team": 212997,
       "id": 234370
@@ -5012,7 +5012,7 @@
     {
       "wus": 170,
       "name": "WestJ_Fillydelphia_Radio",
-      "rank": 300105,
+      "rank": 300114,
       "credit": 567027,
       "team": 212997,
       "id": 235116
@@ -5020,7 +5020,7 @@
     {
       "wus": 179,
       "name": "Cresyl",
-      "rank": 243598,
+      "rank": 243611,
       "credit": 565117,
       "team": 212997,
       "id": 99699
@@ -5028,7 +5028,7 @@
     {
       "wus": 90,
       "name": "Dimondium",
-      "rank": 58546,
+      "rank": 58555,
       "credit": 563755,
       "team": 212997,
       "id": 245333
@@ -5036,7 +5036,7 @@
     {
       "wus": 18,
       "name": "Ermine",
-      "rank": 281346,
+      "rank": 281355,
       "credit": 563356,
       "team": 212997,
       "id": 7899
@@ -5044,7 +5044,7 @@
     {
       "wus": 306,
       "name": "Shay_Legutko",
-      "rank": 301585,
+      "rank": 301601,
       "credit": 558675,
       "team": 212997,
       "id": 110419
@@ -5052,7 +5052,7 @@
     {
       "wus": 354,
       "name": "Alexstrazsa",
-      "rank": 302349,
+      "rank": 302361,
       "credit": 554217,
       "team": 212997,
       "id": 97080
@@ -5060,7 +5060,7 @@
     {
       "wus": 60,
       "name": "nosliw1",
-      "rank": 302968,
+      "rank": 302979,
       "credit": 550916,
       "team": 212997,
       "id": 91973009
@@ -5068,7 +5068,7 @@
     {
       "wus": 219,
       "name": "RainBohDah",
-      "rank": 303307,
+      "rank": 303319,
       "credit": 548912,
       "team": 212997,
       "id": 233622
@@ -5076,7 +5076,7 @@
     {
       "wus": 109,
       "name": "SilverScroll",
-      "rank": 301162,
+      "rank": 301172,
       "credit": 546773,
       "team": 212997,
       "id": 196224
@@ -5084,7 +5084,7 @@
     {
       "wus": 481,
       "name": "Malix",
-      "rank": 303789,
+      "rank": 303799,
       "credit": 546305,
       "team": 212997,
       "id": 106042
@@ -5092,7 +5092,7 @@
     {
       "wus": 200,
       "name": "Stian_Hovde",
-      "rank": 304109,
+      "rank": 304117,
       "credit": 544579,
       "team": 212997,
       "id": 111199
@@ -5100,7 +5100,7 @@
     {
       "wus": 637,
       "name": "RobertW103",
-      "rank": 241051,
+      "rank": 241062,
       "credit": 543304,
       "team": 212997,
       "id": 109602
@@ -5108,7 +5108,7 @@
     {
       "wus": 342,
       "name": "BronyTime001",
-      "rank": 304375,
+      "rank": 304384,
       "credit": 543277,
       "team": 212997,
       "id": 179306
@@ -5116,7 +5116,7 @@
     {
       "wus": 4345,
       "name": "PattyFleur",
-      "rank": 304410,
+      "rank": 304419,
       "credit": 543125,
       "team": 212997,
       "id": 397988
@@ -5124,7 +5124,7 @@
     {
       "wus": 484,
       "name": "stevenpgrey",
-      "rank": 304565,
+      "rank": 304574,
       "credit": 542319,
       "team": 212997,
       "id": 371892
@@ -5132,7 +5132,7 @@
     {
       "wus": 927,
       "name": "HectorSmash",
-      "rank": 305158,
+      "rank": 305163,
       "credit": 539348,
       "team": 212997,
       "id": 170423
@@ -5140,7 +5140,7 @@
     {
       "wus": 166,
       "name": "Glotzer3d",
-      "rank": 290537,
+      "rank": 290551,
       "credit": 539119,
       "team": 212997,
       "id": 337425
@@ -5148,7 +5148,7 @@
     {
       "wus": 110,
       "name": "Pip751",
-      "rank": 294167,
+      "rank": 294174,
       "credit": 534079,
       "team": 212997,
       "id": 217658
@@ -5156,7 +5156,7 @@
     {
       "wus": 136,
       "name": "Doctordub",
-      "rank": 271929,
+      "rank": 271940,
       "credit": 533805,
       "team": 212997,
       "id": 100684
@@ -5164,7 +5164,7 @@
     {
       "wus": 58,
       "name": "thegreatloofa",
-      "rank": 306533,
+      "rank": 306542,
       "credit": 532116,
       "team": 212997,
       "id": 375361
@@ -5172,7 +5172,7 @@
     {
       "wus": 423,
       "name": "ave0000",
-      "rank": 296298,
+      "rank": 296305,
       "credit": 530883,
       "team": 212997,
       "id": 188365
@@ -5180,7 +5180,7 @@
     {
       "wus": 19,
       "name": "Laplace",
-      "rank": 271861,
+      "rank": 271872,
       "credit": 530573,
       "team": 212997,
       "id": 279739
@@ -5188,7 +5188,7 @@
     {
       "wus": 961,
       "name": "jrabbitb",
-      "rank": 306911,
+      "rank": 306919,
       "credit": 530134,
       "team": 212997,
       "id": 183275
@@ -5196,7 +5196,7 @@
     {
       "wus": 271,
       "name": "RarityRod",
-      "rank": 306964,
+      "rank": 306971,
       "credit": 529875,
       "team": 212997,
       "id": 620595
@@ -5204,7 +5204,7 @@
     {
       "wus": 100,
       "name": "Gustav",
-      "rank": 161899,
+      "rank": 161909,
       "credit": 523351,
       "team": 212997,
       "id": 49918
@@ -5212,7 +5212,7 @@
     {
       "wus": 160,
       "name": "MR_FAT_GOAT2",
-      "rank": 309000,
+      "rank": 309007,
       "credit": 519976,
       "team": 212997,
       "id": 73871072
@@ -5220,7 +5220,7 @@
     {
       "wus": 483,
       "name": "NecroParade",
-      "rank": 309692,
+      "rank": 309701,
       "credit": 516596,
       "team": 212997,
       "id": 107454
@@ -5228,7 +5228,7 @@
     {
       "wus": 346,
       "name": "Pokota",
-      "rank": 293558,
+      "rank": 293566,
       "credit": 516280,
       "team": 212997,
       "id": 108747
@@ -5236,7 +5236,7 @@
     {
       "wus": 639,
       "name": "Famout",
-      "rank": 310472,
+      "rank": 310482,
       "credit": 512693,
       "team": 212997,
       "id": 101607
@@ -5244,7 +5244,7 @@
     {
       "wus": 52,
       "name": "RaindropPone",
-      "rank": 310573,
+      "rank": 310583,
       "credit": 512209,
       "team": 212997,
       "id": 705241
@@ -5252,7 +5252,7 @@
     {
       "wus": 149,
       "name": "Idlingbrony",
-      "rank": 310752,
+      "rank": 310763,
       "credit": 511411,
       "team": 212997,
       "id": 103319
@@ -5260,7 +5260,7 @@
     {
       "wus": 238,
       "name": "Jen",
-      "rank": 6793,
+      "rank": 6795,
       "credit": 511392,
       "team": 212997,
       "id": 60985
@@ -5268,7 +5268,7 @@
     {
       "wus": 269,
       "name": "Mort",
-      "rank": 102498,
+      "rank": 102505,
       "credit": 509393,
       "team": 212997,
       "id": 178752
@@ -5276,7 +5276,7 @@
     {
       "wus": 154,
       "name": "Soge",
-      "rank": 308447,
+      "rank": 308455,
       "credit": 507723,
       "team": 212997,
       "id": 110866
@@ -5284,7 +5284,7 @@
     {
       "wus": 122,
       "name": "Twi92",
-      "rank": 311527,
+      "rank": 311538,
       "credit": 507505,
       "team": 212997,
       "id": 180572
@@ -5292,7 +5292,7 @@
     {
       "wus": 75,
       "name": "zvfex",
-      "rank": 311988,
+      "rank": 311997,
       "credit": 505182,
       "team": 212997,
       "id": 310744
@@ -5300,7 +5300,7 @@
     {
       "wus": 56,
       "name": "Walesey",
-      "rank": 312038,
+      "rank": 312047,
       "credit": 504927,
       "team": 212997,
       "id": 235079
@@ -5308,7 +5308,7 @@
     {
       "wus": 403,
       "name": "For_Luna",
-      "rank": 312819,
+      "rank": 312826,
       "credit": 501142,
       "team": 212997,
       "id": 8764
@@ -5316,7 +5316,7 @@
     {
       "wus": 101,
       "name": "lx45803",
-      "rank": 294012,
+      "rank": 294019,
       "credit": 500939,
       "team": 212997,
       "id": 372379
@@ -5324,7 +5324,7 @@
     {
       "wus": 434,
       "name": "GollyGeeWhiz",
-      "rank": 313720,
+      "rank": 313729,
       "credit": 496951,
       "team": 212997,
       "id": 183000
@@ -5332,7 +5332,7 @@
     {
       "wus": 117,
       "name": "jwoulf_sholokhov",
-      "rank": 259755,
+      "rank": 259770,
       "credit": 495427,
       "team": 212997,
       "id": 104546
@@ -5340,7 +5340,7 @@
     {
       "wus": 139,
       "name": "Dawnfire",
-      "rank": 314118,
+      "rank": 314127,
       "credit": 494920,
       "team": 212997,
       "id": 191464
@@ -5348,7 +5348,7 @@
     {
       "wus": 172,
       "name": "007ghg7",
-      "rank": 19547,
+      "rank": 19554,
       "credit": 492498,
       "team": 212997,
       "id": 181087
@@ -5356,7 +5356,7 @@
     {
       "wus": 3919,
       "name": "aemantaslim",
-      "rank": 315389,
+      "rank": 315403,
       "credit": 489057,
       "team": 212997,
       "id": 207849
@@ -5364,7 +5364,7 @@
     {
       "wus": 91,
       "name": "deathwilldie",
-      "rank": 315599,
+      "rank": 315612,
       "credit": 488001,
       "team": 212997,
       "id": 181326
@@ -5372,7 +5372,7 @@
     {
       "wus": 317,
       "name": "JBrony",
-      "rank": 315782,
+      "rank": 315794,
       "credit": 487184,
       "team": 212997,
       "id": 311455
@@ -5380,7 +5380,7 @@
     {
       "wus": 354,
       "name": "Dozy_Dreamer",
-      "rank": 316597,
+      "rank": 316609,
       "credit": 483354,
       "team": 212997,
       "id": 166375
@@ -5388,7 +5388,7 @@
     {
       "wus": 918,
       "name": "Choco31415",
-      "rank": 316680,
+      "rank": 316691,
       "credit": 482959,
       "team": 212997,
       "id": 190446
@@ -5396,7 +5396,7 @@
     {
       "wus": 60,
       "name": "Yarny",
-      "rank": 314201,
+      "rank": 314211,
       "credit": 476382,
       "team": 212997,
       "id": 180659
@@ -5404,7 +5404,7 @@
     {
       "wus": 154,
       "name": "tyler178",
-      "rank": 62747,
+      "rank": 62759,
       "credit": 476262,
       "team": 212997,
       "id": 112491
@@ -5412,7 +5412,7 @@
     {
       "wus": 227,
       "name": "Conclavidor",
-      "rank": 318394,
+      "rank": 318401,
       "credit": 475371,
       "team": 212997,
       "id": 293296
@@ -5420,7 +5420,7 @@
     {
       "wus": 20,
       "name": "BlackPhoenixArk",
-      "rank": 318904,
+      "rank": 318910,
       "credit": 473122,
       "team": 212997,
       "id": 284988
@@ -5428,7 +5428,7 @@
     {
       "wus": 315,
       "name": "CrazedGeek",
-      "rank": 41320,
+      "rank": 41328,
       "credit": 472205,
       "team": 212997,
       "id": 163706
@@ -5436,7 +5436,7 @@
     {
       "wus": 358,
       "name": "Thoendithaas",
-      "rank": 319564,
+      "rank": 319572,
       "credit": 470316,
       "team": 212997,
       "id": 164481
@@ -5444,7 +5444,7 @@
     {
       "wus": 285,
       "name": "Eltrion",
-      "rank": 320839,
+      "rank": 320844,
       "credit": 464785,
       "team": 212997,
       "id": 182808
@@ -5452,7 +5452,7 @@
     {
       "wus": 348,
       "name": "kattheswift",
-      "rank": 320941,
+      "rank": 320947,
       "credit": 464299,
       "team": 212997,
       "id": 345554
@@ -5460,7 +5460,7 @@
     {
       "wus": 341,
       "name": "derpzerg",
-      "rank": 321448,
+      "rank": 321455,
       "credit": 462007,
       "team": 212997,
       "id": 181331
@@ -5468,7 +5468,7 @@
     {
       "wus": 502,
       "name": "Aurum_Noble",
-      "rank": 321801,
+      "rank": 321811,
       "credit": 460344,
       "team": 212997,
       "id": 618292
@@ -5476,7 +5476,7 @@
     {
       "wus": 316,
       "name": "TripleZerilo",
-      "rank": 322748,
+      "rank": 322759,
       "credit": 456279,
       "team": 212997,
       "id": 184414
@@ -5484,7 +5484,7 @@
     {
       "wus": 344,
       "name": "Alex_Chipman",
-      "rank": 321470,
+      "rank": 321477,
       "credit": 454429,
       "team": 212997,
       "id": 618253
@@ -5492,7 +5492,7 @@
     {
       "wus": 177,
       "name": "OctiLuna",
-      "rank": 323701,
+      "rank": 323710,
       "credit": 452208,
       "team": 212997,
       "id": 366695
@@ -5500,7 +5500,7 @@
     {
       "wus": 21,
       "name": "Justin",
-      "rank": 6964,
+      "rank": 6968,
       "credit": 450973,
       "team": 212997,
       "id": 13010
@@ -5508,7 +5508,7 @@
     {
       "wus": 19,
       "name": "willow",
-      "rank": 271816,
+      "rank": 271826,
       "credit": 447383,
       "team": 212997,
       "id": 160441
@@ -5516,7 +5516,7 @@
     {
       "wus": 70,
       "name": "Kuboo",
-      "rank": 325553,
+      "rank": 325566,
       "credit": 444624,
       "team": 212997,
       "id": 183381
@@ -5524,7 +5524,7 @@
     {
       "wus": 157,
       "name": "ChronoNinja",
-      "rank": 325679,
+      "rank": 325692,
       "credit": 444119,
       "team": 212997,
       "id": 163698
@@ -5532,7 +5532,7 @@
     {
       "wus": 31,
       "name": "Ircza",
-      "rank": 327393,
+      "rank": 327403,
       "credit": 437282,
       "team": 212997,
       "id": 377021
@@ -5540,7 +5540,7 @@
     {
       "wus": 22,
       "name": "Devonx25_FLDC_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
-      "rank": 327433,
+      "rank": 327444,
       "credit": 437085,
       "team": 212997,
       "id": 279002
@@ -5548,7 +5548,7 @@
     {
       "wus": 382,
       "name": "FP",
-      "rank": 120295,
+      "rank": 120303,
       "credit": 434578,
       "team": 212997,
       "id": 194505
@@ -5556,7 +5556,7 @@
     {
       "wus": 58,
       "name": "Jcc10",
-      "rank": 328027,
+      "rank": 328039,
       "credit": 434503,
       "team": 212997,
       "id": 255532
@@ -5564,7 +5564,7 @@
     {
       "wus": 146,
       "name": "furball",
-      "rank": 282441,
+      "rank": 282452,
       "credit": 432796,
       "team": 212997,
       "id": 9035
@@ -5572,7 +5572,7 @@
     {
       "wus": 290,
       "name": "Merrx",
-      "rank": 330315,
+      "rank": 330327,
       "credit": 425039,
       "team": 212997,
       "id": 106556
@@ -5580,7 +5580,7 @@
     {
       "wus": 291,
       "name": "Bat_Horse",
-      "rank": 330556,
+      "rank": 330568,
       "credit": 424118,
       "team": 212997,
       "id": 258614
@@ -5588,7 +5588,7 @@
     {
       "wus": 1110,
       "name": "Twilight0Sparkle",
-      "rank": 330918,
+      "rank": 330931,
       "credit": 422749,
       "team": 212997,
       "id": 295730
@@ -5596,7 +5596,7 @@
     {
       "wus": 90,
       "name": "Dashinginthe90s",
-      "rank": 331969,
+      "rank": 331982,
       "credit": 418679,
       "team": 212997,
       "id": 282814
@@ -5604,7 +5604,7 @@
     {
       "wus": 258,
       "name": "Kelarik",
-      "rank": 202731,
+      "rank": 202744,
       "credit": 407141,
       "team": 212997,
       "id": 165605
@@ -5612,7 +5612,7 @@
     {
       "wus": 160,
       "name": "Robin_Douglas",
-      "rank": 335386,
+      "rank": 335401,
       "credit": 405955,
       "team": 212997,
       "id": 92003684
@@ -5620,7 +5620,7 @@
     {
       "wus": 334,
       "name": "Anondude",
-      "rank": 335799,
+      "rank": 335809,
       "credit": 404221,
       "team": 212997,
       "id": 190347
@@ -5628,7 +5628,7 @@
     {
       "wus": 131,
       "name": "ariff",
-      "rank": 170524,
+      "rank": 170535,
       "credit": 403939,
       "team": 212997,
       "id": 97525
@@ -5636,7 +5636,7 @@
     {
       "wus": 360,
       "name": "coy1010allen",
-      "rank": 336769,
+      "rank": 336782,
       "credit": 400863,
       "team": 212997,
       "id": 181289
@@ -5644,7 +5644,7 @@
     {
       "wus": 96,
       "name": "Taraxippus",
-      "rank": 336819,
+      "rank": 336831,
       "credit": 399997,
       "team": 212997,
       "id": 321442
@@ -5652,7 +5652,7 @@
     {
       "wus": 157,
       "name": "Protocat",
-      "rank": 233018,
+      "rank": 233028,
       "credit": 395775,
       "team": 212997,
       "id": 338020
@@ -5660,7 +5660,7 @@
     {
       "wus": 207,
       "name": "funhouse",
-      "rank": 20576,
+      "rank": 20581,
       "credit": 393870,
       "team": 212997,
       "id": 320279
@@ -5668,7 +5668,7 @@
     {
       "wus": 495,
       "name": "teckstphyle",
-      "rank": 332471,
+      "rank": 332482,
       "credit": 393767,
       "team": 212997,
       "id": 111637
@@ -5676,7 +5676,7 @@
     {
       "wus": 319,
       "name": "Anymse",
-      "rank": 338777,
+      "rank": 338786,
       "credit": 393487,
       "team": 212997,
       "id": 97447
@@ -5684,7 +5684,7 @@
     {
       "wus": 460,
       "name": "Jhuyt",
-      "rank": 338923,
+      "rank": 338932,
       "credit": 393001,
       "team": 212997,
       "id": 104029
@@ -5692,7 +5692,7 @@
     {
       "wus": 406,
       "name": "RGAnon",
-      "rank": 340396,
+      "rank": 340407,
       "credit": 387648,
       "team": 212997,
       "id": 181801
@@ -5700,7 +5700,7 @@
     {
       "wus": 95,
       "name": "Storm_Vision",
-      "rank": 340534,
+      "rank": 340546,
       "credit": 387162,
       "team": 212997,
       "id": 140899
@@ -5708,7 +5708,7 @@
     {
       "wus": 37,
       "name": "Lightboa",
-      "rank": 333118,
+      "rank": 333129,
       "credit": 385901,
       "team": 212997,
       "id": 76290034
@@ -5716,7 +5716,7 @@
     {
       "wus": 109,
       "name": "Ellick",
-      "rank": 341197,
+      "rank": 341206,
       "credit": 384785,
       "team": 212997,
       "id": 230572
@@ -5724,7 +5724,7 @@
     {
       "wus": 173,
       "name": "FireStorm020",
-      "rank": 336226,
+      "rank": 336238,
       "credit": 384722,
       "team": 212997,
       "id": 310461
@@ -5732,7 +5732,7 @@
     {
       "wus": 216,
       "name": "EmberFiremane",
-      "rank": 341280,
+      "rank": 341288,
       "credit": 384500,
       "team": 212997,
       "id": 320171
@@ -5740,7 +5740,7 @@
     {
       "wus": 189,
       "name": "drp-drp",
-      "rank": 343032,
+      "rank": 343042,
       "credit": 378617,
       "team": 212997,
       "id": 182765
@@ -5748,7 +5748,7 @@
     {
       "wus": 182,
       "name": "Yoshi",
-      "rank": 34984,
+      "rank": 34979,
       "credit": 378508,
       "team": 212997,
       "id": 28054
@@ -5756,7 +5756,7 @@
     {
       "wus": 67,
       "name": "Pixel_Peeper",
-      "rank": 343667,
+      "rank": 343678,
       "credit": 376525,
       "team": 212997,
       "id": 195839
@@ -5764,7 +5764,7 @@
     {
       "wus": 731,
       "name": "kenji1349",
-      "rank": 343764,
+      "rank": 343774,
       "credit": 376226,
       "team": 212997,
       "id": 294246
@@ -5772,7 +5772,7 @@
     {
       "wus": 329,
       "name": "Rockman",
-      "rank": 342388,
+      "rank": 342397,
       "credit": 371676,
       "team": 212997,
       "id": 109641
@@ -5780,7 +5780,7 @@
     {
       "wus": 206,
       "name": "Speed",
-      "rank": 49520,
+      "rank": 49528,
       "credit": 368821,
       "team": 212997,
       "id": 23695
@@ -5796,7 +5796,7 @@
     {
       "wus": 43,
       "name": "apo",
-      "rank": 188381,
+      "rank": 188394,
       "credit": 367413,
       "team": 212997,
       "id": 258378
@@ -5804,7 +5804,7 @@
     {
       "wus": 13,
       "name": "Bitera",
-      "rank": 309321,
+      "rank": 309330,
       "credit": 367236,
       "team": 212997,
       "id": 68571898
@@ -5812,7 +5812,7 @@
     {
       "wus": 46,
       "name": "F.Gadget",
-      "rank": 347274,
+      "rank": 347283,
       "credit": 364503,
       "team": 212997,
       "id": 77365327
@@ -5820,7 +5820,7 @@
     {
       "wus": 229,
       "name": "poweredbyponies",
-      "rank": 348143,
+      "rank": 348153,
       "credit": 361682,
       "team": 212997,
       "id": 168729
@@ -5828,7 +5828,7 @@
     {
       "wus": 664,
       "name": "Violet Rose",
-      "rank": 348198,
+      "rank": 348208,
       "credit": 361460,
       "team": 212997,
       "id": 67219794
@@ -5836,7 +5836,7 @@
     {
       "wus": 78,
       "name": "electrokitty",
-      "rank": 348382,
+      "rank": 348393,
       "credit": 360892,
       "team": 212997,
       "id": 610240
@@ -5844,7 +5844,7 @@
     {
       "wus": 95,
       "name": "Valtonus",
-      "rank": 348691,
+      "rank": 348706,
       "credit": 359944,
       "team": 212997,
       "id": 288523
@@ -5852,7 +5852,7 @@
     {
       "wus": 952,
       "name": "Minty_Root",
-      "rank": 348975,
+      "rank": 348988,
       "credit": 359007,
       "team": 212997,
       "id": 343240
@@ -5860,7 +5860,7 @@
     {
       "wus": 78,
       "name": "cubedparadox",
-      "rank": 349333,
+      "rank": 349343,
       "credit": 357865,
       "team": 212997,
       "id": 178098
@@ -5868,7 +5868,7 @@
     {
       "wus": 6,
       "name": "zoomzabba",
-      "rank": 24657,
+      "rank": 24660,
       "credit": 357067,
       "team": 212997,
       "id": 160507
@@ -5876,7 +5876,7 @@
     {
       "wus": 178,
       "name": "Joystiq",
-      "rank": 349825,
+      "rank": 349836,
       "credit": 354644,
       "team": 212997,
       "id": 183272
@@ -5884,7 +5884,7 @@
     {
       "wus": 207,
       "name": "InvisibleToner",
-      "rank": 350697,
+      "rank": 350708,
       "credit": 351867,
       "team": 212997,
       "id": 131720
@@ -5892,7 +5892,7 @@
     {
       "wus": 112,
       "name": "Jormaz",
-      "rank": 351481,
+      "rank": 351492,
       "credit": 351086,
       "team": 212997,
       "id": 139352
@@ -5900,7 +5900,7 @@
     {
       "wus": 14,
       "name": "sunnyshenao",
-      "rank": 34200,
+      "rank": 34205,
       "credit": 350800,
       "team": 212997,
       "id": 338206
@@ -5908,7 +5908,7 @@
     {
       "wus": 48,
       "name": "Topsie",
-      "rank": 352635,
+      "rank": 352648,
       "credit": 347472,
       "team": 212997,
       "id": 220586
@@ -5916,7 +5916,7 @@
     {
       "wus": 45,
       "name": "Swift_Crescendo",
-      "rank": 352798,
+      "rank": 352813,
       "credit": 346881,
       "team": 212997,
       "id": 373850
@@ -5924,7 +5924,7 @@
     {
       "wus": 80,
       "name": "Ryan_Kitty",
-      "rank": 353186,
+      "rank": 353197,
       "credit": 345704,
       "team": 212997,
       "id": 40872289
@@ -5932,7 +5932,7 @@
     {
       "wus": 149,
       "name": "masa",
-      "rank": 68099,
+      "rank": 68107,
       "credit": 340463,
       "team": 212997,
       "id": 106265
@@ -5940,7 +5940,7 @@
     {
       "wus": 349,
       "name": "Trildar",
-      "rank": 356589,
+      "rank": 356605,
       "credit": 335495,
       "team": 212997,
       "id": 112352
@@ -5948,7 +5948,7 @@
     {
       "wus": 868,
       "name": "SignoftheStar",
-      "rank": 356998,
+      "rank": 357007,
       "credit": 334323,
       "team": 212997,
       "id": 191814
@@ -5956,7 +5956,7 @@
     {
       "wus": 203,
       "name": "OctalPony",
-      "rank": 357600,
+      "rank": 357611,
       "credit": 332598,
       "team": 212997,
       "id": 180157
@@ -5964,7 +5964,7 @@
     {
       "wus": 145,
       "name": "EonGhost",
-      "rank": 358264,
+      "rank": 358275,
       "credit": 330494,
       "team": 212997,
       "id": 603965
@@ -5972,7 +5972,7 @@
     {
       "wus": 140,
       "name": "BronyArtemis",
-      "rank": 358748,
+      "rank": 358760,
       "credit": 329058,
       "team": 212997,
       "id": 229583
@@ -5980,7 +5980,7 @@
     {
       "wus": 86,
       "name": "Pacdrake",
-      "rank": 359270,
+      "rank": 359281,
       "credit": 327565,
       "team": 212997,
       "id": 181740
@@ -5988,7 +5988,7 @@
     {
       "wus": 789,
       "name": "Gnargl3ator_BAU",
-      "rank": 359339,
+      "rank": 359350,
       "credit": 327369,
       "team": 212997,
       "id": 138897
@@ -5996,7 +5996,7 @@
     {
       "wus": 221,
       "name": "KejserKagespiser",
-      "rank": 359413,
+      "rank": 359424,
       "credit": 327157,
       "team": 212997,
       "id": 310984
@@ -6004,7 +6004,7 @@
     {
       "wus": 147,
       "name": "Trixie_TGAP",
-      "rank": 359491,
+      "rank": 359501,
       "credit": 326964,
       "team": 212997,
       "id": 373915
@@ -6012,7 +6012,7 @@
     {
       "wus": 190,
       "name": "UberNube",
-      "rank": 362231,
+      "rank": 362241,
       "credit": 319264,
       "team": 212997,
       "id": 668277
@@ -6020,7 +6020,7 @@
     {
       "wus": 405,
       "name": "Azul_Flare",
-      "rank": 363141,
+      "rank": 363153,
       "credit": 316541,
       "team": 212997,
       "id": 129687
@@ -6028,7 +6028,7 @@
     {
       "wus": 33,
       "name": "Hck",
-      "rank": 357755,
+      "rank": 357767,
       "credit": 316280,
       "team": 212997,
       "id": 251504
@@ -6036,7 +6036,7 @@
     {
       "wus": 25,
       "name": "Bhun",
-      "rank": 363714,
+      "rank": 363729,
       "credit": 314999,
       "team": 212997,
       "id": 332244
@@ -6044,7 +6044,7 @@
     {
       "wus": 244,
       "name": "Chompsalot",
-      "rank": 363835,
+      "rank": 363848,
       "credit": 314609,
       "team": 212997,
       "id": 186396
@@ -6052,7 +6052,7 @@
     {
       "wus": 242,
       "name": "Subido",
-      "rank": 363948,
+      "rank": 363960,
       "credit": 314319,
       "team": 212997,
       "id": 265353
@@ -6060,7 +6060,7 @@
     {
       "wus": 55,
       "name": "Furyform",
-      "rank": 346748,
+      "rank": 346756,
       "credit": 313997,
       "team": 212997,
       "id": 163766
@@ -6068,7 +6068,7 @@
     {
       "wus": 471,
       "name": "JKinsley",
-      "rank": 364138,
+      "rank": 364150,
       "credit": 313797,
       "team": 212997,
       "id": 131941
@@ -6076,7 +6076,7 @@
     {
       "wus": 44,
       "name": "mark00s",
-      "rank": 345715,
+      "rank": 345725,
       "credit": 313002,
       "team": 212997,
       "id": 67377250
@@ -6084,7 +6084,7 @@
     {
       "wus": 593,
       "name": "Ray10k",
-      "rank": 365596,
+      "rank": 365605,
       "credit": 309930,
       "team": 212997,
       "id": 295068
@@ -6092,7 +6092,7 @@
     {
       "wus": 141,
       "name": "Tbloom",
-      "rank": 366697,
+      "rank": 366710,
       "credit": 306932,
       "team": 212997,
       "id": 96013607
@@ -6100,7 +6100,7 @@
     {
       "wus": 344,
       "name": "ThunderStrike",
-      "rank": 366534,
+      "rank": 366545,
       "credit": 306334,
       "team": 212997,
       "id": 184362
@@ -6108,7 +6108,7 @@
     {
       "wus": 283,
       "name": "Blacklight_Shining",
-      "rank": 368006,
+      "rank": 368020,
       "credit": 303612,
       "team": 212997,
       "id": 179278
@@ -6116,7 +6116,7 @@
     {
       "wus": 534,
       "name": "Necrotide",
-      "rank": 368744,
+      "rank": 368754,
       "credit": 301656,
       "team": 212997,
       "id": 133148
@@ -6124,7 +6124,7 @@
     {
       "wus": 183,
       "name": "AzureDemon_BAU",
-      "rank": 368972,
+      "rank": 368983,
       "credit": 301141,
       "team": 212997,
       "id": 137756
@@ -6132,7 +6132,7 @@
     {
       "wus": 53,
       "name": "Sephiponi",
-      "rank": 369232,
+      "rank": 369245,
       "credit": 300503,
       "team": 212997,
       "id": 168782
@@ -6140,7 +6140,7 @@
     {
       "wus": 78,
       "name": "Yorky",
-      "rank": 369982,
+      "rank": 369996,
       "credit": 298548,
       "team": 212997,
       "id": 618209
@@ -6148,7 +6148,7 @@
     {
       "wus": 20,
       "name": "Nitrof",
-      "rank": 371122,
+      "rank": 371136,
       "credit": 295525,
       "team": 212997,
       "id": 337928
@@ -6156,7 +6156,7 @@
     {
       "wus": 21,
       "name": "aviasegel",
-      "rank": 245946,
+      "rank": 245956,
       "credit": 293777,
       "team": 212997,
       "id": 71188306
@@ -6164,7 +6164,7 @@
     {
       "wus": 47,
       "name": "TheMarvelousSnips&Snails",
-      "rank": 372713,
+      "rank": 372727,
       "credit": 291509,
       "team": 212997,
       "id": 125489374
@@ -6172,7 +6172,7 @@
     {
       "wus": 43,
       "name": "korczoczek",
-      "rank": 372782,
+      "rank": 372795,
       "credit": 291355,
       "team": 212997,
       "id": 279704
@@ -6180,7 +6180,7 @@
     {
       "wus": 129,
       "name": "Tacatomon",
-      "rank": 373499,
+      "rank": 373512,
       "credit": 289482,
       "team": 212997,
       "id": 240709
@@ -6188,7 +6188,7 @@
     {
       "wus": 59,
       "name": "rasetten",
-      "rank": 374511,
+      "rank": 374521,
       "credit": 286995,
       "team": 212997,
       "id": 180255
@@ -6196,7 +6196,7 @@
     {
       "wus": 44,
       "name": "DawnPaladin",
-      "rank": 375606,
+      "rank": 375615,
       "credit": 284272,
       "team": 212997,
       "id": 332472
@@ -6204,7 +6204,7 @@
     {
       "wus": 15,
       "name": "zeek20freak",
-      "rank": 377416,
+      "rank": 377425,
       "credit": 280019,
       "team": 212997,
       "id": 236844310
@@ -6212,7 +6212,7 @@
     {
       "wus": 147,
       "name": "Nilaru",
-      "rank": 379367,
+      "rank": 379377,
       "credit": 275288,
       "team": 212997,
       "id": 180132
@@ -6220,7 +6220,7 @@
     {
       "wus": 56,
       "name": "Frostfyre422",
-      "rank": 380234,
+      "rank": 380245,
       "credit": 273222,
       "team": 212997,
       "id": 238363
@@ -6228,7 +6228,7 @@
     {
       "wus": 136,
       "name": "Embroidered_Equations",
-      "rank": 380600,
+      "rank": 380614,
       "credit": 272358,
       "team": 212997,
       "id": 73568586
@@ -6236,7 +6236,7 @@
     {
       "wus": 47,
       "name": "PinkiePie'sPlot",
-      "rank": 380664,
+      "rank": 380678,
       "credit": 272240,
       "team": 212997,
       "id": 181760
@@ -6244,7 +6244,7 @@
     {
       "wus": 19,
       "name": "Flonne",
-      "rank": 381503,
+      "rank": 381514,
       "credit": 270174,
       "team": 212997,
       "id": 1102327
@@ -6252,7 +6252,7 @@
     {
       "wus": 202,
       "name": "Pishnx",
-      "rank": 381773,
+      "rank": 381783,
       "credit": 269597,
       "team": 212997,
       "id": 168723
@@ -6260,7 +6260,7 @@
     {
       "wus": 60,
       "name": "frienno",
-      "rank": 210889,
+      "rank": 210898,
       "credit": 269419,
       "team": 212997,
       "id": 285915
@@ -6268,7 +6268,7 @@
     {
       "wus": 94,
       "name": "pharmafolder",
-      "rank": 382315,
+      "rank": 382329,
       "credit": 268302,
       "team": 212997,
       "id": 181753
@@ -6276,7 +6276,7 @@
     {
       "wus": 213,
       "name": "LucenNox",
-      "rank": 382479,
+      "rank": 382491,
       "credit": 267947,
       "team": 212997,
       "id": 164769
@@ -6284,7 +6284,7 @@
     {
       "wus": 25,
       "name": "xcoda",
-      "rank": 384146,
+      "rank": 384152,
       "credit": 264200,
       "team": 212997,
       "id": 338352
@@ -6292,7 +6292,7 @@
     {
       "wus": 127,
       "name": "CocaNick",
-      "rank": 373321,
+      "rank": 373334,
       "credit": 263817,
       "team": 212997,
       "id": 188526
@@ -6300,7 +6300,7 @@
     {
       "wus": 67,
       "name": "nonamebane",
-      "rank": 384372,
+      "rank": 384378,
       "credit": 263680,
       "team": 212997,
       "id": 353126
@@ -6308,7 +6308,7 @@
     {
       "wus": 56,
       "name": "StarFall",
-      "rank": 378893,
+      "rank": 378903,
       "credit": 259980,
       "team": 212997,
       "id": 234365
@@ -6316,7 +6316,7 @@
     {
       "wus": 34,
       "name": "GeneralDisorder",
-      "rank": 386693,
+      "rank": 386701,
       "credit": 258584,
       "team": 212997,
       "id": 360583
@@ -6324,7 +6324,7 @@
     {
       "wus": 30,
       "name": "Ezicked",
-      "rank": 387146,
+      "rank": 387154,
       "credit": 257621,
       "team": 212997,
       "id": 279182
@@ -6332,7 +6332,7 @@
     {
       "wus": 283,
       "name": "eksortso",
-      "rank": 213224,
+      "rank": 213231,
       "credit": 257347,
       "team": 212997,
       "id": 101201
@@ -6340,7 +6340,7 @@
     {
       "wus": 209,
       "name": "THEpandaman01",
-      "rank": 387959,
+      "rank": 387968,
       "credit": 255879,
       "team": 212997,
       "id": 111860
@@ -6348,7 +6348,7 @@
     {
       "wus": 45,
       "name": "avdr",
-      "rank": 388127,
+      "rank": 388136,
       "credit": 255518,
       "team": 212997,
       "id": 284862
@@ -6356,7 +6356,7 @@
     {
       "wus": 48,
       "name": "LionBlaze",
-      "rank": 388373,
+      "rank": 388385,
       "credit": 254994,
       "team": 212997,
       "id": 105553
@@ -6364,7 +6364,7 @@
     {
       "wus": 244,
       "name": "Vander",
-      "rank": 1737,
+      "rank": 1738,
       "credit": 253117,
       "team": 212997,
       "id": 26582
@@ -6372,7 +6372,7 @@
     {
       "wus": 135,
       "name": "VoidTemplar",
-      "rank": 390005,
+      "rank": 390017,
       "credit": 251554,
       "team": 212997,
       "id": 336630
@@ -6380,7 +6380,7 @@
     {
       "wus": 146,
       "name": "xanenightwing",
-      "rank": 390348,
+      "rank": 390361,
       "credit": 250845,
       "team": 212997,
       "id": 677538
@@ -6388,7 +6388,7 @@
     {
       "wus": 619,
       "name": "Shwelvacu",
-      "rank": 390673,
+      "rank": 390686,
       "credit": 250209,
       "team": 212997,
       "id": 343492
@@ -6396,7 +6396,7 @@
     {
       "wus": 29,
       "name": "Bashscript",
-      "rank": 326008,
+      "rank": 326018,
       "credit": 249943,
       "team": 212997,
       "id": 274487
@@ -6404,7 +6404,7 @@
     {
       "wus": 224,
       "name": "Masonpony",
-      "rank": 392208,
+      "rank": 392222,
       "credit": 247071,
       "team": 212997,
       "id": 186806
@@ -6412,7 +6412,7 @@
     {
       "wus": 149,
       "name": "StrawberryPone",
-      "rank": 392285,
+      "rank": 392300,
       "credit": 246898,
       "team": 212997,
       "id": 373841
@@ -6420,7 +6420,7 @@
     {
       "wus": 198,
       "name": "Ichiar",
-      "rank": 287516,
+      "rank": 287529,
       "credit": 246744,
       "team": 212997,
       "id": 11119
@@ -6428,7 +6428,7 @@
     {
       "wus": 82,
       "name": "SunburstDaWizard",
-      "rank": 392370,
+      "rank": 392383,
       "credit": 246691,
       "team": 212997,
       "id": 280603
@@ -6436,7 +6436,7 @@
     {
       "wus": 127,
       "name": "The_Clinger",
-      "rank": 392381,
+      "rank": 392394,
       "credit": 246666,
       "team": 212997,
       "id": 25272
@@ -6444,7 +6444,7 @@
     {
       "wus": 29,
       "name": "psychorob",
-      "rank": 338500,
+      "rank": 338511,
       "credit": 246177,
       "team": 212997,
       "id": 631867
@@ -6452,7 +6452,7 @@
     {
       "wus": 644,
       "name": "merlinsorca",
-      "rank": 253500,
+      "rank": 253510,
       "credit": 246062,
       "team": 212997,
       "id": 94639
@@ -6460,7 +6460,7 @@
     {
       "wus": 69,
       "name": "SilverSteeples",
-      "rank": 375869,
+      "rank": 375878,
       "credit": 245561,
       "team": 212997,
       "id": 283835
@@ -6468,7 +6468,7 @@
     {
       "wus": 29,
       "name": "chroniclight",
-      "rank": 393195,
+      "rank": 393207,
       "credit": 245074,
       "team": 212997,
       "id": 181271
@@ -6476,7 +6476,7 @@
     {
       "wus": 208,
       "name": "Revbabyrev",
-      "rank": 382024,
+      "rank": 382036,
       "credit": 243669,
       "team": 212997,
       "id": 280356
@@ -6484,7 +6484,7 @@
     {
       "wus": 34,
       "name": "ChiefAnchor",
-      "rank": 394942,
+      "rank": 394956,
       "credit": 241573,
       "team": 212997,
       "id": 670921
@@ -6492,7 +6492,7 @@
     {
       "wus": 70,
       "name": "Haisala",
-      "rank": 395340,
+      "rank": 395353,
       "credit": 240809,
       "team": 212997,
       "id": 170420
@@ -6500,7 +6500,7 @@
     {
       "wus": 244,
       "name": "Captain_Clop",
-      "rank": 395764,
+      "rank": 395777,
       "credit": 240015,
       "team": 212997,
       "id": 337115
@@ -6508,7 +6508,7 @@
     {
       "wus": 93,
       "name": "FlutterFan",
-      "rank": 396570,
+      "rank": 396585,
       "credit": 238449,
       "team": 212997,
       "id": 68402224
@@ -6516,7 +6516,7 @@
     {
       "wus": 135,
       "name": "Homfrog",
-      "rank": 396819,
+      "rank": 396834,
       "credit": 237995,
       "team": 212997,
       "id": 163788
@@ -6524,7 +6524,7 @@
     {
       "wus": 74,
       "name": "Vulkarl",
-      "rank": 365247,
+      "rank": 365257,
       "credit": 237388,
       "team": 212997,
       "id": 741801
@@ -6532,7 +6532,7 @@
     {
       "wus": 290,
       "name": "IndustrialBreeze",
-      "rank": 398224,
+      "rank": 398236,
       "credit": 235308,
       "team": 212997,
       "id": 604028
@@ -6540,7 +6540,7 @@
     {
       "wus": 1190,
       "name": "UnNinja",
-      "rank": 12452,
+      "rank": 12455,
       "credit": 233203,
       "team": 212997,
       "id": 220866
@@ -6548,7 +6548,7 @@
     {
       "wus": 228,
       "name": "ShyDemon",
-      "rank": 399432,
+      "rank": 399443,
       "credit": 232553,
       "team": 212997,
       "id": 219172
@@ -6556,7 +6556,7 @@
     {
       "wus": 51,
       "name": "CyanLightning",
-      "rank": 399965,
+      "rank": 399976,
       "credit": 231945,
       "team": 212997,
       "id": 99849414
@@ -6564,7 +6564,7 @@
     {
       "wus": 146,
       "name": "Whitehaven",
-      "rank": 401152,
+      "rank": 401165,
       "credit": 229747,
       "team": 212997,
       "id": 164863
@@ -6572,7 +6572,7 @@
     {
       "wus": 63,
       "name": "MKSlime",
-      "rank": 401346,
+      "rank": 401359,
       "credit": 229316,
       "team": 212997,
       "id": 174751
@@ -6580,7 +6580,7 @@
     {
       "wus": 149,
       "name": "RomajiMiltonAmulo",
-      "rank": 402935,
+      "rank": 402945,
       "credit": 226422,
       "team": 212997,
       "id": 350256
@@ -6588,7 +6588,7 @@
     {
       "wus": 125,
       "name": "FortressMagic",
-      "rank": 403836,
+      "rank": 403852,
       "credit": 224787,
       "team": 212997,
       "id": 164717
@@ -6596,7 +6596,7 @@
     {
       "wus": 49,
       "name": "Alovnek",
-      "rank": 404085,
+      "rank": 404101,
       "credit": 224318,
       "team": 212997,
       "id": 228943
@@ -6604,7 +6604,7 @@
     {
       "wus": 55,
       "name": "Hypermark",
-      "rank": 56247,
+      "rank": 56254,
       "credit": 223737,
       "team": 212997,
       "id": 226463
@@ -6612,7 +6612,7 @@
     {
       "wus": 606,
       "name": "frodo67",
-      "rank": 404445,
+      "rank": 404461,
       "credit": 222157,
       "team": 212997,
       "id": 102029
@@ -6620,7 +6620,7 @@
     {
       "wus": 98,
       "name": "Destructo1",
-      "rank": 405411,
+      "rank": 405423,
       "credit": 221980,
       "team": 212997,
       "id": 100425
@@ -6628,7 +6628,7 @@
     {
       "wus": 576,
       "name": "ParaspriteHugger",
-      "rank": 405441,
+      "rank": 405453,
       "credit": 221932,
       "team": 212997,
       "id": 294917
@@ -6636,7 +6636,7 @@
     {
       "wus": 44,
       "name": "Rainbowjack",
-      "rank": 406256,
+      "rank": 406265,
       "credit": 220496,
       "team": 212997,
       "id": 233624
@@ -6644,7 +6644,7 @@
     {
       "wus": 84,
       "name": "The_Ramey",
-      "rank": 407117,
+      "rank": 407129,
       "credit": 218866,
       "team": 212997,
       "id": 288350
@@ -6652,7 +6652,7 @@
     {
       "wus": 830,
       "name": "nightfire5150",
-      "rank": 339852,
+      "rank": 339861,
       "credit": 218851,
       "team": 212997,
       "id": 18047
@@ -6660,7 +6660,7 @@
     {
       "wus": 203,
       "name": "giddy",
-      "rank": 251364,
+      "rank": 251375,
       "credit": 216601,
       "team": 212997,
       "id": 1125288
@@ -6668,7 +6668,7 @@
     {
       "wus": 202,
       "name": "Citrus",
-      "rank": 366117,
+      "rank": 366129,
       "credit": 216445,
       "team": 212997,
       "id": 130240
@@ -6676,7 +6676,7 @@
     {
       "wus": 135,
       "name": "Zaycenec",
-      "rank": 409377,
+      "rank": 409387,
       "credit": 214919,
       "team": 212997,
       "id": 196831
@@ -6684,7 +6684,7 @@
     {
       "wus": 172,
       "name": "wdaniel526",
-      "rank": 409415,
+      "rank": 409425,
       "credit": 214858,
       "team": 212997,
       "id": 184518
@@ -6692,7 +6692,7 @@
     {
       "wus": 17,
       "name": "ScalixCZ",
-      "rank": 305627,
+      "rank": 305633,
       "credit": 211960,
       "team": 212997,
       "id": 74338373
@@ -6700,7 +6700,7 @@
     {
       "wus": 587,
       "name": "ElectroSparkz",
-      "rank": 411452,
+      "rank": 411466,
       "credit": 211469,
       "team": 212997,
       "id": 7621
@@ -6708,7 +6708,7 @@
     {
       "wus": 163,
       "name": "victory7",
-      "rank": 412907,
+      "rank": 412916,
       "credit": 209095,
       "team": 212997,
       "id": 295788
@@ -6716,7 +6716,7 @@
     {
       "wus": 77,
       "name": "AtariMoe",
-      "rank": 27181,
+      "rank": 27182,
       "credit": 208915,
       "team": 212997,
       "id": 137691
@@ -6724,7 +6724,7 @@
     {
       "wus": 13,
       "name": "GuyWithAmp",
-      "rank": 413329,
+      "rank": 413338,
       "credit": 208370,
       "team": 212997,
       "id": 286055
@@ -6732,7 +6732,7 @@
     {
       "wus": 20,
       "name": "Rakhar",
-      "rank": 406413,
+      "rank": 406422,
       "credit": 207222,
       "team": 212997,
       "id": 612390
@@ -6740,7 +6740,7 @@
     {
       "wus": 99,
       "name": "redurcer",
-      "rank": 414530,
+      "rank": 414542,
       "credit": 206322,
       "team": 212997,
       "id": 169647
@@ -6748,7 +6748,7 @@
     {
       "wus": 89,
       "name": "prodigiousAvian",
-      "rank": 415008,
+      "rank": 415019,
       "credit": 205467,
       "team": 212997,
       "id": 297500
@@ -6756,7 +6756,7 @@
     {
       "wus": 13,
       "name": "Aurelleah",
-      "rank": 415450,
+      "rank": 415461,
       "credit": 204686,
       "team": 212997,
       "id": 284853
@@ -6764,7 +6764,7 @@
     {
       "wus": 44,
       "name": "Kapt12",
-      "rank": 405869,
+      "rank": 405879,
       "credit": 204046,
       "team": 212997,
       "id": 68407591
@@ -6772,7 +6772,7 @@
     {
       "wus": 29,
       "name": "coppercore",
-      "rank": 45599,
+      "rank": 45605,
       "credit": 203503,
       "team": 212997,
       "id": 237750
@@ -6780,7 +6780,7 @@
     {
       "wus": 47,
       "name": "CThompson",
-      "rank": 416177,
+      "rank": 416188,
       "credit": 203156,
       "team": 212997,
       "id": 230072
@@ -6788,7 +6788,7 @@
     {
       "wus": 47,
       "name": "MineralArmor",
-      "rank": 416758,
+      "rank": 416771,
       "credit": 202595,
       "team": 212997,
       "id": 195495
@@ -6796,7 +6796,7 @@
     {
       "wus": 59,
       "name": "Shutterbug",
-      "rank": 385798,
+      "rank": 385804,
       "credit": 201540,
       "team": 212997,
       "id": 134235
@@ -6804,7 +6804,7 @@
     {
       "wus": 68,
       "name": "Alderi_Tokori",
-      "rank": 419579,
+      "rank": 419594,
       "credit": 198150,
       "team": 212997,
       "id": 228889
@@ -6812,7 +6812,7 @@
     {
       "wus": 31,
       "name": "tarrzo",
-      "rank": 420060,
+      "rank": 420074,
       "credit": 197366,
       "team": 212997,
       "id": 240724
@@ -6820,7 +6820,7 @@
     {
       "wus": 85,
       "name": "Ankorite",
-      "rank": 418593,
+      "rank": 418609,
       "credit": 195231,
       "team": 212997,
       "id": 917521
@@ -6828,7 +6828,7 @@
     {
       "wus": 61,
       "name": "karstvgl",
-      "rank": 422002,
+      "rank": 422013,
       "credit": 194225,
       "team": 212997,
       "id": 245574
@@ -6836,7 +6836,7 @@
     {
       "wus": 86,
       "name": "Tom_ten_Berge",
-      "rank": 422302,
+      "rank": 422316,
       "credit": 192804,
       "team": 212997,
       "id": 196539
@@ -6844,7 +6844,7 @@
     {
       "wus": 285,
       "name": "DragonMaus",
-      "rank": 422935,
+      "rank": 422948,
       "credit": 192699,
       "team": 212997,
       "id": 335344
@@ -6852,7 +6852,7 @@
     {
       "wus": 28,
       "name": "ShadeTheBlack",
-      "rank": 423056,
+      "rank": 423071,
       "credit": 192514,
       "team": 212997,
       "id": 367365
@@ -6860,7 +6860,7 @@
     {
       "wus": 57,
       "name": "Neirdae",
-      "rank": 423151,
+      "rank": 423165,
       "credit": 192358,
       "team": 212997,
       "id": 373608
@@ -6868,7 +6868,7 @@
     {
       "wus": 78,
       "name": "Kuchinashi",
-      "rank": 424511,
+      "rank": 424525,
       "credit": 190427,
       "team": 212997,
       "id": 164332
@@ -6876,7 +6876,7 @@
     {
       "wus": 192,
       "name": "Iridius",
-      "rank": 424248,
+      "rank": 424260,
       "credit": 189840,
       "team": 212997,
       "id": 131732
@@ -6884,7 +6884,7 @@
     {
       "wus": 143,
       "name": "Hicrodonma",
-      "rank": 425146,
+      "rank": 425158,
       "credit": 189499,
       "team": 212997,
       "id": 646607
@@ -6892,7 +6892,7 @@
     {
       "wus": 37,
       "name": "Bloody_Lyra",
-      "rank": 400354,
+      "rank": 400365,
       "credit": 187839,
       "team": 212997,
       "id": 67116351
@@ -6900,7 +6900,7 @@
     {
       "wus": 43,
       "name": "Blazedrag",
-      "rank": 252684,
+      "rank": 252696,
       "credit": 186518,
       "team": 212997,
       "id": 169818
@@ -6908,7 +6908,7 @@
     {
       "wus": 501,
       "name": "LuffyZoro",
-      "rank": 427402,
+      "rank": 427417,
       "credit": 186054,
       "team": 212997,
       "id": 139677
@@ -6916,7 +6916,7 @@
     {
       "wus": 132,
       "name": "hmj915",
-      "rank": 428358,
+      "rank": 428372,
       "credit": 184614,
       "team": 212997,
       "id": 186625
@@ -6924,7 +6924,7 @@
     {
       "wus": 122,
       "name": "slysnake",
-      "rank": 428475,
+      "rank": 428489,
       "credit": 184399,
       "team": 212997,
       "id": 219372
@@ -6932,7 +6932,7 @@
     {
       "wus": 177,
       "name": "clhkph",
-      "rank": 429103,
+      "rank": 429116,
       "credit": 183618,
       "team": 212997,
       "id": 363449
@@ -6940,7 +6940,7 @@
     {
       "wus": 50,
       "name": "Raymoo",
-      "rank": 427584,
+      "rank": 427600,
       "credit": 182683,
       "team": 212997,
       "id": 233676
@@ -6948,7 +6948,7 @@
     {
       "wus": 92,
       "name": "urioxis",
-      "rank": 427838,
+      "rank": 427853,
       "credit": 182669,
       "team": 212997,
       "id": 372561
@@ -6956,7 +6956,7 @@
     {
       "wus": 354,
       "name": "The_Nachoman",
-      "rank": 430182,
+      "rank": 430199,
       "credit": 182071,
       "team": 212997,
       "id": 220350
@@ -6964,7 +6964,7 @@
     {
       "wus": 1443,
       "name": "CHRoMePoNy",
-      "rank": 431390,
+      "rank": 431405,
       "credit": 180375,
       "team": 212997,
       "id": 396263
@@ -6972,7 +6972,7 @@
     {
       "wus": 95,
       "name": "ImproveKebab",
-      "rank": 433055,
+      "rank": 433069,
       "credit": 178031,
       "team": 212997,
       "id": 367226
@@ -6980,7 +6980,7 @@
     {
       "wus": 84,
       "name": "SolarHors",
-      "rank": 435964,
+      "rank": 435977,
       "credit": 174046,
       "team": 212997,
       "id": 76155393
@@ -6988,7 +6988,7 @@
     {
       "wus": 151,
       "name": "Herpaderp",
-      "rank": 424198,
+      "rank": 424210,
       "credit": 173834,
       "team": 212997,
       "id": 181459
@@ -6996,7 +6996,7 @@
     {
       "wus": 61,
       "name": "TSparkle",
-      "rank": 436590,
+      "rank": 436603,
       "credit": 173160,
       "team": 212997,
       "id": 189620
@@ -7004,7 +7004,7 @@
     {
       "wus": 68,
       "name": "Akouns",
-      "rank": 407090,
+      "rank": 407102,
       "credit": 171658,
       "team": 212997,
       "id": 336953
@@ -7012,7 +7012,7 @@
     {
       "wus": 271,
       "name": "Artalus",
-      "rank": 225395,
+      "rank": 225406,
       "credit": 169968,
       "team": 212997,
       "id": 85640
@@ -7020,7 +7020,7 @@
     {
       "wus": 91,
       "name": "makospince",
-      "rank": 439258,
+      "rank": 439268,
       "credit": 169511,
       "team": 212997,
       "id": 165779
@@ -7028,7 +7028,7 @@
     {
       "wus": 313,
       "name": "granor",
-      "rank": 439294,
+      "rank": 439305,
       "credit": 169472,
       "team": 212997,
       "id": 9858
@@ -7036,7 +7036,7 @@
     {
       "wus": 42,
       "name": "ThatGuyInTheCorner",
-      "rank": 439968,
+      "rank": 439980,
       "credit": 168564,
       "team": 212997,
       "id": 667040
@@ -7044,7 +7044,7 @@
     {
       "wus": 29,
       "name": "WublessFeat",
-      "rank": 440286,
+      "rank": 440299,
       "credit": 168101,
       "team": 212997,
       "id": 180643
@@ -7052,7 +7052,7 @@
     {
       "wus": 31,
       "name": "LazerSparkle",
-      "rank": 440302,
+      "rank": 440315,
       "credit": 168080,
       "team": 212997,
       "id": 375139
@@ -7060,7 +7060,7 @@
     {
       "wus": 14,
       "name": "Pegapnea",
-      "rank": 440515,
+      "rank": 440527,
       "credit": 167761,
       "team": 212997,
       "id": 353189
@@ -7068,7 +7068,7 @@
     {
       "wus": 155,
       "name": "GameOverZeu5",
-      "rank": 440817,
+      "rank": 440828,
       "credit": 167344,
       "team": 212997,
       "id": 179619
@@ -7076,7 +7076,7 @@
     {
       "wus": 59,
       "name": "Dracia",
-      "rank": 186618,
+      "rank": 186634,
       "credit": 165431,
       "team": 212997,
       "id": 211129
@@ -7084,7 +7084,7 @@
     {
       "wus": 53,
       "name": "Salamander",
-      "rank": 277997,
+      "rank": 278004,
       "credit": 165381,
       "team": 212997,
       "id": 180328
@@ -7092,7 +7092,7 @@
     {
       "wus": 102,
       "name": "Trixie",
-      "rank": 344145,
+      "rank": 344154,
       "credit": 164901,
       "team": 212997,
       "id": 141164
@@ -7100,7 +7100,7 @@
     {
       "wus": 647,
       "name": "Hippie-Pie",
-      "rank": 443961,
+      "rank": 443975,
       "credit": 163280,
       "team": 212997,
       "id": 145854
@@ -7108,7 +7108,7 @@
     {
       "wus": 47,
       "name": "Parasprite",
-      "rank": 445486,
+      "rank": 445497,
       "credit": 161442,
       "team": 212997,
       "id": 621993
@@ -7116,7 +7116,7 @@
     {
       "wus": 113,
       "name": "Rocketbrain",
-      "rank": 446646,
+      "rank": 446656,
       "credit": 159993,
       "team": 212997,
       "id": 647224
@@ -7124,7 +7124,7 @@
     {
       "wus": 44,
       "name": "XanthosDraxx",
-      "rank": 447847,
+      "rank": 447856,
       "credit": 158546,
       "team": 212997,
       "id": 288682
@@ -7132,7 +7132,7 @@
     {
       "wus": 55,
       "name": "danspy1994",
-      "rank": 448321,
+      "rank": 448331,
       "credit": 158006,
       "team": 212997,
       "id": 612016
@@ -7140,7 +7140,7 @@
     {
       "wus": 167,
       "name": "Devylish",
-      "rank": 448497,
+      "rank": 448507,
       "credit": 157817,
       "team": 212997,
       "id": 172963
@@ -7148,7 +7148,7 @@
     {
       "wus": 137,
       "name": "Bahamutkotd",
-      "rank": 449079,
+      "rank": 449088,
       "credit": 157134,
       "team": 212997,
       "id": 120318311
@@ -7156,7 +7156,7 @@
     {
       "wus": 257,
       "name": "Littlejth",
-      "rank": 425183,
+      "rank": 425194,
       "credit": 155636,
       "team": 212997,
       "id": 105574
@@ -7164,7 +7164,7 @@
     {
       "wus": 124,
       "name": "Barhandar",
-      "rank": 450884,
+      "rank": 450893,
       "credit": 155032,
       "team": 212997,
       "id": 97964
@@ -7172,7 +7172,7 @@
     {
       "wus": 870,
       "name": "DeltaForce777",
-      "rank": 451370,
+      "rank": 451382,
       "credit": 154492,
       "team": 212997,
       "id": 226195
@@ -7180,7 +7180,7 @@
     {
       "wus": 134,
       "name": "Sermokala",
-      "rank": 451753,
+      "rank": 451762,
       "credit": 154024,
       "team": 212997,
       "id": 22521
@@ -7188,7 +7188,7 @@
     {
       "wus": 12,
       "name": "Sylphar",
-      "rank": 451854,
+      "rank": 451862,
       "credit": 153896,
       "team": 212997,
       "id": 288210
@@ -7196,7 +7196,7 @@
     {
       "wus": 356,
       "name": "ZomBrony",
-      "rank": 452592,
+      "rank": 452600,
       "credit": 153026,
       "team": 212997,
       "id": 113835
@@ -7204,7 +7204,7 @@
     {
       "wus": 600,
       "name": "OtavaPanthar",
-      "rank": 357064,
+      "rank": 357074,
       "credit": 151666,
       "team": 212997,
       "id": 415105
@@ -7212,7 +7212,7 @@
     {
       "wus": 94,
       "name": "cammerhammer",
-      "rank": 455107,
+      "rank": 455117,
       "credit": 150154,
       "team": 212997,
       "id": 324050
@@ -7220,7 +7220,7 @@
     {
       "wus": 7,
       "name": "Blizarn",
-      "rank": 261304,
+      "rank": 261317,
       "credit": 150021,
       "team": 212997,
       "id": 182414
@@ -7228,7 +7228,7 @@
     {
       "wus": 526,
       "name": "julese50",
-      "rank": 455465,
+      "rank": 455474,
       "credit": 149732,
       "team": 212997,
       "id": 186715
@@ -7236,7 +7236,7 @@
     {
       "wus": 19,
       "name": "ArkaDarp",
-      "rank": 455688,
+      "rank": 455698,
       "credit": 149474,
       "team": 212997,
       "id": 337003
@@ -7244,7 +7244,7 @@
     {
       "wus": 53,
       "name": "TheRainbowDawn",
-      "rank": 456025,
+      "rank": 456031,
       "credit": 149092,
       "team": 212997,
       "id": 609127
@@ -7252,7 +7252,7 @@
     {
       "wus": 41,
       "name": "stormbeta",
-      "rank": 314194,
+      "rank": 314204,
       "credit": 147485,
       "team": 212997,
       "id": 234421
@@ -7260,7 +7260,7 @@
     {
       "wus": 5,
       "name": "wertyy102",
-      "rank": 435599,
+      "rank": 435612,
       "credit": 146957,
       "team": 212997,
       "id": 280883
@@ -7268,7 +7268,7 @@
     {
       "wus": 136,
       "name": "theburningfox",
-      "rank": 461308,
+      "rank": 461318,
       "credit": 143365,
       "team": 212997,
       "id": 304470
@@ -7276,7 +7276,7 @@
     {
       "wus": 116,
       "name": "Xerophyte",
-      "rank": 461220,
+      "rank": 461231,
       "credit": 143017,
       "team": 212997,
       "id": 647618
@@ -7284,7 +7284,7 @@
     {
       "wus": 111,
       "name": "IWasNewOnce",
-      "rank": 462198,
+      "rank": 462210,
       "credit": 142471,
       "team": 212997,
       "id": 646653
@@ -7292,7 +7292,7 @@
     {
       "wus": 9,
       "name": "silou",
-      "rank": 462928,
+      "rank": 462942,
       "credit": 141765,
       "team": 212997,
       "id": 75477588
@@ -7300,7 +7300,7 @@
     {
       "wus": 33,
       "name": "jacobschuyler",
-      "rank": 464279,
+      "rank": 464294,
       "credit": 140326,
       "team": 212997,
       "id": 680660
@@ -7308,7 +7308,7 @@
     {
       "wus": 27,
       "name": "chemicalart",
-      "rank": 464740,
+      "rank": 464755,
       "credit": 139832,
       "team": 212997,
       "id": 362239
@@ -7316,7 +7316,7 @@
     {
       "wus": 41,
       "name": "sindu",
-      "rank": 351526,
+      "rank": 351536,
       "credit": 139123,
       "team": 212997,
       "id": 1626227
@@ -7324,7 +7324,7 @@
     {
       "wus": 117,
       "name": "Dust",
-      "rank": 107776,
+      "rank": 107781,
       "credit": 138896,
       "team": 212997,
       "id": 7293
@@ -7332,7 +7332,7 @@
     {
       "wus": 111,
       "name": "AchmedDB",
-      "rank": 468012,
+      "rank": 468027,
       "credit": 136343,
       "team": 212997,
       "id": 356064
@@ -7340,7 +7340,7 @@
     {
       "wus": 67,
       "name": "Stevebat",
-      "rank": 463776,
+      "rank": 463790,
       "credit": 134042,
       "team": 212997,
       "id": 111166
@@ -7348,7 +7348,7 @@
     {
       "wus": 270,
       "name": "Sintanan",
-      "rank": 472166,
+      "rank": 472184,
       "credit": 132424,
       "team": 212997,
       "id": 134276
@@ -7356,7 +7356,7 @@
     {
       "wus": 76,
       "name": "Echoblast2",
-      "rank": 472274,
+      "rank": 472293,
       "credit": 132336,
       "team": 212997,
       "id": 182790
@@ -7364,7 +7364,7 @@
     {
       "wus": 119,
       "name": "Silver_Scroll",
-      "rank": 473214,
+      "rank": 473230,
       "credit": 131460,
       "team": 212997,
       "id": 373803
@@ -7372,7 +7372,7 @@
     {
       "wus": 30,
       "name": "dgosling",
-      "rank": 240753,
+      "rank": 240763,
       "credit": 129403,
       "team": 212997,
       "id": 210873
@@ -7380,7 +7380,7 @@
     {
       "wus": 12,
       "name": "Plaonder",
-      "rank": 276011,
+      "rank": 276022,
       "credit": 128067,
       "team": 212997,
       "id": 105957088
@@ -7388,7 +7388,7 @@
     {
       "wus": 98,
       "name": "plooskee",
-      "rank": 462077,
+      "rank": 462089,
       "credit": 127793,
       "team": 212997,
       "id": 226914
@@ -7396,7 +7396,7 @@
     {
       "wus": 459,
       "name": "A11ectis",
-      "rank": 4017,
+      "rank": 4015,
       "credit": 127535,
       "team": 212997,
       "id": 165592
@@ -7404,7 +7404,7 @@
     {
       "wus": 22,
       "name": "Hazmattpony",
-      "rank": 230517,
+      "rank": 230531,
       "credit": 126314,
       "team": 212997,
       "id": 279382
@@ -7412,7 +7412,7 @@
     {
       "wus": 8,
       "name": "TheBehaviorAnalyst",
-      "rank": 434518,
+      "rank": 434533,
       "credit": 125994,
       "team": 212997,
       "id": 66970083
@@ -7428,7 +7428,7 @@
     {
       "wus": 52,
       "name": "weirdguy",
-      "rank": 401930,
+      "rank": 401941,
       "credit": 125075,
       "team": 212997,
       "id": 668766
@@ -7436,7 +7436,7 @@
     {
       "wus": 9,
       "name": "adagio",
-      "rank": 313397,
+      "rank": 313405,
       "credit": 125047,
       "team": 212997,
       "id": 893666
@@ -7444,7 +7444,7 @@
     {
       "wus": 35,
       "name": "Dash_plus_Java",
-      "rank": 480622,
+      "rank": 480635,
       "credit": 124749,
       "team": 212997,
       "id": 230180
@@ -7452,7 +7452,7 @@
     {
       "wus": 55,
       "name": "TheDarkTiger",
-      "rank": 305658,
+      "rank": 305664,
       "credit": 124566,
       "team": 212997,
       "id": 288302
@@ -7460,7 +7460,7 @@
     {
       "wus": 27,
       "name": "dragonginger",
-      "rank": 481861,
+      "rank": 481871,
       "credit": 123685,
       "team": 212997,
       "id": 85562116
@@ -7468,7 +7468,7 @@
     {
       "wus": 302,
       "name": "Rainbow_Cupcake",
-      "rank": 482602,
+      "rank": 482613,
       "credit": 123018,
       "team": 212997,
       "id": 247617
@@ -7476,7 +7476,7 @@
     {
       "wus": 70,
       "name": "Komrazza",
-      "rank": 483526,
+      "rank": 483540,
       "credit": 122236,
       "team": 212997,
       "id": 320636
@@ -7484,7 +7484,7 @@
     {
       "wus": 21,
       "name": "Lacin",
-      "rank": 483575,
+      "rank": 483589,
       "credit": 122201,
       "team": 212997,
       "id": 214775
@@ -7492,7 +7492,7 @@
     {
       "wus": 21,
       "name": "StefanM123",
-      "rank": 485415,
+      "rank": 485429,
       "credit": 120594,
       "team": 212997,
       "id": 378904
@@ -7500,7 +7500,7 @@
     {
       "wus": 18,
       "name": "Mike",
-      "rank": 3761,
+      "rank": 3760,
       "credit": 118489,
       "team": 212997,
       "id": 16541
@@ -7508,7 +7508,7 @@
     {
       "wus": 172,
       "name": "Fac3Desk",
-      "rank": 488754,
+      "rank": 488768,
       "credit": 117809,
       "team": 212997,
       "id": 186548
@@ -7516,7 +7516,7 @@
     {
       "wus": 121,
       "name": "njayhuang",
-      "rank": 490759,
+      "rank": 490772,
       "credit": 116177,
       "team": 212997,
       "id": 133251
@@ -7524,7 +7524,7 @@
     {
       "wus": 19,
       "name": "Purple_Smart",
-      "rank": 491164,
+      "rank": 491179,
       "credit": 115812,
       "team": 212997,
       "id": 610861
@@ -7532,7 +7532,7 @@
     {
       "wus": 38,
       "name": "Camsy",
-      "rank": 491569,
+      "rank": 491584,
       "credit": 115471,
       "team": 212997,
       "id": 675694
@@ -7540,7 +7540,7 @@
     {
       "wus": 40,
       "name": "Taloverae",
-      "rank": 322145,
+      "rank": 322158,
       "credit": 114958,
       "team": 212997,
       "id": 149334
@@ -7548,7 +7548,7 @@
     {
       "wus": 60,
       "name": "furrypone",
-      "rank": 493142,
+      "rank": 493159,
       "credit": 114203,
       "team": 212997,
       "id": 175551
@@ -7556,7 +7556,7 @@
     {
       "wus": 99,
       "name": "Red_M",
-      "rank": 495865,
+      "rank": 495883,
       "credit": 111967,
       "team": 212997,
       "id": 165084
@@ -7564,7 +7564,7 @@
     {
       "wus": 110,
       "name": "ilmari",
-      "rank": 289741,
+      "rank": 289757,
       "credit": 111893,
       "team": 212997,
       "id": 231409
@@ -7572,7 +7572,7 @@
     {
       "wus": 98,
       "name": "Vasril",
-      "rank": 496438,
+      "rank": 496456,
       "credit": 111535,
       "team": 212997,
       "id": 647544
@@ -7580,7 +7580,7 @@
     {
       "wus": 235,
       "name": "Airfan",
-      "rank": 496888,
+      "rank": 496907,
       "credit": 111225,
       "team": 212997,
       "id": 745
@@ -7588,7 +7588,7 @@
     {
       "wus": 11,
       "name": "Cryator",
-      "rank": 497420,
+      "rank": 497436,
       "credit": 110820,
       "team": 212997,
       "id": 237794
@@ -7596,7 +7596,7 @@
     {
       "wus": 19,
       "name": "MachEntertainment",
-      "rank": 494300,
+      "rank": 494316,
       "credit": 110590,
       "team": 212997,
       "id": 195310
@@ -7604,7 +7604,7 @@
     {
       "wus": 188,
       "name": "Chris_Bahr",
-      "rank": 497943,
+      "rank": 497959,
       "credit": 110394,
       "team": 212997,
       "id": 209937
@@ -7612,7 +7612,7 @@
     {
       "wus": 117,
       "name": "mateon1",
-      "rank": 499686,
+      "rank": 499700,
       "credit": 109079,
       "team": 212997,
       "id": 610651
@@ -7620,7 +7620,7 @@
     {
       "wus": 360,
       "name": "xeon927",
-      "rank": 500022,
+      "rank": 500038,
       "credit": 108812,
       "team": 212997,
       "id": 165145
@@ -7628,7 +7628,7 @@
     {
       "wus": 168,
       "name": "Inkhoof",
-      "rank": 503162,
+      "rank": 503177,
       "credit": 106493,
       "team": 212997,
       "id": 103443
@@ -7636,7 +7636,7 @@
     {
       "wus": 19,
       "name": "DonSerrot",
-      "rank": 503743,
+      "rank": 503758,
       "credit": 106071,
       "team": 212997,
       "id": 623989
@@ -7644,7 +7644,7 @@
     {
       "wus": 45,
       "name": "Wondering_",
-      "rank": 504099,
+      "rank": 504114,
       "credit": 105792,
       "team": 212997,
       "id": 135254
@@ -7652,7 +7652,7 @@
     {
       "wus": 136,
       "name": "CommuPony",
-      "rank": 506282,
+      "rank": 506297,
       "credit": 104250,
       "team": 212997,
       "id": 310417
@@ -7660,7 +7660,7 @@
     {
       "wus": 15,
       "name": "QuillOmega0",
-      "rank": 507158,
+      "rank": 507172,
       "credit": 103636,
       "team": 212997,
       "id": 251760
@@ -7668,7 +7668,7 @@
     {
       "wus": 39,
       "name": "SilverStone",
-      "rank": 184534,
+      "rank": 184542,
       "credit": 103450,
       "team": 212997,
       "id": 22937
@@ -7676,7 +7676,7 @@
     {
       "wus": 11,
       "name": "neroe23",
-      "rank": 271104,
+      "rank": 271113,
       "credit": 102959,
       "team": 212997,
       "id": 17854
@@ -7684,7 +7684,7 @@
     {
       "wus": 46,
       "name": "roflcopter572",
-      "rank": 507661,
+      "rank": 507678,
       "credit": 102879,
       "team": 212997,
       "id": 218439
@@ -7692,7 +7692,7 @@
     {
       "wus": 36,
       "name": "lesu",
-      "rank": 509010,
+      "rank": 509029,
       "credit": 102363,
       "team": 212997,
       "id": 372373
@@ -7700,7 +7700,7 @@
     {
       "wus": 11,
       "name": "Regensburga",
-      "rank": 509883,
+      "rank": 509899,
       "credit": 101784,
       "team": 212997,
       "id": 65477983
@@ -7708,7 +7708,7 @@
     {
       "wus": 85,
       "name": "DasHHat",
-      "rank": 99966,
+      "rank": 99972,
       "credit": 101161,
       "team": 212997,
       "id": 100116
@@ -7716,7 +7716,7 @@
     {
       "wus": 58,
       "name": "Lux_Liquidus",
-      "rank": 512272,
+      "rank": 512287,
       "credit": 100306,
       "team": 212997,
       "id": 105832
@@ -7724,7 +7724,7 @@
     {
       "wus": 39,
       "name": "Zerkle",
-      "rank": 512350,
+      "rank": 512365,
       "credit": 100259,
       "team": 212997,
       "id": 373989
@@ -7732,7 +7732,7 @@
     {
       "wus": 51,
       "name": "Menace13",
-      "rank": 512635,
+      "rank": 512650,
       "credit": 100105,
       "team": 212997,
       "id": 675524
@@ -7740,7 +7740,7 @@
     {
       "wus": 201,
       "name": "cheezedoodle",
-      "rank": 477175,
+      "rank": 477192,
       "credit": 99997,
       "team": 212997,
       "id": 636019
@@ -7748,7 +7748,7 @@
     {
       "wus": 22,
       "name": "magmamaster1801",
-      "rank": 364148,
+      "rank": 364160,
       "credit": 99314,
       "team": 212997,
       "id": 250056
@@ -7763,7 +7763,7 @@
     {
       "wus": 47,
       "name": "shack13",
-      "rank": 306725,
+      "rank": 306734,
       "credit": 98662,
       "team": 212997,
       "id": 418428
@@ -7883,7 +7883,7 @@
     {
       "wus": 38,
       "name": "woodsj_nl",
-      "rank": 344996,
+      "rank": 345006,
       "credit": 92251,
       "team": 212997,
       "id": 288662
@@ -7898,7 +7898,7 @@
     {
       "wus": 83,
       "name": "TortueGuardians",
-      "rank": 290328,
+      "rank": 290341,
       "credit": 91622,
       "team": 212997,
       "id": 220602
@@ -7948,7 +7948,7 @@
     {
       "wus": 159,
       "name": "MicroChip",
-      "rank": 27989,
+      "rank": 27992,
       "credit": 88213,
       "team": 212997,
       "id": 163891
@@ -7963,7 +7963,7 @@
     {
       "wus": 83,
       "name": "stratege",
-      "rank": 491702,
+      "rank": 491715,
       "credit": 86159,
       "team": 212997,
       "id": 158019
@@ -7983,10 +7983,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-09 07:25:58",
+  "last": "2021-01-09 09:26:04",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28148798002,
+  "credit": 28151548133,
   "team": 212997,
   "path": "team/212997"
 }
