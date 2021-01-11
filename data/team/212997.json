@@ -1,5 +1,5 @@
 {
-  "wus": 1714815,
+  "wus": 1714818,
   "donors": [
     {
       "wus": 85678,
@@ -794,10 +794,10 @@
       "id": 335689
     },
     {
-      "wus": 4067,
+      "wus": 4068,
       "name": "Bikerbob1016",
       "rank": 39871,
-      "credit": 31393011,
+      "credit": 31412961,
       "team": 212997,
       "id": 57894
     },
@@ -2314,10 +2314,10 @@
       "id": 335801
     },
     {
-      "wus": 768,
+      "wus": 769,
       "name": "shado_jaguar",
       "rank": 134151,
-      "credit": 4142023,
+      "credit": 4142567,
       "team": 212997,
       "id": 184112
     },
@@ -5634,6 +5634,14 @@
       "id": 97525
     },
     {
+      "wus": 26,
+      "name": "DeanSimmons",
+      "rank": 347388,
+      "credit": 402077,
+      "team": 212997,
+      "id": 444175964
+    },
+    {
       "wus": 360,
       "name": "coy1010allen",
       "rank": 336999,
@@ -5776,14 +5784,6 @@
       "credit": 371676,
       "team": 212997,
       "id": 109641
-    },
-    {
-      "wus": 25,
-      "name": "DeanSimmons",
-      "rank": 347388,
-      "credit": 370705,
-      "team": 212997,
-      "id": 444175964
     },
     {
       "wus": 206,
@@ -7984,10 +7984,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-11 03:26:06",
+  "last": "2021-01-11 03:36:06",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28190184042,
+  "credit": 28190235908,
   "team": 212997,
   "path": "team/212997"
 }
