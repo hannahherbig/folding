@@ -1,5 +1,5 @@
 {
-  "wus": 1715773,
+  "wus": 1715776,
   "donors": [
     {
       "wus": 85678,
@@ -538,10 +538,10 @@
       "id": 182155
     },
     {
-      "wus": 2256,
+      "wus": 2257,
       "name": "engiefox",
       "rank": 27082,
-      "credit": 51655718,
+      "credit": 51669496,
       "team": 212997,
       "id": 285744
     },
@@ -1466,20 +1466,20 @@
       "id": 22620
     },
     {
+      "wus": 419,
+      "name": "mark_taiwan",
+      "rank": 81230,
+      "credit": 10822928,
+      "team": 212997,
+      "id": 337800
+    },
+    {
       "wus": 208,
       "name": "Lawl",
       "rank": 80474,
       "credit": 10810539,
       "team": 212997,
       "id": 582320
-    },
-    {
-      "wus": 418,
-      "name": "mark_taiwan",
-      "rank": 81230,
-      "credit": 10766233,
-      "team": 212997,
-      "id": 337800
     },
     {
       "wus": 164,
@@ -2570,10 +2570,10 @@
       "id": 213932
     },
     {
-      "wus": 790,
+      "wus": 791,
       "name": "GombaWarrior",
       "rank": 152989,
-      "credit": 3153044,
+      "credit": 3155758,
       "team": 212997,
       "id": 67576005
     },
@@ -7984,10 +7984,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-13 10:46:17",
+  "last": "2021-01-13 11:06:18",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28237993212,
+  "credit": 28238066399,
   "team": 212997,
   "path": "team/212997"
 }
