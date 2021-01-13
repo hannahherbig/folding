@@ -1,5 +1,5 @@
 {
-  "wus": 1715684,
+  "wus": 1715691,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26192,
+      "wus": 26195,
       "name": "UltraTech_Command",
       "rank": 1166,
-      "credit": 1088878749,
+      "credit": 1088981505,
       "team": 212997,
       "id": 112559
     },
@@ -50,10 +50,10 @@
       "id": 109627
     },
     {
-      "wus": 19891,
+      "wus": 19892,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 1953,
-      "credit": 719100309,
+      "credit": 719104844,
       "team": 212997,
       "id": 259906
     },
@@ -1482,10 +1482,10 @@
       "id": 279221
     },
     {
-      "wus": 415,
+      "wus": 416,
       "name": "mark_taiwan",
       "rank": 81718,
-      "credit": 10716420,
+      "credit": 10729980,
       "team": 212997,
       "id": 337800
     },
@@ -2810,10 +2810,10 @@
       "id": 12231
     },
     {
-      "wus": 2238,
+      "wus": 2239,
       "name": "Astatine210",
       "rank": 170264,
-      "credit": 2494284,
+      "credit": 2494771,
       "team": 212997,
       "id": 118970683
     },
@@ -3346,6 +3346,14 @@
       "id": 12759725
     },
     {
+      "wus": 72,
+      "name": "DeanSimmons",
+      "rank": 209050,
+      "credit": 1650634,
+      "team": 212997,
+      "id": 444175964
+    },
+    {
       "wus": 119,
       "name": "TorqueEffect",
       "rank": 195718,
@@ -3360,14 +3368,6 @@
       "credit": 1635292,
       "team": 212997,
       "id": 12171
-    },
-    {
-      "wus": 71,
-      "name": "DeanSimmons",
-      "rank": 209050,
-      "credit": 1614133,
-      "team": 212997,
-      "id": 444175964
     },
     {
       "wus": 41,
@@ -7984,10 +7984,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-13 04:36:19",
+  "last": "2021-01-13 05:16:15",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28235055574,
+  "credit": 28235213413,
   "team": 212997,
   "path": "team/212997"
 }
