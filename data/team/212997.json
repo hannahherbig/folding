@@ -1,5 +1,5 @@
 {
-  "wus": 1718247,
+  "wus": 1718266,
   "donors": [
     {
       "wus": 85678,
@@ -146,10 +146,10 @@
       "id": 255406
     },
     {
-      "wus": 3111,
+      "wus": 3112,
       "name": "Blazingcurent",
       "rank": 7136,
-      "credit": 235326027,
+      "credit": 235343330,
       "team": 212997,
       "id": 72800445
     },
@@ -234,10 +234,10 @@
       "id": 63557
     },
     {
-      "wus": 1939,
+      "wus": 1944,
       "name": "DayBat",
       "rank": 11632,
-      "credit": 141726557,
+      "credit": 141865526,
       "team": 212997,
       "id": 68769379
     },
@@ -378,10 +378,10 @@
       "id": 105640
     },
     {
-      "wus": 1524,
+      "wus": 1525,
       "name": "Naga",
       "rank": 20941,
-      "credit": 72579023,
+      "credit": 72645550,
       "team": 212997,
       "id": 84291
     },
@@ -522,10 +522,10 @@
       "id": 69005220
     },
     {
-      "wus": 2386,
+      "wus": 2387,
       "name": "engiefox",
       "rank": 26649,
-      "credit": 53375279,
+      "credit": 53389864,
       "team": 212997,
       "id": 285744
     },
@@ -642,10 +642,10 @@
       "id": 168694
     },
     {
-      "wus": 2884,
+      "wus": 2885,
       "name": "Fusl",
       "rank": 31550,
-      "credit": 43891692,
+      "credit": 43943491,
       "team": 212997,
       "id": 102092
     },
@@ -746,20 +746,20 @@
       "id": 73049723
     },
     {
+      "wus": 321,
+      "name": "divelia",
+      "rank": 37275,
+      "credit": 35283694,
+      "team": 212997,
+      "id": 370026695
+    },
+    {
       "wus": 7608,
       "name": "Lee_DiPaolo",
       "rank": 36242,
       "credit": 35161438,
       "team": 212997,
       "id": 14532
-    },
-    {
-      "wus": 320,
-      "name": "divelia",
-      "rank": 37275,
-      "credit": 35099660,
-      "team": 212997,
-      "id": 370026695
     },
     {
       "wus": 1963,
@@ -922,10 +922,10 @@
       "id": 336419
     },
     {
-      "wus": 900,
+      "wus": 901,
       "name": "Rosiepon",
       "rank": 44902,
-      "credit": 25348291,
+      "credit": 25358191,
       "team": 212997,
       "id": 66695747
     },
@@ -2002,10 +2002,10 @@
       "id": 110175
     },
     {
-      "wus": 533,
+      "wus": 534,
       "name": "GondolaLikesToWalk",
       "rank": 109351,
-      "credit": 6482940,
+      "credit": 6486154,
       "team": 212997,
       "id": 73380256
     },
@@ -2178,10 +2178,10 @@
       "id": 7306
     },
     {
-      "wus": 239,
+      "wus": 241,
       "name": "CZ_Brony",
       "rank": 114298,
-      "credit": 5263182,
+      "credit": 5301342,
       "team": 212997,
       "id": 426853387
     },
@@ -2386,10 +2386,10 @@
       "id": 234270
     },
     {
-      "wus": 194,
+      "wus": 196,
       "name": "DeanSimmons",
       "rank": 140476,
-      "credit": 3956778,
+      "credit": 3962873,
       "team": 212997,
       "id": 444175964
     },
@@ -2594,10 +2594,10 @@
       "id": 213932
     },
     {
-      "wus": 2305,
+      "wus": 2306,
       "name": "Astatine210",
       "rank": 153785,
-      "credit": 3148421,
+      "credit": 3149321,
       "team": 212997,
       "id": 118970683
     },
@@ -3234,10 +3234,10 @@
       "id": 313055
     },
     {
-      "wus": 590,
+      "wus": 591,
       "name": "LiBa",
       "rank": 194362,
-      "credit": 1821746,
+      "credit": 1822165,
       "team": 212997,
       "id": 75405116
     },
@@ -6714,10 +6714,10 @@
       "id": 184518
     },
     {
-      "wus": 92,
+      "wus": 93,
       "name": "Ankorite",
       "rank": 409025,
-      "credit": 213098,
+      "credit": 214762,
       "team": 212997,
       "id": 917521
     },
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-19 13:46:28",
+  "last": "2021-01-19 14:36:16",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28351312224,
+  "credit": 28351845793,
   "team": 212997,
   "path": "team/212997"
 }
