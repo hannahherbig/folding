@@ -1,5 +1,5 @@
 {
-  "wus": 1354061,
+  "wus": 1354066,
   "donors": [
     {
       "wus": 33397,
@@ -162,10 +162,10 @@
       "id": 6516
     },
     {
-      "wus": 1206,
+      "wus": 1207,
       "name": "jose.angel.soler.ortiz",
       "rank": 10025,
-      "credit": 142900029,
+      "credit": 142910570,
       "team": 45032,
       "id": 132010172
     },
@@ -442,20 +442,20 @@
       "id": 139638
     },
     {
+      "wus": 2034,
+      "name": "JPRules",
+      "rank": 24616,
+      "credit": 58343478,
+      "team": 45032,
+      "id": 104686529
+    },
+    {
       "wus": 3713,
       "name": "leanderm",
       "rank": 25134,
       "credit": 58309809,
       "team": 45032,
       "id": 262394
-    },
-    {
-      "wus": 2033,
-      "name": "JPRules",
-      "rank": 24616,
-      "credit": 58272696,
-      "team": 45032,
-      "id": 104686529
     },
     {
       "wus": 1034,
@@ -634,10 +634,10 @@
       "id": 12279
     },
     {
-      "wus": 5397,
+      "wus": 5398,
       "name": "Siguenos",
       "rank": 19365,
-      "credit": 40429127,
+      "credit": 40431253,
       "team": 45032,
       "id": 89421608
     },
@@ -674,10 +674,10 @@
       "id": 70419663
     },
     {
-      "wus": 10444,
+      "wus": 10445,
       "name": "thermi",
       "rank": 35005,
-      "credit": 35343169,
+      "credit": 35345590,
       "team": 45032,
       "id": 111878
     },
@@ -3306,10 +3306,10 @@
       "id": 115623205
     },
     {
-      "wus": 4349,
+      "wus": 4350,
       "name": "trapanator",
       "rank": 148022,
-      "credit": 3425485,
+      "credit": 3425904,
       "team": 45032,
       "id": 25950
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-01-19 05:46:47",
+  "last": "2021-01-19 06:06:25",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 17118974665,
+  "credit": 17119060954,
   "team": 45032,
   "path": "team/45032"
 }
