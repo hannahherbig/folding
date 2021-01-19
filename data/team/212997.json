@@ -1,5 +1,5 @@
 {
-  "wus": 1718105,
+  "wus": 1718110,
   "donors": [
     {
       "wus": 85678,
@@ -426,10 +426,10 @@
       "id": 259861
     },
     {
-      "wus": 12142,
+      "wus": 12143,
       "name": "MkThundrwd",
       "rank": 21187,
-      "credit": 63760894,
+      "credit": 63768336,
       "team": 212997,
       "id": 106865
     },
@@ -754,10 +754,10 @@
       "id": 14532
     },
     {
-      "wus": 318,
+      "wus": 319,
       "name": "divelia",
       "rank": 37281,
-      "credit": 35048411,
+      "credit": 35083537,
       "team": 212997,
       "id": 370026695
     },
@@ -922,10 +922,10 @@
       "id": 336419
     },
     {
-      "wus": 896,
+      "wus": 897,
       "name": "Rosiepon",
       "rank": 44952,
-      "credit": 25246778,
+      "credit": 25256678,
       "team": 212997,
       "id": 66695747
     },
@@ -2594,6 +2594,14 @@
       "id": 67576005
     },
     {
+      "wus": 2302,
+      "name": "Astatine210",
+      "rank": 155879,
+      "credit": 3109921,
+      "team": 212997,
+      "id": 118970683
+    },
+    {
       "wus": 1722,
       "name": "ShutterQuick",
       "rank": 154664,
@@ -2616,14 +2624,6 @@
       "credit": 3066020,
       "team": 212997,
       "id": 55671
-    },
-    {
-      "wus": 2300,
-      "name": "Astatine210",
-      "rank": 155879,
-      "credit": 3056838,
-      "team": 212997,
-      "id": 118970683
     },
     {
       "wus": 1111,
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-19 04:36:19",
+  "last": "2021-01-19 04:56:19",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28343688721,
+  "credit": 28343794272,
   "team": 212997,
   "path": "team/212997"
 }
