@@ -1,5 +1,5 @@
 {
-  "wus": 1360423,
+  "wus": 1360433,
   "donors": [
     {
       "wus": 33397,
@@ -138,10 +138,10 @@
       "id": 1437
     },
     {
-      "wus": 1292,
+      "wus": 1294,
       "name": "jose.angel.soler.ortiz",
       "rank": 9439,
-      "credit": 156510388,
+      "credit": 156796842,
       "team": 45032,
       "id": 132010172
     },
@@ -426,10 +426,10 @@
       "id": 38609
     },
     {
-      "wus": 2070,
+      "wus": 2071,
       "name": "JPRules",
       "rank": 24136,
-      "credit": 60134134,
+      "credit": 60260342,
       "team": 45032,
       "id": 104686529
     },
@@ -626,10 +626,10 @@
       "id": 82698889
     },
     {
-      "wus": 5503,
+      "wus": 5504,
       "name": "Siguenos",
       "rank": 19333,
-      "credit": 41076652,
+      "credit": 41080996,
       "team": 45032,
       "id": 89421608
     },
@@ -706,10 +706,10 @@
       "id": 73873037
     },
     {
-      "wus": 2166,
+      "wus": 2167,
       "name": "maximbaz",
       "rank": 37614,
-      "credit": 34647354,
+      "credit": 34649276,
       "team": 45032,
       "id": 73898514
     },
@@ -794,10 +794,10 @@
       "id": 68637453
     },
     {
-      "wus": 1362,
+      "wus": 1363,
       "name": "JPRules",
       "rank": 36614,
-      "credit": 32197199,
+      "credit": 32241267,
       "team": 45032,
       "id": 86271321
     },
@@ -1058,20 +1058,20 @@
       "id": 609860
     },
     {
+      "wus": 636,
+      "name": "Vicente_Villarroel",
+      "rank": 45400,
+      "credit": 21223888,
+      "team": 45032,
+      "id": 75696548
+    },
+    {
       "wus": 1464,
       "name": "Joel Sj�gren",
       "rank": 53650,
       "credit": 21178863,
       "team": 45032,
       "id": 348934
-    },
-    {
-      "wus": 635,
-      "name": "Vicente_Villarroel",
-      "rank": 45400,
-      "credit": 21112757,
-      "team": 45032,
-      "id": 75696548
     },
     {
       "wus": 237,
@@ -1362,10 +1362,10 @@
       "id": 110216
     },
     {
-      "wus": 678,
+      "wus": 679,
       "name": "Rossome",
       "rank": 66197,
-      "credit": 15417850,
+      "credit": 15438705,
       "team": 45032,
       "id": 1589128
     },
@@ -1378,10 +1378,10 @@
       "id": 116125274
     },
     {
-      "wus": 1979,
+      "wus": 1980,
       "name": "code59656",
       "rank": 67137,
-      "credit": 15000310,
+      "credit": 15019585,
       "team": 45032,
       "id": 68148342
     },
@@ -3138,10 +3138,10 @@
       "id": 195212
     },
     {
-      "wus": 1134,
+      "wus": 1135,
       "name": "Skrewloose",
       "rank": 143200,
-      "credit": 3695003,
+      "credit": 3696880,
       "team": 45032,
       "id": 1629989
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-01-22 14:16:22",
+  "last": "2021-01-22 14:36:23",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 17236254276,
+  "credit": 17236870410,
   "team": 45032,
   "path": "team/45032"
 }
