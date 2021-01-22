@@ -1,5 +1,5 @@
 {
-  "wus": 1719292,
+  "wus": 1719301,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26443,
+      "wus": 26445,
       "name": "UltraTech_Command",
       "rank": 1174,
-      "credit": 1103255306,
+      "credit": 1103328564,
       "team": 212997,
       "id": 112559
     },
@@ -50,10 +50,10 @@
       "id": 109627
     },
     {
-      "wus": 20007,
+      "wus": 20008,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 1982,
-      "credit": 725335935,
+      "credit": 725383089,
       "team": 212997,
       "id": 259906
     },
@@ -226,10 +226,10 @@
       "id": 192739
     },
     {
-      "wus": 2050,
+      "wus": 2052,
       "name": "DayBat",
       "rank": 11059,
-      "credit": 151179952,
+      "credit": 151519717,
       "team": 212997,
       "id": 68769379
     },
@@ -314,10 +314,10 @@
       "id": 190569
     },
     {
-      "wus": 3511,
+      "wus": 3512,
       "name": "IronyDragon",
       "rank": 17404,
-      "credit": 87121248,
+      "credit": 87123445,
       "team": 212997,
       "id": 279471
     },
@@ -466,10 +466,10 @@
       "id": 4317
     },
     {
-      "wus": 1863,
+      "wus": 1864,
       "name": "DavidSilver",
       "rank": 24995,
-      "credit": 59149588,
+      "credit": 59156000,
       "team": 212997,
       "id": 186466
     },
@@ -514,10 +514,10 @@
       "id": 138619
     },
     {
-      "wus": 2602,
+      "wus": 2603,
       "name": "CycloneDusk",
       "rank": 26664,
-      "credit": 54750064,
+      "credit": 54751164,
       "team": 212997,
       "id": 69005220
     },
@@ -2554,20 +2554,20 @@
       "id": 103975
     },
     {
+      "wus": 555,
+      "name": "SilverComet",
+      "rank": 152540,
+      "credit": 3237193,
+      "team": 212997,
+      "id": 146310
+    },
+    {
       "wus": 175,
       "name": "Ingwaz",
       "rank": 152305,
       "credit": 3225811,
       "team": 212997,
       "id": 581391
-    },
-    {
-      "wus": 554,
-      "name": "SilverComet",
-      "rank": 152540,
-      "credit": 3218874,
-      "team": 212997,
-      "id": 146310
     },
     {
       "wus": 812,
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-22 22:26:21",
+  "last": "2021-01-22 23:26:29",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28411521617,
+  "credit": 28412009822,
   "team": 212997,
   "path": "team/212997"
 }
