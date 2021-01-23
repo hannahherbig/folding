@@ -1,5 +1,5 @@
 {
-  "wus": 1360914,
+  "wus": 1360927,
   "donors": [
     {
       "wus": 33397,
@@ -202,10 +202,10 @@
       "id": 79174146
     },
     {
-      "wus": 11469,
+      "wus": 11470,
       "name": "GuyMartin",
       "rank": 12760,
-      "credit": 119014767,
+      "credit": 119079248,
       "team": 45032,
       "id": 1279891
     },
@@ -426,10 +426,10 @@
       "id": 38609
     },
     {
-      "wus": 2079,
+      "wus": 2080,
       "name": "JPRules",
       "rank": 24007,
-      "credit": 60555566,
+      "credit": 60561670,
       "team": 45032,
       "id": 104686529
     },
@@ -458,10 +458,10 @@
       "id": 262394
     },
     {
-      "wus": 1333,
+      "wus": 1334,
       "name": "JPRules",
       "rank": 23520,
-      "credit": 56555090,
+      "credit": 56708498,
       "team": 45032,
       "id": 86336648
     },
@@ -810,10 +810,10 @@
       "id": 139566846
     },
     {
-      "wus": 860,
+      "wus": 861,
       "name": "TemperanceFlare",
       "rank": 6488,
-      "credit": 32134518,
+      "credit": 32138239,
       "team": 45032,
       "id": 168831
     },
@@ -1282,20 +1282,20 @@
       "id": 67437248
     },
     {
+      "wus": 726,
+      "name": "Rossome",
+      "rank": 63738,
+      "credit": 16466044,
+      "team": 45032,
+      "id": 1589128
+    },
+    {
       "wus": 3342,
       "name": "socomsniperaj",
       "rank": 63260,
       "credit": 16443525,
       "team": 45032,
       "id": 140811
-    },
-    {
-      "wus": 724,
-      "name": "Rossome",
-      "rank": 63738,
-      "credit": 16429260,
-      "team": 45032,
-      "id": 1589128
     },
     {
       "wus": 821,
@@ -1754,10 +1754,10 @@
       "id": 314958
     },
     {
-      "wus": 1097,
+      "wus": 1098,
       "name": "Bierbraukessel",
       "rank": 82087,
-      "credit": 10781416,
+      "credit": 10797832,
       "team": 45032,
       "id": 68889139
     },
@@ -6930,10 +6930,10 @@
       "id": 64825770
     },
     {
-      "wus": 803,
+      "wus": 809,
       "name": "knightRider0xD",
       "rank": 281783,
-      "credit": 690698,
+      "credit": 690764,
       "team": 45032,
       "id": 124276891
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-01-23 05:16:29",
+  "last": "2021-01-23 05:46:30",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 17256654885,
+  "credit": 17256935865,
   "team": 45032,
   "path": "team/45032"
 }
