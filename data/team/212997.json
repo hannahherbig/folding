@@ -1,5 +1,5 @@
 {
-  "wus": 1719558,
+  "wus": 1719567,
   "donors": [
     {
       "wus": 85678,
@@ -74,10 +74,10 @@
       "id": 79012
     },
     {
-      "wus": 14379,
+      "wus": 14380,
       "name": "stevepoppers",
       "rank": 2630,
-      "credit": 573839535,
+      "credit": 573906023,
       "team": 212997,
       "id": 250480
     },
@@ -194,10 +194,10 @@
       "id": 336175
     },
     {
-      "wus": 7068,
+      "wus": 7069,
       "name": "benjamindjb",
       "rank": 10380,
-      "credit": 160614794,
+      "credit": 160620408,
       "team": 212997,
       "id": 163671
     },
@@ -234,10 +234,10 @@
       "id": 68769379
     },
     {
-      "wus": 4378,
+      "wus": 4380,
       "name": "Chronophaser",
       "rank": 11505,
-      "credit": 145068384,
+      "credit": 145139163,
       "team": 212997,
       "id": 69517169
     },
@@ -354,10 +354,10 @@
       "id": 179892
     },
     {
-      "wus": 1577,
+      "wus": 1578,
       "name": "Naga",
       "rank": 20510,
-      "credit": 74917896,
+      "credit": 74932768,
       "team": 212997,
       "id": 84291
     },
@@ -506,10 +506,10 @@
       "id": 62728
     },
     {
-      "wus": 2615,
+      "wus": 2616,
       "name": "CycloneDusk",
       "rank": 26554,
-      "credit": 55060780,
+      "credit": 55115180,
       "team": 212997,
       "id": 69005220
     },
@@ -1346,10 +1346,10 @@
       "id": 336201
     },
     {
-      "wus": 3805,
+      "wus": 3806,
       "name": "Zoomguy",
       "rank": 73067,
-      "credit": 13031682,
+      "credit": 13033782,
       "team": 212997,
       "id": 113839
     },
@@ -1962,20 +1962,20 @@
       "id": 72709762
     },
     {
+      "wus": 901,
+      "name": "shado_jaguar",
+      "rank": 103878,
+      "credit": 7044806,
+      "team": 212997,
+      "id": 184112
+    },
+    {
       "wus": 336,
       "name": "7-11WasAnInsideJob",
       "rank": 104192,
       "credit": 6994794,
       "team": 212997,
       "id": 334883
-    },
-    {
-      "wus": 900,
-      "name": "shado_jaguar",
-      "rank": 103878,
-      "credit": 6990406,
-      "team": 212997,
-      "id": 184112
     },
     {
       "wus": 1743,
@@ -2074,10 +2074,10 @@
       "id": 12483
     },
     {
-      "wus": 273,
+      "wus": 274,
       "name": "CZ_Brony",
       "rank": 108738,
-      "credit": 5892346,
+      "credit": 5946746,
       "team": 212997,
       "id": 426853387
     },
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-23 19:46:17",
+  "last": "2021-01-23 20:36:25",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28422196943,
+  "credit": 28422519996,
   "team": 212997,
   "path": "team/212997"
 }
