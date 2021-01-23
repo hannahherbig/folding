@@ -1,5 +1,5 @@
 {
-  "wus": 1719342,
+  "wus": 1719357,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26452,
+      "wus": 26454,
       "name": "UltraTech_Command",
       "rank": 1174,
-      "credit": 1103584663,
+      "credit": 1103643796,
       "team": 212997,
       "id": 112559
     },
@@ -130,10 +130,10 @@
       "id": 105137
     },
     {
-      "wus": 17680,
+      "wus": 17681,
       "name": "CowgirlKaboom",
       "rank": 6754,
-      "credit": 249241868,
+      "credit": 249290865,
       "team": 212997,
       "id": 259489
     },
@@ -146,10 +146,10 @@
       "id": 255406
     },
     {
-      "wus": 3167,
+      "wus": 3169,
       "name": "Blazingcurent",
       "rank": 7101,
-      "credit": 238020067,
+      "credit": 238046558,
       "team": 212997,
       "id": 72800445
     },
@@ -194,10 +194,10 @@
       "id": 336175
     },
     {
-      "wus": 7060,
+      "wus": 7061,
       "name": "benjamindjb",
       "rank": 10367,
-      "credit": 160569452,
+      "credit": 160574986,
       "team": 212997,
       "id": 163671
     },
@@ -242,10 +242,10 @@
       "id": 63557
     },
     {
-      "wus": 4365,
+      "wus": 4366,
       "name": "Chronophaser",
       "rank": 11548,
-      "credit": 144145020,
+      "credit": 144222763,
       "team": 212997,
       "id": 69517169
     },
@@ -466,10 +466,10 @@
       "id": 4317
     },
     {
-      "wus": 1865,
+      "wus": 1866,
       "name": "DavidSilver",
       "rank": 24938,
-      "credit": 59326383,
+      "credit": 59339342,
       "team": 212997,
       "id": 186466
     },
@@ -514,10 +514,10 @@
       "id": 138619
     },
     {
-      "wus": 2606,
+      "wus": 2607,
       "name": "CycloneDusk",
       "rank": 26620,
-      "credit": 54806470,
+      "credit": 54860870,
       "team": 212997,
       "id": 69005220
     },
@@ -1346,10 +1346,10 @@
       "id": 336201
     },
     {
-      "wus": 3802,
+      "wus": 3803,
       "name": "Zoomguy",
       "rank": 73049,
-      "credit": 13025382,
+      "credit": 13027482,
       "team": 212997,
       "id": 113839
     },
@@ -1850,6 +1850,14 @@
       "id": 335857
     },
     {
+      "wus": 563,
+      "name": "GondolaLikesToWalk",
+      "rank": 100455,
+      "credit": 7587292,
+      "team": 212997,
+      "id": 73380256
+    },
+    {
       "wus": 1066,
       "name": "mniip",
       "rank": 97054,
@@ -1864,14 +1872,6 @@
       "credit": 7531503,
       "team": 212997,
       "id": 171886
-    },
-    {
-      "wus": 561,
-      "name": "GondolaLikesToWalk",
-      "rank": 100455,
-      "credit": 7482454,
-      "team": 212997,
-      "id": 73380256
     },
     {
       "wus": 1876,
@@ -2154,10 +2154,10 @@
       "id": 240037
     },
     {
-      "wus": 265,
+      "wus": 266,
       "name": "DeanSimmons",
       "rank": 118485,
-      "credit": 5471469,
+      "credit": 5479371,
       "team": 212997,
       "id": 444175964
     },
@@ -2282,10 +2282,10 @@
       "id": 240499
     },
     {
-      "wus": 552,
+      "wus": 553,
       "name": "Lauri_P",
       "rank": 132340,
-      "credit": 4375929,
+      "credit": 4383137,
       "team": 212997,
       "id": 172442
     },
@@ -2354,6 +2354,14 @@
       "id": 181310253
     },
     {
+      "wus": 2338,
+      "name": "Astatine210",
+      "rank": 137644,
+      "credit": 4085425,
+      "team": 212997,
+      "id": 118970683
+    },
+    {
       "wus": 1116,
       "name": "Avian_Influenza",
       "rank": 135036,
@@ -2368,14 +2376,6 @@
       "credit": 4072374,
       "team": 212997,
       "id": 338273
-    },
-    {
-      "wus": 2337,
-      "name": "Astatine210",
-      "rank": 137644,
-      "credit": 4031025,
-      "team": 212997,
-      "id": 118970683
     },
     {
       "wus": 1389,
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-23 03:06:27",
+  "last": "2021-01-23 04:36:25",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28413416373,
+  "credit": 28413878078,
   "team": 212997,
   "path": "team/212997"
 }
