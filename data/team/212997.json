@@ -1,5 +1,5 @@
 {
-  "wus": 1719904,
+  "wus": 1719914,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26466,
+      "wus": 26468,
       "name": "UltraTech_Command",
       "rank": 1183,
-      "credit": 1104312713,
+      "credit": 1104497783,
       "team": 212997,
       "id": 112559
     },
@@ -130,10 +130,10 @@
       "id": 105137
     },
     {
-      "wus": 17687,
+      "wus": 17688,
       "name": "CowgirlKaboom",
       "rank": 6786,
-      "credit": 249325802,
+      "credit": 249374356,
       "team": 212997,
       "id": 259489
     },
@@ -426,10 +426,10 @@
       "id": 259861
     },
     {
-      "wus": 12196,
+      "wus": 12197,
       "name": "MkThundrwd",
       "rank": 21175,
-      "credit": 64557708,
+      "credit": 64566181,
       "team": 212997,
       "id": 106865
     },
@@ -522,10 +522,10 @@
       "id": 138619
     },
     {
-      "wus": 2479,
+      "wus": 2480,
       "name": "engiefox",
       "rank": 26386,
-      "credit": 54620521,
+      "credit": 54635068,
       "team": 212997,
       "id": 285744
     },
@@ -1338,10 +1338,10 @@
       "id": 349733
     },
     {
-      "wus": 1330,
+      "wus": 1331,
       "name": "MR_FAT_GOAT",
       "rank": 72595,
-      "credit": 13144971,
+      "credit": 13164246,
       "team": 212997,
       "id": 69944510
     },
@@ -1898,20 +1898,20 @@
       "id": 336423
     },
     {
+      "wus": 910,
+      "name": "shado_jaguar",
+      "rank": 101072,
+      "credit": 7445981,
+      "team": 212997,
+      "id": 184112
+    },
+    {
       "wus": 190,
       "name": "HoppyTiller",
       "rank": 101244,
       "credit": 7394151,
       "team": 212997,
       "id": 349810
-    },
-    {
-      "wus": 908,
-      "name": "shado_jaguar",
-      "rank": 101072,
-      "credit": 7372306,
-      "team": 212997,
-      "id": 184112
     },
     {
       "wus": 317,
@@ -2050,10 +2050,10 @@
       "id": 100491
     },
     {
-      "wus": 283,
+      "wus": 284,
       "name": "DeanSimmons",
       "rank": 112088,
-      "credit": 6111820,
+      "credit": 6114547,
       "team": 212997,
       "id": 444175964
     },
@@ -3098,10 +3098,10 @@
       "id": 353777
     },
     {
-      "wus": 5561,
+      "wus": 5562,
       "name": "Jay_Pereira",
       "rank": 168191,
-      "credit": 1983463,
+      "credit": 1983965,
       "team": 212997,
       "id": 375101
     },
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-24 22:26:25",
+  "last": "2021-01-24 22:56:29",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28443147809,
+  "credit": 28443500632,
   "team": 212997,
   "path": "team/212997"
 }
