@@ -1,5 +1,5 @@
 {
-  "wus": 1720141,
+  "wus": 1720154,
   "donors": [
     {
       "wus": 85678,
@@ -74,10 +74,10 @@
       "id": 79012
     },
     {
-      "wus": 14400,
+      "wus": 14401,
       "name": "stevepoppers",
       "rank": 2637,
-      "credit": 575052085,
+      "credit": 575063154,
       "team": 212997,
       "id": 250480
     },
@@ -194,10 +194,10 @@
       "id": 336175
     },
     {
-      "wus": 7093,
+      "wus": 7094,
       "name": "benjamindjb",
       "rank": 10408,
-      "credit": 160716318,
+      "credit": 160719843,
       "team": 212997,
       "id": 163671
     },
@@ -226,10 +226,10 @@
       "id": 192739
     },
     {
-      "wus": 2053,
+      "wus": 2054,
       "name": "DayBat",
       "rank": 11081,
-      "credit": 151524928,
+      "credit": 151643688,
       "team": 212997,
       "id": 68769379
     },
@@ -354,10 +354,10 @@
       "id": 179892
     },
     {
-      "wus": 1604,
+      "wus": 1605,
       "name": "Naga",
       "rank": 20424,
-      "credit": 75612519,
+      "credit": 75628202,
       "team": 212997,
       "id": 84291
     },
@@ -426,10 +426,10 @@
       "id": 259861
     },
     {
-      "wus": 12201,
+      "wus": 12202,
       "name": "MkThundrwd",
       "rank": 21182,
-      "credit": 64640133,
+      "credit": 64643856,
       "team": 212997,
       "id": 106865
     },
@@ -506,10 +506,10 @@
       "id": 62728
     },
     {
-      "wus": 2634,
+      "wus": 2635,
       "name": "CycloneDusk",
       "rank": 26350,
-      "credit": 55792980,
+      "credit": 55847380,
       "team": 212997,
       "id": 69005220
     },
@@ -522,10 +522,10 @@
       "id": 138619
     },
     {
-      "wus": 2490,
+      "wus": 2491,
       "name": "engiefox",
       "rank": 26353,
-      "credit": 54766446,
+      "credit": 54781112,
       "team": 212997,
       "id": 285744
     },
@@ -618,10 +618,10 @@
       "id": 34478
     },
     {
-      "wus": 2912,
+      "wus": 2913,
       "name": "Fusl",
       "rank": 31200,
-      "credit": 44889206,
+      "credit": 44892404,
       "team": 212997,
       "id": 102092
     },
@@ -658,10 +658,10 @@
       "id": 73548575
     },
     {
-      "wus": 6474,
+      "wus": 6475,
       "name": "TwistedKestrel",
       "rank": 33095,
-      "credit": 41687927,
+      "credit": 41691908,
       "team": 212997,
       "id": 112469
     },
@@ -770,10 +770,10 @@
       "id": 174419
     },
     {
-      "wus": 4173,
+      "wus": 4174,
       "name": "Bikerbob1016",
       "rank": 39254,
-      "credit": 32876081,
+      "credit": 32877331,
       "team": 212997,
       "id": 57894
     },
@@ -1314,10 +1314,10 @@
       "id": 184050
     },
     {
-      "wus": 1353,
+      "wus": 1354,
       "name": "MR_FAT_GOAT",
       "rank": 71546,
-      "credit": 13458345,
+      "credit": 13460445,
       "team": 212997,
       "id": 69944510
     },
@@ -1354,10 +1354,10 @@
       "id": 336201
     },
     {
-      "wus": 3814,
+      "wus": 3815,
       "name": "Zoomguy",
       "rank": 73116,
-      "credit": 13049582,
+      "credit": 13050832,
       "team": 212997,
       "id": 113839
     },
@@ -1522,20 +1522,20 @@
       "id": 176473
     },
     {
+      "wus": 560,
+      "name": "c",
+      "rank": 7265,
+      "credit": 10286308,
+      "team": 212997,
+      "id": 160896
+    },
+    {
       "wus": 6381,
       "name": "chaoszero64",
       "rank": 84417,
       "credit": 10255762,
       "team": 212997,
       "id": 4170
-    },
-    {
-      "wus": 559,
-      "name": "c",
-      "rank": 7265,
-      "credit": 10254955,
-      "team": 212997,
-      "id": 160896
     },
     {
       "wus": 357,
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-25 13:36:38",
+  "last": "2021-01-25 14:26:35",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28451804999,
+  "credit": 28452069957,
   "team": 212997,
   "path": "team/212997"
 }
