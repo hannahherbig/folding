@@ -1,5 +1,5 @@
 {
-  "wus": 1357624,
+  "wus": 1357644,
   "donors": [
     {
       "wus": 33397,
@@ -18,10 +18,10 @@
       "id": 11268
     },
     {
-      "wus": 4450,
+      "wus": 4453,
       "name": "icantthinkofaname",
       "rank": 2420,
-      "credit": 623916172,
+      "credit": 624524778,
       "team": 45032,
       "id": 76200050
     },
@@ -50,10 +50,10 @@
       "id": 195479
     },
     {
-      "wus": 1509,
+      "wus": 1510,
       "name": "Berdes",
       "rank": 3581,
-      "credit": 430733056,
+      "credit": 431008374,
       "team": 45032,
       "id": 2542
     },
@@ -130,10 +130,10 @@
       "id": 73957388
     },
     {
-      "wus": 60891,
+      "wus": 60892,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 160759396,
+      "credit": 160759883,
       "team": 45032,
       "id": 1437
     },
@@ -186,10 +186,10 @@
       "id": 73468023
     },
     {
-      "wus": 3522,
+      "wus": 3524,
       "name": "Manjaro_Ver_Ka",
       "rank": 12725,
-      "credit": 130354100,
+      "credit": 130531330,
       "team": 45032,
       "id": 79174146
     },
@@ -466,10 +466,10 @@
       "id": 86336648
     },
     {
-      "wus": 1168,
+      "wus": 1170,
       "name": "RasmusSteen",
       "rank": 26152,
-      "credit": 56484234,
+      "credit": 56520665,
       "team": 45032,
       "id": 400503878
     },
@@ -650,10 +650,10 @@
       "id": 21307
     },
     {
-      "wus": 5026,
+      "wus": 5027,
       "name": "NilsK",
       "rank": 34353,
-      "credit": 39184626,
+      "credit": 39189671,
       "team": 45032,
       "id": 18098
     },
@@ -1578,6 +1578,14 @@
       "id": 72687785
     },
     {
+      "wus": 1186,
+      "name": "Bierbraukessel",
+      "rank": 76306,
+      "credit": 12238476,
+      "team": 45032,
+      "id": 68889139
+    },
+    {
       "wus": 937,
       "name": "Wibbi",
       "rank": 76063,
@@ -1592,14 +1600,6 @@
       "credit": 12222174,
       "team": 45032,
       "id": 72454822
-    },
-    {
-      "wus": 1184,
-      "name": "Bierbraukessel",
-      "rank": 76306,
-      "credit": 12206123,
-      "team": 45032,
-      "id": 68889139
     },
     {
       "wus": 827,
@@ -3050,10 +3050,10 @@
       "id": 121187441
     },
     {
-      "wus": 719,
+      "wus": 720,
       "name": "Tonkybonky",
       "rank": 131841,
-      "credit": 3915585,
+      "credit": 3918917,
       "team": 45032,
       "id": 317900466
     },
@@ -3298,10 +3298,10 @@
       "id": 73318145
     },
     {
-      "wus": 697,
+      "wus": 698,
       "name": "dapingo",
       "rank": 130739,
-      "credit": 3472360,
+      "credit": 3474551,
       "team": 45032,
       "id": 72643961
     },
@@ -4234,10 +4234,10 @@
       "id": 250037
     },
     {
-      "wus": 3533,
+      "wus": 3537,
       "name": "Christian",
       "rank": 3456,
-      "credit": 2247634,
+      "credit": 2247684,
       "team": 45032,
       "id": 99276
     },
@@ -4698,6 +4698,14 @@
       "id": 130398
     },
     {
+      "wus": 115,
+      "name": "Centipede901",
+      "rank": 200564,
+      "credit": 1736255,
+      "team": 45032,
+      "id": 173044463
+    },
+    {
       "wus": 162,
       "name": "Anty150",
       "rank": 199722,
@@ -4720,14 +4728,6 @@
       "credit": 1716235,
       "team": 45032,
       "id": 158392
-    },
-    {
-      "wus": 114,
-      "name": "Centipede901",
-      "rank": 200564,
-      "credit": 1715755,
-      "team": 45032,
-      "id": 173044463
     },
     {
       "wus": 147,
@@ -7346,6 +7346,14 @@
       "id": 386046517
     },
     {
+      "wus": 17,
+      "name": "uCantHim",
+      "rank": 245670,
+      "credit": 573507,
+      "team": 45032,
+      "id": 68521722
+    },
+    {
       "wus": 928,
       "name": "courdesses",
       "rank": 301105,
@@ -7400,14 +7408,6 @@
       "credit": 564045,
       "team": 45032,
       "id": 63226631
-    },
-    {
-      "wus": 16,
-      "name": "uCantHim",
-      "rank": 245670,
-      "credit": 563607,
-      "team": 45032,
-      "id": 68521722
     },
     {
       "wus": 626,
@@ -8004,15 +8004,15 @@
   ],
   "rank": 82,
   "total_teams": 255913,
-  "active_50": 668,
+  "active_50": 669,
   "logo": "http://bbs.archlinux.org/img/titlelogo.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-01-26 19:16:40",
+  "last": "2021-01-26 20:06:27",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 17397724493,
+  "credit": 17398895936,
   "team": 45032,
   "path": "team/45032"
 }
