@@ -1,5 +1,5 @@
 {
-  "wus": 1720427,
+  "wus": 1720431,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26503,
+      "wus": 26505,
       "name": "UltraTech_Command",
       "rank": 1186,
-      "credit": 1106334072,
+      "credit": 1106557215,
       "team": 212997,
       "id": 112559
     },
@@ -498,20 +498,20 @@
       "id": 110122
     },
     {
+      "wus": 2640,
+      "name": "CycloneDusk",
+      "rank": 26321,
+      "credit": 56040980,
+      "team": 212997,
+      "id": 69005220
+    },
+    {
       "wus": 2229,
       "name": "MOONLiGHT",
       "rank": 5642,
       "credit": 56012239,
       "team": 212997,
       "id": 62728
-    },
-    {
-      "wus": 2639,
-      "name": "CycloneDusk",
-      "rank": 26321,
-      "credit": 55986580,
-      "team": 212997,
-      "id": 69005220
     },
     {
       "wus": 2507,
@@ -2026,10 +2026,10 @@
       "id": 444175964
     },
     {
-      "wus": 290,
+      "wus": 291,
       "name": "CZ_Brony",
       "rank": 104282,
-      "credit": 6435821,
+      "credit": 6490221,
       "team": 212997,
       "id": 426853387
     },
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-26 08:16:32",
+  "last": "2021-01-26 08:26:31",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28465847442,
+  "credit": 28466179385,
   "team": 212997,
   "path": "team/212997"
 }
