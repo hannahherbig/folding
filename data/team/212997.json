@@ -1,5 +1,5 @@
 {
-  "wus": 1720689,
+  "wus": 1720693,
   "donors": [
     {
       "wus": 85678,
@@ -338,10 +338,10 @@
       "id": 180468
     },
     {
-      "wus": 1630,
+      "wus": 1631,
       "name": "Naga",
       "rank": 20238,
-      "credit": 76642495,
+      "credit": 76694135,
       "team": 212997,
       "id": 84291
     },
@@ -514,10 +514,10 @@
       "id": 62728
     },
     {
-      "wus": 2537,
+      "wus": 2538,
       "name": "engiefox",
       "rank": 26172,
-      "credit": 55431966,
+      "credit": 55446179,
       "team": 212997,
       "id": 285744
     },
@@ -538,20 +538,20 @@
       "id": 334903
     },
     {
+      "wus": 1493,
+      "name": "thecoldeath",
+      "rank": 27868,
+      "credit": 52022675,
+      "team": 212997,
+      "id": 1677725
+    },
+    {
       "wus": 4456,
       "name": "9x18",
       "rank": 27959,
       "credit": 51916231,
       "team": 212997,
       "id": 182155
-    },
-    {
-      "wus": 1492,
-      "name": "thecoldeath",
-      "rank": 27868,
-      "credit": 51854261,
-      "team": 212997,
-      "id": 1677725
     },
     {
       "wus": 769,
@@ -602,10 +602,10 @@
       "id": 110703
     },
     {
-      "wus": 9302,
+      "wus": 9303,
       "name": "richfiles",
       "rank": 30907,
-      "credit": 45573866,
+      "credit": 45577905,
       "team": 212997,
       "id": 276171
     },
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-27 07:36:21",
+  "last": "2021-01-27 08:16:27",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28482347077,
+  "credit": 28482585383,
   "team": 212997,
   "path": "team/212997"
 }
