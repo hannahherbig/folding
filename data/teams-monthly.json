@@ -3,701 +3,701 @@
   "monthly": true,
   "results": [
     {
-      "wus": 742255,
-      "credit": 25528957026,
+      "wus": 744444,
+      "credit": 25609827660,
       "name": "Default (No team specified)",
       "rank": 1,
       "team": 0
     },
     {
-      "wus": 50402,
-      "credit": 10816877898,
+      "wus": 50527,
+      "credit": 10842119775,
       "name": "NVIDIA Corp",
       "rank": 2,
       "team": 259918
     },
     {
-      "wus": 171973,
-      "credit": 10559191080,
+      "wus": 172550,
+      "credit": 10599128337,
       "name": "LinusTechTips_Team",
       "rank": 3,
       "team": 223518
     },
     {
-      "wus": 66810,
-      "credit": 5848802274,
+      "wus": 67037,
+      "credit": 5872966372,
       "name": "Curecoin",
       "rank": 4,
       "team": 224497
     },
     {
-      "wus": 29119,
-      "credit": 3383498832,
+      "wus": 29229,
+      "credit": 3397998018,
       "name": "folding@evga",
       "rank": 5,
       "team": 111065
     },
     {
-      "wus": 19138,
-      "credit": 2799814364,
+      "wus": 19181,
+      "credit": 2806963011,
       "name": "SLAC",
       "rank": 6,
       "team": 243328
     },
     {
-      "wus": 40276,
-      "credit": 2128791684,
+      "wus": 40418,
+      "credit": 2135879471,
       "name": "PC Master Race - PCMR",
       "rank": 7,
       "team": 225605
     },
     {
-      "wus": 13708,
-      "credit": 1669555682,
+      "wus": 13771,
+      "credit": 1679143623,
       "name": "Hardware.no",
       "rank": 8,
       "team": 37651
     },
     {
-      "wus": 8543,
-      "credit": 1490301037,
+      "wus": 8579,
+      "credit": 1495860355,
       "name": "Element AI Inc",
       "rank": 9,
       "team": 245993
     },
     {
-      "wus": 13272,
-      "credit": 1392711388,
+      "wus": 13315,
+      "credit": 1397813047,
       "name": "Team AnandTech",
       "rank": 10,
       "team": 198
     },
     {
-      "wus": 10642,
-      "credit": 1322694751,
-      "name": "PC Games Hardware",
-      "rank": 11,
-      "team": 70335
-    },
-    {
-      "wus": 17941,
-      "credit": 1322143198,
+      "wus": 17996,
+      "credit": 1329077110,
       "name": "Alliance Francophone",
       "rank": 12,
       "team": 51
     },
     {
-      "wus": 25898,
-      "credit": 1297033848,
+      "wus": 10675,
+      "credit": 1328267821,
+      "name": "PC Games Hardware",
+      "rank": 11,
+      "team": 70335
+    },
+    {
+      "wus": 25969,
+      "credit": 1300952857,
       "name": "Heise Falter",
       "rank": 13,
       "team": 251999
     },
     {
-      "wus": 36310,
-      "credit": 1132549483,
+      "wus": 36414,
+      "credit": 1138069439,
       "name": "Intel",
       "rank": 14,
       "team": 711
     },
     {
-      "wus": 21216,
-      "credit": 1020911389,
+      "wus": 21275,
+      "credit": 1024292546,
       "name": "www.banano.cc",
       "rank": 15,
       "team": 234980
     },
     {
-      "wus": 11057,
-      "credit": 997276532,
+      "wus": 11088,
+      "credit": 1001130530,
       "name": "Taiwan Team",
       "rank": 16,
       "team": 31403
     },
     {
-      "wus": 13509,
-      "credit": 925949840,
+      "wus": 13550,
+      "credit": 930666957,
       "name": "Team 2ch",
       "rank": 17,
       "team": 162
     },
     {
-      "wus": 11430,
-      "credit": 877353750,
+      "wus": 11474,
+      "credit": 881612932,
       "name": "[H]ardOCP",
       "rank": 18,
       "team": 33
     },
     {
-      "wus": 15866,
-      "credit": 854186043,
+      "wus": 15922,
+      "credit": 856944103,
       "name": "Tom's Hardware",
       "rank": 19,
       "team": 40051
     },
     {
-      "wus": 3033,
-      "credit": 846050304,
+      "wus": 3045,
+      "credit": 849594144,
       "name": "gpus4good",
       "rank": 20,
       "team": 237712
     },
     {
-      "wus": 12326,
-      "credit": 810815914,
+      "wus": 12366,
+      "credit": 813743621,
       "name": "GamersNexus",
       "rank": 21,
       "team": 234771
     },
     {
-      "wus": 9668,
-      "credit": 808638574,
+      "wus": 9690,
+      "credit": 811056201,
       "name": "Compute Canada",
       "rank": 22,
       "team": 250396
     },
     {
-      "wus": 2515,
-      "credit": 782495892,
+      "wus": 2523,
+      "credit": 785031095,
       "name": "Megware Computer",
       "rank": 23,
       "team": 155780
     },
     {
-      "wus": 73350,
-      "credit": 762642170,
+      "wus": 73645,
+      "credit": 765794633,
       "name": "Theta Edge Compute",
       "rank": 24,
       "team": 268045
     },
     {
-      "wus": 9368,
-      "credit": 722781676,
+      "wus": 9384,
+      "credit": 724420408,
       "name": "www.overclockers.com",
       "rank": 25,
       "team": 32
     },
     {
-      "wus": 2975,
-      "credit": 718380672,
+      "wus": 2984,
+      "credit": 720543506,
       "name": "UC_Berkeley_EECS_Research",
       "rank": 26,
       "team": 255460
     },
     {
-      "wus": 4986,
-      "credit": 614571207,
+      "wus": 5002,
+      "credit": 617044971,
       "name": "Overclock.net",
       "rank": 27,
       "team": 37726
     },
     {
-      "wus": 2232,
-      "credit": 548308499,
+      "wus": 2241,
+      "credit": 550528737,
       "name": "NV-CRF",
       "rank": 28,
       "team": 253515
     },
     {
-      "wus": 6741,
-      "credit": 530026434,
+      "wus": 6774,
+      "credit": 533352449,
       "name": "China Folding@Home Power",
       "rank": 29,
       "team": 3213
     },
     {
-      "wus": 10086,
-      "credit": 527048484,
+      "wus": 10129,
+      "credit": 529792606,
       "name": "MicroCenterOfficial",
       "rank": 30,
       "team": 257944
     },
     {
-      "wus": 8135,
-      "credit": 508811407,
+      "wus": 8158,
+      "credit": 510961014,
       "name": "Atheists, Skeptics, & Humanists  -  ASH Folding",
       "rank": 31,
       "team": 182116
     },
     {
-      "wus": 6688,
-      "credit": 476461352,
+      "wus": 6711,
+      "credit": 477918179,
       "name": "Ingress_Enlightened_Jp",
       "rank": 32,
       "team": 257728
     },
     {
-      "wus": 5642,
-      "credit": 474839211,
+      "wus": 5670,
+      "credit": 476285293,
       "name": "r00t f0lds",
       "rank": 33,
       "team": 258829
     },
     {
-      "wus": 6286,
-      "credit": 467349772,
+      "wus": 6313,
+      "credit": 469081443,
       "name": "Maximum PC Magazine",
       "rank": 34,
       "team": 11108
     },
     {
-      "wus": 5482,
-      "credit": 435886104,
+      "wus": 5496,
+      "credit": 437283736,
       "name": "Custom PC & bit-tech",
       "rank": 35,
       "team": 35947
     },
     {
-      "wus": 9754,
-      "credit": 405216082,
+      "wus": 9784,
+      "credit": 406518577,
       "name": "Team Hack-a-Day",
       "rank": 36,
       "team": 44851
     },
     {
-      "wus": 1845,
-      "credit": 399723963,
+      "wus": 1846,
+      "credit": 399964846,
       "name": "EVL",
       "rank": 37,
       "team": 263148
     },
     {
-      "wus": 13081,
-      "credit": 385463686,
+      "wus": 13120,
+      "credit": 388830038,
       "name": "Rutgers, The State University of New Jersey",
       "rank": 39,
       "team": 86926
     },
     {
-      "wus": 16365,
-      "credit": 385384876,
+      "wus": 16403,
+      "credit": 386898522,
       "name": "VMware",
       "rank": 38,
       "team": 52737
     },
     {
-      "wus": 5732,
-      "credit": 377563483,
+      "wus": 5752,
+      "credit": 379064547,
       "name": "Microsoft",
       "rank": 40,
       "team": 999
     },
     {
-      "wus": 2550,
-      "credit": 352344542,
+      "wus": 2559,
+      "credit": 354074548,
       "name": "TechPowerup!",
       "rank": 41,
       "team": 50711
     },
     {
-      "wus": 7022,
-      "credit": 344441667,
+      "wus": 7054,
+      "credit": 346300263,
       "name": "ASRockMania",
       "rank": 42,
       "team": 252872
     },
     {
-      "wus": 6019,
-      "credit": 342049369,
+      "wus": 6036,
+      "credit": 343512318,
       "name": "Dutch Power Cows",
       "rank": 43,
       "team": 92
     },
     {
-      "wus": 18310,
-      "credit": 334393750,
+      "wus": 18373,
+      "credit": 335468699,
       "name": "Yoshida Manufacturing",
       "rank": 44,
       "team": 254402
     },
     {
-      "wus": 5814,
-      "credit": 315350903,
+      "wus": 5839,
+      "credit": 317269574,
       "name": "Folding@SweClockers.com",
       "rank": 45,
       "team": 37451
     },
     {
-      "wus": 4472,
-      "credit": 313835807,
+      "wus": 4483,
+      "credit": 314601463,
       "name": "City of Heroes: Homecoming",
       "rank": 46,
       "team": 243287
     },
     {
-      "wus": 5607,
-      "credit": 305075298,
+      "wus": 5621,
+      "credit": 305657585,
       "name": "Ars Technica Team Egg Roll",
       "rank": 47,
       "team": 14
     },
     {
-      "wus": 1512,
-      "credit": 299499123,
+      "wus": 1519,
+      "credit": 300700156,
       "name": "OracleHPC",
       "rank": 48,
       "team": 242705
     },
     {
-      "wus": 6255,
-      "credit": 299045930,
+      "wus": 6263,
+      "credit": 299289575,
       "name": "TSC! Russia",
       "rank": 49,
       "team": 47191
     },
     {
-      "wus": 2999,
-      "credit": 296678163,
+      "wus": 3005,
+      "credit": 296932483,
       "name": "AWSFolds",
       "rank": 50,
       "team": 238068
     },
     {
-      "wus": 5670,
-      "credit": 293941930,
+      "wus": 5682,
+      "credit": 294753676,
       "name": "Reddit",
       "rank": 51,
       "team": 50959
     },
     {
-      "wus": 22312,
-      "credit": 290631466,
+      "wus": 22366,
+      "credit": 291722999,
       "name": "Deutsche Telekom AG",
       "rank": 52,
       "team": 249367
     },
     {
-      "wus": 3165,
-      "credit": 289543290,
+      "wus": 3175,
+      "credit": 290575300,
       "name": "TechBBS",
       "rank": 53,
       "team": 231988
     },
     {
-      "wus": 1427,
-      "credit": 283248024,
+      "wus": 1430,
+      "credit": 284096337,
       "name": "Leibniz-Uni-Hannover",
       "rank": 54,
       "team": 127907
     },
     {
-      "wus": 4148,
-      "credit": 279211048,
+      "wus": 4165,
+      "credit": 279726696,
       "name": "Barnacules Nerdgasm",
       "rank": 55,
       "team": 231300
     },
     {
-      "wus": 59687,
-      "credit": 272751162,
+      "wus": 59804,
+      "credit": 273714054,
       "name": "Aniplex",
       "rank": 56,
       "team": 261481
     },
     {
-      "wus": 4059,
-      "credit": 258160992,
+      "wus": 4074,
+      "credit": 259305062,
       "name": "Pleasuredome Community",
       "rank": 57,
       "team": 86565
     },
     {
-      "wus": 5524,
-      "credit": 254026202,
+      "wus": 5551,
+      "credit": 254840862,
       "name": "homelab",
       "rank": 58,
       "team": 229500
     },
     {
-      "wus": 2869,
-      "credit": 252768327,
+      "wus": 2881,
+      "credit": 253634774,
       "name": "Dell Computer Corporation",
       "rank": 59,
       "team": 1739
     },
     {
-      "wus": 3132,
-      "credit": 248049847,
+      "wus": 3138,
+      "credit": 248277340,
       "name": "BBCNI",
       "rank": 60,
       "team": 265163
     },
     {
-      "wus": 1115,
-      "credit": 239528693,
+      "wus": 1120,
+      "credit": 240627426,
       "name": "CmpTIR",
       "rank": 61,
       "team": 261416
     },
     {
-      "wus": 4402,
-      "credit": 230844405,
+      "wus": 4418,
+      "credit": 231698712,
       "name": "Team UnRAID",
       "rank": 62,
       "team": 227802
     },
     {
-      "wus": 6391,
-      "credit": 223925625,
+      "wus": 6411,
+      "credit": 224598177,
       "name": "COVID19@REDDIT",
       "rank": 63,
       "team": 236269
     },
     {
-      "wus": 9479,
-      "credit": 222348911,
+      "wus": 9514,
+      "credit": 223062919,
       "name": "Pande Lab",
       "rank": 64,
       "team": 1
     },
     {
-      "wus": 3960,
-      "credit": 216353222,
+      "wus": 3976,
+      "credit": 217274555,
       "name": "SAGoons",
       "rank": 65,
       "team": 150
     },
     {
-      "wus": 3139,
-      "credit": 211468121,
+      "wus": 3151,
+      "credit": 212357151,
       "name": "Overclockers Australia",
       "rank": 66,
       "team": 24
     },
     {
-      "wus": 1152,
-      "credit": 205900910,
+      "wus": 1155,
+      "credit": 206345267,
       "name": "PROGEN Kft.",
       "rank": 67,
       "team": 240228
     },
     {
-      "wus": 5016,
-      "credit": 200835274,
+      "wus": 5022,
+      "credit": 201085166,
       "name": "Arizona Research Computing",
       "rank": 68,
       "team": 239945
     },
     {
-      "wus": 2130,
-      "credit": 195939472,
+      "wus": 2137,
+      "credit": 196454862,
       "name": "SQLFamily",
       "rank": 69,
       "team": 236388
     },
     {
-      "wus": 18330,
-      "credit": 191165762,
-      "name": "Jump Trading",
-      "rank": 70,
-      "team": 257579
-    },
-    {
-      "wus": 1569,
-      "credit": 190896561,
+      "wus": 1577,
+      "credit": 191971825,
       "name": "Folding@Toyota",
       "rank": 71,
       "team": 260900
     },
     {
-      "wus": 3960,
-      "credit": 189447585,
+      "wus": 18333,
+      "credit": 191292471,
+      "name": "Jump Trading",
+      "rank": 70,
+      "team": 257579
+    },
+    {
+      "wus": 3972,
+      "credit": 190104863,
       "name": "My_PlayHouse",
       "rank": 72,
       "team": 262701
     },
     {
-      "wus": 2795,
-      "credit": 186889377,
-      "name": "HCA Healthcare Volunteers",
-      "rank": 73,
-      "team": 246129
-    },
-    {
-      "wus": 4029,
-      "credit": 186784043,
+      "wus": 4046,
+      "credit": 187944612,
       "name": "Arch Linux",
       "rank": 74,
       "team": 45032
     },
     {
-      "wus": 3251,
-      "credit": 178458731,
+      "wus": 2803,
+      "credit": 187454394,
+      "name": "HCA Healthcare Volunteers",
+      "rank": 73,
+      "team": 246129
+    },
+    {
+      "wus": 3262,
+      "credit": 179631075,
       "name": "Good Day Internet",
       "rank": 75,
       "team": 261830
     },
     {
-      "wus": 1787,
-      "credit": 174014545,
+      "wus": 1795,
+      "credit": 174750071,
       "name": "Lucent Laboratory",
       "rank": 76,
       "team": 226665
     },
     {
-      "wus": 948,
-      "credit": 172674849,
+      "wus": 953,
+      "credit": 173722865,
       "name": "Warp9-systems",
       "rank": 77,
       "team": 234770
     },
     {
-      "wus": 797,
-      "credit": 165335627,
+      "wus": 802,
+      "credit": 166333557,
       "name": "Bechtle",
       "rank": 78,
       "team": 244062
     },
     {
-      "wus": 3190,
-      "credit": 161291840,
+      "wus": 3198,
+      "credit": 161397143,
       "name": "Rechenkraft.net - Germany",
       "rank": 80,
       "team": 3
     },
     {
-      "wus": 22073,
-      "credit": 160501709,
-      "name": "Team SAP",
-      "rank": 79,
-      "team": 229957
-    },
-    {
-      "wus": 822,
-      "credit": 160209298,
+      "wus": 827,
+      "credit": 161172164,
       "name": "SSIC",
       "rank": 82,
       "team": 254056
     },
     {
-      "wus": 2230,
-      "credit": 158643041,
+      "wus": 22078,
+      "credit": 160599318,
+      "name": "Team SAP",
+      "rank": 79,
+      "team": 229957
+    },
+    {
+      "wus": 2246,
+      "credit": 159018797,
       "name": "Helmholtz",
       "rank": 81,
       "team": 258351
     },
     {
-      "wus": 873,
-      "credit": 152268258,
+      "wus": 877,
+      "credit": 152835602,
       "name": "LIE (Lepers of Information Exchange)",
       "rank": 83,
       "team": 262711
     },
     {
-      "wus": 1389,
-      "credit": 148590609,
+      "wus": 1399,
+      "credit": 149602524,
       "name": "Nuclear Wessels",
       "rank": 87,
       "team": 54345
     },
     {
-      "wus": 4563,
-      "credit": 148580980,
-      "name": "CTU in Prague",
-      "rank": 86,
-      "team": 252064
-    },
-    {
-      "wus": 1788,
-      "credit": 148545090,
-      "name": "HKEPC",
-      "rank": 84,
-      "team": 41751
-    },
-    {
-      "wus": 3734,
-      "credit": 148524980,
+      "wus": 3747,
+      "credit": 149568866,
       "name": "DSL Reports Team Helix",
       "rank": 85,
       "team": 4
     },
     {
-      "wus": 6176,
-      "credit": 148267881,
+      "wus": 1792,
+      "credit": 149093949,
+      "name": "HKEPC",
+      "rank": 84,
+      "team": 41751
+    },
+    {
+      "wus": 4568,
+      "credit": 148848140,
+      "name": "CTU in Prague",
+      "rank": 86,
+      "team": 252064
+    },
+    {
+      "wus": 6185,
+      "credit": 148580671,
       "name": "BarbecueGuys",
       "rank": 88,
       "team": 265673
     },
     {
-      "wus": 2332,
-      "credit": 146949178,
+      "wus": 2340,
+      "credit": 147560056,
       "name": "TeamUbuntu",
       "rank": 89,
       "team": 45104
     },
     {
-      "wus": 2043,
-      "credit": 146556765,
+      "wus": 2053,
+      "credit": 147265562,
       "name": "ar15.com",
       "rank": 90,
       "team": 40965
     },
     {
-      "wus": 728,
-      "credit": 144626805,
+      "wus": 732,
+      "credit": 145529910,
       "name": "TeamDon",
       "rank": 92,
       "team": 237601
     },
     {
-      "wus": 635,
-      "credit": 144167590,
+      "wus": 638,
+      "credit": 144461568,
       "name": "TreidonMusicGroup",
       "rank": 91,
       "team": 243384
     },
     {
-      "wus": 2356,
-      "credit": 136354702,
+      "wus": 2371,
+      "credit": 136994617,
       "name": "Clarkson 4 A CUre",
       "rank": 93,
       "team": 59515
     },
     {
-      "wus": 3598,
-      "credit": 134544853,
+      "wus": 3610,
+      "credit": 135062714,
       "name": "Canada",
       "rank": 94,
       "team": 10987
     },
     {
-      "wus": 4727,
-      "credit": 133530739,
+      "wus": 4744,
+      "credit": 134155891,
       "name": "Pioneer Natural Resources",
       "rank": 95,
       "team": 258837
     },
     {
-      "wus": 6230,
-      "credit": 128431782,
+      "wus": 6251,
+      "credit": 128911737,
       "name": "Washington University in St. Louis",
       "rank": 96,
       "team": 40211
     },
     {
-      "wus": 640,
-      "credit": 127865209,
+      "wus": 643,
+      "credit": 128791369,
       "name": "FOK!forum",
       "rank": 97,
       "team": 247522
     },
     {
-      "wus": 889,
-      "credit": 126205372,
+      "wus": 891,
+      "credit": 126736371,
       "name": "The Shroomery",
       "rank": 100,
       "team": 12679
     },
     {
-      "wus": 1829,
-      "credit": 125975800,
+      "wus": 1833,
+      "credit": 126588528,
       "name": "iomart",
       "rank": 99,
       "team": 240216
     },
     {
-      "wus": 4794,
-      "credit": 125785776,
+      "wus": 4806,
+      "credit": 126583601,
       "name": "Hermitcraft",
       "rank": 98,
       "team": 259009
