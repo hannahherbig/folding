@@ -1,5 +1,5 @@
 {
-  "wus": 1720895,
+  "wus": 1720899,
   "donors": [
     {
       "wus": 85678,
@@ -226,10 +226,10 @@
       "id": 336302
     },
     {
-      "wus": 4474,
+      "wus": 4475,
       "name": "Chronophaser",
       "rank": 11011,
-      "credit": 153616079,
+      "credit": 153755996,
       "team": 212997,
       "id": 69517169
     },
@@ -338,10 +338,10 @@
       "id": 180468
     },
     {
-      "wus": 1646,
+      "wus": 1647,
       "name": "Naga",
       "rank": 20172,
-      "credit": 77133478,
+      "credit": 77148795,
       "team": 212997,
       "id": 84291
     },
@@ -450,10 +450,10 @@
       "id": 108167
     },
     {
-      "wus": 1902,
+      "wus": 1903,
       "name": "DavidSilver",
       "rank": 24431,
-      "credit": 61533295,
+      "credit": 61536612,
       "team": 212997,
       "id": 186466
     },
@@ -3058,6 +3058,14 @@
       "id": 186491
     },
     {
+      "wus": 46,
+      "name": "Zack!",
+      "rank": 192293,
+      "credit": 2045633,
+      "team": 212997,
+      "id": 448690171
+    },
+    {
       "wus": 958,
       "name": "McKye_Carter",
       "rank": 187093,
@@ -3160,14 +3168,6 @@
       "credit": 1910197,
       "team": 212997,
       "id": 799259
-    },
-    {
-      "wus": 45,
-      "name": "Zack!",
-      "rank": 192293,
-      "credit": 1905988,
-      "team": 212997,
-      "id": 448690171
     },
     {
       "wus": 269,
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-28 01:56:34",
+  "last": "2021-01-28 02:26:28",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28496714823,
+  "credit": 28497013019,
   "team": 212997,
   "path": "team/212997"
 }
