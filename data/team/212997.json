@@ -1,5 +1,5 @@
 {
-  "wus": 1720960,
+  "wus": 1720964,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26549,
+      "wus": 26550,
       "name": "UltraTech_Command",
       "rank": 1186,
-      "credit": 1109311304,
+      "credit": 1109325166,
       "team": 212997,
       "id": 112559
     },
@@ -106,10 +106,10 @@
       "id": 25596
     },
     {
-      "wus": 11320,
+      "wus": 11321,
       "name": "Spazturtle",
       "rank": 3366,
-      "credit": 467049875,
+      "credit": 467125929,
       "team": 212997,
       "id": 110967
     },
@@ -210,10 +210,10 @@
       "id": 68769379
     },
     {
-      "wus": 7117,
+      "wus": 7118,
       "name": "benjamindjb",
       "rank": 10460,
-      "credit": 160804680,
+      "credit": 160808776,
       "team": 212997,
       "id": 163671
     },
@@ -226,10 +226,10 @@
       "id": 336302
     },
     {
-      "wus": 4478,
+      "wus": 4479,
       "name": "Chronophaser",
       "rank": 10995,
-      "credit": 154155977,
+      "credit": 154204357,
       "team": 212997,
       "id": 69517169
     },
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-28 08:26:38",
+  "last": "2021-01-28 08:46:41",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28501593286,
+  "credit": 28501735678,
   "team": 212997,
   "path": "team/212997"
 }
