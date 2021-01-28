@@ -1,12 +1,12 @@
 {
-  "wus": 773,
+  "wus": 774,
   "rank": 36559,
   "active_50": 4,
   "path": "donor/andrew12",
   "wus_cert": "https://apps.foldingathome.org/awards?user=129494&type=wus",
   "id": 129494,
   "credit_cert": "https://apps.foldingathome.org/awards?user=129494&type=score",
-  "last": "2021-01-28 13:16:39",
+  "last": "2021-01-28 16:36:31",
   "name": "andrew12",
   "teams": [
     {
@@ -37,12 +37,12 @@
       "name": "Brony@Home"
     },
     {
-      "wus": 441,
-      "last": "2021-01-28 13:16:39",
+      "wus": 442,
+      "last": "2021-01-28 16:36:31",
       "uid": 129494,
       "active_50": 4,
       "active_7": 2,
-      "credit": 33867798,
+      "credit": 33974439,
       "team": 45032,
       "name": "Arch Linux"
     },
@@ -66,5 +66,5 @@
     }
   ],
   "active_7": 2,
-  "credit": 36659880
+  "credit": 36766521
 }
