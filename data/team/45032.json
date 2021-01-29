@@ -1,5 +1,5 @@
 {
-  "wus": 1358867,
+  "wus": 1358883,
   "donors": [
     {
       "wus": 33397,
@@ -18,10 +18,10 @@
       "id": 11268
     },
     {
-      "wus": 4520,
+      "wus": 4521,
       "name": "icantthinkofaname",
       "rank": 2354,
-      "credit": 641176272,
+      "credit": 641406505,
       "team": 45032,
       "id": 76200050
     },
@@ -98,18 +98,18 @@
       "id": 772799
     },
     {
-      "wus": 3327,
+      "wus": 3328,
       "name": "zuckeenee",
       "rank": 9008,
-      "credit": 191107766,
+      "credit": 191290659,
       "team": 45032,
       "id": 67298257
     },
     {
-      "wus": 1422,
+      "wus": 1424,
       "name": "jose.angel.soler.ortiz",
       "rank": 8518,
-      "credit": 179140449,
+      "credit": 179464029,
       "team": 45032,
       "id": 132010172
     },
@@ -130,10 +130,10 @@
       "id": 73957388
     },
     {
-      "wus": 60994,
+      "wus": 60996,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 161726529,
+      "credit": 161727466,
       "team": 45032,
       "id": 1437
     },
@@ -346,10 +346,10 @@
       "id": 141514
     },
     {
-      "wus": 4577,
+      "wus": 4578,
       "name": "Merlock",
       "rank": 21997,
-      "credit": 69880986,
+      "credit": 69973412,
       "team": 45032,
       "id": 1448013
     },
@@ -450,10 +450,10 @@
       "id": 250140
     },
     {
-      "wus": 1219,
+      "wus": 1221,
       "name": "RasmusSteen",
       "rank": 25482,
-      "credit": 58469437,
+      "credit": 58553339,
       "team": 45032,
       "id": 400503878
     },
@@ -706,10 +706,10 @@
       "id": 111878
     },
     {
-      "wus": 1960,
+      "wus": 1962,
       "name": "DMC",
       "rank": 34129,
-      "credit": 35392974,
+      "credit": 35441945,
       "team": 45032,
       "id": 396535
     },
@@ -1626,10 +1626,10 @@
       "id": 68845496
     },
     {
-      "wus": 3976,
+      "wus": 3977,
       "name": "fuha",
       "rank": 77031,
-      "credit": 12032344,
+      "credit": 12032831,
       "team": 45032,
       "id": 68880952
     },
@@ -2938,10 +2938,10 @@
       "id": 94209549
     },
     {
-      "wus": 736,
+      "wus": 737,
       "name": "carneeki",
       "rank": 135218,
-      "credit": 4212523,
+      "credit": 4216098,
       "team": 45032,
       "id": 340023274
     },
@@ -3218,6 +3218,14 @@
       "id": 68810652
     },
     {
+      "wus": 3367,
+      "name": "oldrocker99",
+      "rank": 146383,
+      "credit": 3608429,
+      "team": 45032,
+      "id": 685449
+    },
+    {
       "wus": 917,
       "name": "moars42",
       "rank": 145399,
@@ -3240,14 +3248,6 @@
       "credit": 3563088,
       "team": 45032,
       "id": 407360379
-    },
-    {
-      "wus": 3366,
-      "name": "oldrocker99",
-      "rank": 146383,
-      "credit": 3554029,
-      "team": 45032,
-      "id": 685449
     },
     {
       "wus": 917,
@@ -3410,20 +3410,20 @@
       "id": 101729759
     },
     {
+      "wus": 773,
+      "name": "chluna",
+      "rank": 150488,
+      "credit": 3347214,
+      "team": 45032,
+      "id": 304703684
+    },
+    {
       "wus": 715,
       "name": "mental32",
       "rank": 150363,
       "credit": 3345210,
       "team": 45032,
       "id": 381853742
-    },
-    {
-      "wus": 772,
-      "name": "chluna",
-      "rank": 150488,
-      "credit": 3343767,
-      "team": 45032,
-      "id": 304703684
     },
     {
       "wus": 2767,
@@ -7402,6 +7402,14 @@
       "id": 176484
     },
     {
+      "wus": 160,
+      "name": "INeedMana",
+      "rank": 314383,
+      "credit": 568678,
+      "team": 45032,
+      "id": 391526981
+    },
+    {
       "wus": 51,
       "name": "auguzanellato",
       "rank": 289515,
@@ -7448,14 +7456,6 @@
       "credit": 558988,
       "team": 45032,
       "id": 368754
-    },
-    {
-      "wus": 159,
-      "name": "INeedMana",
-      "rank": 314383,
-      "credit": 558778,
-      "team": 45032,
-      "id": 391526981
     },
     {
       "wus": 616,
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-01-29 05:06:37",
+  "last": "2021-01-29 05:46:40",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 17481276607,
+  "credit": 17482311358,
   "team": 45032,
   "path": "team/45032"
 }
