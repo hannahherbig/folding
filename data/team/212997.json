@@ -1,5 +1,5 @@
 {
-  "wus": 1721388,
+  "wus": 1721403,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26577,
+      "wus": 26578,
       "name": "UltraTech_Command",
       "rank": 1186,
-      "credit": 1111479149,
+      "credit": 1111509308,
       "team": 212997,
       "id": 112559
     },
@@ -50,10 +50,10 @@
       "id": 109627
     },
     {
-      "wus": 20066,
+      "wus": 20068,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 2004,
-      "credit": 729943093,
+      "credit": 730145218,
       "team": 212997,
       "id": 259906
     },
@@ -218,10 +218,10 @@
       "id": 163671
     },
     {
-      "wus": 4507,
+      "wus": 4510,
       "name": "Chronophaser",
       "rank": 10805,
-      "credit": 157804703,
+      "credit": 157962488,
       "team": 212997,
       "id": 69517169
     },
@@ -338,10 +338,10 @@
       "id": 180468
     },
     {
-      "wus": 1675,
+      "wus": 1676,
       "name": "Naga",
       "rank": 19995,
-      "credit": 78284743,
+      "credit": 78300147,
       "team": 212997,
       "id": 84291
     },
@@ -442,10 +442,10 @@
       "id": 108642
     },
     {
-      "wus": 1915,
+      "wus": 1916,
       "name": "DavidSilver",
       "rank": 24186,
-      "credit": 62356798,
+      "credit": 62362625,
       "team": 212997,
       "id": 186466
     },
@@ -474,10 +474,10 @@
       "id": 4317
     },
     {
-      "wus": 2900,
+      "wus": 2901,
       "name": "WindShear",
       "rank": 22658,
-      "credit": 57335162,
+      "credit": 57338110,
       "team": 212997,
       "id": 1736648
     },
@@ -498,10 +498,10 @@
       "id": 110122
     },
     {
-      "wus": 2660,
+      "wus": 2661,
       "name": "CycloneDusk",
       "rank": 26173,
-      "credit": 56695308,
+      "credit": 56749708,
       "team": 212997,
       "id": 69005220
     },
@@ -778,10 +778,10 @@
       "id": 57894
     },
     {
-      "wus": 2435,
+      "wus": 2436,
       "name": "Zosimos",
       "rank": 39689,
-      "credit": 32749375,
+      "credit": 32801787,
       "team": 212997,
       "id": 347284
     },
@@ -1730,10 +1730,10 @@
       "id": 22904734
     },
     {
-      "wus": 614,
+      "wus": 615,
       "name": "GondolaLikesToWalk",
       "rank": 91476,
-      "credit": 8953615,
+      "credit": 8956485,
       "team": 212997,
       "id": 73380256
     },
@@ -2162,10 +2162,10 @@
       "id": 240037
     },
     {
-      "wus": 2376,
+      "wus": 2377,
       "name": "Astatine210",
       "rank": 119380,
-      "credit": 5434086,
+      "credit": 5488486,
       "team": 212997,
       "id": 118970683
     },
@@ -2426,10 +2426,10 @@
       "id": 177349
     },
     {
-      "wus": 582,
+      "wus": 583,
       "name": "SilverComet",
       "rank": 142172,
-      "credit": 3790408,
+      "credit": 3808452,
       "team": 212997,
       "id": 146310
     },
@@ -3394,6 +3394,14 @@
       "id": 264471
     },
     {
+      "wus": 122,
+      "name": "SXRXE",
+      "rank": 209458,
+      "credit": 1597209,
+      "team": 212997,
+      "id": 371902
+    },
+    {
       "wus": 34,
       "name": "Twiman",
       "rank": 207919,
@@ -3432,14 +3440,6 @@
       "credit": 1554948,
       "team": 212997,
       "id": 196683
-    },
-    {
-      "wus": 121,
-      "name": "SXRXE",
-      "rank": 209458,
-      "credit": 1546174,
-      "team": 212997,
-      "id": 371902
     },
     {
       "wus": 78,
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-01-30 00:36:35",
+  "last": "2021-01-30 01:56:37",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28530984040,
+  "credit": 28531631449,
   "team": 212997,
   "path": "team/212997"
 }
