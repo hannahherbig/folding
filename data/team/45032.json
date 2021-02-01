@@ -1,5 +1,5 @@
 {
-  "wus": 1360654,
+  "wus": 1360659,
   "donors": [
     {
       "wus": 33397,
@@ -74,10 +74,10 @@
       "id": 72785058
     },
     {
-      "wus": 1960,
+      "wus": 1961,
       "name": "dave923875",
       "rank": 6052,
-      "credit": 279507191,
+      "credit": 279692749,
       "team": 45032,
       "id": 76217855
     },
@@ -202,18 +202,18 @@
       "id": 263445
     },
     {
-      "wus": 11565,
+      "wus": 11566,
       "name": "GuyMartin",
       "rank": 12725,
-      "credit": 122229525,
+      "credit": 122294794,
       "team": 45032,
       "id": 1279891
     },
     {
-      "wus": 4740,
+      "wus": 4741,
       "name": "Marcus_Mietz",
       "rank": 13895,
-      "credit": 120075031,
+      "credit": 120141073,
       "team": 45032,
       "id": 69174608
     },
@@ -514,10 +514,10 @@
       "id": 66803087
     },
     {
-      "wus": 2458,
+      "wus": 2459,
       "name": "curtispf",
       "rank": 27091,
-      "credit": 54487513,
+      "credit": 54636515,
       "team": 45032,
       "id": 69868369
     },
@@ -706,10 +706,10 @@
       "id": 88677826
     },
     {
-      "wus": 2260,
+      "wus": 2261,
       "name": "maximbaz",
       "rank": 36714,
-      "credit": 36416641,
+      "credit": 36417785,
       "team": 45032,
       "id": 73898514
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-02-01 08:17:01",
+  "last": "2021-02-01 08:36:44",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 17595693736,
+  "credit": 17596160751,
   "team": 45032,
   "path": "team/45032"
 }
