@@ -1,5 +1,5 @@
 {
-  "wus": 1360685,
+  "wus": 1360697,
   "donors": [
     {
       "wus": 33397,
@@ -50,10 +50,10 @@
       "id": 195479
     },
     {
-      "wus": 1566,
+      "wus": 1567,
       "name": "Berdes",
       "rank": 3521,
-      "credit": 443567359,
+      "credit": 443845289,
       "team": 45032,
       "id": 2542
     },
@@ -210,10 +210,10 @@
       "id": 1279891
     },
     {
-      "wus": 4741,
+      "wus": 4742,
       "name": "Marcus_Mietz",
       "rank": 13887,
-      "credit": 120141073,
+      "credit": 120205318,
       "team": 45032,
       "id": 69174608
     },
@@ -266,10 +266,10 @@
       "id": 69012313
     },
     {
-      "wus": 2447,
+      "wus": 2448,
       "name": "marciosr",
       "rank": 17331,
-      "credit": 93717044,
+      "credit": 93797711,
       "team": 45032,
       "id": 68323486
     },
@@ -642,10 +642,10 @@
       "id": 12279
     },
     {
-      "wus": 497,
+      "wus": 498,
       "name": "Joname",
       "rank": 15916,
-      "credit": 40658629,
+      "credit": 40765947,
       "team": 45032,
       "id": 90992522
     },
@@ -682,10 +682,10 @@
       "id": 70419663
     },
     {
-      "wus": 464,
+      "wus": 465,
       "name": "andrew12",
       "rank": 34145,
-      "credit": 37597284,
+      "credit": 37644747,
       "team": 45032,
       "id": 129494
     },
@@ -706,10 +706,10 @@
       "id": 88677826
     },
     {
-      "wus": 2261,
+      "wus": 2262,
       "name": "maximbaz",
       "rank": 36716,
-      "credit": 36417785,
+      "credit": 36421059,
       "team": 45032,
       "id": 73898514
     },
@@ -722,10 +722,10 @@
       "id": 396535
     },
     {
-      "wus": 1723,
+      "wus": 1724,
       "name": "gatzka",
       "rank": 37210,
-      "credit": 35950489,
+      "credit": 36098768,
       "team": 45032,
       "id": 139566846
     },
@@ -754,10 +754,10 @@
       "id": 61458
     },
     {
-      "wus": 915,
+      "wus": 916,
       "name": "TemperanceFlare",
       "rank": 6607,
-      "credit": 34817468,
+      "credit": 34928063,
       "team": 45032,
       "id": 168831
     },
@@ -1610,10 +1610,10 @@
       "id": 72454822
     },
     {
-      "wus": 4023,
+      "wus": 4024,
       "name": "fuha",
       "rank": 76863,
-      "credit": 12137542,
+      "credit": 12138029,
       "team": 45032,
       "id": 68880952
     },
@@ -2922,20 +2922,20 @@
       "id": 65448542
     },
     {
+      "wus": 745,
+      "name": "carneeki",
+      "rank": 134092,
+      "credit": 4348466,
+      "team": 45032,
+      "id": 340023274
+    },
+    {
       "wus": 75,
       "name": "ghnubst",
       "rank": 133565,
       "credit": 4342397,
       "team": 45032,
       "id": 73446583
-    },
-    {
-      "wus": 744,
-      "name": "carneeki",
-      "rank": 134092,
-      "credit": 4307352,
-      "team": 45032,
-      "id": 340023274
     },
     {
       "wus": 86,
@@ -3810,6 +3810,14 @@
       "id": 104208176
     },
     {
+      "wus": 144,
+      "name": "Centipede901",
+      "rank": 166615,
+      "credit": 2762223,
+      "team": 45032,
+      "id": 173044463
+    },
+    {
       "wus": 642,
       "name": "ahaslam",
       "rank": 164283,
@@ -3866,10 +3874,10 @@
       "id": 238128
     },
     {
-      "wus": 238,
+      "wus": 239,
       "name": "JPRules",
       "rank": 165808,
-      "credit": 2701728,
+      "credit": 2705067,
       "team": 45032,
       "id": 393750702
     },
@@ -3880,14 +3888,6 @@
       "credit": 2683597,
       "team": 45032,
       "id": 974262
-    },
-    {
-      "wus": 143,
-      "name": "Centipede901",
-      "rank": 166615,
-      "credit": 2674303,
-      "team": 45032,
-      "id": 173044463
     },
     {
       "wus": 1136,
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-02-01 09:56:42",
+  "last": "2021-02-01 10:17:22",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 17597990436,
+  "credit": 17598963067,
   "team": 45032,
   "path": "team/45032"
 }
