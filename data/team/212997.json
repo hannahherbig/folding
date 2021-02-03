@@ -1,5 +1,5 @@
 {
-  "wus": 1723082,
+  "wus": 1723088,
   "donors": [
     {
       "wus": 85678,
@@ -434,10 +434,10 @@
       "id": 259861
     },
     {
-      "wus": 1954,
+      "wus": 1955,
       "name": "DavidSilver",
       "rank": 23822,
-      "credit": 64096433,
+      "credit": 64148498,
       "team": 212997,
       "id": 186466
     },
@@ -498,10 +498,10 @@
       "id": 237207
     },
     {
-      "wus": 2653,
+      "wus": 2654,
       "name": "engiefox",
       "rank": 25828,
-      "credit": 56966537,
+      "credit": 56980645,
       "team": 212997,
       "id": 285744
     },
@@ -658,10 +658,10 @@
       "id": 168694
     },
     {
-      "wus": 6507,
+      "wus": 6508,
       "name": "TwistedKestrel",
       "rank": 32094,
-      "credit": 43791011,
+      "credit": 43966233,
       "team": 212997,
       "id": 112469
     },
@@ -1578,10 +1578,10 @@
       "id": 182493
     },
     {
-      "wus": 659,
+      "wus": 660,
       "name": "GondolaLikesToWalk",
       "rank": 86843,
-      "credit": 9886922,
+      "credit": 9955094,
       "team": 212997,
       "id": 73380256
     },
@@ -1858,6 +1858,14 @@
       "id": 335186
     },
     {
+      "wus": 324,
+      "name": "CZ_Brony",
+      "rank": 96892,
+      "credit": 7730443,
+      "team": 212997,
+      "id": 426853387
+    },
+    {
       "wus": 296,
       "name": "RarityisBP",
       "rank": 99498,
@@ -1880,14 +1888,6 @@
       "credit": 7542795,
       "team": 212997,
       "id": 106902
-    },
-    {
-      "wus": 322,
-      "name": "CZ_Brony",
-      "rank": 96892,
-      "credit": 7541526,
-      "team": 212997,
-      "id": 426853387
     },
     {
       "wus": 819,
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-03 13:15:56",
+  "last": "2021-02-03 13:55:57",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28596922048,
+  "credit": 28597420532,
   "team": 212997,
   "path": "team/212997"
 }
