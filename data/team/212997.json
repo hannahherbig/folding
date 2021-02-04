@@ -1,5 +1,5 @@
 {
-  "wus": 1723404,
+  "wus": 1723420,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26722,
+      "wus": 26724,
       "name": "UltraTech_Command",
       "rank": 1193,
-      "credit": 1119852097,
+      "credit": 1120014177,
       "team": 212997,
       "id": 112559
     },
@@ -50,10 +50,10 @@
       "id": 109627
     },
     {
-      "wus": 20130,
+      "wus": 20131,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 2009,
-      "credit": 735062622,
+      "credit": 735112468,
       "team": 212997,
       "id": 259906
     },
@@ -194,10 +194,10 @@
       "id": 336175
     },
     {
-      "wus": 4637,
+      "wus": 4642,
       "name": "Chronophaser",
       "rank": 10298,
-      "credit": 168102458,
+      "credit": 168375126,
       "team": 212997,
       "id": 69517169
     },
@@ -330,10 +330,10 @@
       "id": 189161
     },
     {
-      "wus": 1726,
+      "wus": 1727,
       "name": "Naga",
       "rank": 19600,
-      "credit": 81060726,
+      "credit": 81102071,
       "team": 212997,
       "id": 84291
     },
@@ -474,10 +474,10 @@
       "id": 4317
     },
     {
-      "wus": 2705,
+      "wus": 2706,
       "name": "CycloneDusk",
       "rank": 25913,
-      "credit": 57825035,
+      "credit": 57856467,
       "team": 212997,
       "id": 69005220
     },
@@ -498,10 +498,10 @@
       "id": 237207
     },
     {
-      "wus": 2666,
+      "wus": 2667,
       "name": "engiefox",
       "rank": 25804,
-      "credit": 57146315,
+      "credit": 57192132,
       "team": 212997,
       "id": 285744
     },
@@ -762,10 +762,10 @@
       "id": 14532
     },
     {
-      "wus": 2468,
+      "wus": 2469,
       "name": "Zosimos",
       "rank": 38618,
-      "credit": 34331501,
+      "credit": 34333882,
       "team": 212997,
       "id": 347284
     },
@@ -1482,10 +1482,10 @@
       "id": 22620
     },
     {
-      "wus": 590,
+      "wus": 591,
       "name": "c",
       "rank": 7340,
-      "credit": 10779970,
+      "credit": 10781645,
       "team": 212997,
       "id": 160896
     },
@@ -1794,20 +1794,20 @@
       "id": 239686
     },
     {
+      "wus": 333,
+      "name": "CZ_Brony",
+      "rank": 92380,
+      "credit": 8346705,
+      "team": 212997,
+      "id": 426853387
+    },
+    {
       "wus": 391,
       "name": "WestJ",
       "rank": 95831,
       "credit": 8282941,
       "team": 212997,
       "id": 612559
-    },
-    {
-      "wus": 332,
-      "name": "CZ_Brony",
-      "rank": 92380,
-      "credit": 8282615,
-      "team": 212997,
-      "id": 426853387
     },
     {
       "wus": 501,
@@ -3794,20 +3794,20 @@
       "id": 337097
     },
     {
+      "wus": 517,
+      "name": "ElectricErger",
+      "rank": 230251,
+      "credit": 1223268,
+      "team": 212997,
+      "id": 167820
+    },
+    {
       "wus": 310,
       "name": "Aryanne",
       "rank": 230201,
       "credit": 1222953,
       "team": 212997,
       "id": 284824
-    },
-    {
-      "wus": 516,
-      "name": "ElectricErger",
-      "rank": 230251,
-      "credit": 1222781,
-      "team": 212997,
-      "id": 167820
     },
     {
       "wus": 266,
@@ -4722,10 +4722,10 @@
       "id": 371522
     },
     {
-      "wus": 135,
+      "wus": 136,
       "name": "bros",
       "rank": 155206,
-      "credit": 733105,
+      "credit": 734205,
       "team": 212997,
       "id": 3452
     },
@@ -7979,16 +7979,16 @@
     }
   ],
   "rank": 53,
-  "total_teams": 255957,
+  "total_teams": 255958,
   "active_50": 244,
   "logo": "http://www.brony.team/images/BAHlarge.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-04 10:06:02",
+  "last": "2021-02-04 11:45:59",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28607465870,
+  "credit": 28608138791,
   "team": 212997,
   "path": "team/212997"
 }
