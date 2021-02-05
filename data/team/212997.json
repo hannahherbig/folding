@@ -1,5 +1,5 @@
 {
-  "wus": 1723887,
+  "wus": 1723897,
   "donors": [
     {
       "wus": 85678,
@@ -74,10 +74,10 @@
       "id": 79012
     },
     {
-      "wus": 14964,
+      "wus": 14965,
       "name": "stevepoppers",
       "rank": 2706,
-      "credit": 576945779,
+      "credit": 576951875,
       "team": 212997,
       "id": 250480
     },
@@ -106,10 +106,10 @@
       "id": 25596
     },
     {
-      "wus": 11351,
+      "wus": 11352,
       "name": "Spazturtle",
       "rank": 3421,
-      "credit": 469869655,
+      "credit": 469977639,
       "team": 212997,
       "id": 110967
     },
@@ -194,10 +194,10 @@
       "id": 336175
     },
     {
-      "wus": 2226,
+      "wus": 2227,
       "name": "DayBat",
       "rank": 10008,
-      "credit": 173709551,
+      "credit": 173714196,
       "team": 212997,
       "id": 68769379
     },
@@ -330,10 +330,10 @@
       "id": 189161
     },
     {
-      "wus": 1738,
+      "wus": 1739,
       "name": "Naga",
       "rank": 19517,
-      "credit": 81695382,
+      "credit": 81770422,
       "team": 212997,
       "id": 84291
     },
@@ -426,10 +426,10 @@
       "id": 106865
     },
     {
-      "wus": 1971,
+      "wus": 1972,
       "name": "DavidSilver",
       "rank": 23603,
-      "credit": 65101448,
+      "credit": 65231576,
       "team": 212997,
       "id": 186466
     },
@@ -594,18 +594,18 @@
       "id": 98069
     },
     {
-      "wus": 3247,
+      "wus": 3248,
       "name": "CyberFoxx",
       "rank": 26544,
-      "credit": 47039167,
+      "credit": 47069342,
       "team": 212997,
       "id": 34478
     },
     {
-      "wus": 2953,
+      "wus": 2954,
       "name": "Fusl",
       "rank": 30718,
-      "credit": 46654004,
+      "credit": 46703656,
       "team": 212997,
       "id": 102092
     },
@@ -1514,10 +1514,10 @@
       "id": 336702
     },
     {
-      "wus": 1006,
+      "wus": 1007,
       "name": "shado_jaguar",
       "rank": 83576,
-      "credit": 10593291,
+      "credit": 10613204,
       "team": 212997,
       "id": 184112
     },
@@ -1658,6 +1658,14 @@
       "id": 2866206
     },
     {
+      "wus": 346,
+      "name": "CZ_Brony",
+      "rank": 86965,
+      "credit": 9551967,
+      "team": 212997,
+      "id": 426853387
+    },
+    {
       "wus": 662,
       "name": "koscum",
       "rank": 89083,
@@ -1672,14 +1680,6 @@
       "credit": 9458477,
       "team": 212997,
       "id": 74314
-    },
-    {
-      "wus": 345,
-      "name": "CZ_Brony",
-      "rank": 86965,
-      "credit": 9400528,
-      "team": 212997,
-      "id": 426853387
     },
     {
       "wus": 350,
@@ -2002,10 +2002,10 @@
       "id": 101831
     },
     {
-      "wus": 2429,
+      "wus": 2430,
       "name": "Astatine210",
       "rank": 105830,
-      "credit": 6905234,
+      "credit": 6936666,
       "team": 212997,
       "id": 118970683
     },
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-05 20:06:01",
+  "last": "2021-02-05 21:16:13",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28632268569,
+  "credit": 28632875073,
   "team": 212997,
   "path": "team/212997"
 }
