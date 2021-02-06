@@ -7,7 +7,7 @@ from typing import Optional
 
 import git
 from more_itertools import pairwise
-from pydantic import BaseModel
+from pydantic import BaseModel, ValidationError
 from tabulate import tabulate
 
 
@@ -36,8 +36,9 @@ def write_table(repo, name):
     rows = {}
     for ref in commits:
         blob = repo.commit(ref).tree[name].data_stream.read()
-        i = Item.parse_raw(blob)
-        rows[i.last] = i
+        if blob:
+            i = Item.parse_raw(blob)
+            rows[i.last] = i
 
     table = []
     for a, b in pairwise(sorted(rows.values(), key=lambda i: i.last, reverse=True)):
@@ -53,4 +54,4 @@ def write_table(repo, name):
 repo = git.Repo(".", odbt=git.db.GitCmdObjectDB)
 
 for name in chain(iglob("data/donor/*.json"), iglob("data/team/*.json")):
-    write_table(repo, name)
+    write_table(repo, Path(name).as_posix())
