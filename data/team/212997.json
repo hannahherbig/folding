@@ -1,5 +1,5 @@
 {
-  "wus": 1724390,
+  "wus": 1724394,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26763,
+      "wus": 26764,
       "name": "UltraTech_Command",
       "rank": 1203,
-      "credit": 1122364555,
+      "credit": 1122430381,
       "team": 212997,
       "id": 112559
     },
@@ -162,10 +162,10 @@
       "id": 188984
     },
     {
-      "wus": 6838,
+      "wus": 6839,
       "name": "GTX",
       "rank": 8228,
-      "credit": 210530892,
+      "credit": 210535351,
       "team": 212997,
       "id": 49911
     },
@@ -1002,20 +1002,20 @@
       "id": 195655
     },
     {
+      "wus": 287,
+      "name": "pinkiedash417",
+      "rank": 52799,
+      "credit": 22300422,
+      "team": 212997,
+      "id": 336201
+    },
+    {
       "wus": 658,
       "name": "noonespecific",
       "rank": 32789,
       "credit": 22265896,
       "team": 212997,
       "id": 336124
-    },
-    {
-      "wus": 286,
-      "name": "pinkiedash417",
-      "rank": 52799,
-      "credit": 22176830,
-      "team": 212997,
-      "id": 336201
     },
     {
       "wus": 2433,
@@ -1482,10 +1482,10 @@
       "id": 22620
     },
     {
-      "wus": 597,
+      "wus": 598,
       "name": "c",
       "rank": 7317,
-      "credit": 10944453,
+      "credit": 10953509,
       "team": 212997,
       "id": 160896
     },
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-07 22:06:13",
+  "last": "2021-02-07 22:36:07",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28658907929,
+  "credit": 28659110862,
   "team": 212997,
   "path": "team/212997"
 }
