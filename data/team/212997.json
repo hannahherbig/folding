@@ -1,5 +1,5 @@
 {
-  "wus": 1725180,
+  "wus": 1725187,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26810,
+      "wus": 26811,
       "name": "UltraTech_Command",
       "rank": 1210,
-      "credit": 1125481988,
+      "credit": 1125673542,
       "team": 212997,
       "id": 112559
     },
@@ -186,10 +186,10 @@
       "id": 76215814
     },
     {
-      "wus": 2354,
+      "wus": 2357,
       "name": "DayBat",
       "rank": 9439,
-      "credit": 186518101,
+      "credit": 186890734,
       "team": 212997,
       "id": 68769379
     },
@@ -418,10 +418,10 @@
       "id": 111662
     },
     {
-      "wus": 2003,
+      "wus": 2004,
       "name": "DavidSilver",
       "rank": 23166,
-      "credit": 67051551,
+      "credit": 67151957,
       "team": 212997,
       "id": 186466
     },
@@ -2098,10 +2098,10 @@
       "id": 12483
     },
     {
-      "wus": 171,
+      "wus": 172,
       "name": "Micheo",
       "rank": 63186,
-      "credit": 5924928,
+      "credit": 5928490,
       "team": 212997,
       "id": 790263
     },
@@ -2682,6 +2682,14 @@
       "id": 285361
     },
     {
+      "wus": 162,
+      "name": "SXRXE",
+      "rank": 164242,
+      "credit": 2825397,
+      "team": 212997,
+      "id": 371902
+    },
+    {
       "wus": 994,
       "name": "Kurt_P",
       "rank": 163256,
@@ -2720,14 +2728,6 @@
       "credit": 2786333,
       "team": 212997,
       "id": 183748
-    },
-    {
-      "wus": 161,
-      "name": "SXRXE",
-      "rank": 164242,
-      "credit": 2785101,
-      "team": 212997,
-      "id": 371902
     },
     {
       "wus": 1889,
@@ -7985,10 +7985,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-09 22:06:13",
+  "last": "2021-02-09 22:56:19",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28709995692,
+  "credit": 28710704143,
   "team": 212997,
   "path": "team/212997"
 }
