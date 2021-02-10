@@ -1,12 +1,12 @@
 {
-  "wus": 824,
-  "rank": 32403,
+  "wus": 826,
+  "rank": 32365,
   "active_50": 4,
   "path": "donor/andrew12",
   "wus_cert": "https://apps.foldingathome.org/awards?user=129494&type=wus",
   "id": 129494,
   "credit_cert": "https://apps.foldingathome.org/awards?user=129494&type=score",
-  "last": "2021-02-10 09:58:24",
+  "last": "2021-02-10 15:36:17",
   "name": "andrew12",
   "teams": [
     {
@@ -37,12 +37,12 @@
       "name": "Brony@Home"
     },
     {
-      "wus": 491,
-      "last": "2021-02-10 07:26:18",
+      "wus": 492,
+      "last": "2021-02-10 15:36:17",
       "uid": 129494,
       "active_50": 0,
       "active_7": 0,
-      "credit": 40920533,
+      "credit": 40987868,
       "team": 45032,
       "name": "Arch Linux"
     },
@@ -56,12 +56,12 @@
       "name": "DeltaBox"
     },
     {
-      "wus": 1,
-      "last": "2021-02-10 09:58:24",
+      "wus": 2,
+      "last": "2021-02-10 15:06:13",
       "uid": 129494,
       "active_50": 4,
       "active_7": 2,
-      "credit": 88134,
+      "credit": 91486,
       "team": 236565,
       "name": "NixOS"
     },
@@ -76,5 +76,5 @@
     }
   ],
   "active_7": 2,
-  "credit": 43800749
+  "credit": 43871436
 }
