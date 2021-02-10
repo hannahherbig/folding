@@ -8,6 +8,7 @@ paths=(
     donor/andrew12
     team/45032
     team/212997
+    team/236565
 )
 
 for path in ${paths[@]}
