@@ -1,5 +1,5 @@
 {
-  "wus": 1726224,
+  "wus": 1726242,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26888,
+      "wus": 26889,
       "name": "UltraTech_Command",
       "rank": 1211,
-      "credit": 1129681468,
+      "credit": 1129729197,
       "team": 212997,
       "id": 112559
     },
@@ -50,10 +50,10 @@
       "id": 109627
     },
     {
-      "wus": 20201,
+      "wus": 20202,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 2027,
-      "credit": 741215518,
+      "credit": 741367234,
       "team": 212997,
       "id": 259906
     },
@@ -98,10 +98,10 @@
       "id": 353337
     },
     {
-      "wus": 11383,
+      "wus": 11384,
       "name": "Spazturtle",
       "rank": 3461,
-      "credit": 471994341,
+      "credit": 472130123,
       "team": 212997,
       "id": 110967
     },
@@ -130,10 +130,10 @@
       "id": 105137
     },
     {
-      "wus": 3667,
+      "wus": 3669,
       "name": "Blazingcurent",
       "rank": 6098,
-      "credit": 285761404,
+      "credit": 286048295,
       "team": 212997,
       "id": 72800445
     },
@@ -194,10 +194,10 @@
       "id": 76215814
     },
     {
-      "wus": 4838,
+      "wus": 4839,
       "name": "Chronophaser",
       "rank": 9658,
-      "credit": 183518381,
+      "credit": 183657155,
       "team": 212997,
       "id": 69517169
     },
@@ -218,10 +218,10 @@
       "id": 1805628
     },
     {
-      "wus": 7204,
+      "wus": 7205,
       "name": "benjamindjb",
       "rank": 10795,
-      "credit": 161080346,
+      "credit": 161081395,
       "team": 212997,
       "id": 163671
     },
@@ -322,10 +322,10 @@
       "id": 279471
     },
     {
-      "wus": 1835,
+      "wus": 1836,
       "name": "Naga",
       "rank": 18912,
-      "credit": 86077495,
+      "credit": 86119911,
       "team": 212997,
       "id": 84291
     },
@@ -474,18 +474,18 @@
       "id": 4317
     },
     {
-      "wus": 3032,
+      "wus": 3034,
       "name": "WindShear",
       "rank": 22409,
-      "credit": 59899004,
+      "credit": 59937473,
       "team": 212997,
       "id": 1736648
     },
     {
-      "wus": 2774,
+      "wus": 2775,
       "name": "CycloneDusk",
       "rank": 25652,
-      "credit": 59425809,
+      "credit": 59455482,
       "team": 212997,
       "id": 69005220
     },
@@ -666,10 +666,10 @@
       "id": 168694
     },
     {
-      "wus": 7001,
+      "wus": 7002,
       "name": "D13RPY",
       "rank": 33459,
-      "credit": 42176572,
+      "credit": 42209772,
       "team": 212997,
       "id": 99869
     },
@@ -890,10 +890,10 @@
       "id": 18847
     },
     {
-      "wus": 958,
+      "wus": 959,
       "name": "Rosiepon",
       "rank": 44057,
-      "credit": 27077767,
+      "credit": 27107440,
       "team": 212997,
       "id": 66695747
     },
@@ -1370,10 +1370,10 @@
       "id": 113839
     },
     {
-      "wus": 389,
+      "wus": 390,
       "name": "CZ_Brony",
       "rank": 72230,
-      "credit": 13080380,
+      "credit": 13178641,
       "team": 212997,
       "id": 426853387
     },
@@ -1466,20 +1466,20 @@
       "id": 352688
     },
     {
+      "wus": 717,
+      "name": "GondolaLikesToWalk",
+      "rank": 80363,
+      "credit": 11396067,
+      "team": 212997,
+      "id": 73380256
+    },
+    {
       "wus": 849,
       "name": "JustTheBast",
       "rank": 80212,
       "credit": 11393368,
       "team": 212997,
       "id": 157664
-    },
-    {
-      "wus": 716,
-      "name": "GondolaLikesToWalk",
-      "rank": 80363,
-      "credit": 11391639,
-      "team": 212997,
-      "id": 73380256
     },
     {
       "wus": 475,
@@ -1890,10 +1890,10 @@
       "id": 335857
     },
     {
-      "wus": 234,
+      "wus": 236,
       "name": "Micheo",
       "rank": 59437,
-      "credit": 7652071,
+      "credit": 7662457,
       "team": 212997,
       "id": 790263
     },
@@ -3178,10 +3178,10 @@
       "id": 799259
     },
     {
-      "wus": 621,
+      "wus": 622,
       "name": "LiBa",
       "rank": 193472,
-      "credit": 1892775,
+      "credit": 1894926,
       "team": 212997,
       "id": 75405116
     },
@@ -7979,16 +7979,16 @@
     }
   ],
   "rank": 53,
-  "total_teams": 256006,
+  "total_teams": 256007,
   "active_50": 239,
   "logo": "http://www.brony.team/images/BAHlarge.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-12 13:06:22",
+  "last": "2021-02-12 14:56:08",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28761383963,
+  "credit": 28762434561,
   "team": 212997,
   "path": "team/212997"
 }
