@@ -1,5 +1,5 @@
 {
-  "wus": 1726690,
+  "wus": 1726705,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 26920,
+      "wus": 26921,
       "name": "UltraTech_Command",
       "rank": 1215,
-      "credit": 1131661885,
+      "credit": 1131727607,
       "team": 212997,
       "id": 112559
     },
@@ -50,10 +50,10 @@
       "id": 109627
     },
     {
-      "wus": 20216,
+      "wus": 20217,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 2027,
-      "credit": 742616178,
+      "credit": 742712549,
       "team": 212997,
       "id": 259906
     },
@@ -98,10 +98,10 @@
       "id": 353337
     },
     {
-      "wus": 11388,
+      "wus": 11389,
       "name": "Spazturtle",
       "rank": 3469,
-      "credit": 472511274,
+      "credit": 472649178,
       "team": 212997,
       "id": 110967
     },
@@ -130,10 +130,10 @@
       "id": 105137
     },
     {
-      "wus": 3709,
+      "wus": 3710,
       "name": "Blazingcurent",
       "rank": 6015,
-      "credit": 290479791,
+      "credit": 290617112,
       "team": 212997,
       "id": 72800445
     },
@@ -194,10 +194,10 @@
       "id": 76215814
     },
     {
-      "wus": 4869,
+      "wus": 4873,
       "name": "Chronophaser",
       "rank": 9536,
-      "credit": 186251219,
+      "credit": 186554045,
       "team": 212997,
       "id": 69517169
     },
@@ -218,10 +218,10 @@
       "id": 1805628
     },
     {
-      "wus": 7209,
+      "wus": 7210,
       "name": "benjamindjb",
       "rank": 10823,
-      "credit": 161092705,
+      "credit": 161093772,
       "team": 212997,
       "id": 163671
     },
@@ -578,10 +578,10 @@
       "id": 337451
     },
     {
-      "wus": 3281,
+      "wus": 3282,
       "name": "CyberFoxx",
       "rank": 26400,
-      "credit": 48157910,
+      "credit": 48191064,
       "team": 212997,
       "id": 34478
     },
@@ -890,10 +890,10 @@
       "id": 18847
     },
     {
-      "wus": 974,
+      "wus": 975,
       "name": "Rosiepon",
       "rank": 43723,
-      "credit": 27464117,
+      "credit": 27477057,
       "team": 212997,
       "id": 66695747
     },
@@ -1850,10 +1850,10 @@
       "id": 198244
     },
     {
-      "wus": 254,
+      "wus": 255,
       "name": "Micheo",
       "rank": 58802,
-      "credit": 8057415,
+      "credit": 8060627,
       "team": 212997,
       "id": 790263
     },
@@ -2610,10 +2610,10 @@
       "id": 213932
     },
     {
-      "wus": 173,
+      "wus": 174,
       "name": "SXRXE",
       "rank": 156497,
-      "credit": 3119178,
+      "credit": 3159059,
       "team": 212997,
       "id": 371902
     },
@@ -3290,6 +3290,14 @@
       "id": 208838
     },
     {
+      "wus": 552,
+      "name": "ElectricErger",
+      "rank": 201207,
+      "credit": 1757263,
+      "team": 212997,
+      "id": 167820
+    },
+    {
       "wus": 588,
       "name": "Fuzzy_died",
       "rank": 200649,
@@ -3304,14 +3312,6 @@
       "credit": 1740467,
       "team": 212997,
       "id": 326219
-    },
-    {
-      "wus": 551,
-      "name": "ElectricErger",
-      "rank": 201207,
-      "credit": 1737788,
-      "team": 212997,
-      "id": 167820
     },
     {
       "wus": 228,
@@ -7658,6 +7658,13 @@
       "id": 165145
     },
     {
+      "wus": 21,
+      "credit": 106542,
+      "team": 212997,
+      "name": "PenumbraGuard",
+      "id": 71640609
+    },
+    {
       "wus": 168,
       "name": "Inkhoof",
       "rank": 507695,
@@ -7878,13 +7885,6 @@
       "id": 621001
     },
     {
-      "wus": 20,
-      "credit": 93602,
-      "team": 212997,
-      "name": "PenumbraGuard",
-      "id": 71640609
-    },
-    {
       "wus": 35,
       "credit": 93420,
       "team": 212997,
@@ -7980,15 +7980,15 @@
   ],
   "rank": 53,
   "total_teams": 256013,
-  "active_50": 239,
+  "active_50": 240,
   "logo": "http://www.brony.team/images/BAHlarge.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-14 01:26:22",
+  "last": "2021-02-14 02:16:24",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28787625914,
+  "credit": 28788488727,
   "team": 212997,
   "path": "team/212997"
 }
