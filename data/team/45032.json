@@ -1,5 +1,5 @@
 {
-  "wus": 1369484,
+  "wus": 1369490,
   "donors": [
     {
       "wus": 33399,
@@ -258,10 +258,10 @@
       "id": 68323486
     },
     {
-      "wus": 4905,
+      "wus": 4906,
       "name": "Tullo_x86",
       "rank": 17265,
-      "credit": 96720035,
+      "credit": 96784028,
       "team": 45032,
       "id": 68966340
     },
@@ -706,20 +706,20 @@
       "id": 168831
     },
     {
+      "wus": 2401,
+      "name": "maximbaz",
+      "rank": 35545,
+      "credit": 38869574,
+      "team": 45032,
+      "id": 73898514
+    },
+    {
       "wus": 963,
       "name": "GreyRogue",
       "rank": 35715,
       "credit": 38850598,
       "team": 45032,
       "id": 68533822
-    },
-    {
-      "wus": 2400,
-      "name": "maximbaz",
-      "rank": 35545,
-      "credit": 38825746,
-      "team": 45032,
-      "id": 73898514
     },
     {
       "wus": 985,
@@ -914,20 +914,20 @@
       "id": 63443211
     },
     {
+      "wus": 192,
+      "name": "lukeofthetauri",
+      "rank": 31559,
+      "credit": 28776433,
+      "team": 45032,
+      "id": 64483149
+    },
+    {
       "wus": 9058,
       "name": "cesium",
       "rank": 44392,
       "credit": 28758737,
       "team": 45032,
       "id": 986403
-    },
-    {
-      "wus": 191,
-      "name": "lukeofthetauri",
-      "rank": 31559,
-      "credit": 28683783,
-      "team": 45032,
-      "id": 64483149
     },
     {
       "wus": 869,
@@ -1154,20 +1154,20 @@
       "id": 68433695
     },
     {
+      "wus": 120,
+      "name": "Kschat",
+      "rank": 54707,
+      "credit": 19503668,
+      "team": 45032,
+      "id": 14107
+    },
+    {
       "wus": 2911,
       "name": "Will.E.Coyote",
       "rank": 58127,
       "credit": 19382084,
       "team": 45032,
       "id": 266358
-    },
-    {
-      "wus": 119,
-      "name": "Kschat",
-      "rank": 54707,
-      "credit": 19259762,
-      "team": 45032,
-      "id": 14107
     },
     {
       "wus": 1404,
@@ -4858,20 +4858,20 @@
       "id": 68371226
     },
     {
+      "wus": 400,
+      "name": "merzo",
+      "rank": 206509,
+      "credit": 1635343,
+      "team": 45032,
+      "id": 72082243
+    },
+    {
       "wus": 208,
       "name": "Takios",
       "rank": 206397,
       "credit": 1634345,
       "team": 45032,
       "id": 161244499
-    },
-    {
-      "wus": 399,
-      "name": "merzo",
-      "rank": 206509,
-      "credit": 1632193,
-      "team": 45032,
-      "id": 72082243
     },
     {
       "wus": 568,
@@ -7426,10 +7426,10 @@
       "id": 386046517
     },
     {
-      "wus": 293,
+      "wus": 294,
       "name": "bains",
       "rank": 110013,
-      "credit": 572784,
+      "credit": 574131,
       "team": 45032,
       "id": 936554
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-02-14 17:06:24",
+  "last": "2021-02-14 17:26:16",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18022356061,
+  "credit": 18022804935,
   "team": 45032,
   "path": "team/45032"
 }
