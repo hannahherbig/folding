@@ -1,6 +1,6 @@
 {
   "wus": 879,
-  "rank": 28869,
+  "rank": 28871,
   "active_50": 3,
   "path": "donor/andrew12",
   "wus_cert": "https://apps.foldingathome.org/awards?user=129494&type=wus",
@@ -41,7 +41,7 @@
       "last": "2021-02-16 18:06:28",
       "uid": 129494,
       "active_50": 0,
-      "active_7": 0,
+      "active_7": 1,
       "credit": 48737482,
       "team": 45032,
       "name": "Arch Linux"
@@ -60,7 +60,7 @@
       "last": "2021-02-10 15:06:13",
       "uid": 129494,
       "active_50": 3,
-      "active_7": 2,
+      "active_7": 0,
       "credit": 91486,
       "team": 236565,
       "name": "NixOS"
@@ -75,6 +75,6 @@
       "name": "SAGoons"
     }
   ],
-  "active_7": 2,
+  "active_7": 1,
   "credit": 51621050
 }
