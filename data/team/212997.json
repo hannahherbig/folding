@@ -1,5 +1,5 @@
 {
-  "wus": 1728065,
+  "wus": 1728068,
   "donors": [
     {
       "wus": 85678,
@@ -634,10 +634,10 @@
       "id": 110703
     },
     {
-      "wus": 9366,
+      "wus": 9367,
       "name": "richfiles",
       "rank": 31585,
-      "credit": 45919129,
+      "credit": 45922169,
       "team": 212997,
       "id": 276171
     },
@@ -3170,20 +3170,20 @@
       "id": 132232
     },
     {
+      "wus": 629,
+      "name": "LiBa",
+      "rank": 193481,
+      "credit": 1911614,
+      "team": 212997,
+      "id": 75405116
+    },
+    {
       "wus": 99,
       "name": "RDC",
       "rank": 189053,
       "credit": 1910197,
       "team": 212997,
       "id": 799259
-    },
-    {
-      "wus": 628,
-      "name": "LiBa",
-      "rank": 193481,
-      "credit": 1908705,
-      "team": 212997,
-      "id": 75405116
     },
     {
       "wus": 563,
@@ -3978,10 +3978,10 @@
       "id": 310976
     },
     {
-      "wus": 1018,
+      "wus": 1019,
       "name": "PonyTest",
       "rank": 241174,
-      "credit": 1099987,
+      "credit": 1101237,
       "team": 212997,
       "id": 8054075
     },
@@ -7987,10 +7987,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-18 22:16:21",
+  "last": "2021-02-18 22:56:28",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28864351520,
+  "credit": 28864358719,
   "team": 212997,
   "path": "team/212997"
 }
