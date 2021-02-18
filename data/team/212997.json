@@ -1,5 +1,5 @@
 {
-  "wus": 1727832,
+  "wus": 1727838,
   "donors": [
     {
       "wus": 85678,
@@ -194,10 +194,10 @@
       "id": 76215814
     },
     {
-      "wus": 4980,
+      "wus": 4981,
       "name": "Chronophaser",
       "rank": 9236,
-      "credit": 193790388,
+      "credit": 193907316,
       "team": 212997,
       "id": 69517169
     },
@@ -210,10 +210,10 @@
       "id": 336175
     },
     {
-      "wus": 2542,
+      "wus": 2543,
       "name": "Mooseyfate",
       "rank": 10160,
-      "credit": 166881979,
+      "credit": 166884830,
       "team": 212997,
       "id": 1805628
     },
@@ -426,10 +426,10 @@
       "id": 111662
     },
     {
-      "wus": 12294,
+      "wus": 12295,
       "name": "MkThundrwd",
       "rank": 21379,
-      "credit": 66666403,
+      "credit": 66673519,
       "team": 212997,
       "id": 106865
     },
@@ -1810,10 +1810,10 @@
       "id": 179588
     },
     {
-      "wus": 287,
+      "wus": 288,
       "name": "Micheo",
       "rank": 58183,
-      "credit": 8474285,
+      "credit": 8478090,
       "team": 212997,
       "id": 790263
     },
@@ -2514,6 +2514,14 @@
       "id": 101494
     },
     {
+      "wus": 184,
+      "name": "SXRXE",
+      "rank": 150495,
+      "credit": 3503576,
+      "team": 212997,
+      "id": 371902
+    },
+    {
       "wus": 325,
       "name": "DaemonLee",
       "rank": 149726,
@@ -2536,14 +2544,6 @@
       "credit": 3425342,
       "team": 212997,
       "id": 337136
-    },
-    {
-      "wus": 183,
-      "name": "SXRXE",
-      "rank": 150495,
-      "credit": 3421801,
-      "team": 212997,
-      "id": 371902
     },
     {
       "wus": 480,
@@ -3642,6 +3642,14 @@
       "id": 350048
     },
     {
+      "wus": 391,
+      "name": "ShalMusicFX",
+      "rank": 224494,
+      "credit": 1344452,
+      "team": 212997,
+      "id": 120445274
+    },
+    {
       "wus": 296,
       "name": "RockeyDA",
       "rank": 223371,
@@ -3656,14 +3664,6 @@
       "credit": 1339576,
       "team": 212997,
       "id": 163773
-    },
-    {
-      "wus": 390,
-      "name": "ShalMusicFX",
-      "rank": 224494,
-      "credit": 1324839,
-      "team": 212997,
-      "id": 120445274
     },
     {
       "wus": 258,
@@ -7986,10 +7986,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-18 01:46:31",
+  "last": "2021-02-18 02:16:16",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28851817587,
+  "credit": 28852049675,
   "team": 212997,
   "path": "team/212997"
 }
