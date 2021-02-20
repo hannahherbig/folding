@@ -1,5 +1,5 @@
 {
-  "wus": 53947,
+  "wus": 53948,
   "donors": [
     {
       "wus": 1444,
@@ -74,10 +74,10 @@
       "id": 200256
     },
     {
-      "wus": 4620,
+      "wus": 4621,
       "name": "affinitic",
       "rank": 116870,
-      "credit": 5801285,
+      "credit": 5801772,
       "team": 236565,
       "id": 71439570
     },
@@ -939,10 +939,10 @@
   "logo": "https://nixos.org/logo/nix-wiki.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=236565&type=wus",
   "credit_cert": "https://apps.foldingathome.org/awards?team=236565&type=score",
-  "last": "2021-02-19 15:36:19",
+  "last": "2021-02-19 23:26:28",
   "name": "NixOS",
   "url": "https://nixos.org/",
-  "credit": 584918986,
+  "credit": 584919473,
   "team": 236565,
   "path": "team/236565"
 }
