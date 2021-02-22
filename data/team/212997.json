@@ -1,5 +1,5 @@
 {
-  "wus": 1728626,
+  "wus": 1728630,
   "donors": [
     {
       "wus": 85678,
@@ -50,10 +50,10 @@
       "id": 109627
     },
     {
-      "wus": 20295,
+      "wus": 20296,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 2036,
-      "credit": 749377449,
+      "credit": 749492070,
       "team": 212997,
       "id": 259906
     },
@@ -186,10 +186,10 @@
       "id": 68769379
     },
     {
-      "wus": 5075,
+      "wus": 5076,
       "name": "Chronophaser",
       "rank": 8975,
-      "credit": 201511452,
+      "credit": 201666820,
       "team": 212997,
       "id": 69517169
     },
@@ -770,10 +770,10 @@
       "id": 73049723
     },
     {
-      "wus": 4362,
+      "wus": 4363,
       "name": "Bikerbob1016",
       "rank": 38251,
-      "credit": 35535421,
+      "credit": 35570032,
       "team": 212997,
       "id": 57894
     },
@@ -3066,6 +3066,14 @@
       "id": 166081
     },
     {
+      "wus": 571,
+      "name": "ElectricErger",
+      "rank": 190295,
+      "credit": 2050362,
+      "team": 212997,
+      "id": 167820
+    },
+    {
       "wus": 669,
       "name": "DJDavid98",
       "rank": 188913,
@@ -3088,14 +3096,6 @@
       "credit": 2022686,
       "team": 212997,
       "id": 175525
-    },
-    {
-      "wus": 570,
-      "name": "ElectricErger",
-      "rank": 190295,
-      "credit": 2015667,
-      "team": 212997,
-      "id": 167820
     },
     {
       "wus": 848,
@@ -7988,10 +7988,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-22 01:16:34",
+  "last": "2021-02-22 01:36:31",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28905747399,
+  "credit": 28906086694,
   "team": 212997,
   "path": "team/212997"
 }
