@@ -1,5 +1,5 @@
 {
-  "wus": 1729068,
+  "wus": 1729073,
   "donors": [
     {
       "wus": 85678,
@@ -170,10 +170,10 @@
       "id": 188984
     },
     {
-      "wus": 5118,
+      "wus": 5120,
       "name": "Chronophaser",
       "rank": 8840,
-      "credit": 205378253,
+      "credit": 205515962,
       "team": 212997,
       "id": 69517169
     },
@@ -1386,10 +1386,10 @@
       "id": 349733
     },
     {
-      "wus": 3906,
+      "wus": 3907,
       "name": "Zoomguy",
       "rank": 73974,
-      "credit": 13317451,
+      "credit": 13319551,
       "team": 212997,
       "id": 113839
     },
@@ -2234,10 +2234,10 @@
       "id": 337615
     },
     {
-      "wus": 1667,
+      "wus": 1668,
       "name": "Flutternight",
       "rank": 127457,
-      "credit": 4914365,
+      "credit": 4914852,
       "team": 212997,
       "id": 337372
     },
@@ -3394,20 +3394,20 @@
       "id": 180556
     },
     {
+      "wus": 54,
+      "name": "ZenCoresLunarKnight",
+      "rank": 208788,
+      "credit": 1639767,
+      "team": 212997,
+      "id": 466930542
+    },
+    {
       "wus": 1290,
       "name": "Jesin00",
       "rank": 184682,
       "credit": 1635292,
       "team": 212997,
       "id": 12171
-    },
-    {
-      "wus": 53,
-      "name": "ZenCoresLunarKnight",
-      "rank": 208788,
-      "credit": 1604939,
-      "team": 212997,
-      "id": 466930542
     },
     {
       "wus": 41,
@@ -7988,10 +7988,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-23 22:06:25",
+  "last": "2021-02-23 22:56:41",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28927484324,
+  "credit": 28927659448,
   "team": 212997,
   "path": "team/212997"
 }
