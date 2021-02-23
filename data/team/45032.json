@@ -1,5 +1,5 @@
 {
-  "wus": 1375290,
+  "wus": 1375303,
   "donors": [
     {
       "wus": 33399,
@@ -90,18 +90,18 @@
       "id": 437426
     },
     {
-      "wus": 1977,
+      "wus": 1978,
       "name": "jose.angel.soler.ortiz",
       "rank": 6287,
-      "credit": 260677457,
+      "credit": 260886557,
       "team": 45032,
       "id": 132010172
     },
     {
-      "wus": 3712,
+      "wus": 3713,
       "name": "zuckeenee",
       "rank": 8140,
-      "credit": 222819948,
+      "credit": 223009898,
       "team": 45032,
       "id": 67298257
     },
@@ -194,10 +194,10 @@
       "id": 73468023
     },
     {
-      "wus": 11929,
+      "wus": 11930,
       "name": "GuyMartin",
       "rank": 12547,
-      "credit": 129760676,
+      "credit": 129767768,
       "team": 45032,
       "id": 1279891
     },
@@ -226,10 +226,10 @@
       "id": 66160380
     },
     {
-      "wus": 5050,
+      "wus": 5051,
       "name": "Tullo_x86",
       "rank": 15262,
-      "credit": 111968675,
+      "credit": 112104235,
       "team": 45032,
       "id": 68966340
     },
@@ -370,10 +370,10 @@
       "id": 72802372
     },
     {
-      "wus": 797,
+      "wus": 798,
       "name": "LMB",
       "rank": 21669,
-      "credit": 72476994,
+      "credit": 72524548,
       "team": 45032,
       "id": 139638
     },
@@ -626,10 +626,10 @@
       "id": 90992522
     },
     {
-      "wus": 8686,
+      "wus": 8687,
       "name": "rednano",
       "rank": 32448,
-      "credit": 44523950,
+      "credit": 44528145,
       "team": 45032,
       "id": 280337
     },
@@ -754,10 +754,10 @@
       "id": 195516
     },
     {
-      "wus": 1623,
+      "wus": 1625,
       "name": "Rossome",
       "rank": 36594,
-      "credit": 38062427,
+      "credit": 38103759,
       "team": 45032,
       "id": 1589128
     },
@@ -794,10 +794,10 @@
       "id": 61458
     },
     {
-      "wus": 3291,
+      "wus": 3292,
       "name": "Volgy",
       "rank": 39057,
-      "credit": 34793426,
+      "credit": 34809472,
       "team": 45032,
       "id": 65673012
     },
@@ -914,6 +914,14 @@
       "id": 72583633
     },
     {
+      "wus": 173,
+      "name": "Kschat",
+      "rank": 42765,
+      "credit": 28868370,
+      "team": 45032,
+      "id": 14107
+    },
+    {
       "wus": 853,
       "name": "DemonWav",
       "rank": 44702,
@@ -928,14 +936,6 @@
       "credit": 28758737,
       "team": 45032,
       "id": 986403
-    },
-    {
-      "wus": 172,
-      "name": "Kschat",
-      "rank": 42765,
-      "credit": 28690211,
-      "team": 45032,
-      "id": 14107
     },
     {
       "wus": 869,
@@ -3090,20 +3090,20 @@
       "id": 52789424
     },
     {
+      "wus": 80,
+      "name": "NaEaP",
+      "rank": 139809,
+      "credit": 4055575,
+      "team": 45032,
+      "id": 459449919
+    },
+    {
       "wus": 142,
       "name": "cwestphal48",
       "rank": 139800,
       "credit": 4049165,
       "team": 45032,
       "id": 88945016
-    },
-    {
-      "wus": 79,
-      "name": "NaEaP",
-      "rank": 139809,
-      "credit": 4048619,
-      "team": 45032,
-      "id": 459449919
     },
     {
       "wus": 368,
@@ -3610,10 +3610,10 @@
       "id": 76301072
     },
     {
-      "wus": 706,
+      "wus": 707,
       "name": "najjar",
       "rank": 156538,
-      "credit": 3156955,
+      "credit": 3161121,
       "team": 45032,
       "id": 405015436
     },
@@ -3666,10 +3666,10 @@
       "id": 69868384
     },
     {
-      "wus": 497,
+      "wus": 498,
       "name": "gillouche",
       "rank": 157935,
-      "credit": 3093946,
+      "credit": 3097256,
       "team": 45032,
       "id": 139426019
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-02-23 01:36:35",
+  "last": "2021-02-23 02:16:42",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18314507133,
+  "credit": 18315350553,
   "team": 45032,
   "path": "team/45032"
 }
