@@ -1,5 +1,5 @@
 {
-  "wus": 1375747,
+  "wus": 1375756,
   "donors": [
     {
       "wus": 33399,
@@ -90,18 +90,18 @@
       "id": 437426
     },
     {
-      "wus": 2000,
+      "wus": 2001,
       "name": "jose.angel.soler.ortiz",
       "rank": 6209,
-      "credit": 264923754,
+      "credit": 265173176,
       "team": 45032,
       "id": 132010172
     },
     {
-      "wus": 3725,
+      "wus": 3726,
       "name": "zuckeenee",
       "rank": 8093,
-      "credit": 224196235,
+      "credit": 224212633,
       "team": 45032,
       "id": 67298257
     },
@@ -354,10 +354,10 @@
       "id": 104686529
     },
     {
-      "wus": 4853,
+      "wus": 4855,
       "name": "Merlock",
       "rank": 21187,
-      "credit": 76334462,
+      "credit": 76354116,
       "team": 45032,
       "id": 1448013
     },
@@ -666,10 +666,10 @@
       "id": 280489
     },
     {
-      "wus": 1071,
+      "wus": 1072,
       "name": "TemperanceFlare",
       "rank": 6739,
-      "credit": 41517382,
+      "credit": 41649206,
       "team": 45032,
       "id": 168831
     },
@@ -778,10 +778,10 @@
       "id": 88677826
     },
     {
-      "wus": 10604,
+      "wus": 10605,
       "name": "thermi",
       "rank": 36238,
-      "credit": 35685716,
+      "credit": 35694901,
       "team": 45032,
       "id": 111878
     },
@@ -794,10 +794,10 @@
       "id": 61458
     },
     {
-      "wus": 3293,
+      "wus": 3294,
       "name": "Volgy",
       "rank": 39043,
-      "credit": 34825205,
+      "credit": 34827813,
       "team": 45032,
       "id": 65673012
     },
@@ -1026,20 +1026,20 @@
       "id": 79036281
     },
     {
+      "wus": 644,
+      "name": "ElectronPunt",
+      "rank": 50886,
+      "credit": 24031687,
+      "team": 45032,
+      "id": 77021666
+    },
+    {
       "wus": 718,
       "name": "psilokos",
       "rank": 50763,
       "credit": 24031314,
       "team": 45032,
       "id": 79726684
-    },
-    {
-      "wus": 643,
-      "name": "ElectronPunt",
-      "rank": 50886,
-      "credit": 23977938,
-      "team": 45032,
-      "id": 77021666
     },
     {
       "wus": 11274,
@@ -1578,10 +1578,10 @@
       "id": 68889139
     },
     {
-      "wus": 4307,
+      "wus": 4308,
       "name": "fuha",
       "rank": 75237,
-      "credit": 12933519,
+      "credit": 12953132,
       "team": 45032,
       "id": 68880952
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-02-24 01:36:33",
+  "last": "2021-02-24 02:16:34",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18336362298,
+  "credit": 18336864751,
   "team": 45032,
   "path": "team/45032"
 }
