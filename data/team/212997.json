@@ -1,5 +1,5 @@
 {
-  "wus": 1729073,
+  "wus": 1729079,
   "donors": [
     {
       "wus": 85678,
@@ -34,10 +34,10 @@
       "id": 173199
     },
     {
-      "wus": 27092,
+      "wus": 27093,
       "name": "UltraTech_Command",
       "rank": 1224,
-      "credit": 1143935871,
+      "credit": 1144031849,
       "team": 212997,
       "id": 112559
     },
@@ -170,10 +170,10 @@
       "id": 188984
     },
     {
-      "wus": 5120,
+      "wus": 5121,
       "name": "Chronophaser",
       "rank": 8840,
-      "credit": 205515962,
+      "credit": 205663186,
       "team": 212997,
       "id": 69517169
     },
@@ -210,10 +210,10 @@
       "id": 336175
     },
     {
-      "wus": 2568,
+      "wus": 2569,
       "name": "Mooseyfate",
       "rank": 10188,
-      "credit": 168546923,
+      "credit": 168547110,
       "team": 212997,
       "id": 1805628
     },
@@ -1346,10 +1346,10 @@
       "id": 184050
     },
     {
-      "wus": 796,
+      "wus": 797,
       "name": "GondolaLikesToWalk",
       "rank": 73026,
-      "credit": 13595508,
+      "credit": 13601029,
       "team": 212997,
       "id": 73380256
     },
@@ -2234,10 +2234,10 @@
       "id": 337615
     },
     {
-      "wus": 1668,
+      "wus": 1669,
       "name": "Flutternight",
       "rank": 127457,
-      "credit": 4914852,
+      "credit": 4927792,
       "team": 212997,
       "id": 337372
     },
@@ -3362,6 +3362,14 @@
       "id": 745176
     },
     {
+      "wus": 55,
+      "name": "ZenCoresLunarKnight",
+      "rank": 208788,
+      "credit": 1674462,
+      "team": 212997,
+      "id": 466930542
+    },
+    {
       "wus": 309,
       "name": "Cassinova",
       "rank": 205514,
@@ -3392,14 +3400,6 @@
       "credit": 1646990,
       "team": 212997,
       "id": 180556
-    },
-    {
-      "wus": 54,
-      "name": "ZenCoresLunarKnight",
-      "rank": 208788,
-      "credit": 1639767,
-      "team": 212997,
-      "id": 466930542
     },
     {
       "wus": 1290,
@@ -7988,10 +7988,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-23 22:56:41",
+  "last": "2021-02-24 00:16:34",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28927659448,
+  "credit": 28927955993,
   "team": 212997,
   "path": "team/212997"
 }
