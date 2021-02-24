@@ -1,5 +1,5 @@
 {
-  "wus": 1375722,
+  "wus": 1375726,
   "donors": [
     {
       "wus": 33399,
@@ -26,10 +26,10 @@
       "id": 76200050
     },
     {
-      "wus": 15744,
+      "wus": 15745,
       "name": "DingoStarr",
       "rank": 2320,
-      "credit": 611241009,
+      "credit": 611245393,
       "team": 45032,
       "id": 259961
     },
@@ -90,10 +90,10 @@
       "id": 437426
     },
     {
-      "wus": 1998,
+      "wus": 1999,
       "name": "jose.angel.soler.ortiz",
       "rank": 6216,
-      "credit": 264307144,
+      "credit": 264676846,
       "team": 45032,
       "id": 132010172
     },
@@ -354,10 +354,10 @@
       "id": 104686529
     },
     {
-      "wus": 4852,
+      "wus": 4853,
       "name": "Merlock",
       "rank": 21185,
-      "credit": 76327969,
+      "credit": 76334462,
       "team": 45032,
       "id": 1448013
     },
@@ -370,10 +370,10 @@
       "id": 72802372
     },
     {
-      "wus": 803,
+      "wus": 804,
       "name": "LMB",
       "rank": 21579,
-      "credit": 72970309,
+      "credit": 73017915,
       "team": 45032,
       "id": 139638
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-02-24 00:06:35",
+  "last": "2021-02-24 00:26:34",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18334678505,
+  "credit": 18335106690,
   "team": 45032,
   "path": "team/45032"
 }
