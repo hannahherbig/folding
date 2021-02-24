@@ -1,5 +1,5 @@
 {
-  "wus": 1729287,
+  "wus": 1729291,
   "donors": [
     {
       "wus": 85678,
@@ -66,10 +66,10 @@
       "id": 226653
     },
     {
-      "wus": 15221,
+      "wus": 15223,
       "name": "stevepoppers",
       "rank": 2734,
-      "credit": 594202789,
+      "credit": 594299483,
       "team": 212997,
       "id": 250480
     },
@@ -154,10 +154,10 @@
       "id": 255406
     },
     {
-      "wus": 7014,
+      "wus": 7015,
       "name": "GTX",
       "rank": 8156,
-      "credit": 219865660,
+      "credit": 219927112,
       "team": 212997,
       "id": 49911
     },
@@ -170,10 +170,10 @@
       "id": 188984
     },
     {
-      "wus": 5146,
+      "wus": 5147,
       "name": "Chronophaser",
       "rank": 8754,
-      "credit": 207493461,
+      "credit": 207503530,
       "team": 212997,
       "id": 69517169
     },
@@ -7982,16 +7982,16 @@
     }
   ],
   "rank": 53,
-  "total_teams": 256065,
+  "total_teams": 256066,
   "active_50": 231,
   "logo": "http://www.brony.team/images/BAHlarge.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-24 22:06:31",
+  "last": "2021-02-24 22:46:35",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28938164137,
+  "credit": 28938332352,
   "team": 212997,
   "path": "team/212997"
 }
