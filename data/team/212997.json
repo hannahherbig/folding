@@ -1,5 +1,5 @@
 {
-  "wus": 1729749,
+  "wus": 1729757,
   "donors": [
     {
       "wus": 85678,
@@ -50,10 +50,10 @@
       "id": 109627
     },
     {
-      "wus": 20336,
+      "wus": 20337,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 2044,
-      "credit": 753411440,
+      "credit": 753586552,
       "team": 212997,
       "id": 259906
     },
@@ -98,10 +98,10 @@
       "id": 353337
     },
     {
-      "wus": 11434,
+      "wus": 11435,
       "name": "Spazturtle",
       "rank": 3526,
-      "credit": 477364691,
+      "credit": 477446844,
       "team": 212997,
       "id": 110967
     },
@@ -122,10 +122,10 @@
       "id": 262578
     },
     {
-      "wus": 3902,
+      "wus": 3904,
       "name": "Blazingcurent",
       "rank": 5786,
-      "credit": 308713780,
+      "credit": 308851733,
       "team": 212997,
       "id": 72800445
     },
@@ -154,10 +154,10 @@
       "id": 255406
     },
     {
-      "wus": 7030,
+      "wus": 7031,
       "name": "GTX",
       "rank": 8151,
-      "credit": 220866385,
+      "credit": 220905970,
       "team": 212997,
       "id": 49911
     },
@@ -322,10 +322,10 @@
       "id": 190569
     },
     {
-      "wus": 3580,
+      "wus": 3581,
       "name": "IronyDragon",
       "rank": 18005,
-      "credit": 89362518,
+      "credit": 89364206,
       "team": 212997,
       "id": 279471
     },
@@ -586,10 +586,10 @@
       "id": 337451
     },
     {
-      "wus": 3032,
+      "wus": 3033,
       "name": "Fusl",
       "rank": 30774,
-      "credit": 48066113,
+      "credit": 48072109,
       "team": 212997,
       "id": 102092
     },
@@ -2682,20 +2682,20 @@
       "id": 335771
     },
     {
+      "wus": 105,
+      "name": "ZenCoresLunarKnight",
+      "rank": 163197,
+      "credit": 2943318,
+      "team": 212997,
+      "id": 466930542
+    },
+    {
       "wus": 1100,
       "name": "cultpony",
       "rank": 163130,
       "credit": 2889315,
       "team": 212997,
       "id": 285361
-    },
-    {
-      "wus": 104,
-      "name": "ZenCoresLunarKnight",
-      "rank": 163197,
-      "credit": 2886923,
-      "team": 212997,
-      "id": 466930542
     },
     {
       "wus": 994,
@@ -7988,10 +7988,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-02-26 22:06:39",
+  "last": "2021-02-26 22:56:36",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 28960700082,
+  "credit": 28961198964,
   "team": 212997,
   "path": "team/212997"
 }
