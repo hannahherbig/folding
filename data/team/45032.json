@@ -1,5 +1,5 @@
 {
-  "wus": 1376939,
+  "wus": 1376944,
   "donors": [
     {
       "wus": 33399,
@@ -794,12 +794,20 @@
       "id": 61458
     },
     {
-      "wus": 3321,
+      "wus": 3322,
       "name": "Volgy",
       "rank": 38778,
-      "credit": 35251830,
+      "credit": 35267868,
       "team": 45032,
       "id": 65673012
+    },
+    {
+      "wus": 207,
+      "name": "Kschat",
+      "rank": 37816,
+      "credit": 34778647,
+      "team": 45032,
+      "id": 14107
     },
     {
       "wus": 3554,
@@ -808,14 +816,6 @@
       "credit": 34677925,
       "team": 45032,
       "id": 73873037
-    },
-    {
-      "wus": 206,
-      "name": "Kschat",
-      "rank": 37816,
-      "credit": 34600315,
-      "team": 45032,
-      "id": 14107
     },
     {
       "wus": 1036,
@@ -1450,10 +1450,10 @@
       "id": 191063
     },
     {
-      "wus": 1263,
+      "wus": 1264,
       "name": "lambda512",
       "rank": 70472,
-      "credit": 14472861,
+      "credit": 14476369,
       "team": 45032,
       "id": 68345978
     },
@@ -3786,10 +3786,10 @@
       "id": 73809946
     },
     {
-      "wus": 855,
+      "wus": 856,
       "name": "amuro.ID",
       "rank": 91728,
-      "credit": 2967731,
+      "credit": 2969185,
       "team": 45032,
       "id": 1217
     },
@@ -5522,20 +5522,20 @@
       "id": 33053
     },
     {
+      "wus": 886,
+      "name": "rrojas",
+      "rank": 230547,
+      "credit": 1252683,
+      "team": 45032,
+      "id": 67469157
+    },
+    {
       "wus": 77,
       "name": "Caedus",
       "rank": 199338,
       "credit": 1252148,
       "team": 45032,
       "id": 209565
-    },
-    {
-      "wus": 885,
-      "name": "rrojas",
-      "rank": 230547,
-      "credit": 1250992,
-      "team": 45032,
-      "id": 67469157
     },
     {
       "wus": 43,
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-02-26 20:06:38",
+  "last": "2021-02-26 20:36:40",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18394267005,
+  "credit": 18394468028,
   "team": 45032,
   "path": "team/45032"
 }
