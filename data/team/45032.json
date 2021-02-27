@@ -1,5 +1,5 @@
 {
-  "wus": 1377340,
+  "wus": 1377345,
   "donors": [
     {
       "wus": 33399,
@@ -1450,10 +1450,10 @@
       "id": 191063
     },
     {
-      "wus": 1265,
+      "wus": 1266,
       "name": "lambda512",
       "rank": 70465,
-      "credit": 14482589,
+      "credit": 14488219,
       "team": 45032,
       "id": 68345978
     },
@@ -1594,10 +1594,10 @@
       "id": 72480437
     },
     {
-      "wus": 3771,
+      "wus": 3772,
       "name": "oldrocker99",
       "rank": 76439,
-      "credit": 12821791,
+      "credit": 12842091,
       "team": 45032,
       "id": 685449
     },
@@ -3314,10 +3314,10 @@
       "id": 69441675
     },
     {
-      "wus": 854,
+      "wus": 855,
       "name": "chluna",
       "rank": 147970,
-      "credit": 3596234,
+      "credit": 3607471,
       "team": 45032,
       "id": 304703684
     },
@@ -4050,10 +4050,10 @@
       "id": 328038193
     },
     {
-      "wus": 1838,
+      "wus": 1839,
       "name": "jdserna",
       "rank": 174112,
-      "credit": 2505706,
+      "credit": 2506956,
       "team": 45032,
       "id": 70802911
     },
@@ -7162,6 +7162,14 @@
       "id": 84206797
     },
     {
+      "wus": 116,
+      "name": "pkulak",
+      "rank": 295070,
+      "credit": 645137,
+      "team": 45032,
+      "id": 1535462
+    },
+    {
       "wus": 508,
       "name": "mimor",
       "rank": 293022,
@@ -7208,14 +7216,6 @@
       "credit": 631573,
       "team": 45032,
       "id": 689158
-    },
-    {
-      "wus": 115,
-      "name": "pkulak",
-      "rank": 295070,
-      "credit": 630265,
-      "team": 45032,
-      "id": 1535462
     },
     {
       "wus": 96,
@@ -8003,16 +8003,16 @@
     }
   ],
   "rank": 81,
-  "total_teams": 946274,
-  "active_50": 602,
+  "total_teams": 1003171,
+  "active_50": 601,
   "logo": "http://bbs.archlinux.org/img/titlelogo.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-02-27 19:45:39",
+  "last": "2021-02-27 20:05:42",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18412425205,
+  "credit": 18412478494,
   "team": 45032,
   "path": "team/45032"
 }
