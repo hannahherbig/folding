@@ -1,5 +1,5 @@
 {
-  "wus": 1377083,
+  "wus": 1377087,
   "donors": [
     {
       "wus": 33399,
@@ -10,10 +10,10 @@
       "id": 188495
     },
     {
-      "wus": 47518,
+      "wus": 47519,
       "name": "imatechguy",
       "rank": 1750,
-      "credit": 868841498,
+      "credit": 868870924,
       "team": 45032,
       "id": 11268
     },
@@ -98,10 +98,10 @@
       "id": 437426
     },
     {
-      "wus": 3776,
+      "wus": 3777,
       "name": "zuckeenee",
       "rank": 7981,
-      "credit": 228311028,
+      "credit": 228457406,
       "team": 45032,
       "id": 67298257
     },
@@ -794,20 +794,20 @@
       "id": 61458
     },
     {
+      "wus": 211,
+      "name": "Kschat",
+      "rank": 37278,
+      "credit": 35492418,
+      "team": 45032,
+      "id": 14107
+    },
+    {
       "wus": 3325,
       "name": "Volgy",
       "rank": 38738,
       "credit": 35330593,
       "team": 45032,
       "id": 65673012
-    },
-    {
-      "wus": 210,
-      "name": "Kschat",
-      "rank": 37278,
-      "credit": 35313384,
-      "team": 45032,
-      "id": 14107
     },
     {
       "wus": 3554,
@@ -4130,10 +4130,10 @@
       "id": 68845360
     },
     {
-      "wus": 1823,
+      "wus": 1824,
       "name": "out9",
       "rank": 177332,
-      "credit": 2395783,
+      "credit": 2396883,
       "team": 45032,
       "id": 78325878
     },
@@ -8003,16 +8003,16 @@
     }
   ],
   "rank": 81,
-  "total_teams": 862858,
+  "total_teams": 882481,
   "active_50": 602,
   "logo": "http://bbs.archlinux.org/img/titlelogo.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-02-27 04:06:49",
+  "last": "2021-02-27 04:47:19",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18401048856,
+  "credit": 18401404794,
   "team": 45032,
   "path": "team/45032"
 }
