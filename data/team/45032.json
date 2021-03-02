@@ -1,5 +1,5 @@
 {
-  "wus": 1378271,
+  "wus": 1378275,
   "donors": [
     {
       "wus": 33399,
@@ -306,10 +306,10 @@
       "id": 77738
     },
     {
-      "wus": 1646,
+      "wus": 1647,
       "name": "RasmusSteen",
       "rank": 19752,
-      "credit": 84405709,
+      "credit": 84526559,
       "team": 45032,
       "id": 400503878
     },
@@ -370,10 +370,10 @@
       "id": 72802372
     },
     {
-      "wus": 822,
+      "wus": 823,
       "name": "LMB",
       "rank": 21322,
-      "credit": 74727440,
+      "credit": 74773481,
       "team": 45032,
       "id": 139638
     },
@@ -634,10 +634,10 @@
       "id": 396535
     },
     {
-      "wus": 8700,
+      "wus": 8701,
       "name": "rednano",
       "rank": 32613,
-      "credit": 44641503,
+      "credit": 44645707,
       "team": 45032,
       "id": 280337
     },
@@ -674,10 +674,10 @@
       "id": 168831
     },
     {
-      "wus": 1823,
+      "wus": 1824,
       "name": "Rossome",
       "rank": 33956,
-      "credit": 42369474,
+      "credit": 42390797,
       "team": 45032,
       "id": 1589128
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-02 00:25:46",
+  "last": "2021-03-02 00:45:44",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18458264261,
+  "credit": 18458456679,
   "team": 45032,
   "path": "team/45032"
 }
