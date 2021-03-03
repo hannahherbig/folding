@@ -1,5 +1,5 @@
 {
-  "wus": 1731048,
+  "wus": 1731053,
   "donors": [
     {
       "wus": 85678,
@@ -122,10 +122,10 @@
       "id": 262578
     },
     {
-      "wus": 4024,
+      "wus": 4026,
       "name": "Blazingcurent",
       "rank": 5581,
-      "credit": 320669930,
+      "credit": 320986829,
       "team": 212997,
       "id": 72800445
     },
@@ -586,10 +586,10 @@
       "id": 337451
     },
     {
-      "wus": 3051,
+      "wus": 3052,
       "name": "Fusl",
       "rank": 30851,
-      "credit": 48281347,
+      "credit": 48300631,
       "team": 212997,
       "id": 102092
     },
@@ -2242,10 +2242,10 @@
       "id": 337372
     },
     {
-      "wus": 178,
+      "wus": 179,
       "name": "ZenCoresLunarKnight",
       "rank": 128316,
-      "credit": 4930852,
+      "credit": 4934162,
       "team": 212997,
       "id": 466930542
     },
@@ -3994,20 +3994,20 @@
       "id": 310976
     },
     {
+      "wus": 90,
+      "name": "Bloody_Lyra",
+      "rank": 238916,
+      "credit": 1120661,
+      "team": 212997,
+      "id": 67116351
+    },
+    {
       "wus": 1027,
       "name": "PonyTest",
       "rank": 241683,
       "credit": 1110454,
       "team": 212997,
       "id": 8054075
-    },
-    {
-      "wus": 89,
-      "name": "Bloody_Lyra",
-      "rank": 238916,
-      "credit": 1101161,
-      "team": 212997,
-      "id": 67116351
     },
     {
       "wus": 46,
@@ -7988,10 +7988,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-03-03 17:25:43",
+  "last": "2021-03-03 18:05:46",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 29035535258,
+  "credit": 29035894251,
   "team": 212997,
   "path": "team/212997"
 }
