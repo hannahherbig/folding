@@ -1,5 +1,5 @@
 {
-  "wus": 1378767,
+  "wus": 1378770,
   "donors": [
     {
       "wus": 33399,
@@ -66,10 +66,10 @@
       "id": 67567267
     },
     {
-      "wus": 2269,
+      "wus": 2270,
       "name": "dave923875",
       "rank": 5653,
-      "credit": 316563480,
+      "credit": 316706180,
       "team": 45032,
       "id": 76217855
     },
@@ -306,10 +306,10 @@
       "id": 77738
     },
     {
-      "wus": 1657,
+      "wus": 1658,
       "name": "RasmusSteen",
       "rank": 19607,
-      "credit": 85406064,
+      "credit": 85462832,
       "team": 45032,
       "id": 400503878
     },
@@ -626,10 +626,10 @@
       "id": 90992522
     },
     {
-      "wus": 2178,
+      "wus": 2179,
       "name": "DMC",
       "rank": 29947,
-      "credit": 45336809,
+      "credit": 45410077,
       "team": 45032,
       "id": 396535
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-03 03:55:41",
+  "last": "2021-03-03 04:05:44",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18481092639,
+  "credit": 18481365375,
   "team": 45032,
   "path": "team/45032"
 }
