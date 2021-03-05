@@ -1,5 +1,5 @@
 {
-  "wus": 1379868,
+  "wus": 1379885,
   "donors": [
     {
       "wus": 33399,
@@ -114,10 +114,10 @@
       "id": 772799
     },
     {
-      "wus": 62325,
+      "wus": 62326,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 171516714,
+      "credit": 171536427,
       "team": 45032,
       "id": 1437
     },
@@ -194,10 +194,10 @@
       "id": 73468023
     },
     {
-      "wus": 12096,
+      "wus": 12097,
       "name": "GuyMartin",
       "rank": 12487,
-      "credit": 132924179,
+      "credit": 132945572,
       "team": 45032,
       "id": 1279891
     },
@@ -362,10 +362,10 @@
       "id": 1448013
     },
     {
-      "wus": 845,
+      "wus": 846,
       "name": "LMB",
       "rank": 21002,
-      "credit": 76556209,
+      "credit": 76658852,
       "team": 45032,
       "id": 139638
     },
@@ -530,20 +530,20 @@
       "id": 5569
     },
     {
+      "wus": 2090,
+      "name": "Quote",
+      "rank": 19285,
+      "credit": 55725876,
+      "team": 45032,
+      "id": 20440
+    },
+    {
       "wus": 1300,
       "name": "teJECSke",
       "rank": 27706,
       "credit": 55700882,
       "team": 45032,
       "id": 66803087
-    },
-    {
-      "wus": 2089,
-      "name": "Quote",
-      "rank": 19285,
-      "credit": 55619196,
-      "team": 45032,
-      "id": 20440
     },
     {
       "wus": 1052,
@@ -586,12 +586,20 @@
       "id": 24471
     },
     {
-      "wus": 284,
+      "wus": 285,
       "name": "Kschat",
       "rank": 29783,
-      "credit": 48911662,
+      "credit": 49091428,
       "team": 45032,
       "id": 14107
+    },
+    {
+      "wus": 2076,
+      "name": "Rossome",
+      "rank": 31246,
+      "credit": 47684682,
+      "team": 45032,
+      "id": 1589128
     },
     {
       "wus": 1606,
@@ -608,14 +616,6 @@
       "credit": 47648133,
       "team": 45032,
       "id": 65219023
-    },
-    {
-      "wus": 2074,
-      "name": "Rossome",
-      "rank": 31246,
-      "credit": 47642262,
-      "team": 45032,
-      "id": 1589128
     },
     {
       "wus": 7565,
@@ -746,10 +746,10 @@
       "id": 18098
     },
     {
-      "wus": 2906,
+      "wus": 2908,
       "name": "FMeinicke",
       "rank": 35597,
-      "credit": 40039070,
+      "credit": 40092640,
       "team": 45032,
       "id": 68643458
     },
@@ -794,10 +794,10 @@
       "id": 65673012
     },
     {
-      "wus": 10627,
+      "wus": 10628,
       "name": "thermi",
       "rank": 36507,
-      "credit": 35788652,
+      "credit": 35790390,
       "team": 45032,
       "id": 111878
     },
@@ -1338,10 +1338,10 @@
       "id": 67437248
     },
     {
-      "wus": 1024,
+      "wus": 1026,
       "name": "toasthorse",
       "rank": 65248,
-      "credit": 16545515,
+      "credit": 16566353,
       "team": 45032,
       "id": 337544344
     },
@@ -1458,10 +1458,10 @@
       "id": 125795018
     },
     {
-      "wus": 3864,
+      "wus": 3865,
       "name": "oldrocker99",
       "rank": 70371,
-      "credit": 14636470,
+      "credit": 14655570,
       "team": 45032,
       "id": 685449
     },
@@ -2946,20 +2946,20 @@
       "id": 49485
     },
     {
+      "wus": 823,
+      "name": "Tonkybonky",
+      "rank": 127707,
+      "credit": 4454476,
+      "team": 45032,
+      "id": 317900466
+    },
+    {
       "wus": 707,
       "name": "Qwertystop",
       "rank": 134537,
       "credit": 4449163,
       "team": 45032,
       "id": 68442493
-    },
-    {
-      "wus": 822,
-      "name": "Tonkybonky",
-      "rank": 127707,
-      "credit": 4439741,
-      "team": 45032,
-      "id": 317900466
     },
     {
       "wus": 210,
@@ -3490,6 +3490,14 @@
       "id": 101729759
     },
     {
+      "wus": 732,
+      "name": "najjar",
+      "rank": 153630,
+      "credit": 3346908,
+      "team": 45032,
+      "id": 405015436
+    },
+    {
       "wus": 186,
       "name": "kuard",
       "rank": 17851,
@@ -3504,14 +3512,6 @@
       "credit": 3334071,
       "team": 45032,
       "id": 73152679
-    },
-    {
-      "wus": 731,
-      "name": "najjar",
-      "rank": 153630,
-      "credit": 3333787,
-      "team": 45032,
-      "id": 405015436
     },
     {
       "wus": 64,
@@ -4938,20 +4938,20 @@
       "id": 668702
     },
     {
+      "wus": 657,
+      "name": "superboringdev",
+      "rank": 210335,
+      "credit": 1599532,
+      "team": 45032,
+      "id": 66594151
+    },
+    {
       "wus": 316,
       "name": "prodning",
       "rank": 210085,
       "credit": 1597936,
       "team": 45032,
       "id": 366746
-    },
-    {
-      "wus": 655,
-      "name": "superboringdev",
-      "rank": 210335,
-      "credit": 1596982,
-      "team": 45032,
-      "id": 66594151
     },
     {
       "wus": 4204,
@@ -8003,16 +8003,16 @@
     }
   ],
   "rank": 82,
-  "total_teams": 225454,
-  "active_50": 575,
+  "total_teams": 225455,
+  "active_50": 574,
   "logo": "http://bbs.archlinux.org/img/titlelogo.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-05 12:25:43",
+  "last": "2021-03-05 13:16:40",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18527110069,
+  "credit": 18527708336,
   "team": 45032,
   "path": "team/45032"
 }
