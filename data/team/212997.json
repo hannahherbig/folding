@@ -1,5 +1,5 @@
 {
-  "wus": 1731320,
+  "wus": 1731326,
   "donors": [
     {
       "wus": 85678,
@@ -66,10 +66,10 @@
       "id": 226653
     },
     {
-      "wus": 15323,
+      "wus": 15324,
       "name": "stevepoppers",
       "rank": 2756,
-      "credit": 600165969,
+      "credit": 600232309,
       "team": 212997,
       "id": 250480
     },
@@ -154,10 +154,10 @@
       "id": 255406
     },
     {
-      "wus": 7082,
+      "wus": 7083,
       "name": "GTX",
       "rank": 8107,
-      "credit": 223941781,
+      "credit": 224078472,
       "team": 212997,
       "id": 49911
     },
@@ -666,10 +666,10 @@
       "id": 168694
     },
     {
-      "wus": 2609,
+      "wus": 2610,
       "name": "Zosimos",
       "rank": 33343,
-      "credit": 43477354,
+      "credit": 43619670,
       "team": 212997,
       "id": 347284
     },
@@ -1082,20 +1082,20 @@
       "id": 98076
     },
     {
+      "wus": 32657,
+      "name": "WUBBSY",
+      "rank": 59760,
+      "credit": 19211171,
+      "team": 212997,
+      "id": 333935
+    },
+    {
       "wus": 398,
       "name": "Phoenix",
       "rank": 7609,
       "credit": 19209020,
       "team": 212997,
       "id": 82560
-    },
-    {
-      "wus": 32656,
-      "name": "WUBBSY",
-      "rank": 59760,
-      "credit": 19130205,
-      "team": 212997,
-      "id": 333935
     },
     {
       "wus": 1770,
@@ -1258,20 +1258,20 @@
       "id": 251839
     },
     {
+      "wus": 837,
+      "name": "GondolaLikesToWalk",
+      "rank": 69003,
+      "credit": 15204074,
+      "team": 212997,
+      "id": 73380256
+    },
+    {
       "wus": 1360,
       "name": "SillyFilly",
       "rank": 68864,
       "credit": 15159203,
       "team": 212997,
       "id": 146308
-    },
-    {
-      "wus": 836,
-      "name": "GondolaLikesToWalk",
-      "rank": 69003,
-      "credit": 15111975,
-      "team": 212997,
-      "id": 73380256
     },
     {
       "wus": 42515,
@@ -2218,20 +2218,20 @@
       "id": 7306
     },
     {
+      "wus": 189,
+      "name": "ZenCoresLunarKnight",
+      "rank": 125725,
+      "credit": 5181211,
+      "team": 212997,
+      "id": 466930542
+    },
+    {
       "wus": 3775,
       "name": "Chronowerx",
       "rank": 117759,
       "credit": 5172656,
       "team": 212997,
       "id": 99310
-    },
-    {
-      "wus": 188,
-      "name": "ZenCoresLunarKnight",
-      "rank": 125725,
-      "credit": 5146332,
-      "team": 212997,
-      "id": 466930542
     },
     {
       "wus": 852,
@@ -7989,10 +7989,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-03-05 03:35:35",
+  "last": "2021-03-05 04:15:49",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 29057184054,
+  "credit": 29057737345,
   "team": 212997,
   "path": "team/212997"
 }
