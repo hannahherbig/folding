@@ -1,5 +1,5 @@
 {
-  "wus": 1731628,
+  "wus": 1731633,
   "donors": [
     {
       "wus": 85678,
@@ -42,10 +42,10 @@
       "id": 112559
     },
     {
-      "wus": 20402,
+      "wus": 20403,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 2048,
-      "credit": 759041658,
+      "credit": 759159325,
       "team": 212997,
       "id": 259906
     },
@@ -66,10 +66,10 @@
       "id": 226653
     },
     {
-      "wus": 15338,
+      "wus": 15339,
       "name": "stevepoppers",
       "rank": 2754,
-      "credit": 601082276,
+      "credit": 601178112,
       "team": 212997,
       "id": 250480
     },
@@ -162,10 +162,10 @@
       "id": 49911
     },
     {
-      "wus": 5333,
+      "wus": 5334,
       "name": "Chronophaser",
       "rank": 8339,
-      "credit": 222086210,
+      "credit": 222116874,
       "team": 212997,
       "id": 69517169
     },
@@ -434,10 +434,10 @@
       "id": 111662
     },
     {
-      "wus": 3029,
+      "wus": 3030,
       "name": "CycloneDusk",
       "rank": 24569,
-      "credit": 64907207,
+      "credit": 64920147,
       "team": 212997,
       "id": 69005220
     },
@@ -1242,6 +1242,14 @@
       "id": 103728
     },
     {
+      "wus": 846,
+      "name": "GondolaLikesToWalk",
+      "rank": 68536,
+      "credit": 15420530,
+      "team": 212997,
+      "id": 73380256
+    },
+    {
       "wus": 5469,
       "name": "bronyhub",
       "rank": 68344,
@@ -1256,14 +1264,6 @@
       "credit": 15361996,
       "team": 212997,
       "id": 251839
-    },
-    {
-      "wus": 845,
-      "name": "GondolaLikesToWalk",
-      "rank": 68536,
-      "credit": 15293634,
-      "team": 212997,
-      "id": 73380256
     },
     {
       "wus": 1360,
@@ -7989,10 +7989,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-03-06 06:15:38",
+  "last": "2021-03-06 06:55:49",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 29072577736,
+  "credit": 29072961739,
   "team": 212997,
   "path": "team/212997"
 }
