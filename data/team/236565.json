@@ -1,5 +1,5 @@
 {
-  "wus": 54064,
+  "wus": 54067,
   "donors": [
     {
       "wus": 1444,
@@ -74,10 +74,10 @@
       "id": 200256
     },
     {
-      "wus": 4696,
+      "wus": 4698,
       "name": "affinitic",
       "rank": 114984,
-      "credit": 6101644,
+      "credit": 6106780,
       "team": 236565,
       "id": 71439570
     },
@@ -90,10 +90,10 @@
       "id": 72190689
     },
     {
-      "wus": 1391,
+      "wus": 1392,
       "name": "bbigras",
       "rank": 122466,
-      "credit": 5390173,
+      "credit": 5391039,
       "team": 236565,
       "id": 64789969
     },
@@ -704,15 +704,15 @@
       "wus": 1,
       "credit": 9405,
       "team": 236565,
-      "name": "retrry",
-      "id": 69088535
+      "name": "FabianHerediaMontiel",
+      "id": 73266075
     },
     {
       "wus": 1,
       "credit": 9405,
       "team": 236565,
-      "name": "FabianHerediaMontiel",
-      "id": 73266075
+      "name": "retrry",
+      "id": 69088535
     },
     {
       "wus": 6,
@@ -915,15 +915,15 @@
       "wus": 1,
       "credit": 220,
       "team": 236565,
-      "name": "meox",
-      "id": 64882590
+      "name": "cyD",
+      "id": 1018566
     },
     {
       "wus": 1,
       "credit": 220,
       "team": 236565,
-      "name": "cyD",
-      "id": 1018566
+      "name": "meox",
+      "id": 64882590
     },
     {
       "wus": 4,
@@ -939,10 +939,10 @@
   "logo": "https://nixos.org/logo/nix-wiki.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=236565&type=wus",
   "credit_cert": "https://apps.foldingathome.org/awards?team=236565&type=score",
-  "last": "2021-03-06 06:55:46",
+  "last": "2021-03-06 10:15:47",
   "name": "NixOS",
   "url": "https://nixos.org/",
-  "credit": 585489143,
+  "credit": 585495145,
   "team": 236565,
   "path": "team/236565"
 }
