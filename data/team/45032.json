@@ -1,5 +1,5 @@
 {
-  "wus": 1380414,
+  "wus": 1380422,
   "donors": [
     {
       "wus": 33399,
@@ -98,10 +98,10 @@
       "id": 437426
     },
     {
-      "wus": 3885,
+      "wus": 3886,
       "name": "zuckeenee",
       "rank": 7771,
-      "credit": 238277523,
+      "credit": 238293911,
       "team": 45032,
       "id": 67298257
     },
@@ -114,10 +114,10 @@
       "id": 772799
     },
     {
-      "wus": 62344,
+      "wus": 62346,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 171679621,
+      "credit": 171702496,
       "team": 45032,
       "id": 1437
     },
@@ -194,10 +194,10 @@
       "id": 73468023
     },
     {
-      "wus": 12128,
+      "wus": 12129,
       "name": "GuyMartin",
       "rank": 12458,
-      "credit": 133584364,
+      "credit": 133593479,
       "team": 45032,
       "id": 1279891
     },
@@ -322,10 +322,10 @@
       "id": 24617
     },
     {
-      "wus": 4617,
+      "wus": 4618,
       "name": "ihyfr",
       "rank": 17605,
-      "credit": 82962711,
+      "credit": 82997406,
       "team": 45032,
       "id": 103342
     },
@@ -594,10 +594,10 @@
       "id": 24471
     },
     {
-      "wus": 2160,
+      "wus": 2162,
       "name": "Rossome",
       "rank": 30416,
-      "credit": 49441712,
+      "credit": 49484225,
       "team": 45032,
       "id": 1589128
     },
@@ -3946,10 +3946,10 @@
       "id": 135315
     },
     {
-      "wus": 1875,
+      "wus": 1876,
       "name": "jdserna",
       "rank": 170031,
-      "credit": 2656656,
+      "credit": 2657906,
       "team": 45032,
       "id": 70802911
     },
@@ -8003,16 +8003,16 @@
     }
   ],
   "rank": 82,
-  "total_teams": 225458,
+  "total_teams": 225459,
   "active_50": 572,
   "logo": "http://bbs.archlinux.org/img/titlelogo.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-06 17:25:39",
+  "last": "2021-03-06 18:05:39",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18549042902,
+  "credit": 18549169738,
   "team": 45032,
   "path": "team/45032"
 }
