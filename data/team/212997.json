@@ -1,5 +1,5 @@
 {
-  "wus": 1732038,
+  "wus": 1732046,
   "donors": [
     {
       "wus": 85678,
@@ -42,10 +42,10 @@
       "id": 112559
     },
     {
-      "wus": 20417,
+      "wus": 20418,
       "name": "Devonx25_ALL_1Fxkf4CKsJQYguGZuCzxzY3P8eNCvBZA3L",
       "rank": 2050,
-      "credit": 760194621,
+      "credit": 760304346,
       "team": 212997,
       "id": 259906
     },
@@ -122,10 +122,10 @@
       "id": 262578
     },
     {
-      "wus": 4139,
+      "wus": 4142,
       "name": "Blazingcurent",
       "rank": 5400,
-      "credit": 332095266,
+      "credit": 332388350,
       "team": 212997,
       "id": 72800445
     },
@@ -586,20 +586,20 @@
       "id": 337451
     },
     {
+      "wus": 3072,
+      "name": "Fusl",
+      "rank": 30794,
+      "credit": 48660064,
+      "team": 212997,
+      "id": 102092
+    },
+    {
       "wus": 749,
       "name": "LordofDorkness",
       "rank": 30694,
       "credit": 48655842,
       "team": 212997,
       "id": 73548575
-    },
-    {
-      "wus": 3071,
-      "name": "Fusl",
-      "rank": 30794,
-      "credit": 48654478,
-      "team": 212997,
-      "id": 102092
     },
     {
       "wus": 384,
@@ -650,10 +650,10 @@
       "id": 9034933
     },
     {
-      "wus": 2621,
+      "wus": 2622,
       "name": "Zosimos",
       "rank": 32920,
-      "credit": 44391693,
+      "credit": 44495379,
       "team": 212997,
       "id": 347284
     },
@@ -810,10 +810,10 @@
       "id": 280567
     },
     {
-      "wus": 1179,
+      "wus": 1180,
       "name": "Rosiepon",
       "rank": 40157,
-      "credit": 32149593,
+      "credit": 32162533,
       "team": 212997,
       "id": 66695747
     },
@@ -2106,10 +2106,10 @@
       "id": 12483
     },
     {
-      "wus": 219,
+      "wus": 220,
       "name": "ZenCoresLunarKnight",
       "rank": 116917,
-      "credit": 5906874,
+      "credit": 5941569,
       "team": 212997,
       "id": 466930542
     },
@@ -7992,7 +7992,7 @@
   "last": "2021-03-06 21:55:47",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 29097194469,
+  "credit": 29097754185,
   "team": 212997,
   "path": "team/212997"
 }
