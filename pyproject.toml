@@ -10,7 +10,7 @@ GitPython = "^3.1.14"
 more-itertools = "^8.7.0"
 pydantic = "^1.7.3"
 tabulate = "^0.8.9"
-pre-commit = "^2.10.1"
+pre-commit = "^2.11.0"
 
 [tool.poetry.dev-dependencies]
 black = "^20.8b1"
