@@ -1,5 +1,5 @@
 {
-  "wus": 1384442,
+  "wus": 1384457,
   "donors": [
     {
       "wus": 33399,
@@ -18,10 +18,10 @@
       "id": 11268
     },
     {
-      "wus": 5238,
+      "wus": 5239,
       "name": "icantthinkofaname",
       "rank": 2023,
-      "credit": 772379078,
+      "credit": 772481835,
       "team": 45032,
       "id": 76200050
     },
@@ -66,10 +66,10 @@
       "id": 67567267
     },
     {
-      "wus": 2330,
+      "wus": 2331,
       "name": "dave923875",
       "rank": 5597,
-      "credit": 323483195,
+      "credit": 323629504,
       "team": 45032,
       "id": 76217855
     },
@@ -114,10 +114,10 @@
       "id": 772799
     },
     {
-      "wus": 62754,
+      "wus": 62755,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 172611991,
+      "credit": 172613351,
       "team": 45032,
       "id": 1437
     },
@@ -178,10 +178,10 @@
       "id": 6516
     },
     {
-      "wus": 12500,
+      "wus": 12502,
       "name": "GuyMartin",
       "rank": 11938,
-      "credit": 141490571,
+      "credit": 141511043,
       "team": 45032,
       "id": 1279891
     },
@@ -330,10 +330,10 @@
       "id": 103342
     },
     {
-      "wus": 5038,
+      "wus": 5039,
       "name": "Merlock",
       "rank": 20506,
-      "credit": 81319019,
+      "credit": 81382391,
       "team": 45032,
       "id": 1448013
     },
@@ -570,10 +570,10 @@
       "id": 192671
     },
     {
-      "wus": 2357,
+      "wus": 2359,
       "name": "Rossome",
       "rank": 28766,
-      "credit": 53369784,
+      "credit": 53412748,
       "team": 45032,
       "id": 1589128
     },
@@ -690,10 +690,10 @@
       "id": 34491
     },
     {
-      "wus": 1027,
+      "wus": 1028,
       "name": "GreyRogue",
       "rank": 33637,
-      "credit": 43198072,
+      "credit": 43264645,
       "team": 45032,
       "id": 68533822
     },
@@ -786,10 +786,10 @@
       "id": 70419663
     },
     {
-      "wus": 3462,
+      "wus": 3463,
       "name": "Volgy",
       "rank": 37826,
-      "credit": 37124023,
+      "credit": 37139752,
       "team": 45032,
       "id": 65673012
     },
@@ -1298,10 +1298,10 @@
       "id": 100463650
     },
     {
-      "wus": 1076,
+      "wus": 1077,
       "name": "toasthorse",
       "rank": 63883,
-      "credit": 17235180,
+      "credit": 17252209,
       "team": 45032,
       "id": 337544344
     },
@@ -1818,10 +1818,10 @@
       "id": 314958
     },
     {
-      "wus": 2691,
+      "wus": 2692,
       "name": "Foppe",
       "rank": 85448,
-      "credit": 10611912,
+      "credit": 10620699,
       "team": 45032,
       "id": 72478404
     },
@@ -2730,10 +2730,10 @@
       "id": 12835
     },
     {
-      "wus": 873,
+      "wus": 874,
       "name": "Tonkybonky",
       "rank": 121167,
-      "credit": 5021557,
+      "credit": 5025737,
       "team": 45032,
       "id": 317900466
     },
@@ -3442,28 +3442,28 @@
       "id": 73318145
     },
     {
+      "wus": 391,
+      "name": "Skimu",
+      "rank": 141859,
+      "credit": 3475198,
+      "team": 45032,
+      "id": 76301072
+    },
+    {
+      "wus": 736,
+      "name": "mental32",
+      "rank": 151986,
+      "credit": 3448576,
+      "team": 45032,
+      "id": 381853742
+    },
+    {
       "wus": 604,
       "name": "PaalWiik",
       "rank": 151906,
       "credit": 3446496,
       "team": 45032,
       "id": 115623205
-    },
-    {
-      "wus": 735,
-      "name": "mental32",
-      "rank": 151986,
-      "credit": 3437553,
-      "team": 45032,
-      "id": 381853742
-    },
-    {
-      "wus": 390,
-      "name": "Skimu",
-      "rank": 141859,
-      "credit": 3420798,
-      "team": 45032,
-      "id": 76301072
     },
     {
       "wus": 638,
@@ -8003,7 +8003,7 @@
     }
   ],
   "rank": 82,
-  "total_teams": 225465,
+  "total_teams": 225466,
   "active_50": 561,
   "logo": "http://bbs.archlinux.org/img/titlelogo.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
@@ -8012,7 +8012,7 @@
   "last": "2021-03-08 06:27:50",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18629965069,
+  "credit": 18630520024,
   "team": 45032,
   "path": "team/45032"
 }
