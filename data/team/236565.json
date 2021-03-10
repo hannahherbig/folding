@@ -1,5 +1,5 @@
 {
-  "wus": 54302,
+  "wus": 54305,
   "donors": [
     {
       "wus": 1444,
@@ -74,10 +74,10 @@
       "id": 200256
     },
     {
-      "wus": 4815,
+      "wus": 4816,
       "name": "affinitic",
       "rank": 112919,
-      "credit": 6385068,
+      "credit": 6386428,
       "team": 236565,
       "id": 71439570
     },
@@ -298,6 +298,14 @@
       "id": 73179839
     },
     {
+      "wus": 25,
+      "name": "Sir4ur0n",
+      "rank": 350748,
+      "credit": 399384,
+      "team": 236565,
+      "id": 418740
+    },
+    {
       "wus": 92,
       "name": "mulderr",
       "rank": 352638,
@@ -314,14 +322,6 @@
       "id": 79383269
     },
     {
-      "wus": 24,
-      "name": "Sir4ur0n",
-      "rank": 350748,
-      "credit": 364689,
-      "team": 236565,
-      "id": 418740
-    },
-    {
       "wus": 132,
       "name": "Tretboot",
       "rank": 264958,
@@ -330,10 +330,10 @@
       "id": 65571192
     },
     {
-      "wus": 324,
+      "wus": 325,
       "name": "cyplo",
       "rank": 371691,
-      "credit": 314626,
+      "credit": 315986,
       "team": 236565,
       "id": 71100684
     },
@@ -934,7 +934,7 @@
     }
   ],
   "rank": 1126,
-  "total_teams": 225477,
+  "total_teams": 225478,
   "active_50": 11,
   "logo": "https://nixos.org/logo/nix-wiki.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=236565&type=wus",
@@ -942,7 +942,7 @@
   "last": "2021-03-06 20:05:48",
   "name": "NixOS",
   "url": "https://nixos.org/",
-  "credit": 590932263,
+  "credit": 590969678,
   "team": 236565,
   "path": "team/236565"
 }
