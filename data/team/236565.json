@@ -1,5 +1,5 @@
 {
-  "wus": 54319,
+  "wus": 54320,
   "donors": [
     {
       "wus": 1444,
@@ -330,10 +330,10 @@
       "id": 65571192
     },
     {
-      "wus": 325,
+      "wus": 326,
       "name": "cyplo",
       "rank": 371434,
-      "credit": 315986,
+      "credit": 316852,
       "team": 236565,
       "id": 71100684
     },
@@ -934,15 +934,15 @@
     }
   ],
   "rank": 1128,
-  "total_teams": 225480,
+  "total_teams": 225481,
   "active_50": 11,
   "logo": "https://nixos.org/logo/nix-wiki.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=236565&type=wus",
   "credit_cert": "https://apps.foldingathome.org/awards?team=236565&type=score",
-  "last": "2021-03-11 10:56:00",
+  "last": "2021-03-11 12:06:05",
   "name": "NixOS",
   "url": "https://nixos.org/",
-  "credit": 591186123,
+  "credit": 591186989,
   "team": 236565,
   "path": "team/236565"
 }
