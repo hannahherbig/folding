@@ -1,5 +1,5 @@
 {
-  "wus": 1385595,
+  "wus": 1385600,
   "donors": [
     {
       "wus": 33399,
@@ -178,10 +178,10 @@
       "id": 6516
     },
     {
-      "wus": 12566,
+      "wus": 12569,
       "name": "GuyMartin",
       "rank": 11874,
-      "credit": 142861223,
+      "credit": 142899341,
       "team": 45032,
       "id": 1279891
     },
@@ -530,10 +530,10 @@
       "id": 5709
     },
     {
-      "wus": 2478,
+      "wus": 2479,
       "name": "Rossome",
       "rank": 27659,
-      "credit": 56325266,
+      "credit": 56345827,
       "team": 45032,
       "id": 1589128
     },
@@ -2194,10 +2194,10 @@
       "id": 240591
     },
     {
-      "wus": 1097,
+      "wus": 1098,
       "name": "okaycj",
       "rank": 102571,
-      "credit": 7668858,
+      "credit": 7673303,
       "team": 45032,
       "id": 364677431
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-11 04:05:52",
+  "last": "2021-03-11 04:35:54",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18668881910,
+  "credit": 18668945034,
   "team": 45032,
   "path": "team/45032"
 }
