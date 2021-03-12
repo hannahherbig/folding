@@ -3,148 +3,156 @@
   "monthly": true,
   "results": [
     {
-      "wus": 844291,
+      "wus": 849904,
       "name": "Anonymous",
       "rank": -1,
-      "credit": 14170360194,
+      "credit": 14375194695,
       "team": 0,
       "id": 1437
     },
     {
-      "wus": 68406,
+      "wus": 68449,
       "name": "NVIDIA_Saturn_V",
       "rank": -1,
-      "credit": 11505478837,
+      "credit": 11507539907,
       "team": 259918,
       "id": 92215034
     },
     {
-      "wus": 40787,
+      "wus": 40858,
       "name": "Ytl",
       "rank": -1,
-      "credit": 4862462714,
+      "credit": 4877047458,
       "team": 243328,
       "id": 1754175
     },
     {
-      "wus": 31045,
+      "wus": 31324,
       "name": "GuillaumeSmaha",
       "rank": -1,
-      "credit": 3931720581,
+      "credit": 3971046682,
       "team": 245993,
       "id": 72827664
     },
     {
-      "wus": 13517,
+      "wus": 13605,
       "name": "fswork",
       "rank": -1,
-      "credit": 3838704711,
+      "credit": 3865036279,
       "team": 155780,
       "id": 8992
     },
     {
-      "wus": 70758,
+      "wus": 71139,
       "name": "Arbutus",
       "rank": -1,
-      "credit": 2586176852,
+      "credit": 2603215873,
       "team": 250396,
       "id": 166229
     },
     {
-      "wus": 483533,
+      "wus": 488076,
       "name": "Anonymous",
       "rank": -1,
-      "credit": 2518064277,
+      "credit": 2546378868,
       "team": 268045,
       "id": 1437
     },
     {
-      "wus": 9425,
+      "wus": 9496,
       "name": "NV-CRF",
       "rank": -1,
-      "credit": 2119256985,
+      "credit": 2135123238,
       "team": 253515,
       "id": 73385104
     },
     {
-      "wus": 84798,
+      "wus": 85105,
       "name": "CRT-DC_and_Frontier_Labs",
       "rank": -1,
-      "credit": 1959548946,
+      "credit": 1966529964,
       "team": 711,
       "id": 105067510
     },
     {
-      "wus": 218414,
+      "wus": 219293,
       "name": "ANX_Developers",
       "rank": -1,
-      "credit": 1888272853,
+      "credit": 1897411938,
       "team": 261481,
       "id": 102897045
     },
     {
-      "wus": 67519,
+      "wus": 68222,
       "name": "Dapper_Sandstorm",
       "rank": -1,
-      "credit": 1620296318,
+      "credit": 1633266746,
       "team": 257579,
       "id": 81172866
     },
     {
-      "wus": 5105,
+      "wus": 5153,
       "name": "CDCTResearchAndInnovationHubs",
       "rank": -1,
-      "credit": 1323318085,
+      "credit": 1335769928,
       "team": 237712,
       "id": 69347523
     },
     {
-      "wus": 28686,
+      "wus": 28793,
       "name": "blspcy",
       "rank": -1,
-      "credit": 1085042611,
+      "credit": 1088579269,
       "team": 266168,
       "id": 207491045
     },
     {
-      "wus": 21525,
+      "wus": 21598,
       "name": "FCE_CTU",
       "rank": -1,
-      "credit": 1014778124,
+      "credit": 1020293058,
       "team": 252064,
       "id": 183999339
     },
     {
-      "wus": 6830,
+      "wus": 6875,
       "name": "Catalina588_ALL_1EMQiByPxuaffjHVyb4RDLXChMkwgWmYUn",
       "rank": -1,
-      "credit": 958185457,
+      "credit": 964772337,
       "team": 224497,
       "id": 335125
     },
     {
-      "wus": 50046,
+      "wus": 50286,
       "name": "Intel_Diamond",
       "rank": -1,
-      "credit": 939831246,
+      "credit": 944623619,
       "team": 711,
       "id": 119446933
     },
     {
-      "wus": 6354,
+      "wus": 6396,
       "name": "Hou5e_ALL_15k84jUoNPb1kodGvYtKDHiBPRX4Qs3kx8",
       "rank": -1,
-      "credit": 904152150,
+      "credit": 910747849,
       "team": 224497,
       "id": 245474
     },
     {
-      "wus": 3930,
+      "wus": 3964,
       "name": "TheWasp",
       "rank": -1,
-      "credit": 886135631,
+      "credit": 893121598,
       "team": 70335,
       "id": 25254
+    },
+    {
+      "wus": 4754,
+      "name": "UCB RISE",
+      "rank": -1,
+      "credit": 886745464,
+      "team": 255460,
+      "id": 77406607
     },
     {
       "wus": 3262,
@@ -155,516 +163,508 @@
       "id": 80355459
     },
     {
-      "wus": 4681,
-      "name": "UCB RISE",
-      "rank": -1,
-      "credit": 869446090,
-      "team": 255460,
-      "id": 77406607
-    },
-    {
-      "wus": 4670,
+      "wus": 4699,
       "name": "CAVE2",
       "rank": -1,
-      "credit": 799296936,
+      "credit": 804549713,
       "team": 263148,
       "id": 118240225
     },
     {
-      "wus": 6827,
+      "wus": 6871,
       "name": "ctTEAM",
       "rank": -1,
-      "credit": 796795822,
+      "credit": 801694535,
       "team": 251999,
       "id": 74512365
     },
     {
-      "wus": 3384,
+      "wus": 3410,
       "name": "Kjetil_Lura",
       "rank": -1,
-      "credit": 711780153,
+      "credit": 716698295,
       "team": 37651,
       "id": 13773
     },
     {
-      "wus": 23654,
+      "wus": 23753,
       "name": "novosirj",
       "rank": -1,
-      "credit": 690335930,
+      "credit": 694478210,
       "team": 86926,
       "id": 68113902
     },
     {
-      "wus": 6262,
+      "wus": 6325,
       "name": "HayesK_ALL_18SjyNbF8VdXaNAFCVfG4rAHUyvtdmoFvX",
       "rank": -1,
-      "credit": 666945093,
+      "credit": 673007949,
       "team": 224497,
       "id": 335566
     },
     {
-      "wus": 2883,
+      "wus": 2905,
       "name": "84036980",
       "rank": -1,
-      "credit": 665984296,
+      "credit": 671063352,
       "team": 31403,
       "id": 96644
     },
     {
-      "wus": 7956,
+      "wus": 7995,
       "name": "David_Filiatrault",
       "rank": -1,
-      "credit": 625621358,
+      "credit": 628573142,
       "team": 238068,
       "id": 94736445
     },
     {
-      "wus": 29904,
-      "name": "CAPTAIN_VSAN",
-      "rank": -1,
-      "credit": 584529188,
-      "team": 52737,
-      "id": 74974140
-    },
-    {
-      "wus": 3622,
+      "wus": 3650,
       "name": "Tuna_Ertemalp",
       "rank": -1,
-      "credit": 582500146,
+      "credit": 587940814,
       "team": 999,
       "id": 68433403
     },
     {
-      "wus": 8337,
+      "wus": 30024,
+      "name": "CAPTAIN_VSAN",
+      "rank": -1,
+      "credit": 586783258,
+      "team": 52737,
+      "id": 74974140
+    },
+    {
+      "wus": 8383,
       "name": "the901",
       "rank": -1,
-      "credit": 544712070,
+      "credit": 548942227,
       "team": 33,
       "id": 420077
     },
     {
-      "wus": 32565,
+      "wus": 32694,
       "name": "jaredM",
       "rank": -1,
-      "credit": 529439443,
+      "credit": 531676472,
       "team": 253402,
       "id": 71145335
     },
     {
-      "wus": 8340,
+      "wus": 8410,
       "name": "Jasminl",
       "rank": -1,
-      "credit": 517253319,
+      "credit": 523249433,
       "team": 51,
       "id": 173048
     },
     {
-      "wus": 3979,
+      "wus": 4001,
       "name": "Principled_Technologies",
       "rank": -1,
-      "credit": 515759808,
+      "credit": 519527005,
       "team": 0,
       "id": 72279837
     },
     {
-      "wus": 1798,
+      "wus": 1810,
       "name": "Pokey_TA",
       "rank": -1,
-      "credit": 500285298,
+      "credit": 503639439,
       "team": 198,
       "id": 19925
     },
     {
-      "wus": 6896,
+      "wus": 6934,
       "name": "Intel_USA_IDD",
       "rank": -1,
-      "credit": 488603262,
+      "credit": 492002159,
       "team": 711,
       "id": 427155340
     },
     {
-      "wus": 144873,
+      "wus": 146264,
       "name": "plack",
       "rank": -1,
-      "credit": 481523493,
+      "credit": 486091836,
       "team": 0,
       "id": 462981561
     },
     {
-      "wus": 6467,
+      "wus": 6509,
       "name": "WARLOC",
       "rank": -1,
-      "credit": 479283645,
+      "credit": 482717296,
       "team": 226665,
       "id": 349439332
     },
     {
-      "wus": 2641,
+      "wus": 2658,
       "name": "Csiga",
       "rank": -1,
-      "credit": 437498285,
+      "credit": 441264150,
       "team": 240228,
       "id": 762850
     },
     {
-      "wus": 3693,
+      "wus": 3718,
       "name": "MightyMayfield",
       "rank": -1,
-      "credit": 428470128,
+      "credit": 431876334,
       "team": 257944,
       "id": 85831522
     },
     {
-      "wus": 3111,
+      "wus": 3161,
       "name": "tnt.uni-hannover.de",
       "rank": -1,
-      "credit": 412286292,
+      "credit": 421846431,
       "team": 127907,
       "id": 102846155
     },
     {
-      "wus": 2838,
+      "wus": 2859,
       "name": "knopflerbruce",
       "rank": -1,
-      "credit": 395234241,
+      "credit": 398206236,
       "team": 37651,
       "id": 13857
     },
     {
-      "wus": 2737,
+      "wus": 2760,
       "name": "[Zebulon.fr]_Gtevoone82",
       "rank": -1,
-      "credit": 386264587,
+      "credit": 389989379,
       "team": 51,
       "id": 48570215
     },
     {
-      "wus": 2178,
+      "wus": 2196,
       "name": "Mark_F_Williams",
       "rank": -1,
-      "credit": 345314098,
+      "credit": 347851023,
       "team": 198,
       "id": 15758
     },
     {
-      "wus": 11543,
+      "wus": 11586,
       "name": "HITL",
       "rank": -1,
-      "credit": 339633166,
+      "credit": 341632908,
       "team": 241916,
       "id": 105412347
     },
     {
-      "wus": 1527,
+      "wus": 1536,
       "name": "BadBertie",
       "rank": -1,
-      "credit": 315070833,
+      "credit": 317251823,
       "team": 111065,
       "id": 97898
     },
     {
-      "wus": 2254,
+      "wus": 2266,
       "name": "hobob322",
       "rank": -1,
-      "credit": 303769950,
+      "credit": 305655255,
       "team": 223518,
       "id": 77288120
     },
     {
-      "wus": 19542,
+      "wus": 19543,
       "name": "OTC_terraform",
       "rank": -1,
-      "credit": 302106446,
+      "credit": 302111500,
       "team": 249367,
       "id": 425293171
     },
     {
-      "wus": 3550,
+      "wus": 3572,
       "name": "Z4G4",
       "rank": -1,
-      "credit": 291437410,
+      "credit": 293678011,
       "team": 265163,
       "id": 195223751
     },
     {
-      "wus": 1429,
+      "wus": 1438,
       "name": "Kendall_RIgg",
       "rank": -1,
-      "credit": 286181709,
+      "credit": 288035376,
       "team": 223518,
       "id": 74483046
     },
     {
-      "wus": 14595,
+      "wus": 14664,
       "name": "RHRK",
       "rank": -1,
-      "credit": 283601950,
+      "credit": 284995753,
       "team": 235935,
       "id": 61977515
     },
     {
-      "wus": 2125,
+      "wus": 2140,
       "name": "heyus",
       "rank": -1,
-      "credit": 282245473,
+      "credit": 284446033,
       "team": 224497,
       "id": 65186243
     },
     {
-      "wus": 2042,
+      "wus": 2054,
       "name": "SailFR",
       "rank": -1,
-      "credit": 278887427,
+      "credit": 281522331,
       "team": 254056,
       "id": 75829644
     },
     {
-      "wus": 14145,
+      "wus": 14199,
       "name": "HIT_Team",
       "rank": -1,
-      "credit": 270876564,
+      "credit": 271690296,
       "team": 711,
       "id": 164530957
     },
     {
-      "wus": 1570,
+      "wus": 1581,
       "name": "NGruia",
       "rank": -1,
-      "credit": 266491406,
+      "credit": 268476810,
       "team": 261416,
       "id": 31560438
     },
     {
-      "wus": 1647,
+      "wus": 1656,
       "name": "Mxyzptlk",
       "rank": -1,
-      "credit": 246215998,
+      "credit": 247723213,
       "team": 223518,
       "id": 388868
     },
     {
-      "wus": 1311,
+      "wus": 1316,
       "name": "MicbersonD",
       "rank": -1,
-      "credit": 243995111,
+      "credit": 244955679,
       "team": 0,
       "id": 350792491
     },
     {
-      "wus": 13949,
+      "wus": 13992,
       "name": "IsalaI&I",
       "rank": -1,
-      "credit": 240440203,
+      "credit": 241248894,
       "team": 236111,
       "id": 86395997
     },
     {
-      "wus": 2851,
+      "wus": 2867,
       "name": "SunnyChen",
       "rank": -1,
-      "credit": 238633424,
+      "credit": 240565132,
       "team": 31403,
       "id": 74047730
     },
     {
-      "wus": 1666,
+      "wus": 1678,
       "name": "SixthLevel",
       "rank": -1,
-      "credit": 235858634,
+      "credit": 237425895,
       "team": 262711,
       "id": 425399654
     },
     {
-      "wus": 9468,
+      "wus": 9513,
       "name": "criteo",
       "rank": -1,
-      "credit": 234157070,
+      "credit": 235301073,
       "team": 0,
       "id": 69467797
     },
     {
-      "wus": 1546,
+      "wus": 1553,
       "name": "Demura_Lab_Kanazawa_Institute_of_Technology",
       "rank": -1,
-      "credit": 233380367,
+      "credit": 234420295,
       "team": 257261,
       "id": 153084633
     },
     {
-      "wus": 8332,
+      "wus": 8364,
       "name": "HayesK_ALL_18SjyNbF8VdXaNAFCVfG4rAHUyvtdmoFvX",
       "rank": -1,
-      "credit": 231908279,
+      "credit": 233587474,
       "team": 32,
       "id": 335566
     },
     {
-      "wus": 11248,
+      "wus": 11292,
       "name": "ctao-ie",
       "rank": -1,
-      "credit": 231591850,
+      "credit": 232392315,
       "team": 1115,
       "id": 69347825
     },
     {
-      "wus": 1230,
+      "wus": 1236,
       "name": "Alien88",
       "rank": -1,
-      "credit": 226344706,
+      "credit": 227660354,
       "team": 237601,
       "id": 66461006
     },
     {
-      "wus": 3025,
+      "wus": 3044,
       "name": "Z8G4",
       "rank": -1,
-      "credit": 224919342,
+      "credit": 226655428,
       "team": 265163,
       "id": 267787840
     },
     {
-      "wus": 1362,
+      "wus": 1370,
       "name": "AJM",
       "rank": -1,
-      "credit": 224122387,
+      "credit": 225803082,
       "team": 182116,
       "id": 618240
     },
     {
-      "wus": 923,
+      "wus": 930,
       "name": "kevinjos",
       "rank": -1,
-      "credit": 219108153,
+      "credit": 220725932,
       "team": 261972,
       "id": 72811702
     },
     {
-      "wus": 2911,
+      "wus": 2919,
       "name": "VitaTaf",
       "rank": -1,
-      "credit": 218757513,
+      "credit": 219683200,
       "team": 233517,
       "id": 447685727
     },
     {
-      "wus": 1649,
+      "wus": 1658,
       "name": "Bechtle_Systemhaus_Ulm",
       "rank": -1,
-      "credit": 216023123,
+      "credit": 217677809,
       "team": 244062,
       "id": 123730638
     },
     {
-      "wus": 3122,
+      "wus": 3143,
       "name": "BulgarDemon",
       "rank": -1,
-      "credit": 211249408,
+      "credit": 212773915,
       "team": 224497,
       "id": 98767
     },
     {
-      "wus": 1885,
-      "name": "war",
-      "rank": -1,
-      "credit": 211240907,
-      "team": 37651,
-      "id": 27111
-    },
-    {
-      "wus": 1536,
+      "wus": 1546,
       "name": "XZero450",
       "rank": -1,
-      "credit": 210997602,
+      "credit": 212669250,
       "team": 50711,
       "id": 157037
     },
     {
-      "wus": 1514,
+      "wus": 1912,
+      "name": "war",
+      "rank": -1,
+      "credit": 212362403,
+      "team": 37651,
+      "id": 27111
+    },
+    {
+      "wus": 1527,
       "name": "inder372",
       "rank": -1,
-      "credit": 209409896,
+      "credit": 211110115,
       "team": 111065,
       "id": 11315
     },
     {
-      "wus": 1451,
+      "wus": 1461,
       "name": "grtig",
       "rank": -1,
-      "credit": 208882977,
+      "credit": 210463402,
       "team": 252057,
       "id": 71882541
     },
     {
-      "wus": 1512,
+      "wus": 1521,
       "name": "CoolGTX",
       "rank": -1,
-      "credit": 207359139,
+      "credit": 208816659,
       "team": 111065,
       "id": 259460
     },
     {
-      "wus": 2583,
-      "name": "puchiko-sachiko",
-      "rank": -1,
-      "credit": 205304607,
-      "team": 252872,
-      "id": 106596606
-    },
-    {
-      "wus": 9663,
+      "wus": 9762,
       "name": "TeamMO",
       "rank": -1,
-      "credit": 205299863,
+      "credit": 207246597,
       "team": 256322,
       "id": 93251730
     },
     {
-      "wus": 6414,
+      "wus": 2594,
+      "name": "puchiko-sachiko",
+      "rank": -1,
+      "credit": 206591140,
+      "team": 252872,
+      "id": 106596606
+    },
+    {
+      "wus": 6459,
       "name": "atleonrun",
       "rank": -1,
-      "credit": 202028448,
+      "credit": 204576760,
       "team": 711,
       "id": 71369533
     },
     {
-      "wus": 868,
+      "wus": 874,
       "name": "Scott",
       "rank": -1,
-      "credit": 200383169,
+      "credit": 201739535,
       "team": 41608,
       "id": 22266
     },
     {
-      "wus": 1222,
+      "wus": 1231,
       "name": "Jacky_BEL",
       "rank": -1,
-      "credit": 200273753,
+      "credit": 201718897,
       "team": 50711,
       "id": 377963449
     },
     {
-      "wus": 1068,
+      "wus": 1076,
       "name": "gordonbb",
       "rank": -1,
-      "credit": 199482165,
+      "credit": 200920348,
       "team": 223518,
       "id": 348895
     },
     {
-      "wus": 1357,
-      "name": "cine.chris",
-      "rank": -1,
-      "credit": 197360473,
-      "team": 257944,
-      "id": 111758428
-    },
-    {
-      "wus": 1741,
+      "wus": 1765,
       "name": "Chris_Kozlowski",
       "rank": -1,
-      "credit": 196032765,
+      "credit": 200379161,
       "team": 238068,
       "id": 405902
+    },
+    {
+      "wus": 1366,
+      "name": "cine.chris",
+      "rank": -1,
+      "credit": 198633924,
+      "team": 257944,
+      "id": 111758428
     },
     {
       "wus": 2971,
@@ -675,132 +675,132 @@
       "id": 83837941
     },
     {
-      "wus": 1933,
+      "wus": 1948,
       "name": "Technologov",
       "rank": -1,
-      "credit": 189835664,
+      "credit": 191624074,
       "team": 0,
       "id": 15468793
     },
     {
-      "wus": 1459,
+      "wus": 1467,
       "name": "mame63",
       "rank": -1,
-      "credit": 189122523,
+      "credit": 190381954,
       "team": 86565,
       "id": 15575
     },
     {
-      "wus": 878,
+      "wus": 885,
       "name": "Justaphf",
       "rank": -1,
-      "credit": 185337142,
+      "credit": 186793484,
       "team": 223518,
       "id": 411205
     },
     {
-      "wus": 1623,
+      "wus": 1635,
       "name": "rickoic",
       "rank": -1,
-      "credit": 184843743,
+      "credit": 186276817,
       "team": 15,
       "id": 21165
     },
     {
-      "wus": 1806,
+      "wus": 1816,
       "name": "Jedd_bag",
       "rank": -1,
-      "credit": 179860478,
+      "credit": 181185260,
       "team": 11108,
       "id": 12048
     },
     {
-      "wus": 93769,
+      "wus": 94247,
       "name": "Anonymous",
       "rank": -1,
-      "credit": 178459880,
+      "credit": 179399026,
       "team": 258507,
       "id": 1437
     },
     {
-      "wus": 4676,
+      "wus": 4713,
       "name": "WashU_McKelvey_School_of_Engineering",
       "rank": -1,
-      "credit": 177734302,
+      "credit": 178900896,
       "team": 40211,
       "id": 107490462
     },
     {
-      "wus": 1196,
+      "wus": 1204,
       "name": "mos_volta01",
       "rank": -1,
-      "credit": 176454779,
+      "credit": 177774450,
       "team": 250435,
       "id": 73737785
     },
     {
-      "wus": 861,
+      "wus": 866,
       "name": "Foxter",
       "rank": -1,
-      "credit": 174331271,
+      "credit": 175527176,
       "team": 261416,
       "id": 101953
     },
     {
-      "wus": 1437,
+      "wus": 1445,
       "name": "DocJonz",
       "rank": -1,
-      "credit": 174319693,
+      "credit": 175516771,
       "team": 35947,
       "id": 6780
     },
     {
-      "wus": 1158,
+      "wus": 1166,
       "name": "IngramsRugby",
       "rank": -1,
-      "credit": 172961295,
+      "credit": 174235201,
       "team": 0,
       "id": 70299426
     },
     {
-      "wus": 1029,
+      "wus": 1037,
       "name": "zadadrian",
       "rank": -1,
-      "credit": 172420310,
+      "credit": 173918799,
       "team": 261416,
       "id": 351637
     },
     {
-      "wus": 843,
-      "name": "P4EE",
-      "rank": -1,
-      "credit": 167639539,
-      "team": 32,
-      "id": 18960
-    },
-    {
-      "wus": 1176,
+      "wus": 1190,
       "name": "Bastiaan_NL",
       "rank": -1,
-      "credit": 167546564,
+      "credit": 169496879,
       "team": 239902,
       "id": 2347
     },
     {
-      "wus": 837,
-      "name": "HM-Jester",
+      "wus": 848,
+      "name": "P4EE",
       "rank": -1,
-      "credit": 165845494,
-      "team": 94347,
-      "id": 10736
+      "credit": 168722916,
+      "team": 32,
+      "id": 18960
     },
     {
-      "wus": 1290,
+      "wus": 1303,
       "name": "NormalDiffusion",
       "rank": -1,
-      "credit": 165638844,
+      "credit": 167331942,
       "team": 0,
       "id": 61833751
+    },
+    {
+      "wus": 842,
+      "name": "HM-Jester",
+      "rank": -1,
+      "credit": 167268175,
+      "team": 94347,
+      "id": 10736
     }
   ],
   "month": 3,
