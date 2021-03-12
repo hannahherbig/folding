@@ -1,5 +1,5 @@
 {
-  "wus": 1386291,
+  "wus": 1386305,
   "donors": [
     {
       "wus": 33399,
@@ -18,10 +18,10 @@
       "id": 11268
     },
     {
-      "wus": 5301,
+      "wus": 5303,
       "name": "icantthinkofaname",
       "rank": 2005,
-      "credit": 785287369,
+      "credit": 785692065,
       "team": 45032,
       "id": 76200050
     },
@@ -66,18 +66,18 @@
       "id": 67567267
     },
     {
-      "wus": 2378,
+      "wus": 2379,
       "name": "dave923875",
       "rank": 5542,
-      "credit": 328575398,
+      "credit": 328644265,
       "team": 45032,
       "id": 76217855
     },
     {
-      "wus": 2456,
+      "wus": 2457,
       "name": "jose.angel.soler.ortiz",
       "rank": 5350,
-      "credit": 315494861,
+      "credit": 315712122,
       "team": 45032,
       "id": 132010172
     },
@@ -274,10 +274,10 @@
       "id": 69012313
     },
     {
-      "wus": 1807,
+      "wus": 1808,
       "name": "RasmusSteen",
       "rank": 18473,
-      "credit": 93359092,
+      "credit": 93416507,
       "team": 45032,
       "id": 400503878
     },
@@ -338,10 +338,10 @@
       "id": 1448013
     },
     {
-      "wus": 889,
+      "wus": 890,
       "name": "LMB",
       "rank": 20397,
-      "credit": 80648889,
+      "credit": 80774728,
       "team": 45032,
       "id": 139638
     },
@@ -394,10 +394,10 @@
       "id": 186836590
     },
     {
-      "wus": 3053,
+      "wus": 3054,
       "name": "tms7",
       "rank": 24095,
-      "credit": 67092275,
+      "credit": 67123900,
       "team": 45032,
       "id": 338269
     },
@@ -946,10 +946,10 @@
       "id": 57396945
     },
     {
-      "wus": 712,
+      "wus": 713,
       "name": "Vicente_Villarroel",
       "rank": 40382,
-      "credit": 28274885,
+      "credit": 28391241,
       "team": 45032,
       "id": 75696548
     },
@@ -1298,10 +1298,10 @@
       "id": 183690
     },
     {
-      "wus": 362,
+      "wus": 363,
       "name": "tstrackg",
       "rank": 61311,
-      "credit": 17407321,
+      "credit": 17526076,
       "team": 45032,
       "id": 100463650
     },
@@ -2114,10 +2114,10 @@
       "id": 68349227
     },
     {
-      "wus": 1953,
+      "wus": 1954,
       "name": "ChrisSN",
       "rank": 97617,
-      "credit": 8408121,
+      "credit": 8416963,
       "team": 45032,
       "id": 62538022
     },
@@ -3226,20 +3226,20 @@
       "id": 375994
     },
     {
+      "wus": 158,
+      "name": "jonasricardo",
+      "rank": 143948,
+      "credit": 3819725,
+      "team": 45032,
+      "id": 104208176
+    },
+    {
       "wus": 80,
       "name": "Noah_Martino",
       "rank": 145681,
       "credit": 3810195,
       "team": 45032,
       "id": 42618788
-    },
-    {
-      "wus": 157,
-      "name": "jonasricardo",
-      "rank": 143948,
-      "credit": 3806785,
-      "team": 45032,
-      "id": 104208176
     },
     {
       "wus": 100,
@@ -3962,10 +3962,10 @@
       "id": 135315
     },
     {
-      "wus": 1913,
+      "wus": 1914,
       "name": "out9",
       "rank": 171259,
-      "credit": 2650847,
+      "credit": 2652097,
       "team": 45032,
       "id": 78325878
     },
@@ -4690,20 +4690,20 @@
       "id": 103465548
     },
     {
+      "wus": 1694,
+      "name": "darose",
+      "rank": 201125,
+      "credit": 1816438,
+      "team": 45032,
+      "id": 70149855
+    },
+    {
       "wus": 117,
       "name": "GoatJan",
       "rank": 201000,
       "credit": 1816178,
       "team": 45032,
       "id": 71402563
-    },
-    {
-      "wus": 1693,
-      "name": "darose",
-      "rank": 201125,
-      "credit": 1812838,
-      "team": 45032,
-      "id": 70149855
     },
     {
       "wus": 350,
@@ -6522,10 +6522,10 @@
       "id": 177843500
     },
     {
-      "wus": 431,
+      "wus": 432,
       "name": "Slowness",
       "rank": 267552,
-      "credit": 856060,
+      "credit": 856926,
       "team": 45032,
       "id": 68209564
     },
@@ -8003,16 +8003,16 @@
     }
   ],
   "rank": 82,
-  "total_teams": 225485,
+  "total_teams": 225486,
   "active_50": 542,
   "logo": "http://bbs.archlinux.org/img/titlelogo.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-12 17:56:02",
+  "last": "2021-03-12 19:15:57",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18702863177,
+  "credit": 18704031489,
   "team": 45032,
   "path": "team/45032"
 }
