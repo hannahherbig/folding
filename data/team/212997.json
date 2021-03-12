@@ -1,5 +1,5 @@
 {
-  "wus": 1734643,
+  "wus": 1734650,
   "donors": [
     {
       "wus": 85678,
@@ -122,10 +122,10 @@
       "id": 262578
     },
     {
-      "wus": 4375,
+      "wus": 4376,
       "name": "Blazingcurent",
       "rank": 5205,
-      "credit": 346915263,
+      "credit": 347011988,
       "team": 212997,
       "id": 72800445
     },
@@ -306,10 +306,10 @@
       "id": 188554
     },
     {
-      "wus": 2013,
+      "wus": 2014,
       "name": "Naga",
       "rank": 17739,
-      "credit": 97755377,
+      "credit": 97869728,
       "team": 212997,
       "id": 84291
     },
@@ -402,10 +402,10 @@
       "id": 167961
     },
     {
-      "wus": 12516,
+      "wus": 12517,
       "name": "MkThundrwd",
       "rank": 21055,
-      "credit": 70895218,
+      "credit": 70902760,
       "team": 212997,
       "id": 106865
     },
@@ -754,10 +754,10 @@
       "id": 23876
     },
     {
-      "wus": 4539,
+      "wus": 4540,
       "name": "Bikerbob1016",
       "rank": 37647,
-      "credit": 37342112,
+      "credit": 37367112,
       "team": 212997,
       "id": 57894
     },
@@ -1146,20 +1146,20 @@
       "id": 1621706
     },
     {
-      "wus": 1388,
-      "name": "Aisteru",
-      "rank": 64057,
-      "credit": 17215497,
-      "team": 212997,
-      "id": 278446
-    },
-    {
-      "wus": 948,
+      "wus": 949,
       "name": "GondolaLikesToWalk",
       "rank": 64122,
-      "credit": 17184100,
+      "credit": 17283543,
       "team": 212997,
       "id": 73380256
+    },
+    {
+      "wus": 1389,
+      "name": "Aisteru",
+      "rank": 64057,
+      "credit": 17221842,
+      "team": 212997,
+      "id": 278446
     },
     {
       "wus": 4581,
@@ -3058,6 +3058,14 @@
       "id": 258833
     },
     {
+      "wus": 152,
+      "name": "Bloody_Lyra",
+      "rank": 187137,
+      "credit": 2132837,
+      "team": 212997,
+      "id": 67116351
+    },
+    {
       "wus": 428,
       "name": "PonyGrove",
       "rank": 188297,
@@ -3072,14 +3080,6 @@
       "credit": 2125373,
       "team": 212997,
       "id": 196274
-    },
-    {
-      "wus": 151,
-      "name": "Bloody_Lyra",
-      "rank": 187137,
-      "credit": 2113224,
-      "team": 212997,
-      "id": 67116351
     },
     {
       "wus": 665,
@@ -7991,10 +7991,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-03-12 03:26:03",
+  "last": "2021-03-12 04:15:59",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 29180343836,
+  "credit": 29180712855,
   "team": 212997,
   "path": "team/212997"
 }
