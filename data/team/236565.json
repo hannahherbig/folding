@@ -1,5 +1,5 @@
 {
-  "wus": 54358,
+  "wus": 54359,
   "donors": [
     {
       "wus": 1444,
@@ -90,10 +90,10 @@
       "id": 72190689
     },
     {
-      "wus": 1409,
+      "wus": 1410,
       "name": "bbigras",
       "rank": 123099,
-      "credit": 5415539,
+      "credit": 5416789,
       "team": 236565,
       "id": 64789969
     },
@@ -934,15 +934,15 @@
     }
   ],
   "rank": 1129,
-  "total_teams": 225488,
+  "total_teams": 225489,
   "active_50": 12,
   "logo": "https://nixos.org/logo/nix-wiki.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=236565&type=wus",
   "credit_cert": "https://apps.foldingathome.org/awards?team=236565&type=score",
-  "last": "2021-03-13 12:16:08",
+  "last": "2021-03-13 12:45:53",
   "name": "NixOS",
   "url": "https://nixos.org/",
-  "credit": 592950151,
+  "credit": 592951401,
   "team": 236565,
   "path": "team/236565"
 }
