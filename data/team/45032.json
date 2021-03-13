@@ -1,5 +1,5 @@
 {
-  "wus": 1386513,
+  "wus": 1386518,
   "donors": [
     {
       "wus": 33399,
@@ -202,10 +202,10 @@
       "id": 73468023
     },
     {
-      "wus": 5074,
+      "wus": 5075,
       "name": "Marcus_Mietz",
       "rank": 13627,
-      "credit": 132215575,
+      "credit": 132235266,
       "team": 45032,
       "id": 69174608
     },
@@ -650,10 +650,10 @@
       "id": 73451435
     },
     {
-      "wus": 1196,
+      "wus": 1197,
       "name": "TemperanceFlare",
       "rank": 6861,
-      "credit": 45972387,
+      "credit": 45986623,
       "team": 45032,
       "id": 168831
     },
@@ -1314,10 +1314,10 @@
       "id": 192598
     },
     {
-      "wus": 4022,
+      "wus": 4023,
       "name": "oldrocker99",
       "rank": 64254,
-      "credit": 17159579,
+      "credit": 17193747,
       "team": 45032,
       "id": 685449
     },
@@ -1450,20 +1450,20 @@
       "id": 110216
     },
     {
+      "wus": 1326,
+      "name": "cmbroth",
+      "rank": 65731,
+      "credit": 15418532,
+      "team": 45032,
+      "id": 125795018
+    },
+    {
       "wus": 373,
       "name": "freezypop",
       "rank": 64670,
       "credit": 15397806,
       "team": 45032,
       "id": 138803
-    },
-    {
-      "wus": 1325,
-      "name": "cmbroth",
-      "rank": 65731,
-      "credit": 15381964,
-      "team": 45032,
-      "id": 125795018
     },
     {
       "wus": 232,
@@ -2434,10 +2434,10 @@
       "id": 72731352
     },
     {
-      "wus": 731,
+      "wus": 732,
       "name": "FaeFeyFa",
       "rank": 113753,
-      "credit": 6322219,
+      "credit": 6333734,
       "team": 45032,
       "id": 407360379
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-13 08:15:54",
+  "last": "2021-03-13 08:35:53",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18713317317,
+  "credit": 18713433495,
   "team": 45032,
   "path": "team/45032"
 }
