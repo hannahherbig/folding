@@ -1,5 +1,5 @@
 {
-  "wus": 1734942,
+  "wus": 1734946,
   "donors": [
     {
       "wus": 85678,
@@ -82,10 +82,10 @@
       "id": 79012
     },
     {
-      "wus": 2648,
+      "wus": 2649,
       "name": "Rosefinch",
       "rank": 2971,
-      "credit": 554041453,
+      "credit": 554272666,
       "team": 212997,
       "id": 353337
     },
@@ -434,10 +434,10 @@
       "id": 111662
     },
     {
-      "wus": 3114,
+      "wus": 3115,
       "name": "CycloneDusk",
       "rank": 24392,
-      "credit": 66281627,
+      "credit": 66284937,
       "team": 212997,
       "id": 69005220
     },
@@ -1482,10 +1482,10 @@
       "id": 335424
     },
     {
-      "wus": 461,
+      "wus": 462,
       "name": "Micheo",
       "rank": 53467,
-      "credit": 11823698,
+      "credit": 11833803,
       "team": 212997,
       "id": 790263
     },
@@ -2802,20 +2802,20 @@
       "id": 336402
     },
     {
+      "wus": 607,
+      "name": "ElectricErger",
+      "rank": 173716,
+      "credit": 2617283,
+      "team": 212997,
+      "id": 167820
+    },
+    {
       "wus": 662,
       "name": "Biglulu",
       "rank": 172601,
       "credit": 2605330,
       "team": 212997,
       "id": 129829
-    },
-    {
-      "wus": 606,
-      "name": "ElectricErger",
-      "rank": 173716,
-      "credit": 2604343,
-      "team": 212997,
-      "id": 167820
     },
     {
       "wus": 523,
@@ -7991,10 +7991,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-03-13 06:46:02",
+  "last": "2021-03-13 07:26:00",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 29194535251,
+  "credit": 29194792819,
   "team": 212997,
   "path": "team/212997"
 }
