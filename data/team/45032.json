@@ -1,5 +1,5 @@
 {
-  "wus": 1386788,
+  "wus": 1386800,
   "donors": [
     {
       "wus": 33399,
@@ -18,10 +18,10 @@
       "id": 11268
     },
     {
-      "wus": 5340,
+      "wus": 5341,
       "name": "icantthinkofaname",
       "rank": 1986,
-      "credit": 793668264,
+      "credit": 794007008,
       "team": 45032,
       "id": 76200050
     },
@@ -74,10 +74,10 @@
       "id": 76217855
     },
     {
-      "wus": 2480,
+      "wus": 2483,
       "name": "jose.angel.soler.ortiz",
       "rank": 5303,
-      "credit": 318705772,
+      "credit": 319068715,
       "team": 45032,
       "id": 132010172
     },
@@ -178,10 +178,10 @@
       "id": 6516
     },
     {
-      "wus": 12635,
+      "wus": 12636,
       "name": "GuyMartin",
       "rank": 11814,
-      "credit": 144293995,
+      "credit": 144301055,
       "team": 45032,
       "id": 1279891
     },
@@ -218,10 +218,10 @@
       "id": 263445
     },
     {
-      "wus": 5172,
+      "wus": 5173,
       "name": "Tullo_x86",
       "rank": 15214,
-      "credit": 116167213,
+      "credit": 116173325,
       "team": 45032,
       "id": 68966340
     },
@@ -274,10 +274,10 @@
       "id": 69012313
     },
     {
-      "wus": 1821,
+      "wus": 1822,
       "name": "RasmusSteen",
       "rank": 18332,
-      "credit": 94441257,
+      "credit": 94459017,
       "team": 45032,
       "id": 400503878
     },
@@ -338,10 +338,10 @@
       "id": 1448013
     },
     {
-      "wus": 896,
+      "wus": 897,
       "name": "LMB",
       "rank": 20315,
-      "credit": 81309350,
+      "credit": 81357746,
       "team": 45032,
       "id": 139638
     },
@@ -1154,20 +1154,20 @@
       "id": 3901268
     },
     {
+      "wus": 372,
+      "name": "aufkrawall",
+      "rank": 46305,
+      "credit": 20275702,
+      "team": 45032,
+      "id": 258497
+    },
+    {
       "wus": 557,
       "name": "turmoni",
       "rank": 58120,
       "credit": 20140470,
       "team": 45032,
       "id": 68433695
-    },
-    {
-      "wus": 371,
-      "name": "aufkrawall",
-      "rank": 46305,
-      "credit": 20091541,
-      "team": 45032,
-      "id": 258497
     },
     {
       "wus": 2911,
@@ -3282,10 +3282,10 @@
       "id": 67543581
     },
     {
-      "wus": 4561,
+      "wus": 4562,
       "name": "trapanator",
       "rank": 147434,
-      "credit": 3720056,
+      "credit": 3720922,
       "team": 45032,
       "id": 25950
     },
@@ -3946,6 +3946,14 @@
       "id": 974262
     },
     {
+      "wus": 1917,
+      "name": "out9",
+      "rank": 171135,
+      "credit": 2679292,
+      "team": 45032,
+      "id": 78325878
+    },
+    {
       "wus": 1136,
       "name": "alorl30",
       "rank": 170472,
@@ -3960,14 +3968,6 @@
       "credit": 2671418,
       "team": 45032,
       "id": 135315
-    },
-    {
-      "wus": 1916,
-      "name": "out9",
-      "rank": 171135,
-      "credit": 2659817,
-      "team": 45032,
-      "id": 78325878
     },
     {
       "wus": 528,
@@ -6202,20 +6202,20 @@
       "id": 770722
     },
     {
+      "wus": 525,
+      "name": "Leinad1996",
+      "rank": 256162,
+      "credit": 973314,
+      "team": 45032,
+      "id": 68433975
+    },
+    {
       "wus": 2828,
       "name": "Raymii",
       "rank": 218831,
       "credit": 971227,
       "team": 45032,
       "id": 63898
-    },
-    {
-      "wus": 524,
-      "name": "Leinad1996",
-      "rank": 256162,
-      "credit": 970398,
-      "team": 45032,
-      "id": 68433975
     },
     {
       "wus": 1455,
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-14 01:06:51",
+  "last": "2021-03-14 01:46:05",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18726521055,
+  "credit": 18727509488,
   "team": 45032,
   "path": "team/45032"
 }
