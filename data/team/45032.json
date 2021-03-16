@@ -1,5 +1,5 @@
 {
-  "wus": 1387714,
+  "wus": 1387716,
   "donors": [
     {
       "wus": 33399,
@@ -74,10 +74,10 @@
       "id": 76217855
     },
     {
-      "wus": 2537,
+      "wus": 2538,
       "name": "jose.angel.soler.ortiz",
       "rank": 5167,
-      "credit": 328435633,
+      "credit": 328659450,
       "team": 45032,
       "id": 132010172
     },
@@ -4874,10 +4874,10 @@
       "id": 351202477
     },
     {
-      "wus": 688,
+      "wus": 689,
       "name": "superboringdev",
       "rank": 208597,
-      "credit": 1671908,
+      "credit": 1674008,
       "team": 45032,
       "id": 66594151
     },
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-16 10:16:12",
+  "last": "2021-03-16 10:26:09",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18782504563,
+  "credit": 18782730480,
   "team": 45032,
   "path": "team/45032"
 }
