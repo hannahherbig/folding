@@ -1,5 +1,5 @@
 {
-  "wus": 1387545,
+  "wus": 1387549,
   "donors": [
     {
       "wus": 33399,
@@ -74,10 +74,10 @@
       "id": 76217855
     },
     {
-      "wus": 2527,
+      "wus": 2528,
       "name": "jose.angel.soler.ortiz",
       "rank": 5200,
-      "credit": 326647333,
+      "credit": 326756931,
       "team": 45032,
       "id": 132010172
     },
@@ -266,10 +266,10 @@
       "id": 85810117
     },
     {
-      "wus": 1844,
+      "wus": 1845,
       "name": "RasmusSteen",
       "rank": 18147,
-      "credit": 96020246,
+      "credit": 96077725,
       "team": 45032,
       "id": 400503878
     },
@@ -2418,10 +2418,10 @@
       "id": 65123614
     },
     {
-      "wus": 739,
+      "wus": 740,
       "name": "FaeFeyFa",
       "rank": 112722,
-      "credit": 6458327,
+      "credit": 6473881,
       "team": 45032,
       "id": 407360379
     },
@@ -3082,20 +3082,20 @@
       "id": 1499446
     },
     {
+      "wus": 1098,
+      "name": "gildoferrucio",
+      "rank": 140868,
+      "credit": 4126468,
+      "team": 45032,
+      "id": 71099412
+    },
+    {
       "wus": 724,
       "name": "DJh2o2",
       "rank": 140867,
       "credit": 4119109,
       "team": 45032,
       "id": 69187110
-    },
-    {
-      "wus": 1097,
-      "name": "gildoferrucio",
-      "rank": 140868,
-      "credit": 4119060,
-      "team": 45032,
-      "id": 71099412
     },
     {
       "wus": 43,
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-16 01:15:59",
+  "last": "2021-03-16 01:35:59",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18773622555,
+  "credit": 18773812594,
   "team": 45032,
   "path": "team/45032"
 }
