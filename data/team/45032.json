@@ -1,5 +1,5 @@
 {
-  "wus": 1387777,
+  "wus": 1387778,
   "donors": [
     {
       "wus": 33399,
@@ -3306,6 +3306,14 @@
       "id": 195212
     },
     {
+      "wus": 768,
+      "name": "mental32",
+      "rank": 148440,
+      "credit": 3691097,
+      "team": 45032,
+      "id": 381853742
+    },
+    {
       "wus": 1532,
       "name": "turnipcannon",
       "rank": 83761,
@@ -3320,14 +3328,6 @@
       "credit": 3685610,
       "team": 45032,
       "id": 71268475
-    },
-    {
-      "wus": 767,
-      "name": "mental32",
-      "rank": 148440,
-      "credit": 3678152,
-      "team": 45032,
-      "id": 381853742
     },
     {
       "wus": 650,
@@ -8009,10 +8009,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-17 00:36:00",
+  "last": "2021-03-17 00:45:57",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18797360114,
+  "credit": 18797373059,
   "team": 45032,
   "path": "team/45032"
 }
