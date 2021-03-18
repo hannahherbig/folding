@@ -1,5 +1,5 @@
 {
-  "wus": 1736296,
+  "wus": 1736307,
   "donors": [
     {
       "wus": 85678,
@@ -82,10 +82,10 @@
       "id": 79012
     },
     {
-      "wus": 2698,
+      "wus": 2700,
       "name": "Rosefinch",
       "rank": 2943,
-      "credit": 565709671,
+      "credit": 566172733,
       "team": 212997,
       "id": 353337
     },
@@ -114,10 +114,10 @@
       "id": 25596
     },
     {
-      "wus": 4561,
+      "wus": 4565,
       "name": "Blazingcurent",
       "rank": 4961,
-      "credit": 366427008,
+      "credit": 366769850,
       "team": 212997,
       "id": 72800445
     },
@@ -306,10 +306,10 @@
       "id": 188554
     },
     {
-      "wus": 2037,
+      "wus": 2038,
       "name": "Naga",
       "rank": 17672,
-      "credit": 99117348,
+      "credit": 99197823,
       "team": 212997,
       "id": 84291
     },
@@ -322,10 +322,10 @@
       "id": 190569
     },
     {
-      "wus": 3621,
+      "wus": 3622,
       "name": "IronyDragon",
       "rank": 18342,
-      "credit": 90435492,
+      "credit": 90489892,
       "team": 212997,
       "id": 279471
     },
@@ -738,10 +738,10 @@
       "id": 104588
     },
     {
-      "wus": 4575,
+      "wus": 4576,
       "name": "Bikerbob1016",
       "rank": 37350,
-      "credit": 38041826,
+      "credit": 38043056,
       "team": 212997,
       "id": 57894
     },
@@ -1434,12 +1434,20 @@
       "id": 181657
     },
     {
-      "wus": 1102,
+      "wus": 1103,
       "name": "shado_jaguar",
       "rank": 77787,
-      "credit": 12604308,
+      "credit": 12607618,
       "team": 212997,
       "id": 184112
+    },
+    {
+      "wus": 2749,
+      "name": "Astatine210",
+      "rank": 78130,
+      "credit": 12563003,
+      "team": 212997,
+      "id": 118970683
     },
     {
       "wus": 1660,
@@ -1448,14 +1456,6 @@
       "credit": 12532610,
       "team": 212997,
       "id": 179671
-    },
-    {
-      "wus": 2748,
-      "name": "Astatine210",
-      "rank": 78130,
-      "credit": 12528124,
-      "team": 212997,
-      "id": 118970683
     },
     {
       "wus": 496,
@@ -7985,16 +7985,16 @@
     }
   ],
   "rank": 54,
-  "total_teams": 225503,
+  "total_teams": 225504,
   "active_50": 219,
   "logo": "http://www.brony.team/images/BAHlarge.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-03-18 12:15:58",
+  "last": "2021-03-18 13:16:08",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 29272310067,
+  "credit": 29273290265,
   "team": 212997,
   "path": "team/212997"
 }
