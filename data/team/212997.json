@@ -1,5 +1,5 @@
 {
-  "wus": 1736208,
+  "wus": 1736218,
   "donors": [
     {
       "wus": 85678,
@@ -146,10 +146,10 @@
       "id": 259489
     },
     {
-      "wus": 5746,
+      "wus": 5747,
       "name": "Chronophaser",
       "rank": 7588,
-      "credit": 249099394,
+      "credit": 249235219,
       "team": 212997,
       "id": 69517169
     },
@@ -306,10 +306,10 @@
       "id": 188554
     },
     {
-      "wus": 2036,
+      "wus": 2037,
       "name": "Naga",
       "rank": 17672,
-      "credit": 99067883,
+      "credit": 99117348,
       "team": 212997,
       "id": 84291
     },
@@ -538,10 +538,10 @@
       "id": 138619
     },
     {
-      "wus": 3402,
+      "wus": 3403,
       "name": "CyberFoxx",
       "rank": 25619,
-      "credit": 53287406,
+      "credit": 53299193,
       "team": 212997,
       "id": 34478
     },
@@ -562,10 +562,10 @@
       "id": 182155
     },
     {
-      "wus": 3186,
+      "wus": 3187,
       "name": "Fusl",
       "rank": 30327,
-      "credit": 50450197,
+      "credit": 50456225,
       "team": 212997,
       "id": 102092
     },
@@ -738,10 +738,10 @@
       "id": 104588
     },
     {
-      "wus": 4573,
+      "wus": 4575,
       "name": "Bikerbob1016",
       "rank": 37360,
-      "credit": 38005697,
+      "credit": 38041826,
       "team": 212997,
       "id": 57894
     },
@@ -1106,10 +1106,10 @@
       "id": 181567
     },
     {
-      "wus": 986,
+      "wus": 988,
       "name": "GondolaLikesToWalk",
       "rank": 61213,
-      "credit": 18601760,
+      "credit": 18644464,
       "team": 212997,
       "id": 73380256
     },
@@ -2690,10 +2690,10 @@
       "id": 335771
     },
     {
-      "wus": 191,
+      "wus": 192,
       "name": "Bloody_Lyra",
       "rank": 164512,
-      "credit": 2892686,
+      "credit": 2927381,
       "team": 212997,
       "id": 67116351
     },
@@ -3410,20 +3410,20 @@
       "id": 12759725
     },
     {
+      "wus": 306,
+      "name": "Lirleni",
+      "rank": 209322,
+      "credit": 1649818,
+      "team": 212997,
+      "id": 228496540
+    },
+    {
       "wus": 119,
       "name": "TorqueEffect",
       "rank": 202786,
       "credit": 1646990,
       "team": 212997,
       "id": 180556
-    },
-    {
-      "wus": 305,
-      "name": "Lirleni",
-      "rank": 209322,
-      "credit": 1646435,
-      "team": 212997,
-      "id": 228496540
     },
     {
       "wus": 1290,
@@ -7991,10 +7991,10 @@
   "wus_cert": "https://apps.foldingathome.org/awards?team=212997&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team212997.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=212997&type=score",
-  "last": "2021-03-18 03:36:02",
+  "last": "2021-03-18 04:16:08",
   "name": "Brony@Home",
   "url": "http://www.brony.team",
-  "credit": 29267589318,
+  "credit": 29267909334,
   "team": 212997,
   "path": "team/212997"
 }
