@@ -1,5 +1,5 @@
 {
-  "wus": 1388507,
+  "wus": 1388512,
   "donors": [
     {
       "wus": 33399,
@@ -18,10 +18,10 @@
       "id": 11268
     },
     {
-      "wus": 5491,
+      "wus": 5492,
       "name": "icantthinkofaname",
       "rank": 1925,
-      "credit": 826252753,
+      "credit": 826570990,
       "team": 45032,
       "id": 76200050
     },
@@ -114,10 +114,10 @@
       "id": 772799
     },
     {
-      "wus": 63013,
+      "wus": 63014,
       "name": "Anonymous",
       "rank": 1,
-      "credit": 175121036,
+      "credit": 175146036,
       "team": 45032,
       "id": 1437
     },
@@ -170,10 +170,10 @@
       "id": 258295
     },
     {
-      "wus": 12697,
+      "wus": 12698,
       "name": "GuyMartin",
       "rank": 11789,
-      "credit": 145875870,
+      "credit": 145883155,
       "team": 45032,
       "id": 1279891
     },
@@ -266,10 +266,10 @@
       "id": 85810117
     },
     {
-      "wus": 1883,
+      "wus": 1884,
       "name": "RasmusSteen",
       "rank": 17855,
-      "credit": 98332233,
+      "credit": 98389790,
       "team": 45032,
       "id": 400503878
     },
@@ -634,10 +634,10 @@
       "id": 65219023
     },
     {
-      "wus": 1227,
+      "wus": 1228,
       "name": "TemperanceFlare",
       "rank": 6881,
-      "credit": 47575898,
+      "credit": 47576542,
       "team": 45032,
       "id": 168831
     },
@@ -8004,15 +8004,15 @@
   ],
   "rank": 82,
   "total_teams": 225508,
-  "active_50": 538,
+  "active_50": 537,
   "logo": "http://bbs.archlinux.org/img/titlelogo.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=45032&type=wus",
   "fast_team_url": "https://apps.foldingathome.org/teamstats/team45032.html",
   "credit_cert": "https://apps.foldingathome.org/awards?team=45032&type=score",
-  "last": "2021-03-18 21:45:59",
+  "last": "2021-03-18 22:06:01",
   "name": "Arch Linux",
   "url": "http://www.archlinux.org/",
-  "credit": 18839699543,
+  "credit": 18840108266,
   "team": 45032,
   "path": "team/45032"
 }
