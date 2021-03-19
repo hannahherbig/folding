@@ -1,5 +1,5 @@
 {
-  "wus": 54449,
+  "wus": 54450,
   "donors": [
     {
       "wus": 1444,
@@ -10,10 +10,10 @@
       "id": 74368715
     },
     {
-      "wus": 710,
+      "wus": 711,
       "name": "Cumber",
       "rank": 18451,
-      "credit": 94533876,
+      "credit": 94764880,
       "team": 236565,
       "id": 68714345
     },
@@ -934,15 +934,15 @@
     }
   ],
   "rank": 1128,
-  "total_teams": 225512,
+  "total_teams": 225513,
   "active_50": 11,
   "logo": "https://nixos.org/logo/nix-wiki.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=236565&type=wus",
   "credit_cert": "https://apps.foldingathome.org/awards?team=236565&type=score",
-  "last": "2021-03-19 15:06:12",
+  "last": "2021-03-19 15:46:12",
   "name": "NixOS",
   "url": "https://nixos.org/",
-  "credit": 601106867,
+  "credit": 601337871,
   "team": 236565,
   "path": "team/236565"
 }
