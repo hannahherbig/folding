@@ -1,5 +1,5 @@
 {
-  "wus": 54436,
+  "wus": 54437,
   "donors": [
     {
       "wus": 1444,
@@ -122,10 +122,10 @@
       "id": 64654306
     },
     {
-      "wus": 1682,
+      "wus": 1683,
       "name": "psophis",
       "rank": 173972,
-      "credit": 2584765,
+      "credit": 2588075,
       "team": 236565,
       "id": 146999483
     },
@@ -939,10 +939,10 @@
   "logo": "https://nixos.org/logo/nix-wiki.png",
   "wus_cert": "https://apps.foldingathome.org/awards?team=236565&type=wus",
   "credit_cert": "https://apps.foldingathome.org/awards?team=236565&type=score",
-  "last": "2021-03-18 22:46:10",
+  "last": "2021-03-19 01:26:11",
   "name": "NixOS",
   "url": "https://nixos.org/",
-  "credit": 599755659,
+  "credit": 599758969,
   "team": 236565,
   "path": "team/236565"
 }
