@@ -18,4 +18,4 @@ do
     curl -s https://stats.foldingathome.org/api/$path | jq 'del(.total_users)' > temp.json && mv temp.json $out.json || true
 done
 
-rm temp.json
+rm temp.json || true
