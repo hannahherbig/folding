@@ -96,7 +96,7 @@ license = ["editdistance"]
 
 [[package]]
 name = "more-itertools"
-version = "8.8.0"
+version = "8.11.0"
 description = "More routines for operating on iterables, beyond itertools"
 category = "main"
 optional = false
@@ -245,7 +245,7 @@ testing = ["coverage (>=4)", "coverage-enable-subprocess (>=1)", "flaky (>=3)", 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "b6f025cbbffb464177e00c0d79d7a81e7c1f761f74a1d50e081838d46b5f50a9"
+content-hash = "1325a3feba25d0511b5b0f2174fd4ab64ce2d5ac0d1f8803fdb0305a50297aa5"
 
 [metadata.files]
 appdirs = [
@@ -285,8 +285,8 @@ identify = [
     {file = "identify-1.5.10.tar.gz", hash = "sha256:943cd299ac7f5715fcb3f684e2fc1594c1e0f22a90d15398e5888143bd4144b5"},
 ]
 more-itertools = [
-    {file = "more-itertools-8.8.0.tar.gz", hash = "sha256:83f0308e05477c68f56ea3a888172c78ed5d5b3c282addb67508e7ba6c8f813a"},
-    {file = "more_itertools-8.8.0-py3-none-any.whl", hash = "sha256:2cf89ec599962f2ddc4d568a05defc40e0a587fbc10d5989713638864c36be4d"},
+    {file = "more-itertools-8.11.0.tar.gz", hash = "sha256:0a2fd25d343c08d7e7212071820e7e7ea2f41d8fb45d6bc8a00cd6ce3b7aab88"},
+    {file = "more_itertools-8.11.0-py3-none-any.whl", hash = "sha256:88afff98d83d08fe5e4049b81e2b54c06ebb6b3871a600040865c7a592061cbb"},
 ]
 mypy-extensions = [
     {file = "mypy_extensions-0.4.3-py2.py3-none-any.whl", hash = "sha256:090fedd75945a69ae91ce1303b5824f428daf5a028d2f6ab8a299250a846f15d"},
