@@ -13,7 +13,7 @@ tabulate = "^0.8.9"
 pre-commit = "^2.13.0"
 
 [tool.poetry.dev-dependencies]
-black = "^21.10b0"
+black = "^22.8"
 
 [tool.isort]
 multi_line_output = 3
