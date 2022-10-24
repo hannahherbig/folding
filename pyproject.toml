@@ -7,7 +7,7 @@ authors = ["Andrew Herbig <notandrewherbig@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 GitPython = "^3.1.27"
-more-itertools = "^8.11.0"
+more-itertools = "^9.0.0"
 pydantic = "^1.8.2"
 tabulate = "^0.8.9"
 pre-commit = "^2.13.0"
